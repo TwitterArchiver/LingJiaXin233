@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048220105654571008"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2048220113007263961",
+    "created_at": "2026-04-26T01:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048220113007263961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lz0LQJs4gv",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2048220113007263961/photo/1",
+          "media_key": "3_2048220105654571008",
+          "start": 13,
+          "url": "https://t.co/Lz0LQJs4gv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048220113007263961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以“爱”的定义是什么？ https://t.co/Lz0LQJs4gv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2048220105654571008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGy9VYtakAAN5yk.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048220105654571008"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2048220113007263961",
+        "created_at": "2026-04-26T01:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048220113007263961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz0LQJs4gv",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2048220113007263961/photo/1",
+              "media_key": "3_2048220105654571008",
+              "start": 13,
+              "url": "https://t.co/Lz0LQJs4gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048220113007263961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以“爱”的定义是什么？ https://t.co/Lz0LQJs4gv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 619,
+          "like_count": 15034,
+          "listed_count": 9,
+          "media_count": 937,
+          "tweet_count": 3864
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

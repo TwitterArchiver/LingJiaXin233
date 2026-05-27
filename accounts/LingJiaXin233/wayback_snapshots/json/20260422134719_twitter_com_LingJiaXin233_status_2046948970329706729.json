@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2046628320125886750",
+    "created_at": "2026-04-22T13:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046948970329706729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046948970329706729",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046628320125886750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 细嗦最后的狂欢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2046628320125886750",
+        "created_at": "2026-04-22T13:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046948970329706729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046948970329706729",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046628320125886750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 细嗦最后的狂欢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "2046628320125886750",
+        "created_at": "2026-04-21T16:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046628320125886750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046628320125886750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "总算于昨天开始了HRT。🫠\n\n服用了半粒比卡鲁胺后、\n基本上没有任何不良反应。🧐\n\n能跑能跳、呼吸正常、心跳正常。\n没有异常的痛楚。🙂\n\n就只是睪丸稍微出现了些极微的麻痹感。\n但无法得知麻痹感的出现是否因为比卡鲁胺。\n还是因为HRT的最后一天、\n于「最后的狂欢」中玩过火了所导致的。\n这就不得而知了。🫠\n\n接下来会持续跟进身体状况。😉"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 318,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总算于昨天开始了HRT。🫠\n\n服用了半粒比卡鲁胺后、\n基本上没有任何不良反应。🧐\n\n能跑能跳、呼吸正常、心跳正常。\n没有异常的痛楚。🙂\n\n就只是睪丸稍微出现了些极微的麻痹感。\n但无法得知麻痹感的出现是否因为比卡鲁胺。\n还是因为HRT的最后一天、\n于「最后的狂欢」中玩过火了所导致的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3174,
+          "following_count": 597,
+          "like_count": 14680,
+          "listed_count": 9,
+          "media_count": 872,
+          "tweet_count": 3758
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "日本在住😶｜♂️？｜観察者であり👁‍🗨\nそれぞれの情報を発信💻｜一応クリエイター（創作者）\n#Vtuber #個人勢｜HRT計画中｜TBI+C-PTSD\n投資再検討中😇｜お仕事募集中💲\nゲーム、遊戲｜サプリメント、營養補充品相關🥦\nlanguage：🇭🇰🇨🇳🇹🇼🇯🇵🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "個人勢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 0,
+                "url": "https://t.co/48vTFODmRs"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "location": "日本",
+        "name": "班目望 (Madarame Nozomi)",
+        "pinned_tweet_id": "2031611137654141054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1663,
+          "like_count": 15878,
+          "listed_count": 3,
+          "media_count": 1061,
+          "tweet_count": 6592
+        },
+        "url": "https://t.co/48vTFODmRs",
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

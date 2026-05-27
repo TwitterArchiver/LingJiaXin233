@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054632385715855678",
+    "created_at": "2026-05-13T23:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T00:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054712281016213945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "33853845",
+          "start": 0,
+          "username": "luoyonghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054712281016213945",
+    "in_reply_to_user_id": "33853845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054632385715855678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyonghao 罗老师来不来蓝v互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054632385715855678",
+        "created_at": "2026-05-13T23:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054712281016213945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "33853845",
+              "start": 0,
+              "username": "luoyonghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054712281016213945",
+        "in_reply_to_user_id": "33853845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054632385715855678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyonghao 罗老师来不来蓝v互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054632383836819456"
+          ]
+        },
+        "author_id": "33853845",
+        "conversation_id": "2054632385715855678",
+        "created_at": "2026-05-13T18:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054632385715855678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054632385715855678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 52328,
+          "like_count": 90,
+          "quote_count": 6,
+          "reply_count": 341,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "请问大家来自东半球还是西半球？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 679,
+          "like_count": 16639,
+          "listed_count": 11,
+          "media_count": 1404,
+          "tweet_count": 4469
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-21T08:46:14.000Z",
+        "description": "",
+        "id": "33853845",
+        "name": "罗永浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054323238222893056/07lhgw6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197245,
+          "following_count": 30,
+          "like_count": 6,
+          "listed_count": 1207,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "luoyonghao",
+        "verified": true
+      }
+    ]
+  }
+}

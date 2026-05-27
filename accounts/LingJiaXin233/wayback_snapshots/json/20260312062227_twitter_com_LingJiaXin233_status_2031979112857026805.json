@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031979105688961027"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2031979112857026805",
+    "created_at": "2026-03-12T06:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T07:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031979112857026805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7JFvrKs8R",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2031979112857026805/photo/1",
+          "media_key": "3_2031979105688961027",
+          "start": 13,
+          "url": "https://t.co/J7JFvrKs8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031979112857026805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么雷霆歌词和雷霆翻译？ https://t.co/J7JFvrKs8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_2031979105688961027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMKOxGbQAMusze.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031979105688961027"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2031979112857026805",
+        "created_at": "2026-03-12T06:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031979112857026805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7JFvrKs8R",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2031979112857026805/photo/1",
+              "media_key": "3_2031979105688961027",
+              "start": 13,
+              "url": "https://t.co/J7JFvrKs8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031979112857026805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么雷霆歌词和雷霆翻译？ https://t.co/J7JFvrKs8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 853,
+          "like_count": 9631,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 2672
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

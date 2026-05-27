@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052368484441686204",
+    "created_at": "2026-05-07T12:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052368484441686204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041701378905821184",
+          "start": 3,
+          "username": "Shenhaimllw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052368484441686204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052299623956652240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shenhaimllw: 宝贝们：我来发个福利\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括\n1.产品💊4-ho-met一颗（折现15U）\n2.产品💊💊4-ho-met两颗（折现30U）\n\n总共抽10个人/满足要求即有中奖机会/本周六晚12点兑奖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052368484441686204",
+        "created_at": "2026-05-07T12:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052368484441686204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041701378905821184",
+              "start": 3,
+              "username": "Shenhaimllw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052368484441686204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052299623956652240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shenhaimllw: 宝贝们：我来发个福利\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括\n1.产品💊4-ho-met一颗（折现15U）\n2.产品💊💊4-ho-met两颗（折现30U）\n\n总共抽10个人/满足要求即有中奖机会/本周六晚12点兑奖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041701378905821184",
+        "conversation_id": "2052299623956652240",
+        "created_at": "2026-05-07T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052299623956652240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052299623956652240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 649,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝们：我来发个福利\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括\n1.产品💊4-ho-met一颗（折现15U）\n2.产品💊💊4-ho-met两颗（折现30U）\n\n总共抽10个人/满足要求即有中奖机会/本周六晚12点兑奖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 671,
+          "like_count": 16055,
+          "listed_count": 12,
+          "media_count": 1221,
+          "tweet_count": 4233
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T02:16:14.000Z",
+        "description": "诚信第一///个人✈️ https://t.co/C3Bcwk8OUO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan99555",
+                "end": 35,
+                "expanded_url": "https://t.me/anan99555",
+                "start": 12,
+                "url": "https://t.co/C3Bcwk8OUO"
+              }
+            ]
+          }
+        },
+        "id": "2041701378905821184",
+        "location": "神奇效果-抗抑郁",
+        "name": "4-ho-楠老师/化学合成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041701770297274368/fXAKwl4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 195,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 67
+        },
+        "username": "Shenhaimllw",
+        "verified": false
+      }
+    ]
+  }
+}

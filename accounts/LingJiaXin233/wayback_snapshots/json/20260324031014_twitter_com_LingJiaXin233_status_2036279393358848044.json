@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2036117575604867075",
+    "created_at": "2026-03-24T03:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036279393358848044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036279393358848044",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036117575604867075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 润加麻大🤓￼😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2036117575604867075",
+        "created_at": "2026-03-24T03:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036279393358848044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036279393358848044",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036117575604867075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 润加麻大🤓￼😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "2036117575604867075",
+        "created_at": "2026-03-23T16:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036117575604867075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036117575604867075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于跨性别人士或是任何少数群体。🧐\n\n要是让我建言一句半句的话：\n\n润之则吉！ ！🫠\n\n就以跨性别群体而言的话、\n在国内、首先是相关资源极其欠乏、又良莠不齐。\n而且国内大家普遍对了跨性别又不理解。😔\n\n时常出现家中长辈与跨儿互撕到底的局面。😰\n\n买个药物又难、找药商随时又可能爆雷、\n开个证又要千辛万苦。🤮\n\n最糟的是三五不时会被抓进去扭转机构。😱\n\n以上种种、找个国家润掉的话、\n方可逃避上述约八成问题了。 （看去什么国家吧。）\n\n总而言之、各位做好计划吧。🫠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于跨性别人士或是任何少数群体。🧐\n\n要是让我建言一句半句的话：\n\n润之则吉！ ！🫠\n\n就以跨性别群体而言的话、\n在国内、首先是相关资源极其欠乏、又良莠不齐。\n而且国内大家普遍对了跨性别又不理解。😔\n\n时常出现家中长辈与跨儿互撕到底的局面。😰\n\n买个药物又难、找药商随时又可能爆雷、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 907,
+          "like_count": 10212,
+          "listed_count": 6,
+          "media_count": 374,
+          "tweet_count": 2844
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "日本在住😶｜♂️？｜観察者であり👁‍🗨\nそれぞれの情報を発信💻｜一応クリエイター（創作者）\n#Vtuber #個人勢｜HRT計画中｜TBI+C-PTSD\n投資再検討中😇｜お仕事募集中💲\nゲーム、遊戲｜サプリメント、營養補充品相關🥦\nlanguage：🇭🇰🇨🇳🇹🇼🇯🇵🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "個人勢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 0,
+                "url": "https://t.co/48vTFODmRs"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "location": "日本",
+        "name": "班目望 (Madarame Nozomi)",
+        "pinned_tweet_id": "2031611137654141054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1572,
+          "like_count": 13552,
+          "listed_count": 3,
+          "media_count": 899,
+          "tweet_count": 5728
+        },
+        "url": "https://t.co/48vTFODmRs",
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

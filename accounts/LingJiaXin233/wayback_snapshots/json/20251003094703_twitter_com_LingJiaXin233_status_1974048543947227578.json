@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974043866534936719",
+    "created_at": "2025-10-03T09:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974048543947227578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794387376384376832",
+          "start": 0,
+          "username": "Starry_Sand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974048543947227578",
+    "in_reply_to_user_id": "1794387376384376832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974043866534936719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starry_Sand_ 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974043866534936719",
+        "created_at": "2025-10-03T09:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974048543947227578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794387376384376832",
+              "start": 0,
+              "username": "Starry_Sand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974048543947227578",
+        "in_reply_to_user_id": "1794387376384376832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974043866534936719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starry_Sand_ 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794387376384376832",
+        "conversation_id": "1974043866534936719",
+        "created_at": "2025-10-03T09:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974043866534936719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hsgmxz/status/1973642017088709094",
+              "start": 15,
+              "url": "https://t.co/5kQVrhqnLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974043866534936719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973642017088709094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱你们，我想和你们交朋友😢 https://t.co/5kQVrhqnLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 363,
+          "like_count": 4014,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1707
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T15:18:17.000Z",
+        "description": "只是个透明人，并不想把太多时间浪费在推特上。有些PTSD，性情乖僻，热爱宗教历史文化；渴望能去各地朝圣，以体验当地圣教会的特色文化，也希望能体验到不同宗教的魅力。愿生活充满希望变得美好，无关政治吵架且无特别政治立场、无明显意识形态，比较讨厌无用的吵架对线。通常各个时间会不定时地开放与关闭推特空间，为避免打扰，敬请谅解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105927773",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/105927773",
+                "start": 0,
+                "url": "https://t.co/bxMMHQoRSN"
+              }
+            ]
+          }
+        },
+        "id": "1794387376384376832",
+        "location": "中国大陆 UTC+8",
+        "name": "☨̶ 保禄伊纳爵 ♰✝︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972504296404172800/jW3FMyWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 1125,
+          "like_count": 124053,
+          "listed_count": 2,
+          "media_count": 2953,
+          "tweet_count": 15483
+        },
+        "url": "https://t.co/bxMMHQoRSN",
+        "username": "Starry_Sand_",
+        "verified": false
+      }
+    ]
+  }
+}

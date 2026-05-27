@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975116333517099488",
+    "created_at": "2025-10-06T08:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975123216604782998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774017839726276608",
+          "start": 0,
+          "username": "jiangkedou8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975123216604782998",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975122644392620096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangkedou8964 上学了也没时间喷了，爱咋咋地吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975116333517099488",
+        "created_at": "2025-10-06T08:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975123216604782998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774017839726276608",
+              "start": 0,
+              "username": "jiangkedou8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975123216604782998",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975122644392620096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangkedou8964 上学了也没时间喷了，爱咋咋地吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975116333517099488",
+        "created_at": "2025-10-06T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975122644392620096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774017839726276608",
+              "start": 0,
+              "username": "jiangkedou8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975122644392620096",
+        "in_reply_to_user_id": "1774017839726276608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975121823898730559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangkedou8964 嗯嗯！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975122586456699231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 363,
+          "like_count": 4572,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1845
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T10:16:45.000Z",
+        "description": "15岁｜友跨🏳️‍⚧️但不是跨｜坚信生活的美好，保持乐观的态度，要知道革命总是无往不胜的——萨布林｜提问箱https://t.co/RPUPZgL3HP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sipaijiangkedou",
+                "end": 76,
+                "expanded_url": "https://ngl.link/sipaijiangkedou",
+                "start": 53,
+                "url": "https://t.co/RPUPZgL3HP"
+              }
+            ]
+          }
+        },
+        "id": "1774017839726276608",
+        "location": "克里姆林宫",
+        "name": "超级大蝌蚪🇫🇮🇺🇳🇪🇺（新的革命仍在继续）",
+        "pinned_tweet_id": "1974481681051713536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957117745088327680/95wT7iRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 378,
+          "like_count": 1222,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 3382
+        },
+        "username": "jiangkedou8964",
+        "verified": false
+      }
+    ]
+  }
+}

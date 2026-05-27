@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971964093436514310"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1971964110020792638",
+    "created_at": "2025-09-27T15:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T16:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971964110020792638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/65AwvUDdDS",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1971964110020792638/photo/1",
+          "media_key": "3_1971964093436514310",
+          "start": 5,
+          "url": "https://t.co/65AwvUDdDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971964110020792638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两大阵营 https://t.co/65AwvUDdDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1971964093436514310",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13S5SMb0AYjh7e.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971964093436514310"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1971964110020792638",
+        "created_at": "2025-09-27T15:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971964110020792638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65AwvUDdDS",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1971964110020792638/photo/1",
+              "media_key": "3_1971964093436514310",
+              "start": 5,
+              "url": "https://t.co/65AwvUDdDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971964110020792638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两大阵营 https://t.co/65AwvUDdDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 348,
+          "like_count": 3318,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 1437
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

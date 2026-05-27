@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1976156329233481882",
+    "created_at": "2025-10-09T05:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976156329233481882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2410044914",
+          "start": 3,
+          "username": "Web3to888btc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976156329233481882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 815
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975667766800818239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Web3to888btc: 给铁粉们发福利了\n\n这一会印爽了，bsc 狂暴大牛市，这盛世如你所愿，小赚5万刀。\n\n抽一台苹果17 promax 1tb 蓝\n\n点赞评论转发➕关注，说不定抽中的就是你，希望这台手机能让你炒币 “逢低买入 ！”\n\n72小时开，刚刚忘记贴ca，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975667758571626496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2r7W9_aoAA0HUQ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1976156329233481882",
+        "created_at": "2025-10-09T05:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976156329233481882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2410044914",
+              "start": 3,
+              "username": "Web3to888btc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976156329233481882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 815
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975667766800818239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Web3to888btc: 给铁粉们发福利了\n\n这一会印爽了，bsc 狂暴大牛市，这盛世如你所愿，小赚5万刀。\n\n抽一台苹果17 promax 1tb 蓝\n\n点赞评论转发➕关注，说不定抽中的就是你，希望这台手机能让你炒币 “逢低买入 ！”\n\n72小时开，刚刚忘记贴ca，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975667758571626496"
+          ]
+        },
+        "author_id": "2410044914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975667766800818239",
+        "created_at": "2025-10-07T21:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T22:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975667766800818239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtYlK0H9rz",
+              "end": 197,
+              "expanded_url": "https://x.com/Web3to888btc/status/1975667766800818239/photo/1",
+              "media_key": "3_1975667758571626496",
+              "start": 174,
+              "url": "https://t.co/FtYlK0H9rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975667766800818239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 70591,
+          "like_count": 944,
+          "quote_count": 22,
+          "reply_count": 935,
+          "retweet_count": 815
+        },
+        "reply_settings": "everyone",
+        "text": "给铁粉们发福利了\n\n这一会印爽了，bsc 狂暴大牛市，这盛世如你所愿，小赚5万刀。\n\n抽一台苹果17 promax 1tb 蓝\n\n点赞评论转发➕关注，说不定抽中的就是你，希望这台手机能让你炒币 “逢低买入 ！”\n\n72小时开，刚刚忘记贴ca，我这建设的心啊～\n\n0x53812f09f39ff6f63dcfe7a31b5e5fce9e1b4444 https://t.co/FtYlK0H9rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 371,
+          "like_count": 4898,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1921
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-25T04:10:55.000Z",
+        "description": "TG打狗频道：https://t.co/LCUN9oh4U8 打狗我只用Debot：https://t.co/Qu5IlV5gtD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ox888btc",
+                "end": 30,
+                "expanded_url": "https://t.me/ox888btc",
+                "start": 7,
+                "url": "https://t.co/LCUN9oh4U8"
+              },
+              {
+                "display_url": "inv.debot.ai/r/196261?lang=…",
+                "end": 65,
+                "expanded_url": "https://inv.debot.ai/r/196261?lang=zh",
+                "start": 42,
+                "url": "https://t.co/Qu5IlV5gtD"
+              }
+            ]
+          }
+        },
+        "id": "2410044914",
+        "name": "小童🔶BNB",
+        "pinned_tweet_id": "1974092543483949260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971289227158749190/MM_OpF8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8621,
+          "following_count": 969,
+          "like_count": 751,
+          "listed_count": 28,
+          "media_count": 635,
+          "tweet_count": 2305
+        },
+        "username": "Web3to888btc",
+        "verified": true
+      }
+    ]
+  }
+}

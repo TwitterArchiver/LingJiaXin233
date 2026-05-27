@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973585171237757020",
+    "created_at": "2025-10-02T08:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T09:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973660341117788442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 23,
+          "expanded_url": "https://x.com/lingjiaxin233/status/1973646775128072350?s=46",
+          "start": 0,
+          "url": "https://t.co/m6yRpm63eK"
+        },
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 48,
+          "expanded_url": "https://x.com/lingjiaxin233/status/1973646775128072350?s=46",
+          "start": 25,
+          "url": "https://t.co/m6yRpm63eK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973660341117788442",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973646775128072350",
+        "type": "quoted"
+      },
+      {
+        "id": "1973585171237757020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/m6yRpm63eK\n\nhttps://t.co/m6yRpm63eK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973585155488174080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OVPg7bUAAkP0O.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973585155484008448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2OVPg6bwAAVW4E.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973585171237757020",
+        "created_at": "2025-10-02T08:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T09:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973660341117788442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 23,
+              "expanded_url": "https://x.com/lingjiaxin233/status/1973646775128072350?s=46",
+              "start": 0,
+              "url": "https://t.co/m6yRpm63eK"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 48,
+              "expanded_url": "https://x.com/lingjiaxin233/status/1973646775128072350?s=46",
+              "start": 25,
+              "url": "https://t.co/m6yRpm63eK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973660341117788442",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973646775128072350",
+            "type": "quoted"
+          },
+          {
+            "id": "1973585171237757020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/m6yRpm63eK\n\nhttps://t.co/m6yRpm63eK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1973646774184431616"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973646775128072350",
+        "created_at": "2025-10-02T07:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973646775128072350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973646775128072350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "如果一位顺男，不hrt，不rle，而且想要借“mtf”这个身份进行诈骗来和其他真正的mtf发生关系，那这位顺男可以被称为？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973585155488174080",
+            "3_1973585155484008448"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973585171237757020",
+        "created_at": "2025-10-02T03:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T04:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973585171237757020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5OdUBgQHy",
+              "end": 135,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1973585171237757020/photo/1",
+              "media_key": "3_1973585155488174080",
+              "start": 112,
+              "url": "https://t.co/b5OdUBgQHy"
+            },
+            {
+              "display_url": "pic.x.com/b5OdUBgQHy",
+              "end": 135,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1973585171237757020/photo/1",
+              "media_key": "3_1973585155484008448",
+              "start": 112,
+              "url": "https://t.co/b5OdUBgQHy"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/1973333588851695742",
+              "start": 136,
+              "url": "https://t.co/tG1wP7Pt3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973585171237757020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1520,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973333588851695742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我再说最后一遍：我所声讨的是且仅是凉的个人行为，不上升到任何群体，你要感觉自己被伤害了屏蔽我就行\n此外，你要知道他根本不是trans，对我和他对象（trans）的照片自慰，如果你认同凉可以给他发涩图让他天天对着你自慰😇😅😂 https://t.co/b5OdUBgQHy https://t.co/tG1wP7Pt3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973585171237757020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 358,
+          "like_count": 3770,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1627
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

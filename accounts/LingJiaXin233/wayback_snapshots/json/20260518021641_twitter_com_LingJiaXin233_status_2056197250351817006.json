@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056197239727603712"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056197250351817006",
+    "created_at": "2026-05-18T02:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056197250351817006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C6EgRIOPOC",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056197250351817006/photo/1",
+          "media_key": "3_2056197239727603712",
+          "start": 5,
+          "url": "https://t.co/C6EgRIOPOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056197250351817006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天选之子 https://t.co/C6EgRIOPOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2056197239727603712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkUfs4aQAA1S5W.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056197239727603712"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056197250351817006",
+        "created_at": "2026-05-18T02:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056197250351817006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6EgRIOPOC",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056197250351817006/photo/1",
+              "media_key": "3_2056197239727603712",
+              "start": 5,
+              "url": "https://t.co/C6EgRIOPOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056197250351817006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天选之子 https://t.co/C6EgRIOPOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2056084137669497119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5320,
+          "following_count": 704,
+          "like_count": 17152,
+          "listed_count": 11,
+          "media_count": 1543,
+          "tweet_count": 4678
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

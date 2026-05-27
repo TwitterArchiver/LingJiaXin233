@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052369283414741391",
+    "created_at": "2026-05-07T14:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052388282781389091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2853705607",
+          "start": 0,
+          "username": "daheisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052388282781389091",
+    "in_reply_to_user_id": "2853705607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052382750871519565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daheisan 我并不赞同你的观点。\n以我们学校为例，楼下5个班有一个男厕所和一个女厕所，对于男厕所而言，坑位只有4个，但是平均每个班至少有45个人，我们就按照最理想的情况，男女比例1比1，也至少有一百多个人在一个课间共享这4个坑位，你认为这个比例是合理的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052369283414741391",
+        "created_at": "2026-05-07T14:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052388282781389091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2853705607",
+              "start": 0,
+              "username": "daheisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052388282781389091",
+        "in_reply_to_user_id": "2853705607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052382750871519565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daheisan 我并不赞同你的观点。\n以我们学校为例，楼下5个班有一个男厕所和一个女厕所，对于男厕所而言，坑位只有4个，但是平均每个班至少有45个人，我们就按照最理想的情况，男女比例1比1，也至少有一百多个人在一个课间共享这4个坑位，你认为这个比例是合理的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2853705607",
+        "conversation_id": "2052369283414741391",
+        "created_at": "2026-05-07T13:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052382750871519565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052382750871519565",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052369283414741391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 换一种角度想，恰恰是这种不够尊重隐私，不够尊重学生的设计，让学生尽量缩短课间上厕所的时间，能保证更多的学生能上到厕所。\n景区的厕所排大队，学校的一般不排。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 671,
+          "like_count": 16065,
+          "listed_count": 12,
+          "media_count": 1223,
+          "tweet_count": 4238
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-13T00:49:31.000Z",
+        "description": "",
+        "id": "2853705607",
+        "location": "Los Angeles, CA",
+        "name": "CoupleBanana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1419558255324372993/u3LebQuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 412,
+          "like_count": 12427,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1178
+        },
+        "username": "daheisan",
+        "verified": false
+      }
+    ]
+  }
+}

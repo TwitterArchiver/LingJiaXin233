@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973936988647796795",
+    "created_at": "2025-10-03T03:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T04:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973953449726468108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774017839726276608",
+          "start": 0,
+          "username": "jiangkedou8964"
+        },
+        {
+          "end": 27,
+          "id": "1946598569747894273",
+          "start": 16,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973953449726468108",
+    "in_reply_to_user_id": "1774017839726276608",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973936988647796795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangkedou8964 @xmin240286"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973936988647796795",
+        "created_at": "2025-10-03T03:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973953449726468108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774017839726276608",
+              "start": 0,
+              "username": "jiangkedou8964"
+            },
+            {
+              "end": 27,
+              "id": "1946598569747894273",
+              "start": 16,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973953449726468108",
+        "in_reply_to_user_id": "1774017839726276608",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973936988647796795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangkedou8964 @xmin240286"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774017839726276608",
+        "conversation_id": "1973936988647796795",
+        "created_at": "2025-10-03T02:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973936988647796795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/1973890989904609656",
+              "start": 118,
+              "url": "https://t.co/mkNnVSuiMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973936988647796795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973890989904609656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "众如果一个mtf，暂且这么说，他除了在网上到处说自己是mtf，但一点mtf该做的事都没有做，那就是在玩幼稚的“奥特曼扮演”，没人会相信你是mtf，如果你还要借此骚扰其他真正的mtf，那就是qjf，那他可以考虑考虑去混社民圈或者去当粉红 https://t.co/mkNnVSuiMO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 362,
+          "like_count": 3928,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 1698
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T10:16:45.000Z",
+        "description": "15岁｜友跨🏳️‍⚧️但不是跨｜坚信生活的美好，保持乐观的态度，要知道革命总是无往不胜的——萨布林｜提问箱https://t.co/RPUPZgL3HP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sipaijiangkedou",
+                "end": 76,
+                "expanded_url": "https://ngl.link/sipaijiangkedou",
+                "start": 53,
+                "url": "https://t.co/RPUPZgL3HP"
+              }
+            ]
+          }
+        },
+        "id": "1774017839726276608",
+        "location": "克里姆林宫",
+        "name": "超级大蝌蚪🇫🇮🇺🇳🇪🇺（新的革命仍在继续）",
+        "pinned_tweet_id": "1953031043746861469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957117745088327680/95wT7iRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 385,
+          "like_count": 1170,
+          "listed_count": 6,
+          "media_count": 462,
+          "tweet_count": 3251
+        },
+        "username": "jiangkedou8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 199,
+          "like_count": 3023,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

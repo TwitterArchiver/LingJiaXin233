@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1979577325361721466",
+    "created_at": "2025-10-19T02:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T03:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979730223605367176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979730223605367176",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979577325361721466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao 没必要，二手m1mba才2k出头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1979577325361721466",
+        "created_at": "2025-10-19T02:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979730223605367176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979730223605367176",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979577325361721466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 没必要，二手m1mba才2k出头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1979577325361721466",
+        "created_at": "2025-10-18T15:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979577325361721466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979577325361721466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位觉得现在入手m1iPadPro有意义嘛\n二手3600的样子，平常可能就看看流媒体平台\n但是这样一算我感觉我根本没需求啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 387,
+          "like_count": 5482,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2007
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa和@mengqing5735｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "mengqing5735"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1978607861455605965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 1087,
+          "like_count": 242,
+          "listed_count": 6,
+          "media_count": 2053,
+          "tweet_count": 10440
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

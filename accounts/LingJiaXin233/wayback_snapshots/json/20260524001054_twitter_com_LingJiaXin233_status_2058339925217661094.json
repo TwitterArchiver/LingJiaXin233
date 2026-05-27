@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058339918104117248"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2058339925217661094",
+    "created_at": "2026-05-24T00:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T01:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058339925217661094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LDylxBC7DP",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2058339925217661094/photo/1",
+          "media_key": "3_2058339918104117248",
+          "start": 5,
+          "url": "https://t.co/LDylxBC7DP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058339925217661094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最美曲线 https://t.co/LDylxBC7DP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058339918104117248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCxP_2aQAALSAy.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058339918104117248"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2058339925217661094",
+        "created_at": "2026-05-24T00:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058339925217661094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDylxBC7DP",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2058339925217661094/photo/1",
+              "media_key": "3_2058339918104117248",
+              "start": 5,
+              "url": "https://t.co/LDylxBC7DP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058339925217661094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最美曲线 https://t.co/LDylxBC7DP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 713,
+          "like_count": 17606,
+          "listed_count": 12,
+          "media_count": 1722,
+          "tweet_count": 4953
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

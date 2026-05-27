@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1988894907692458130",
+    "created_at": "2025-11-15T02:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989527772218494988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868163970051211264",
+          "start": 0,
+          "username": "XianoYue86365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989527772218494988",
+    "in_reply_to_user_id": "1868163970051211264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988894907692458130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XianoYue86365 这种真得图了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1988894907692458130",
+        "created_at": "2025-11-15T02:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989527772218494988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868163970051211264",
+              "start": 0,
+              "username": "XianoYue86365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989527772218494988",
+        "in_reply_to_user_id": "1868163970051211264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988894907692458130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XianoYue86365 这种真得图了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868163970051211264",
+        "conversation_id": "1988894907692458130",
+        "created_at": "2025-11-13T09:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988894907692458130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988894907692458130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 33482,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "和德育处老师聊完了 我把情况说完之后他说了一句“心理上的性别认同不是你想得到特殊对待(就是留长发或者按女生标准来查)的借口医院和家长的证明只能说明你认为自己是女生 但你不是女生 我可以理解你但是规定就是规定男生不能留长发 必须做到学校要求(前不过眉 侧不遮耳 后不及领)”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 409,
+          "like_count": 6002,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2088
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T05:21:46.000Z",
+        "description": "09︱170㎝ 65㎏︱🏳‍⚧无证含糖 hrt2024.12.17︱容貌焦虑症qwq︱4i︱是弱受喵uwu︱新来的多多关照喵ovo︱喜欢涩涩（同类是最棒哒 欢迎互fo～︱鱼脑（笨︱弱受︱小号@Suochengtuan ︱最好的姐姐～@kill27012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Suochengtuan"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "kill27012"
+              }
+            ]
+          }
+        },
+        "id": "1868163970051211264",
+        "location": "福建",
+        "name": "羽秋Yuki🏳‍⚧🍥",
+        "pinned_tweet_id": "1958032887762080208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905918810701365250/reTZSqWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 775,
+          "like_count": 2972,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 403
+        },
+        "username": "XianoYue86365",
+        "verified": false
+      }
+    ]
+  }
+}

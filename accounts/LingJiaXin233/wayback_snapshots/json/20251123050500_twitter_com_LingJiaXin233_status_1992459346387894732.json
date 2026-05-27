@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1992459346387894732",
+    "created_at": "2025-11-23T05:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992459346387894732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foooxwww/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/foooxwww/status/1991844328902406307",
+          "start": 25,
+          "url": "https://t.co/6iqho8HoYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992459346387894732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991844328902406307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，我们应该突破自己的上限而不是沉溺于化学极乐 https://t.co/6iqho8HoYK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1992459346387894732",
+        "created_at": "2025-11-23T05:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992459346387894732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foooxwww/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/foooxwww/status/1991844328902406307",
+              "start": 25,
+              "url": "https://t.co/6iqho8HoYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992459346387894732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991844328902406307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，我们应该突破自己的上限而不是沉溺于化学极乐 https://t.co/6iqho8HoYK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897597646162079744",
+        "conversation_id": "1991844328902406307",
+        "created_at": "2025-11-21T12:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991844328902406307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991844328902406307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 36490,
+          "like_count": 434,
+          "quote_count": 11,
+          "reply_count": 47,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候那些mtf才能认识到，歌手od滥交并非潮流，想成为女生重要的是从现实抓起，努力减肥，保养皮肤，学会打理自己，而不是打打舞萌，学会喵喵叫，一天到晚想着涩涩就能成为女孩子的，哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 416,
+          "like_count": 6364,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 2122
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:38:38.000Z",
+        "description": "🚪10块钱，成都，接纯绿线下陪玩😋。接伤口定制😋私聊不了就在我置顶下评论。想要互fo请私聊我哦。反跨，特别是鲨臂mtf别TM来恶心我，死一边去",
+        "id": "1897597646162079744",
+        "location": "布吉岛",
+        "name": "🧀小狐狸🦊🎃🎃🎃",
+        "pinned_tweet_id": "1987946289343176855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897914261416116224/2Vvi2Ate_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 117,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 740
+        },
+        "username": "foooxwww",
+        "verified": false
+      }
+    ]
+  }
+}

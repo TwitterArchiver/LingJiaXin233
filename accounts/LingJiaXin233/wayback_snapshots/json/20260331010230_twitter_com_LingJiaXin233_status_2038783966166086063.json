@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2038783966166086063",
+    "created_at": "2026-03-31T01:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038783966166086063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038783966166086063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038451148110082183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 小时候看这集得了恶心、咳嗽、皮疹、肺炎、喷嚏、出汗、肺水肿、发热、腹泻、肺间质纤维化、免疫抑制、皮肤损伤、痢疾、全面器官衰竭、坏疽、癫狂症、昏迷、失血性休克、癫痫发作、瘫痪、系统感染、内出血、发炎、肿瘤、偏执狂、极度过敏、脓肿、血友病、失眠症、囊肿、贫血…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2036692698095403008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPJN9KbwAAllG4.png",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2038783966166086063",
+        "created_at": "2026-03-31T01:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038783966166086063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038783966166086063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038451148110082183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 小时候看这集得了恶心、咳嗽、皮疹、肺炎、喷嚏、出汗、肺水肿、发热、腹泻、肺间质纤维化、免疫抑制、皮肤损伤、痢疾、全面器官衰竭、坏疽、癫狂症、昏迷、失血性休克、癫痫发作、瘫痪、系统感染、内出血、发炎、肿瘤、偏执狂、极度过敏、脓肿、血友病、失眠症、囊肿、贫血…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036692698095403008"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038451148110082183",
+        "created_at": "2026-03-30T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038451148110082183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0tMocIvwV",
+              "end": 164,
+              "expanded_url": "https://x.com/BI3BXI/status/2038451148110082183/photo/1",
+              "media_key": "3_2036692698095403008",
+              "start": 141,
+              "url": "https://t.co/t0tMocIvwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038451148110082183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小时候看这集得了恶心、咳嗽、皮疹、肺炎、喷嚏、出汗、肺水肿、发热、腹泻、肺间质纤维化、免疫抑制、皮肤损伤、痢疾、全面器官衰竭、坏疽、癫狂症、昏迷、失血性休克、癫痫发作、瘫痪、系统感染、内出血、发炎、肿瘤、偏执狂、极度过敏、脓肿、血友病、失眠症、囊肿、贫血症、发热、恐光症、狂躁、急性脑炎、精神分裂、多涎症、多食症、肠胃炎、自食症、食人症和厌氧复苏"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11313,
+          "like_count": 291,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "小时候看这集得了恶心、咳嗽、皮疹、肺炎、喷嚏、出汗、肺水肿、发热、腹泻、肺间质纤维化、免疫抑制、皮肤损伤、痢疾、全面器官衰竭、坏疽、癫狂症、昏迷、失血性休克、癫痫发作、瘫痪、系统感染、内出血、发炎、肿瘤、偏执狂、极度过敏、脓肿、血友病、失眠症、囊肿、贫血症、发热、恐光症、狂躁、急 https://t.co/t0tMocIvwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 749,
+          "like_count": 10982,
+          "listed_count": 6,
+          "media_count": 436,
+          "tweet_count": 2969
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Enby🏳️‍⚧️｜本垢@yqua_｜Sister @Tennoujinyano｜@Show5560｜@JDGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "Show5560"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "JDGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 3829,
+          "like_count": 37957,
+          "listed_count": 21,
+          "media_count": 2259,
+          "tweet_count": 8788
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

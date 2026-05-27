@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1977392959424286960",
+    "created_at": "2025-10-12T15:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T16:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977392959424286960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1461017973599186944",
+          "start": 3,
+          "username": "xiaoyinyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977392959424286960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977389411294695654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyinyu520: 吃完了，82t晚安加上18000mg加巴喷丁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1977392959424286960",
+        "created_at": "2025-10-12T15:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977392959424286960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1461017973599186944",
+              "start": 3,
+              "username": "xiaoyinyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977392959424286960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977389411294695654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyinyu520: 吃完了，82t晚安加上18000mg加巴喷丁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461017973599186944",
+        "conversation_id": "1977389411294695654",
+        "created_at": "2025-10-12T15:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977389411294695654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977389411294695654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吃完了，82t晚安加上18000mg加巴喷丁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 378,
+          "like_count": 5108,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1945
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T17:06:55.000Z",
+        "description": "05年，不割手，不抽烟不喝酒，重度社恐不擅长说话，没有任何精神问题，2025.3.13开始hrt，8.8已炸柜",
+        "id": "1461017973599186944",
+        "name": "小银鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917239597438025728/5uhkXdaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 183,
+          "like_count": 4393,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 780
+        },
+        "username": "xiaoyinyu520",
+        "verified": false
+      }
+    ]
+  }
+}

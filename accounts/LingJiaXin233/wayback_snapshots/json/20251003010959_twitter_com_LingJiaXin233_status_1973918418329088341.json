@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973655668738646325",
+    "created_at": "2025-10-03T01:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T02:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973918418329088341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552153822180831232",
+          "start": 0,
+          "username": "Alxiaz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973918418329088341",
+    "in_reply_to_user_id": "1552153822180831232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973749556820242646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alxiaz_ 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973655668738646325",
+        "created_at": "2025-10-03T01:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973918418329088341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552153822180831232",
+              "start": 0,
+              "username": "Alxiaz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973918418329088341",
+        "in_reply_to_user_id": "1552153822180831232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973749556820242646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alxiaz_ 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552153822180831232",
+        "conversation_id": "1973655668738646325",
+        "created_at": "2025-10-02T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973749556820242646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973749556820242646",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973655668738646325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 他的问题核心是没有性别焦虑，有能力hrt也不hrt吧(并且还骚扰其它mtf🤔\nmtf不该有标准，如果要说标准也是性别焦虑;毕竟没有性别焦虑为什么要跨;我在推上看过一些mtf符合你说的没有hrt，女装，没有长发，有些因为精神类药物也无法控制体重，那她们就是皮下男了吗?但她们是没有能力，所以不能一概而论🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 358,
+          "like_count": 3898,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1689
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T04:48:14.000Z",
+        "description": "我是个没家的孩子/INFP-T/刚满18岁~但是永远15岁💦/互fo请踹我😙/推特是用来发癫的💔/❤️宝宝🐽🐽@ziyaoawa❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "ziyaoawa"
+              }
+            ]
+          }
+        },
+        "id": "1552153822180831232",
+        "location": "床",
+        "name": "Alxiaz💤",
+        "pinned_tweet_id": "1939163343220261358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959275872688734208/k9UJvstB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 304,
+          "like_count": 1406,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 844
+        },
+        "username": "Alxiaz_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974128664146293108",
+    "created_at": "2025-10-04T03:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T04:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974311694110490981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524947194997903360",
+          "start": 0,
+          "username": "E2Blackhole"
+        },
+        {
+          "end": 24,
+          "id": "1946598569747894273",
+          "start": 13,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974311694110490981",
+    "in_reply_to_user_id": "1524947194997903360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974311612002742501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E2Blackhole @xmin240286 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-04T03:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T04:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974311694110490981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524947194997903360",
+              "start": 0,
+              "username": "E2Blackhole"
+            },
+            {
+              "end": 24,
+              "id": "1946598569747894273",
+              "start": 13,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974311694110490981",
+        "in_reply_to_user_id": "1524947194997903360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974311612002742501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E2Blackhole @xmin240286 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524947194997903360",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-04T03:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T04:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974311612002742501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 26,
+              "id": "1946598569747894273",
+              "start": 15,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974311612002742501",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974283068744909077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @xmin240286 不算理性，更多是出于经验吧：（\n没必要为这种事吵的起飞印象自己心态，对自己好一点啦😊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 367,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1755
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T02:58:46.000Z",
+        "description": "Classical Lolita爱好者//过气JK//百合//本体是黑洞//名为黑洞的观测者//Cpa致Pituitary tumor//这里是我的墓碑，埋葬了我的过去//⭐️请像星星一样，再闪耀一次吧！⭐️",
+        "id": "1524947194997903360",
+        "location": "人马座 A*//Sagittarius A*//Sgr A*",
+        "name": "E2-BlackHole Prototype.A IV",
+        "pinned_tweet_id": "1711887310550364186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589991598921682945/mGlOFQDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31376,
+          "following_count": 667,
+          "like_count": 8732,
+          "listed_count": 32,
+          "media_count": 999,
+          "tweet_count": 6722
+        },
+        "username": "E2Blackhole",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 201,
+          "like_count": 3088,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056817091165245604",
+    "created_at": "2026-05-20T07:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056999935653167176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1955196598818050048",
+          "start": 0,
+          "username": "kanocyan23875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056999935653167176",
+    "in_reply_to_user_id": "1955196598818050048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056968896725574055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanocyan23875 买不到外版全新未拆封的了😢不买国行的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056817091165245604",
+        "created_at": "2026-05-20T07:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056999935653167176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1955196598818050048",
+              "start": 0,
+              "username": "kanocyan23875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056999935653167176",
+        "in_reply_to_user_id": "1955196598818050048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056968896725574055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanocyan23875 买不到外版全新未拆封的了😢不买国行的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955196598818050048",
+        "conversation_id": "2056817091165245604",
+        "created_at": "2026-05-20T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056968896725574055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056968896725574055",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056817091165245604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 买蜂窝版更好 有esim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5492,
+          "following_count": 700,
+          "like_count": 17274,
+          "listed_count": 11,
+          "media_count": 1616,
+          "tweet_count": 4785
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-12T09:16:16.000Z",
+        "description": "",
+        "id": "1955196598818050048",
+        "location": "日本",
+        "name": "kanocyan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955196690513924098/4zfpob1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 53,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "kanocyan23875",
+        "verified": false
+      }
+    ]
+  }
+}

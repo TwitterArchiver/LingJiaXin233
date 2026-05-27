@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050464079194787840"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2050464084089528770",
+    "created_at": "2026-05-02T06:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050464084089528770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4wJF8Jdz0z",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2050464084089528770/photo/1",
+          "media_key": "3_2050464079194787840",
+          "start": 7,
+          "url": "https://t.co/4wJF8Jdz0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050464084089528770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "警惕海量个例 https://t.co/4wJF8Jdz0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2050464079194787840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS2N1kakAAx3lK.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050464079194787840"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2050464084089528770",
+        "created_at": "2026-05-02T06:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050464084089528770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wJF8Jdz0z",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2050464084089528770/photo/1",
+              "media_key": "3_2050464079194787840",
+              "start": 7,
+              "url": "https://t.co/4wJF8Jdz0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050464084089528770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警惕海量个例 https://t.co/4wJF8Jdz0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 643,
+          "like_count": 15665,
+          "listed_count": 11,
+          "media_count": 1089,
+          "tweet_count": 4066
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

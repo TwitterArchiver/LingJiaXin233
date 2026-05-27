@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973646775128072350",
+    "created_at": "2025-10-03T13:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T14:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974102468629049790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935887696360353792",
+          "start": 0,
+          "username": "CBRPT88JQ539067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974102468629049790",
+    "in_reply_to_user_id": "1935887696360353792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974101465527665129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CBRPT88JQ539067 这只是我们基本的respect"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973646775128072350",
+        "created_at": "2025-10-03T13:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974102468629049790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935887696360353792",
+              "start": 0,
+              "username": "CBRPT88JQ539067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974102468629049790",
+        "in_reply_to_user_id": "1935887696360353792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974101465527665129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CBRPT88JQ539067 这只是我们基本的respect"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935887696360353792",
+        "conversation_id": "1973646775128072350",
+        "created_at": "2025-10-03T13:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974101465527665129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974101465527665129",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974100627463811317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 你真的，我哭死，太有礼貌了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 365,
+          "like_count": 4065,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 1725
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T02:29:53.000Z",
+        "description": "纯直男！偶尔发发日常！🉑互关聊天！刚入推没多久请多关照🌝🌝",
+        "id": "1935887696360353792",
+        "name": "伶司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971523922081517568/zYGbV6sV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 31,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 108
+        },
+        "username": "CBRPT88JQ539067",
+        "verified": false
+      }
+    ]
+  }
+}

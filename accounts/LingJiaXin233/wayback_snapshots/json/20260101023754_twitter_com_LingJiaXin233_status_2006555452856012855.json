@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2006283602036941263",
+    "created_at": "2026-01-01T02:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T03:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006555452856012855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810183070978641920",
+          "start": 0,
+          "username": "fcnCWJypLo98274"
+        },
+        {
+          "end": 27,
+          "id": "1589235830731997188",
+          "start": 17,
+          "username": "PWaterawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006555452856012855",
+    "in_reply_to_user_id": "1810183070978641920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006283602036941263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fcnCWJypLo98274 @PWaterawa 许愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2006283602036941263",
+        "created_at": "2026-01-01T02:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006555452856012855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810183070978641920",
+              "start": 0,
+              "username": "fcnCWJypLo98274"
+            },
+            {
+              "end": 27,
+              "id": "1589235830731997188",
+              "start": 17,
+              "username": "PWaterawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006555452856012855",
+        "in_reply_to_user_id": "1810183070978641920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006283602036941263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fcnCWJypLo98274 @PWaterawa 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810183070978641920",
+        "conversation_id": "2006283602036941263",
+        "created_at": "2025-12-31T08:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006283602036941263"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "活动抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fcnCWJypLo9827…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/fcnCWJypLo98274/status/2004785913008980312",
+              "start": 144,
+              "url": "https://t.co/kLjbyZom4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006283602036941263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6798,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004785913008980312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#活动抽奖\n空空元旦活动！来了\n\n很抱歉，上一个抽奖\n出了点小差错，目前已取消\n为弥补大家的这份热情\n\n特发起元旦抽奖活动\n\n加上以下预定明日开奖的五杯冬季奶茶，与刚才取消的二十杯冬季奶茶，再额外加上五杯\n\n共30杯冬季奶茶！\n\n参与条件，关注点赞评论\n\n（优先抽取，关注转发点赞评论） https://t.co/kLjbyZom4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 424,
+          "like_count": 7147,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 2196
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T05:24:29.000Z",
+        "description": "小号 @konggetougao233 ｜Q:3963365595，\n私信回复不了可加q ｜\n   免费投稿，随缘打赏，可咨询防诈骗相关问题，日常分享与情感投稿免费｜空闲时可闲聊｜接委托｜验证门姐已放入亮点\n\n ｜｜（验证仅能保证是真人而非人品，还请谨慎入门）｜（不要一时冲动入高门）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "konggetougao233"
+              }
+            ]
+          }
+        },
+        "id": "1810183070978641920",
+        "location": "欢迎私信，免费投稿（23-8点为睡眠时间）",
+        "name": "空空投稿（求关注）",
+        "pinned_tweet_id": "1998533448655618190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835696650565873664/5U-B97fM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 138,
+          "like_count": 9699,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 1446
+        },
+        "username": "fcnCWJypLo98274",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloworld.com",
+                "end": 23,
+                "expanded_url": "http://helloworld.com",
+                "start": 0,
+                "url": "https://t.co/alRx9jSJdp"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 1019,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/alRx9jSJdp",
+        "username": "PWaterawa",
+        "verified": false
+      }
+    ]
+  }
+}

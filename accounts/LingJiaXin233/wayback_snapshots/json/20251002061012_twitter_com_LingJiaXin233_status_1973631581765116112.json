@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973631161852371144",
+    "created_at": "2025-10-02T06:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T07:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973631581765116112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973631581765116112",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973631161852371144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 那我要讨论的就是性侵好吗？？？你开始絮絮叨叨讲肥胖，我说了我对肥胖与否不关心好吗？我就问你一个问题：你认为凉在这件事情上做的怎么样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973631161852371144",
+        "created_at": "2025-10-02T06:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T07:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973631581765116112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973631581765116112",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973631161852371144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 那我要讨论的就是性侵好吗？？？你开始絮絮叨叨讲肥胖，我说了我对肥胖与否不关心好吗？我就问你一个问题：你认为凉在这件事情上做的怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1973631161852371144",
+        "created_at": "2025-10-02T06:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T07:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973631161852371144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/1973630348656517421",
+              "start": 105,
+              "url": "https://t.co/Rw3mdS1TM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973631161852371144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973630348656517421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我炫耀什么了？你觉得我想得病？？ 我只是在说事实。\n我从头到尾坚持的都是事实而已。\n我哪里炫耀了？？\n我真就不懂了，为什么你们的行为莫名其妙的？\n我说了我共情能力有问题但我坚持的是事实观点，和性侵无关懂了吗？ https://t.co/Rw3mdS1TM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973585171237757020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 356,
+          "like_count": 3734,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1598
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973208712547561472/uMmrj843_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 197,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2382
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": false
+      }
+    ]
+  }
+}

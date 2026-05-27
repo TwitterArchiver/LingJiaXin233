@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049541880493600910",
+    "created_at": "2026-04-29T17:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049541880493600910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049541880493600910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得国内极端女权运动已经癫狂到从最初的“希望男女平等”，到如今的“去雄计划”和“希望男人似完”。\n这显然是不正确的，因此我不建议任何mtf参与任何组织，任何形式的女权运动，因为你难以分辨真正友跨的afab和反跨的terf，如果遇到后者最终也就难免惹得一身骚让谁也不痛快，因为terf们本质上还是唯染色体论没有也从未有把跨女看作女人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得国内极端女权运动已经癫狂到从最初的“希望男女平等”，到如今的“去雄计划”和“希望男人似完”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049541880493600910",
+        "created_at": "2026-04-29T17:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049541880493600910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049541880493600910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得国内极端女权运动已经癫狂到从最初的“希望男女平等”，到如今的“去雄计划”和“希望男人似完”。\n这显然是不正确的，因此我不建议任何mtf参与任何组织，任何形式的女权运动，因为你难以分辨真正友跨的afab和反跨的terf，如果遇到后者最终也就难免惹得一身骚让谁也不痛快，因为terf们本质上还是唯染色体论没有也从未有把跨女看作女人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得国内极端女权运动已经癫狂到从最初的“希望男女平等”，到如今的“去雄计划”和“希望男人似完”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 629,
+          "like_count": 15362,
+          "listed_count": 11,
+          "media_count": 1016,
+          "tweet_count": 3967
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

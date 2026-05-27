@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013279068272177152"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013279084592386408",
+    "created_at": "2026-01-19T15:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013279084592386408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FggRqQRdim",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2013279084592386408/photo/1",
+          "media_key": "3_2013279068272177152",
+          "start": 12,
+          "url": "https://t.co/FggRqQRdim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013279084592386408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该对算法负有责任🤓 https://t.co/FggRqQRdim"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013279068272177152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CapVIXsAABLPm.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013279068272177152"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013279084592386408",
+        "created_at": "2026-01-19T15:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013279084592386408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FggRqQRdim",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2013279084592386408/photo/1",
+              "media_key": "3_2013279068272177152",
+              "start": 12,
+              "url": "https://t.co/FggRqQRdim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013279084592386408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该对算法负有责任🤓 https://t.co/FggRqQRdim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 418,
+          "like_count": 7464,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 2237
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

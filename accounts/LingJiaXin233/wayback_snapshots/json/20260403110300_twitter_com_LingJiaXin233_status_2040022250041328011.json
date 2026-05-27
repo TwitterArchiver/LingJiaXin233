@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2040021508748161492",
+    "created_at": "2026-04-03T11:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040022250041328011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040022250041328011",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040021508748161492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 哎哟小蜜柑我真的好奇你的雷霆文案哪里来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3762,
+        "media_key": "3_2038798349625868290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtETAYaQAI0ZyE.jpg",
+        "width": 3425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2040021508748161492",
+        "created_at": "2026-04-03T11:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040022250041328011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040022250041328011",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040021508748161492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 哎哟小蜜柑我真的好奇你的雷霆文案哪里来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038798349625868290"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2040021508748161492",
+        "created_at": "2026-04-03T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040021508748161492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BvFAGm0tT0",
+              "end": 166,
+              "expanded_url": "https://x.com/JanboMikan/status/2040021508748161492/photo/1",
+              "media_key": "3_2038798349625868290",
+              "start": 143,
+              "url": "https://t.co/BvFAGm0tT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040021508748161492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酒店退房。\n前台对讲机传来的声音在安静的大堂震耳欲聋：「604查房完毕，床单大面积不明黏稠液体，床垫都透了，需加收两百清洁费！」\n脑子一片空白，哆嗦着掏手机扫码付款。\n屏幕没切好，直接把昨晚双腿大张、满床泥泞的特写怼了过去。\n前台小姐姐举着扫码枪，瞳孔地震，腿一软直接消失在柜台后面。 https://t.co/BvFAGm0tT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2932,
+          "following_count": 757,
+          "like_count": 11474,
+          "listed_count": 6,
+          "media_count": 473,
+          "tweet_count": 3071
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9912,
+          "following_count": 427,
+          "like_count": 14065,
+          "listed_count": 39,
+          "media_count": 204,
+          "tweet_count": 7234
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

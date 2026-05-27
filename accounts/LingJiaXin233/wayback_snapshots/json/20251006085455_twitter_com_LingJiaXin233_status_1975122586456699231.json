@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975122586456699231",
+    "created_at": "2025-10-06T08:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975122586456699231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xmin240286/sta…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/xmin240286/status/1975121516586205270",
+          "start": 136,
+          "url": "https://t.co/f9q3MDTf1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975122586456699231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975121516586205270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草泥马你还有基本的礼貌吗，按照你的思维性别就是由个人定义的，那你还叫他女士？左右脑互搏的玩意儿\n我为我的失言感到抱歉：不应该把你开除跨籍，应该把你开除人籍！\n你对trans有基本的尊重吗？“汐眠先生”\n一口一个道德标杆，事实上行为恰恰相反，你的评论区的同类都被你骗了吧乐 https://t.co/f9q3MDTf1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1975120025314091009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kJMsmbYAE6hRx.png",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975122586456699231",
+        "created_at": "2025-10-06T08:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975122586456699231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/xmin240286/status/1975121516586205270",
+              "start": 136,
+              "url": "https://t.co/f9q3MDTf1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975122586456699231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975121516586205270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草泥马你还有基本的礼貌吗，按照你的思维性别就是由个人定义的，那你还叫他女士？左右脑互搏的玩意儿\n我为我的失言感到抱歉：不应该把你开除跨籍，应该把你开除人籍！\n你对trans有基本的尊重吗？“汐眠先生”\n一口一个道德标杆，事实上行为恰恰相反，你的评论区的同类都被你骗了吧乐 https://t.co/f9q3MDTf1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975120025314091009"
+          ]
+        },
+        "author_id": "1946598569747894273",
+        "conversation_id": "1975121516586205270",
+        "created_at": "2025-10-06T08:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975121516586205270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9I9qotRsG",
+              "end": 169,
+              "expanded_url": "https://x.com/xmin240286/status/1975121516586205270/photo/1",
+              "media_key": "3_1975120025314091009",
+              "start": 146,
+              "url": "https://t.co/e9I9qotRsG"
+            },
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/xmin240286/status/1975119878102344001",
+              "start": 170,
+              "url": "https://t.co/hKaGj1OoF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975121516586205270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975119878102344001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以我的观察，竹蜻蜓女士/竹蜻蜓先生在这个事件中是纯粹的争端放大者、攻击助攻者、歧视宣泄者，最初就是这位莫名其妙的说我“道德小警察”并对我进行一系列的人身攻击，是谁对号入座还不清楚吗。\n并且从这位的主页搜索“ASD”可以看到，这位并非偶发情绪，而是长期、习惯性地发表针对 ASD 的负面言论。 https://t.co/e9I9qotRsG https://t.co/hKaGj1OoF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 363,
+          "like_count": 4571,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1843
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 201,
+          "like_count": 3228,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

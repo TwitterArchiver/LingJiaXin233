@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1970888762562650191",
+    "created_at": "2025-09-24T16:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970888844523499595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "kagura_yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970888844523499595",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970888762562650191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagura_yukikaze 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1970888762562650191",
+        "created_at": "2025-09-24T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970888844523499595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "kagura_yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970888844523499595",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970888762562650191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagura_yukikaze 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1970888762562650191",
+        "created_at": "2025-09-24T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970888762562650191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970888762562650191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这里住连自己的房间都没有还谈什么女装\n不是找炸柜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 342,
+          "like_count": 3177,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 1403
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |🏳️‍⚧️Femboy🍥 |A student |want to be friends with everyone! |en/cn/jp(a little)|",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1180,
+          "like_count": 56167,
+          "listed_count": 3,
+          "media_count": 479,
+          "tweet_count": 6292
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

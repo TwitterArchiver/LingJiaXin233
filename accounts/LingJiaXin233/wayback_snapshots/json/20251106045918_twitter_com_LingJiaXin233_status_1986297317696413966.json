@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1986297317696413966",
+    "created_at": "2025-11-06T04:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986297317696413966"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "泰补"
+        },
+        {
+          "end": 112,
+          "start": 106,
+          "tag": "艾斯妥凝胶"
+        },
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "诺坤复"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "鲨鲨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875471329375440896",
+          "start": 3,
+          "username": "tbh2318"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/S82T",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/S82T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986297317696413966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985941511524217116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tbh2318: 转发点赞评论参加抽奖，抽3盒有效期3个月的泰补，999fo开奖，现货，泰补，一年有效期220,半年有效期180,三个月有效期160,诺坤复80,艾斯妥凝胶120,满499送鲨鲨\n#泰补 #艾斯妥凝胶 #诺坤复 #鲨鲨 https://t.co/S82T…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1985941494017187840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G497RE-aYAAtJ1_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1986297317696413966",
+        "created_at": "2025-11-06T04:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986297317696413966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "泰补"
+            },
+            {
+              "end": 112,
+              "start": 106,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "鲨鲨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875471329375440896",
+              "start": 3,
+              "username": "tbh2318"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/S82T",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/S82T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986297317696413966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985941511524217116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tbh2318: 转发点赞评论参加抽奖，抽3盒有效期3个月的泰补，999fo开奖，现货，泰补，一年有效期220,半年有效期180,三个月有效期160,诺坤复80,艾斯妥凝胶120,满499送鲨鲨\n#泰补 #艾斯妥凝胶 #诺坤复 #鲨鲨 https://t.co/S82T…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985941494017187840"
+          ]
+        },
+        "author_id": "1875471329375440896",
+        "conversation_id": "1985941511524217116",
+        "created_at": "2025-11-05T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985941511524217116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "泰补"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "艾斯妥凝胶"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "诺坤复"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "鲨鲨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S82TInm3rS",
+              "end": 132,
+              "expanded_url": "https://x.com/tbh2318/status/1985941511524217116/photo/1",
+              "media_key": "3_1985941494017187840",
+              "start": 109,
+              "url": "https://t.co/S82TInm3rS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985941511524217116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "转发点赞评论参加抽奖，抽3盒有效期3个月的泰补，999fo开奖，现货，泰补，一年有效期220,半年有效期180,三个月有效期160,诺坤复80,艾斯妥凝胶120,满499送鲨鲨\n#泰补 #艾斯妥凝胶 #诺坤复 #鲨鲨 https://t.co/S82TInm3rS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 404,
+          "like_count": 5834,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2065
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T09:17:37.000Z",
+        "description": "97年大龄mtf，长居🇹🇭，售卖正规进口药品，每天19:00前可当天发出,全球可发，@tbh2318，@tbh2319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "tbh2318"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "tbh2319"
+              }
+            ]
+          }
+        },
+        "id": "1875471329375440896",
+        "name": "乇乇 momo 糖商 已转生 泰补，艾斯妥凝胶，诺坤复🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1984553790981488829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973446999782596613/lAS5HqCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1316,
+          "like_count": 33,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 51
+        },
+        "username": "tbh2318",
+        "verified": true
+      }
+    ]
+  }
+}

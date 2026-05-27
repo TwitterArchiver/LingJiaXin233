@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974404867235135751",
+    "created_at": "2025-10-04T09:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974405444925010413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774017839726276608",
+          "start": 0,
+          "username": "jiangkedou8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974405444925010413",
+    "in_reply_to_user_id": "1774017839726276608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974404867235135751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangkedou8964 正确的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1974404861803556864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Z-ws6a8AASCoX.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974404867235135751",
+        "created_at": "2025-10-04T09:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974405444925010413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774017839726276608",
+              "start": 0,
+              "username": "jiangkedou8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974405444925010413",
+        "in_reply_to_user_id": "1774017839726276608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974404867235135751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangkedou8964 正确的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974404861803556864"
+          ]
+        },
+        "author_id": "1774017839726276608",
+        "conversation_id": "1974404867235135751",
+        "created_at": "2025-10-04T09:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974404867235135751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcigjAhvZU",
+              "end": 130,
+              "expanded_url": "https://x.com/jiangkedou8964/status/1974404867235135751/photo/1",
+              "media_key": "3_1974404861803556864",
+              "start": 107,
+              "url": "https://t.co/qcigjAhvZU"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/1974218852226752636",
+              "start": 131,
+              "url": "https://t.co/NdGZIuOGiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974404867235135751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974218852226752636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "任何脱离了实际的观点都是“抛开事实不谈”，任何没有依据的“普遍性问题”都是假问题，我不会去看你说了什么想了什么，我只看你做了什么，做人只是不要过度虚无于事实，不要挂着羊头卖狗肉，这往往是反动的作风，不负责任的作风 https://t.co/qcigjAhvZU https://t.co/NdGZIuOGiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 369,
+          "like_count": 4231,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1778
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T10:16:45.000Z",
+        "description": "15岁｜友跨🏳️‍⚧️但不是跨｜坚信生活的美好，保持乐观的态度，要知道革命总是无往不胜的——萨布林｜提问箱https://t.co/RPUPZgL3HP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sipaijiangkedou",
+                "end": 76,
+                "expanded_url": "https://ngl.link/sipaijiangkedou",
+                "start": 53,
+                "url": "https://t.co/RPUPZgL3HP"
+              }
+            ]
+          }
+        },
+        "id": "1774017839726276608",
+        "location": "克里姆林宫",
+        "name": "超级大蝌蚪🇫🇮🇺🇳🇪🇺（新的革命仍在继续）",
+        "pinned_tweet_id": "1953031043746861469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957117745088327680/95wT7iRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 387,
+          "like_count": 1181,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 3283
+        },
+        "username": "jiangkedou8964",
+        "verified": false
+      }
+    ]
+  }
+}

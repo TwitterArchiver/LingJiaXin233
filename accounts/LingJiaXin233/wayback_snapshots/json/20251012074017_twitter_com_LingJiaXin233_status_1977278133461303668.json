@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977278128319049728"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1976731676698198323",
+    "created_at": "2025-10-12T07:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977278133461303668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "8964shuishuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LzHdBb7Uy5",
+          "end": 43,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1977278133461303668/photo/1",
+          "media_key": "3_1977278128319049728",
+          "start": 20,
+          "url": "https://t.co/LzHdBb7Uy5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977278133461303668",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976731676698198323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964shuishuimao 🤨🧐 https://t.co/LzHdBb7Uy5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_1977278128319049728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Cz-0ybMAAh_Km.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977278128319049728"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1976731676698198323",
+        "created_at": "2025-10-12T07:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977278133461303668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "8964shuishuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzHdBb7Uy5",
+              "end": 43,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1977278133461303668/photo/1",
+              "media_key": "3_1977278128319049728",
+              "start": 20,
+              "url": "https://t.co/LzHdBb7Uy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977278133461303668",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976731676698198323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964shuishuimao 🤨🧐 https://t.co/LzHdBb7Uy5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1976731676698198323",
+        "created_at": "2025-10-10T19:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T20:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976731676698198323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976731676698198323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28458,
+          "like_count": 193,
+          "quote_count": 9,
+          "reply_count": 54,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么\n这个世界太不公平了\n我13岁接触外网\n16.8岁上x＋吃糖\n但是还是长的这么难看😭\n结果很多16.16.14.13就吃糖的年龄党\n还有好多即便吃的很晚也很好看的天赋党\n还有很多有钱入\n当然也有些人是叠加的\n太不公平了呜呜呜呜😭😭👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 378,
+          "like_count": 5104,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1940
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@mengqing5735和@saonanaa｜找赛博包养主人/姐姐 能见面｜💥🗄25.8.31｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1976935706363937020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 1087,
+          "like_count": 243,
+          "listed_count": 6,
+          "media_count": 2032,
+          "tweet_count": 10333
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "8964shuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

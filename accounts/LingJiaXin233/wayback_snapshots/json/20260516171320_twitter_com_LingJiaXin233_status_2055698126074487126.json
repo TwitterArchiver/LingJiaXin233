@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055698119829147648"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055544147092840765",
+    "created_at": "2026-05-16T17:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055698126074487126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030962731621466112",
+          "start": 0,
+          "username": "597_914112"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k5ieDjTQIi",
+          "end": 112,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055698126074487126/photo/1",
+          "media_key": "3_2055698119829147648",
+          "start": 89,
+          "url": "https://t.co/k5ieDjTQIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055698126074487126",
+    "in_reply_to_user_id": "2030962731621466112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055690458375012592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@597_914112 宝宝你有几个人格🤣小嘉欣我这边给您的诊断是狂躁症加双向情感障碍，建议您赶快去mental hospital治疗而不是跟条野狗一样出来乱咬人哦小宝🤣👎😆😋 https://t.co/k5ieDjTQIi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055698119829147648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdOjGXa0AA22FK.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055698119829147648"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-16T17:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055698126074487126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030962731621466112",
+              "start": 0,
+              "username": "597_914112"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k5ieDjTQIi",
+              "end": 112,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055698126074487126/photo/1",
+              "media_key": "3_2055698119829147648",
+              "start": 89,
+              "url": "https://t.co/k5ieDjTQIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055698126074487126",
+        "in_reply_to_user_id": "2030962731621466112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055690458375012592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@597_914112 宝宝你有几个人格🤣小嘉欣我这边给您的诊断是狂躁症加双向情感障碍，建议您赶快去mental hospital治疗而不是跟条野狗一样出来乱咬人哦小宝🤣👎😆😋 https://t.co/k5ieDjTQIi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030962731621466112",
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-16T16:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055690458375012592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055690458375012592",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055544147092840765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 操你妈能让你们这群畜生有手机玩就不错了 你有什么资格翻墙说中式家长 祝你早日回到扭转机构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5223,
+          "following_count": 693,
+          "like_count": 16973,
+          "listed_count": 11,
+          "media_count": 1501,
+          "tweet_count": 4608
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T11:03:53.000Z",
+        "description": "",
+        "id": "2030962731621466112",
+        "location": "马里亚纳海沟",
+        "name": "零敲牛皮糖896.4🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041407529994043392/oJbTijjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 6,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 213
+        },
+        "username": "597_914112",
+        "verified": false
+      }
+    ]
+  }
+}

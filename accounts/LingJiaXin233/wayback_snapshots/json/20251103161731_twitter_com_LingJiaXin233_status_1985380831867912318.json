@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1985380831867912318",
+    "created_at": "2025-11-03T16:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985380831867912318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/se_he_shang/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/se_he_shang/status/1985371692051595453",
+          "start": 9,
+          "url": "https://t.co/6sbSYa9wgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985380831867912318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985371692051595453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们在为谁而活？ https://t.co/6sbSYa9wgw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1985380831867912318",
+        "created_at": "2025-11-03T16:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985380831867912318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/se_he_shang/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/se_he_shang/status/1985371692051595453",
+              "start": 9,
+              "url": "https://t.co/6sbSYa9wgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985380831867912318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985371692051595453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们在为谁而活？ https://t.co/6sbSYa9wgw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873321446216470528",
+        "conversation_id": "1985302534882480452",
+        "created_at": "2025-11-03T15:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985371692051595453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985371692051595453",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985302534882480452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 姐妹们\n我最不能理解的是跟父母的敌对行为\n楼上有些挑拨离间锦妹和父母的……\n我就想说\n你们吃着父母的住着父母的\n父母倒是欠你的了？\n父母伤心了你能好受？\n先学会做个人！\n再考虑做男人还是女人吧！\n为了父母感受\n适当的妥协也未尝不可\n毕竟父母也是真的关心自己的孩子\n只是立场可能不同罢了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 401,
+          "like_count": 5792,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2057
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T10:53:41.000Z",
+        "description": "其实我是女人，深柜中……",
+        "id": "1873321446216470528",
+        "location": "Los Angeles, CA",
+        "name": "色色道姑爱吃肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985327691026083840/nl3RvDto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Se_He_Shang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1651306369687879684",
+    "created_at": "2025-10-13T04:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T05:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977594596453744647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        },
+        {
+          "end": 21,
+          "id": "1615562921823567872",
+          "start": 11,
+          "username": "yizhiajin"
+        },
+        {
+          "end": 34,
+          "id": "17595489",
+          "start": 22,
+          "username": "RFA_Chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977594596453744647",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1652167052927586305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan @yizhiajin @RFA_Chinese 考古"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1651306369687879684",
+        "created_at": "2025-10-13T04:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T05:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977594596453744647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 21,
+              "id": "1615562921823567872",
+              "start": 11,
+              "username": "yizhiajin"
+            },
+            {
+              "end": 34,
+              "id": "17595489",
+              "start": 22,
+              "username": "RFA_Chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977594596453744647",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1652167052927586305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan @yizhiajin @RFA_Chinese 考古"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1651306369687879684",
+        "created_at": "2023-04-29T04:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-29T04:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1652167052927586305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615562921823567872",
+              "start": 0,
+              "username": "yizhiajin"
+            },
+            {
+              "end": 23,
+              "id": "17595489",
+              "start": 11,
+              "username": "RFA_Chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1652167052927586305",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1652166343909838848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhiajin @RFA_Chinese 这就是中国式教育的悲哀！国内大环境的悲哀！有很大一部分跨性别是因为校园暴力、家庭暴力，可是那些事情中国的执法机关完全就不想管！有关校园暴力家庭暴力的科普一大堆学校压根就不重视！更不要说防范！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 377,
+          "like_count": 5144,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1954
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰🍥",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977384975751335936/hdJMHO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11789,
+          "following_count": 453,
+          "like_count": 28044,
+          "listed_count": 19,
+          "media_count": 2966,
+          "tweet_count": 10223
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T04:13:22.000Z",
+        "description": "",
+        "id": "1615562921823567872",
+        "name": "美琪家的叮当猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621155739506200581/PIoBW8Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 89,
+          "like_count": 1282,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 274
+        },
+        "username": "yizhiajin",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-24T16:59:35.000Z",
+        "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfa.org/mandarin",
+                "end": 23,
+                "expanded_url": "http://www.rfa.org/mandarin",
+                "start": 0,
+                "url": "https://t.co/A7MLgsDkcc"
+              }
+            ]
+          }
+        },
+        "id": "17595489",
+        "location": "Washington, DC",
+        "name": "自由亚洲电台",
+        "pinned_tweet_id": "1963269791420129519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738297,
+          "following_count": 3590,
+          "like_count": 969,
+          "listed_count": 5817,
+          "media_count": 30901,
+          "tweet_count": 150589
+        },
+        "url": "https://t.co/A7MLgsDkcc",
+        "username": "RFA_Chinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053634489272971264"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2053634858531131902",
+    "created_at": "2026-05-11T00:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053634858531131902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/78SuyU7KpL",
+          "end": 34,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2053634858531131902/video/1",
+          "media_key": "13_2053634489272971264",
+          "start": 11,
+          "url": "https://t.co/78SuyU7KpL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053634858531131902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男朋友们能组一个团了 https://t.co/78SuyU7KpL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30695,
+        "height": 2016,
+        "media_key": "13_2053634489272971264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053634489272971264/img/phQhUZnkRfaF-qX3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053634489272971264/vid/avc1/320x582/oWs23yijSOIL5Ju8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053634489272971264/vid/avc1/720x1310/79WRoWJaLz7TK6f5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053634489272971264/vid/avc1/480x872/ykw6hbuxz-3ux7RQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053634489272971264/pl/JQ86Ynn5DrsVnH18.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053634489272971264/vid/avc1/1108x2016/YdQ3ukS6YfftTGw_.mp4"
+          }
+        ],
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053634489272971264"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2053634858531131902",
+        "created_at": "2026-05-11T00:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053634858531131902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78SuyU7KpL",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053634858531131902/video/1",
+              "media_key": "13_2053634489272971264",
+              "start": 11,
+              "url": "https://t.co/78SuyU7KpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053634858531131902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友们能组一个团了 https://t.co/78SuyU7KpL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4609,
+          "following_count": 676,
+          "like_count": 16406,
+          "listed_count": 11,
+          "media_count": 1320,
+          "tweet_count": 4366
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

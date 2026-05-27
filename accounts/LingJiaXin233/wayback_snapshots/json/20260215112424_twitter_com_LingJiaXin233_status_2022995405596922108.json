@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-15T11:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022995405596922108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935409584921026560",
+          "start": 0,
+          "username": "jadr1569464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022995405596922108",
+    "in_reply_to_user_id": "1935409584921026560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022995031901290536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jadr1569464 我一个月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022995405596922108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935409584921026560",
+              "start": 0,
+              "username": "jadr1569464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022995405596922108",
+        "in_reply_to_user_id": "1935409584921026560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022995031901290536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jadr1569464 我一个月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935409584921026560",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022995031901290536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022995031901290536",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022993251222126593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 要是干自媒体 也正常吧 攒几个月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 442,
+          "like_count": 8112,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2338
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T18:49:47.000Z",
+        "description": "",
+        "id": "1935409584921026560",
+        "name": "jadr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935409645184585728/FTn90r7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "jadr1569464",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2059221202355491198",
+    "created_at": "2026-05-26T11:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059232335783145509"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059232335783145509",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059221202355491198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我测的结果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2059221196038950913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPSxH_bUAEp3iJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2059221202355491198",
+        "created_at": "2026-05-26T11:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059232335783145509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059232335783145509",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059221202355491198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我测的结果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059221196038950913"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2059221202355491198",
+        "created_at": "2026-05-26T10:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059221202355491198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6KDylRrhD",
+              "end": 68,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2059221202355491198/photo/1",
+              "media_key": "3_2059221196038950913",
+              "start": 45,
+              "url": "https://t.co/Z6KDylRrhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059221202355491198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得mmpi的mf分非常不合理，\n看了下知乎，\n提高这一项的，\n基本上全是刻板印象…… https://t.co/Z6KDylRrhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 675,
+          "like_count": 17875,
+          "listed_count": 11,
+          "media_count": 1814,
+          "tweet_count": 5075
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

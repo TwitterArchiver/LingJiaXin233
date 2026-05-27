@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2043498942311055497",
+    "created_at": "2026-04-13T04:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043547756770574509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 16,
+          "id": "1154174763918606339",
+          "start": 8,
+          "username": "maoshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043547756770574509",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043504101099790644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @maoshen xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2043504094619500544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv8JajaAAA_YXU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2043504094623789056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv8JakbcAAcoFV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2043498942311055497",
+        "created_at": "2026-04-13T04:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043547756770574509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 16,
+              "id": "1154174763918606339",
+              "start": 8,
+              "username": "maoshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043547756770574509",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043504101099790644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @maoshen xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043504094619500544",
+            "3_2043504094623789056"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2043498942311055497",
+        "created_at": "2026-04-13T01:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043504101099790644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1154174763918606339",
+              "start": 0,
+              "username": "maoshen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPi8Vl3RXN",
+              "end": 58,
+              "expanded_url": "https://x.com/BI3BXI/status/2043504101099790644/photo/1",
+              "media_key": "3_2043504094619500544",
+              "start": 35,
+              "url": "https://t.co/RPi8Vl3RXN"
+            },
+            {
+              "display_url": "pic.x.com/RPi8Vl3RXN",
+              "end": 58,
+              "expanded_url": "https://x.com/BI3BXI/status/2043504101099790644/photo/1",
+              "media_key": "3_2043504094623789056",
+              "start": 35,
+              "url": "https://t.co/RPi8Vl3RXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043504101099790644",
+        "in_reply_to_user_id": "1154174763918606339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043498942311055497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoshen 我不知道\n我只知道今年收益化改制之后我是真看到钱了 https://t.co/RPi8Vl3RXN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 562,
+          "like_count": 13291,
+          "listed_count": 9,
+          "media_count": 634,
+          "tweet_count": 3383
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "🏳️‍🌈Enby🏳️‍⚧️｜@yqua_ ｜ ❤️@show5560\n｜@Tennoujinyano｜@XUEQIUxka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "yqua_"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "show5560"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8471,
+          "following_count": 3976,
+          "like_count": 40645,
+          "listed_count": 25,
+          "media_count": 2581,
+          "tweet_count": 10090
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T23:41:22.000Z",
+        "description": "华语区独立观察者｜猫神官方账号｜YouTube《猫神漫谈》博主\n坚持清醒表达，尊重多元观点｜守心明理、知行合一，呵护内心❤️那束光\n吃瓜是表象、热点看真相｜愿在网络世界里，与有温度、有力量的您同行🔥",
+        "id": "1154174763918606339",
+        "name": "猫神",
+        "pinned_tweet_id": "2040610424287011115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001526142566531072/TzxJKerc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205665,
+          "following_count": 8081,
+          "like_count": 4293,
+          "listed_count": 505,
+          "media_count": 4090,
+          "tweet_count": 11173
+        },
+        "username": "maoshen",
+        "verified": true
+      }
+    ]
+  }
+}

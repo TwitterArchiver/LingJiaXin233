@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052283380134240256"
+      ],
+      "media_source_tweet_id": [
+        "2052283383942635587"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052285846599111047",
+    "created_at": "2026-05-07T07:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052285846599111047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lA1eqsjift",
+          "end": 101,
+          "expanded_url": "https://x.com/amber_digit/status/2052283383942635587/photo/1",
+          "media_key": "3_2052283380134240256",
+          "start": 78,
+          "url": "https://t.co/lA1eqsjift"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052285846599111047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052283383942635587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: 大家好我是amber，我的号不知道又被什么人举报没了所以目前征用前段时间搞的这个ai水母号，请大家帮忙传播一下，非常感谢 https://t.co/lA1eqsjift"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052283380134240256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHss3FtW4AA-5lp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052283380134240256"
+          ],
+          "media_source_tweet_id": [
+            "2052283383942635587"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052285846599111047",
+        "created_at": "2026-05-07T07:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052285846599111047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lA1eqsjift",
+              "end": 101,
+              "expanded_url": "https://x.com/amber_digit/status/2052283383942635587/photo/1",
+              "media_key": "3_2052283380134240256",
+              "start": 78,
+              "url": "https://t.co/lA1eqsjift"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052285846599111047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052283383942635587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: 大家好我是amber，我的号不知道又被什么人举报没了所以目前征用前段时间搞的这个ai水母号，请大家帮忙传播一下，非常感谢 https://t.co/lA1eqsjift"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052283380134240256"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2052283383942635587",
+        "created_at": "2026-05-07T07:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052283383942635587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lA1eqsjift",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_digit/status/2052283383942635587/photo/1",
+              "media_key": "3_2052283380134240256",
+              "start": 61,
+              "url": "https://t.co/lA1eqsjift"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052283383942635587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是amber，我的号不知道又被什么人举报没了所以目前征用前段时间搞的这个ai水母号，请大家帮忙传播一下，非常感谢 https://t.co/lA1eqsjift"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 670,
+          "like_count": 16034,
+          "listed_count": 12,
+          "media_count": 1215,
+          "tweet_count": 4223
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "",
+        "id": "2040565175514779648",
+        "name": "amber",
+        "pinned_tweet_id": "2052283383942635587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 32,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "amber_digit",
+        "verified": false
+      }
+    ]
+  }
+}

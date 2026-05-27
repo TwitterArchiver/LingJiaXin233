@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057684345071259648"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2057684351970943112",
+    "created_at": "2026-05-22T04:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057684351970943112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCOyA8iiqZ",
+          "end": 23,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2057684351970943112/photo/1",
+          "media_key": "3_2057684345071259648",
+          "start": 0,
+          "url": "https://t.co/oCOyA8iiqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057684351970943112",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/oCOyA8iiqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2057684345071259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5dAn_a0AAXK6l.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057684345071259648"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2057684351970943112",
+        "created_at": "2026-05-22T04:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057684351970943112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCOyA8iiqZ",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2057684351970943112/photo/1",
+              "media_key": "3_2057684345071259648",
+              "start": 0,
+              "url": "https://t.co/oCOyA8iiqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057684351970943112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oCOyA8iiqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5582,
+          "following_count": 708,
+          "like_count": 17428,
+          "listed_count": 11,
+          "media_count": 1675,
+          "tweet_count": 4872
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022592456416727468",
+    "created_at": "2026-02-16T02:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023227338448924805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699282628560748544",
+          "start": 0,
+          "username": "tingkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023227338448924805",
+    "in_reply_to_user_id": "1699282628560748544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022592456416727468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingkawayi 设置门槛的重要性"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022592446790799362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGxHTxakAIjEms.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022592456416727468",
+        "created_at": "2026-02-16T02:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023227338448924805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699282628560748544",
+              "start": 0,
+              "username": "tingkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023227338448924805",
+        "in_reply_to_user_id": "1699282628560748544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022592456416727468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingkawayi 设置门槛的重要性"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022592446790799362"
+          ]
+        },
+        "author_id": "1699282628560748544",
+        "conversation_id": "2022592456416727468",
+        "created_at": "2026-02-14T08:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022592456416727468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EW6SHLCUd",
+              "end": 83,
+              "expanded_url": "https://x.com/tingkawayi/status/2022592456416727468/photo/1",
+              "media_key": "3_2022592446790799362",
+              "start": 60,
+              "url": "https://t.co/6EW6SHLCUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022592456416727468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 547294,
+          "like_count": 1454,
+          "quote_count": 7,
+          "reply_count": 263,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "恶臭顺直看黄男好恶心啊，你自己不问性别我还带🍥呢，跑过来要个联系方式还骂我，给我整的好难受啊，我以后再也不免🚪了呜呜呜 https://t.co/6EW6SHLCUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 444,
+          "like_count": 8181,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2389
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:45:33.000Z",
+        "description": "想被关注呜（同类必回）@renkawayi这是我最最可爱的第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "renkawayi"
+              }
+            ]
+          }
+        },
+        "id": "1699282628560748544",
+        "location": "辽宁大连",
+        "name": "町🍥",
+        "pinned_tweet_id": "1821397083192262726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018304464911028224/k-Z0w2qM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7789,
+          "following_count": 537,
+          "like_count": 304,
+          "listed_count": 12,
+          "media_count": 99,
+          "tweet_count": 772
+        },
+        "username": "tingkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

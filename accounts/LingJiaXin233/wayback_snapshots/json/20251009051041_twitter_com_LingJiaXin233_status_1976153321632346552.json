@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975924709448409092",
+    "created_at": "2025-10-09T05:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976153321632346552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1917557437130846208",
+          "start": 0,
+          "username": "0xzzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976153321632346552",
+    "in_reply_to_user_id": "1917557437130846208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975924709448409092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xzzs 许愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975924709448409092",
+        "created_at": "2025-10-09T05:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976153321632346552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1917557437130846208",
+              "start": 0,
+              "username": "0xzzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976153321632346552",
+        "in_reply_to_user_id": "1917557437130846208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975924709448409092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xzzs 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917557437130846208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1975924709448409092",
+        "created_at": "2025-10-08T14:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975924709448409092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975924709448409092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 46310,
+          "like_count": 452,
+          "quote_count": 9,
+          "reply_count": 406,
+          "retweet_count": 351
+        },
+        "reply_settings": "everyone",
+        "text": "最近BSC杀疯了 买都买不过来了\n\n干脆拿我赚的钱一起来享受下币安人生\n\n一键三连抽台iphone 17 pro max 512G\n\n3天后开奖 要求三连关注我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 367,
+          "like_count": 4879,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1916
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T12:31:57.000Z",
+        "description": "2021年单币A8 🙏顶级猎人 Building @HashKeyPro| meme玩家群：https://t.co/akGiz7TaG7 手机打狗就用大金狗https://t.co/VJ5M8iah8v邀请码：29A4DEBD注册可私我进v群（合作返佣dm👉 https://t.co/bvPgA45gRc)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "HashKeyPro"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xssmeme",
+                "end": 69,
+                "expanded_url": "https://t.me/xssmeme",
+                "start": 46,
+                "url": "https://t.co/akGiz7TaG7"
+              },
+              {
+                "display_url": "dj.dog",
+                "end": 102,
+                "expanded_url": "https://dj.dog/",
+                "start": 79,
+                "url": "https://t.co/VJ5M8iah8v"
+              },
+              {
+                "display_url": "t.me/ssz_btc",
+                "end": 154,
+                "expanded_url": "https://t.me/ssz_btc",
+                "start": 131,
+                "url": "https://t.co/bvPgA45gRc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xssmeme",
+                "end": 23,
+                "expanded_url": "https://t.me/xssmeme",
+                "start": 0,
+                "url": "https://t.co/akGiz7TaG7"
+              }
+            ]
+          }
+        },
+        "id": "1917557437130846208",
+        "location": "New York, USA",
+        "name": "0xSS",
+        "pinned_tweet_id": "1963629163207954527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960362772962983936/iWBR7wRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 537,
+          "like_count": 1578,
+          "listed_count": 6,
+          "media_count": 105,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/akGiz7TaG7",
+        "username": "0xzzs",
+        "verified": true
+      }
+    ]
+  }
+}

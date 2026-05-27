@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975136496383631360"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975135076905308464",
+    "created_at": "2025-10-06T09:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975136502939308263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIU5byMkrG",
+          "end": 53,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1975136502939308263/photo/1",
+          "media_key": "3_1975136496383631360",
+          "start": 30,
+          "url": "https://t.co/XIU5byMkrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975136502939308263",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975135076905308464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 “你们”药娘？所以你含糖吗？😇🥺🤣 https://t.co/XIU5byMkrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1975136496383631360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kYLcHbIAAkpna.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1063,
+        "media_key": "3_1975135065152835584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kW4IXaUAAYV8K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975136496383631360"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975135076905308464",
+        "created_at": "2025-10-06T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975136502939308263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIU5byMkrG",
+              "end": 53,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1975136502939308263/photo/1",
+              "media_key": "3_1975136496383631360",
+              "start": 30,
+              "url": "https://t.co/XIU5byMkrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975136502939308263",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975135076905308464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 “你们”药娘？所以你含糖吗？😇🥺🤣 https://t.co/XIU5byMkrG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975135065152835584"
+          ]
+        },
+        "author_id": "1946598569747894273",
+        "conversation_id": "1975135076905308464",
+        "created_at": "2025-10-06T09:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975135076905308464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeSNaQPg2r",
+              "end": 149,
+              "expanded_url": "https://x.com/xmin240286/status/1975135076905308464/photo/1",
+              "media_key": "3_1975135065152835584",
+              "start": 126,
+              "url": "https://t.co/UeSNaQPg2r"
+            },
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/xmin240286/status/1975134876765753444",
+              "start": 150,
+              "url": "https://t.co/fCnIfcEjHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975135076905308464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975134876765753444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我的理解里，你们药娘圈说的“翻车”，准确来说是指原本是任意性别的顺性别者开始服用相反性别的激素，但性别认同完全有可能保持不变。\n这就比如，许多标有“翻车顺男”的人的性别认同仍然是男性或者是模糊的。\n只有标有“MTF”“跨女”才是准确表达了性别认同。 https://t.co/UeSNaQPg2r https://t.co/fCnIfcEjHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975122586456699231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 363,
+          "like_count": 4587,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1855
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 201,
+          "like_count": 3231,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1146508557044469760",
+          "name": "Mahjong"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "2025406063621591398",
+    "created_at": "2026-02-22T03:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025406063621591398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025406063621591398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "又导了两关，很稀薄，像十二年前校口五毛钱一杯的米粥。我们跑完早操在店门口经过，谈论将来要用理想做什么，像早已调亡的麻雀，叽叽喳喳的从头顶飞过。\n        晨雾还没散，塑料管里淌着的像是被水稀释的晨光。我们挤在摊位前，用修正液在塑料杯上写诗，那些字迹遇水就晕开，像我们当年怎么都握不紧的誓言。卖粥的阿姨总是笑着，往每个杯子里多撒一撮糖——那时我们以为生活永远会这么甜。\n         多年后的这个清晨，我对着洗手间镜子挤牙膏，突然看见那些白色膏体像极了当年杯沿凝固的米浆。电动牙刷的嗡鸣里，我分明听见有人在雾气那头问：“你后来把理想种在哪儿了？”\n        而答案正顺着下水道沉默地流走。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又导了两关，很稀薄，像十二年前校口五毛钱一杯的米粥。我们跑完早操在店门口经过，谈论将来要用理想做什么，像早已调亡的麻雀，叽叽喳喳的从头顶飞过。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2025406063621591398",
+        "created_at": "2026-02-22T03:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025406063621591398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025406063621591398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "又导了两关，很稀薄，像十二年前校口五毛钱一杯的米粥。我们跑完早操在店门口经过，谈论将来要用理想做什么，像早已调亡的麻雀，叽叽喳喳的从头顶飞过。\n        晨雾还没散，塑料管里淌着的像是被水稀释的晨光。我们挤在摊位前，用修正液在塑料杯上写诗，那些字迹遇水就晕开，像我们当年怎么都握不紧的誓言。卖粥的阿姨总是笑着，往每个杯子里多撒一撮糖——那时我们以为生活永远会这么甜。\n         多年后的这个清晨，我对着洗手间镜子挤牙膏，突然看见那些白色膏体像极了当年杯沿凝固的米浆。电动牙刷的嗡鸣里，我分明听见有人在雾气那头问：“你后来把理想种在哪儿了？”\n        而答案正顺着下水道沉默地流走。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又导了两关，很稀薄，像十二年前校口五毛钱一杯的米粥。我们跑完早操在店门口经过，谈论将来要用理想做什么，像早已调亡的麻雀，叽叽喳喳的从头顶飞过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "数码爱好者｜果粉｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭 投稿请私信，侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "pinned_tweet_id": "2024702574423937169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 560,
+          "like_count": 8439,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2449
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

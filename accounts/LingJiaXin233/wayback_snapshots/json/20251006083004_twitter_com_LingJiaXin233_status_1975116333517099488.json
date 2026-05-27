@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975116333517099488",
+    "created_at": "2025-10-06T08:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975116333517099488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "1946598569747894273",
+          "start": 33,
+          "username": "xmin240286"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xmin240286/sta…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/xmin240286/status/1975113634968953223",
+          "start": 99,
+          "url": "https://t.co/HN2t73Fohl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975116333517099488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975113634968953223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁在虚空索敌？？？\n我这篇帖子里针对的对象是谁都没指明，但是@xmin240286 上来就狗叫一口咬定是我且不对我的名字做打码处理，你这和诽谤有什么区别？\n而且我哪有人身攻击了，说理听不懂？ https://t.co/HN2t73Fohl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_1975113631961612288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kDYjgagAAQYZi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975116333517099488",
+        "created_at": "2025-10-06T08:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975116333517099488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1946598569747894273",
+              "start": 33,
+              "username": "xmin240286"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xmin240286/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/xmin240286/status/1975113634968953223",
+              "start": 99,
+              "url": "https://t.co/HN2t73Fohl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975116333517099488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975113634968953223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁在虚空索敌？？？\n我这篇帖子里针对的对象是谁都没指明，但是@xmin240286 上来就狗叫一口咬定是我且不对我的名字做打码处理，你这和诽谤有什么区别？\n而且我哪有人身攻击了，说理听不懂？ https://t.co/HN2t73Fohl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975113631961612288"
+          ]
+        },
+        "author_id": "1946598569747894273",
+        "conversation_id": "1975113634968953223",
+        "created_at": "2025-10-06T08:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975113634968953223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcCPYVNfMD",
+              "end": 107,
+              "expanded_url": "https://x.com/xmin240286/status/1975113634968953223/photo/1",
+              "media_key": "3_1975113631961612288",
+              "start": 84,
+              "url": "https://t.co/YcCPYVNfMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975113634968953223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是在继续发表观点，没有针对任何人，也不是对你说的，我转几个贴发表几个观点就这么急？什么虚空索敌\n莫名其妙。。。\n这位自己说了不想吵结果现在仍然在对我进行人身攻击。 https://t.co/YcCPYVNfMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 362,
+          "like_count": 4563,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1837
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 201,
+          "like_count": 3227,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2678
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054618076893839641",
+    "created_at": "2026-05-13T17:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054618076893839641"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054618076893839641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我建议让高中生来上大学，因为他们起得早，早八不会旷。他们喜欢讲座，大学最不缺的就是讲座。他们还特别想上体育课，大学的体育课想旷都旷不掉。\n我建议让大学生去上幼儿园，因为他们需要充足的休息和简单的考试来准备实习。\n我建议让家长们去上高中，因为他们觉少还总是懊悔自己年轻时没有好好学\n我建议让小孩去上班，因为小孩子最想长大"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我建议让高中生来上大学，因为他们起得早，早八不会旷。他们喜欢讲座，大学最不缺的就是讲座。他们还特别想上体育课，大学的体育课想旷都旷不掉。\n我建议让大学生去上幼儿园，因为他们需要充足的休息和简单的考试来准备实习。\n我建议让家长们去上高中，因为他们觉少还总是懊悔自己年轻时没有好好学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054618076893839641",
+        "created_at": "2026-05-13T17:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054618076893839641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054618076893839641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我建议让高中生来上大学，因为他们起得早，早八不会旷。他们喜欢讲座，大学最不缺的就是讲座。他们还特别想上体育课，大学的体育课想旷都旷不掉。\n我建议让大学生去上幼儿园，因为他们需要充足的休息和简单的考试来准备实习。\n我建议让家长们去上高中，因为他们觉少还总是懊悔自己年轻时没有好好学\n我建议让小孩去上班，因为小孩子最想长大"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我建议让高中生来上大学，因为他们起得早，早八不会旷。他们喜欢讲座，大学最不缺的就是讲座。他们还特别想上体育课，大学的体育课想旷都旷不掉。\n我建议让大学生去上幼儿园，因为他们需要充足的休息和简单的考试来准备实习。\n我建议让家长们去上高中，因为他们觉少还总是懊悔自己年轻时没有好好学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 680,
+          "like_count": 16624,
+          "listed_count": 11,
+          "media_count": 1404,
+          "tweet_count": 4466
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

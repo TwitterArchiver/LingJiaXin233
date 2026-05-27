@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054770479282487436",
+    "created_at": "2026-05-14T17:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054980062232101317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047631450829471745",
+          "start": 0,
+          "username": "AdrianPunk115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054980062232101317",
+    "in_reply_to_user_id": "2047631450829471745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054770479282487436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AdrianPunk115 某种意义上这篇文章纯在过度解读，一股ai味😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054770479282487436",
+        "created_at": "2026-05-14T17:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054980062232101317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047631450829471745",
+              "start": 0,
+              "username": "AdrianPunk115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054980062232101317",
+        "in_reply_to_user_id": "2047631450829471745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054770479282487436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AdrianPunk115 某种意义上这篇文章纯在过度解读，一股ai味😅"
+      },
+      {
+        "article": {
+          "title": "罗永浩重返X，不是简单换个平台，是一次明确的出走"
+        },
+        "attachments": {},
+        "author_id": "2047631450829471745",
+        "conversation_id": "2054770479282487436",
+        "created_at": "2026-05-14T03:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054770479282487436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2054…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2054760607782707200",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2054760607782707200",
+              "url": "https://t.co/zZXZx052vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054770479282487436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6699,
+          "like_count": 45,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zZXZx052vg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054769012492599789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 680,
+          "like_count": 16714,
+          "listed_count": 10,
+          "media_count": 1435,
+          "tweet_count": 4512
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T10:59:59.000Z",
+        "description": "中科大MBA🎓｜永远站风口，提过两次桶\n掌管图片提示词的神\n从0到1搞AI✖️Web3，在拿低保的路上\nHerName首席设计师",
+        "id": "2047631450829471745",
+        "name": "Adrian Punk",
+        "pinned_tweet_id": "2051494055692116286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047867359583666176/dmteLzmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 273,
+          "like_count": 827,
+          "listed_count": 16,
+          "media_count": 108,
+          "tweet_count": 2232
+        },
+        "username": "AdrianPunk115",
+        "verified": true
+      }
+    ]
+  }
+}

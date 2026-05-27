@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1976233173005762847",
+    "created_at": "2025-10-09T13:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T14:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976278249014689917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976278249014689917",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976233173005762847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 揉揉揉猫猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4406,
+        "height": 1280,
+        "media_key": "7_1976233051215613952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1976233051215613952/pu/img/eBzXosr4kJCAIGgh.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976233051215613952/pu/vid/avc1/320x568/nFRifzjw9w8lxhl1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976233051215613952/pu/vid/avc1/480x852/a131FHirNbSWK5Du.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1976233051215613952/pu/vid/avc1/720x1280/rpnuaAVVDRQ1_uMS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1976233051215613952/pu/pl/Y7jkS4UiuvdRXASh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1976233173005762847",
+        "created_at": "2025-10-09T13:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976278249014689917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976278249014689917",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976233173005762847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 揉揉揉猫猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1976233051215613952"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "1976233173005762847",
+        "created_at": "2025-10-09T10:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976233173005762847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tuwAQPw0u",
+              "end": 43,
+              "expanded_url": "https://x.com/DianJ71828/status/1976233173005762847/video/1",
+              "media_key": "7_1976233051215613952",
+              "start": 20,
+              "url": "https://t.co/1tuwAQPw0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976233173005762847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫头发炸了₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/1tuwAQPw0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 371,
+          "like_count": 4929,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 1924
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "mtf洁身自好跨女同💕(我看并非如此♡)/intp/家长疑似放养👀/时不时鉴证发烧💗(实则天天发情💓)/口嗨党🥵🥵(实际上是个处)/疑似多意识体(互联网上一般是我😋)/长驻v🚪52/同类互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 499,
+          "like_count": 3825,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 875
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

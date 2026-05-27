@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1971359501128511650",
+    "created_at": "2025-10-18T22:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T23:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979670424213704938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1526125128672653313",
+          "start": 0,
+          "username": "Ayu_150"
+        },
+        {
+          "end": 18,
+          "id": "715183792697303041",
+          "start": 9,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979670424213704938",
+    "in_reply_to_user_id": "1526125128672653313",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971359501128511650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayu_150 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47200,
+        "height": 1080,
+        "media_key": "13_1971359030212952064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971359030212952064/img/3wx_rucET6AcR-P0.jpg",
+        "public_metrics": {
+          "view_count": 522427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971359030212952064/vid/avc1/1080x1080/6hxv1Z9g4kwj1Yb9.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971359030212952064/vid/avc1/320x320/tQn0Il-iSCUcKe6K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971359030212952064/pl/zlAyj88h2akURNJP.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971359030212952064/vid/avc1/720x720/FRmdcCm7HZeTVhHg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971359030212952064/vid/avc1/540x540/6qHZUQYoFj_K4BoQ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1971359501128511650",
+        "created_at": "2025-10-18T22:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979670424213704938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1526125128672653313",
+              "start": 0,
+              "username": "Ayu_150"
+            },
+            {
+              "end": 18,
+              "id": "715183792697303041",
+              "start": 9,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979670424213704938",
+        "in_reply_to_user_id": "1526125128672653313",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971359501128511650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayu_150 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971359030212952064"
+          ]
+        },
+        "author_id": "1526125128672653313",
+        "conversation_id": "1971359501128511650",
+        "created_at": "2025-09-25T23:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T00:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971359501128511650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6ohFA1xVB",
+              "end": 33,
+              "expanded_url": "https://x.com/Ayu_150/status/1971359501128511650/video/1",
+              "media_key": "13_1971359030212952064",
+              "start": 10,
+              "url": "https://t.co/f6ohFA1xVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971359501128511650",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11238,
+          "impression_count": 273784,
+          "like_count": 21117,
+          "quote_count": 23,
+          "reply_count": 55,
+          "retweet_count": 1218
+        },
+        "reply_settings": "everyone",
+        "text": "LVL 1 ~ 8 https://t.co/f6ohFA1xVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 387,
+          "like_count": 5467,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2001
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T08:59:32.000Z",
+        "description": "HELLO😆💕 #vrchat #vrc #VRchat\nPatreon: https://t.co/ZVbWAZan6z",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 8,
+                "tag": "vrchat"
+              },
+              {
+                "end": 20,
+                "start": 16,
+                "tag": "vrc"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "VRchat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/ayu150",
+                "end": 61,
+                "expanded_url": "https://www.patreon.com/ayu150",
+                "start": 38,
+                "url": "https://t.co/ZVbWAZan6z"
+              }
+            ]
+          }
+        },
+        "id": "1526125128672653313",
+        "name": "아유 (Ayu)",
+        "pinned_tweet_id": "1974089094360936457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535333446528094208/bGaMxxaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64895,
+          "following_count": 757,
+          "like_count": 8868,
+          "listed_count": 191,
+          "media_count": 282,
+          "tweet_count": 5033
+        },
+        "username": "Ayu_150",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275963,
+          "following_count": 115,
+          "like_count": 20,
+          "listed_count": 649,
+          "media_count": 1,
+          "tweet_count": 812748
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

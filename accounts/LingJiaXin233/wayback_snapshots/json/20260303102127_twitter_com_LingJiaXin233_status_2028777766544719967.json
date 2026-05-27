@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028777753416433664",
+        "3_2028777753412345856"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028777766544719967",
+    "created_at": "2026-03-03T10:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028777766544719967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MmnFwk2JYn",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2028777766544719967/photo/1",
+          "media_key": "3_2028777753416433664",
+          "start": 13,
+          "url": "https://t.co/MmnFwk2JYn"
+        },
+        {
+          "display_url": "pic.x.com/MmnFwk2JYn",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2028777766544719967/photo/1",
+          "media_key": "3_2028777753412345856",
+          "start": 13,
+          "url": "https://t.co/MmnFwk2JYn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028777766544719967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃购买三星flip7 https://t.co/MmnFwk2JYn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028777753416433664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeqniiaAAA--Ed.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028777753412345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeqnihboAA3QLl.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028777753416433664",
+            "3_2028777753412345856"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028777766544719967",
+        "created_at": "2026-03-03T10:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028777766544719967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmnFwk2JYn",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2028777766544719967/photo/1",
+              "media_key": "3_2028777753416433664",
+              "start": 13,
+              "url": "https://t.co/MmnFwk2JYn"
+            },
+            {
+              "display_url": "pic.x.com/MmnFwk2JYn",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2028777766544719967/photo/1",
+              "media_key": "3_2028777753412345856",
+              "start": 13,
+              "url": "https://t.co/MmnFwk2JYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028777766544719967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃购买三星flip7 https://t.co/MmnFwk2JYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "如果你没有被我block那你应该感到幸福/不见证，不讨论政治不感兴趣/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2028481477584003271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 734,
+          "like_count": 8922,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 2561
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055796044999561216"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055796052322869569",
+    "created_at": "2026-05-16T23:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055796052322869569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mIdhxKkWq7",
+          "end": 62,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055796052322869569/photo/1",
+          "media_key": "3_2055796044999561216",
+          "start": 39,
+          "url": "https://t.co/mIdhxKkWq7"
+        },
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/2055290470415360247",
+          "start": 63,
+          "url": "https://t.co/1FuAicHsYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055796052322869569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055290470415360247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只想说，为施暴者的暴行开脱的人，本身就和施暴者一样，令人发自灵魂深处的厌恶 https://t.co/mIdhxKkWq7 https://t.co/1FuAicHsYr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2055796044999561216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIennGDaEAAHciU.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055290462676905984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbyVIa8AAvIrt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055796044999561216"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055796052322869569",
+        "created_at": "2026-05-16T23:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055796052322869569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIdhxKkWq7",
+              "end": 62,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055796052322869569/photo/1",
+              "media_key": "3_2055796044999561216",
+              "start": 39,
+              "url": "https://t.co/mIdhxKkWq7"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2055290470415360247",
+              "start": 63,
+              "url": "https://t.co/1FuAicHsYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055796052322869569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055290470415360247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只想说，为施暴者的暴行开脱的人，本身就和施暴者一样，令人发自灵魂深处的厌恶 https://t.co/mIdhxKkWq7 https://t.co/1FuAicHsYr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055290462676905984"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055290470415360247",
+        "created_at": "2026-05-15T14:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055290470415360247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tPdH3Rlm0",
+              "end": 67,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055290470415360247/photo/1",
+              "media_key": "3_2055290462676905984",
+              "start": 44,
+              "url": "https://t.co/9tPdH3Rlm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055290470415360247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17760,
+          "like_count": 227,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "感谢戒网瘾，扭转“学校”对同性恋，跨性别者实施的惨无人道，践踏人权的扭转“治疗”？😅🤣 https://t.co/9tPdH3Rlm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 695,
+          "like_count": 17001,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 4616
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

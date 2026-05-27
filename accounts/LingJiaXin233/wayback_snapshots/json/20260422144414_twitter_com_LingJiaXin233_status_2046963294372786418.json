@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046963288484020225"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2046963294372786418",
+    "created_at": "2026-04-22T14:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046963294372786418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEu1qKqfJG",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2046963294372786418/photo/1",
+          "media_key": "3_2046963288484020225",
+          "start": 5,
+          "url": "https://t.co/wEu1qKqfJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046963294372786418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "除了数学 https://t.co/wEu1qKqfJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2046963288484020225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhGQ_5bAAEBuW5.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046963288484020225"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2046963294372786418",
+        "created_at": "2026-04-22T14:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046963294372786418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEu1qKqfJG",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2046963294372786418/photo/1",
+              "media_key": "3_2046963288484020225",
+              "start": 5,
+              "url": "https://t.co/wEu1qKqfJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046963294372786418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了数学 https://t.co/wEu1qKqfJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3174,
+          "following_count": 597,
+          "like_count": 14685,
+          "listed_count": 9,
+          "media_count": 875,
+          "tweet_count": 3762
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

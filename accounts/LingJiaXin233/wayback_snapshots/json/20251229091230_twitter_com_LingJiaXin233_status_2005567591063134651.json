@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2005567591063134651",
+    "created_at": "2025-12-29T09:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T10:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005567591063134651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1997457469891821569",
+          "start": 3,
+          "username": "shina_phoenix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/UA",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/UA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005567591063134651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005339226934775925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shina_phoenix: 大抵流量实在是有些底下了，所以大概只能……\n抽奖了！\n点赞转发评论本条推特有概率随机掉落商品，并且购买商品后在下面给图文好评截图给我们也可以进行一个二次抽奖，并且二次抽奖得到糖的机会更大哦\n欢迎大家踊跃参与~\nhttps://t.co/UA…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2005567591063134651",
+        "created_at": "2025-12-29T09:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005567591063134651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1997457469891821569",
+              "start": 3,
+              "username": "shina_phoenix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/UA",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/UA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005567591063134651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005339226934775925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shina_phoenix: 大抵流量实在是有些底下了，所以大概只能……\n抽奖了！\n点赞转发评论本条推特有概率随机掉落商品，并且购买商品后在下面给图文好评截图给我们也可以进行一个二次抽奖，并且二次抽奖得到糖的机会更大哦\n欢迎大家踊跃参与~\nhttps://t.co/UA…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997457469891821569",
+        "conversation_id": "2005339226934775925",
+        "created_at": "2025-12-28T18:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T19:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005339226934775925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "m.tb.cn/h.7gKM0WR80G70…",
+              "end": 128,
+              "expanded_url": "https://m.tb.cn/h.7gKM0WR80G70UCD",
+              "start": 105,
+              "status": 200,
+              "unwound_url": "https://m.tb.cn/h.7gKM0WR80G70UCD",
+              "url": "https://t.co/UAJqWZcBbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005339226934775925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大抵流量实在是有些底下了，所以大概只能……\n抽奖了！\n点赞转发评论本条推特有概率随机掉落商品，并且购买商品后在下面给图文好评截图给我们也可以进行一个二次抽奖，并且二次抽奖得到糖的机会更大哦\n欢迎大家踊跃参与~\nhttps://t.co/UAJqWZcBbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 418,
+          "like_count": 7094,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 2183
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T00:05:54.000Z",
+        "description": "我们致力于为多元性别群体提供全方位支持，包括hrt药物与跨性别周边产品。并可以提供心理咨询服务，也可以尝试介绍对象（？）陪伴你走过每一个重要的成长阶段。关注你，理解你，支持你做真实的自己！",
+        "id": "1997457469891821569",
+        "name": "逐善之凤",
+        "pinned_tweet_id": "1997474465341677756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997457947216281600/lN8PYeNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 88,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 153
+        },
+        "username": "shina_phoenix",
+        "verified": false
+      }
+    ]
+  }
+}

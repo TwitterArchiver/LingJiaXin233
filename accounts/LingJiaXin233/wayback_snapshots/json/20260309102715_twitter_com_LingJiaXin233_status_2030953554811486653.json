@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2030953554811486653",
+    "created_at": "2026-03-09T10:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030953554811486653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1983420652981010432",
+          "start": 3,
+          "username": "dissolvingspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030953554811486653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030871157919088731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dissolvingspace: 🎉千粉抽奖来啦！本次送上的是一部关于跨性别的史学研究著作——苏成捷（Matthew H. Sommer）的《清代社会性别规范》📕\n即日起至2026年3月12日13：00（UTC+8），点赞并转发本帖，即可参与抽奖。截止后将随机抽取一名幸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2205,
+        "media_key": "3_2030871153850658816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8aje3bMAAtYod.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030871152823074816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8ajbCbgAADihY.jpg",
+        "width": 707
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2030871154202976256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8ajgLbIAANZy-.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2030871151451463680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8ajV7aYAAGHtA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2030953554811486653",
+        "created_at": "2026-03-09T10:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030953554811486653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1983420652981010432",
+              "start": 3,
+              "username": "dissolvingspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030953554811486653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030871157919088731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dissolvingspace: 🎉千粉抽奖来啦！本次送上的是一部关于跨性别的史学研究著作——苏成捷（Matthew H. Sommer）的《清代社会性别规范》📕\n即日起至2026年3月12日13：00（UTC+8），点赞并转发本帖，即可参与抽奖。截止后将随机抽取一名幸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030871153850658816",
+            "3_2030871152823074816",
+            "3_2030871154202976256",
+            "3_2030871151451463680"
+          ]
+        },
+        "author_id": "1983420652981010432",
+        "conversation_id": "2030871157919088731",
+        "created_at": "2026-03-09T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030871157919088731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gAbHA7sSh",
+              "end": 160,
+              "expanded_url": "https://x.com/dissolvingspace/status/2030871157919088731/photo/1",
+              "media_key": "3_2030871153850658816",
+              "start": 137,
+              "url": "https://t.co/7gAbHA7sSh"
+            },
+            {
+              "display_url": "pic.x.com/7gAbHA7sSh",
+              "end": 160,
+              "expanded_url": "https://x.com/dissolvingspace/status/2030871157919088731/photo/1",
+              "media_key": "3_2030871152823074816",
+              "start": 137,
+              "url": "https://t.co/7gAbHA7sSh"
+            },
+            {
+              "display_url": "pic.x.com/7gAbHA7sSh",
+              "end": 160,
+              "expanded_url": "https://x.com/dissolvingspace/status/2030871157919088731/photo/1",
+              "media_key": "3_2030871154202976256",
+              "start": 137,
+              "url": "https://t.co/7gAbHA7sSh"
+            },
+            {
+              "display_url": "pic.x.com/7gAbHA7sSh",
+              "end": 160,
+              "expanded_url": "https://x.com/dissolvingspace/status/2030871157919088731/photo/1",
+              "media_key": "3_2030871151451463680",
+              "start": 137,
+              "url": "https://t.co/7gAbHA7sSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030871157919088731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 647,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🎉千粉抽奖来啦！本次送上的是一部关于跨性别的史学研究著作——苏成捷（Matthew H. Sommer）的《清代社会性别规范》📕\n即日起至2026年3月12日13：00（UTC+8），点赞并转发本帖，即可参与抽奖。截止后将随机抽取一名幸运推友，以发帖+私信的方式告知结果~ https://t.co/7gAbHA7sSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2028481477584003271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 801,
+          "like_count": 9407,
+          "listed_count": 8,
+          "media_count": 247,
+          "tweet_count": 2626
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T06:29:01.000Z",
+        "description": "🏳️‍⚧️🍥00年大龄MTF（HRT 始于2025.10）丨🟣INTP  丨📍原籍山东，现常居武汉 丨抗郁治疗中〡爱人@Square527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Square527"
+              }
+            ]
+          }
+        },
+        "id": "1983420652981010432",
+        "location": "武汉市",
+        "name": "小溶🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2003335516155252774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001162086848847873/PbkAI_vQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 343,
+          "like_count": 681,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 863
+        },
+        "username": "dissolvingspace",
+        "verified": false
+      }
+    ]
+  }
+}

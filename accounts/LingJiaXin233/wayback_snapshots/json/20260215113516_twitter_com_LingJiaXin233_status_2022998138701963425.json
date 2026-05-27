@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-15T11:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022998138701963425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979839060907864064",
+          "start": 0,
+          "username": "KRocket911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022998138701963425",
+    "in_reply_to_user_id": "1979839060907864064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022997763382989226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KRocket911 可惜我没买到26.0的库存机啊！不然可以2+n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022998138701963425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979839060907864064",
+              "start": 0,
+              "username": "KRocket911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022998138701963425",
+        "in_reply_to_user_id": "1979839060907864064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022997763382989226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KRocket911 可惜我没买到26.0的库存机啊！不然可以2+n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979839060907864064",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022997763382989226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022997763382989226",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 那你很厉害了，AIR的阉割eSIM不太好用🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 443,
+          "like_count": 8115,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2340
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T09:16:46.000Z",
+        "description": "爱生活、爱评论",
+        "id": "1979839060907864064",
+        "name": "借光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014508251430453248/PeCuTRn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1201,
+          "like_count": 1284,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1713
+        },
+        "username": "KRocket911",
+        "verified": true
+      }
+    ]
+  }
+}

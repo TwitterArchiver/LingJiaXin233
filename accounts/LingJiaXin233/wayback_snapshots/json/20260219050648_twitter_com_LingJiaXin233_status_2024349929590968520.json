@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2020074054288638030",
+    "created_at": "2026-02-19T05:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024349929590968520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430212779408035842",
+          "start": 0,
+          "username": "muskdashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024349929590968520",
+    "in_reply_to_user_id": "1430212779408035842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020074054288638030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muskdashu 互关嘛哥😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2020074054288638030",
+        "created_at": "2026-02-19T05:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024349929590968520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430212779408035842",
+              "start": 0,
+              "username": "muskdashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024349929590968520",
+        "in_reply_to_user_id": "1430212779408035842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020074054288638030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muskdashu 互关嘛哥😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430212779408035842",
+        "conversation_id": "2020074054288638030",
+        "created_at": "2026-02-07T09:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:53:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020073527597211972",
+          "2020074054288638030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muskdashu/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/muskdashu/status/2019151847290990882",
+              "start": 140,
+              "url": "https://t.co/eJwgN1exs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020074054288638030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 17547,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019151847290990882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你是用大叔的「正确邪修」方法\n跑通了 5M 展示量\n并且已经拿到 X 创作者收益\n\n👉 一定要来告诉我一声，给我一个正反馈\n\n我会去你主页：\n关注 / 转发 / 引用 / 点赞 / 评论\n帮你引一点流量，走向创作者正轨\n\n不是交易，是我想确认一件事：\n这套方法，真的在帮到人 https://t.co/eJwgN1exs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 447,
+          "like_count": 8296,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2416
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T16:58:03.000Z",
+        "description": "帮0-5M新人破圈｜X增长技巧实测 + 避坑经验 & 好物分享｜跟着大叔一起玩转X，置顶有全套新人攻略合集",
+        "id": "1430212779408035842",
+        "location": "日本 神奈",
+        "name": "Musk大叔",
+        "pinned_tweet_id": "2020074054288638030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013996183421915136/5-D3s9PA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 1016,
+          "like_count": 2251,
+          "listed_count": 8,
+          "media_count": 140,
+          "tweet_count": 3515
+        },
+        "username": "muskdashu",
+        "verified": true
+      }
+    ]
+  }
+}

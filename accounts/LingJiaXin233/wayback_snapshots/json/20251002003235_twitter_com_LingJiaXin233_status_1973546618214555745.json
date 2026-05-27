@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973379728699695612",
+    "created_at": "2025-10-02T00:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T01:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973546618214555745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        },
+        {
+          "end": 21,
+          "id": "1946598569747894273",
+          "start": 10,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973546618214555745",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973545962271588833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ @xmin240286 ……不是你有没有看到我争论的是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_1973545958769303553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Nxl9xaIAEZZ9P.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_1973545959809486849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2NxmBpaEAEAb5X.jpg",
+        "width": 1080
+      },
+      {
+        "height": 968,
+        "media_key": "3_1973545960069537793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2NxmCnaIAEQAGH.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973379728699695612",
+        "created_at": "2025-10-02T00:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T01:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973546618214555745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            },
+            {
+              "end": 21,
+              "id": "1946598569747894273",
+              "start": 10,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973546618214555745",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973545962271588833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ @xmin240286 ……不是你有没有看到我争论的是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973545958769303553",
+            "3_1973545959809486849",
+            "3_1973545960069537793"
+          ]
+        },
+        "author_id": "1026482173300236288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973379728699695612",
+        "created_at": "2025-10-02T00:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T01:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973545962271588833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 26,
+              "id": "1946598569747894273",
+              "start": 15,
+              "username": "xmin240286"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在加拿大英屬哥倫比亞省納奈莫市的一家水上運動中心，三孩媽 Janayh Wright 目睹了一名男跨女走進她 9 歲女兒所在的更衣間的隔壁間，且試圖從隔板下偷窺她女兒換衣",
+              "display_url": "noselfidtw.cc/news/canada-mo…",
+              "end": 179,
+              "expanded_url": "https://noselfidtw.cc/news/canada-mother-arrest-male-watching-girls-undress/",
+              "images": [
+                {
+                  "height": 392,
+                  "url": "https://pbs.twimg.com/news_img/1973545964146401280/YXHucM70?format=jpg&name=orig",
+                  "width": 696
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1973545964146401280/YXHucM70?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 156,
+              "status": 200,
+              "title": "加拿大：男跨女在泳池女更衣室看 9 歲女童換衣服被女童媽媽當場抓包 | No Self ID Taiwan 反對自我宣稱性別",
+              "unwound_url": "https://noselfidtw.cc/news/canada-mother-arrest-male-watching-girls-undress/",
+              "url": "https://t.co/dELPIRY0tA"
+            },
+            {
+              "display_url": "pic.x.com/T3blGTklDM",
+              "end": 203,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1973545962271588833/photo/1",
+              "media_key": "3_1973545958769303553",
+              "start": 180,
+              "url": "https://t.co/T3blGTklDM"
+            },
+            {
+              "display_url": "pic.x.com/T3blGTklDM",
+              "end": 203,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1973545962271588833/photo/1",
+              "media_key": "3_1973545959809486849",
+              "start": 180,
+              "url": "https://t.co/T3blGTklDM"
+            },
+            {
+              "display_url": "pic.x.com/T3blGTklDM",
+              "end": 203,
+              "expanded_url": "https://x.com/OwOb_QAQ/status/1973545962271588833/photo/1",
+              "media_key": "3_1973545960069537793",
+              "start": 180,
+              "url": "https://t.co/T3blGTklDM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973545962271588833",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973397459012321550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @xmin240286 這些是聲稱跨性別但依然被捕，請問這些也是媒體壓力嗎？你拿美國舉例但美國也不是一個性少數開放的國家，本來就不讓跨性別進對應廁所的。\n\n我也幫你找到案例了「加拿大男子進更衣室拍攝兒童色情聲稱跨性別沒遭到逮捕」這案中兒童的母親甚至建立委員會、在社交媒體宣傳也沒用\nhttps://t.co/dELPIRY0tA https://t.co/T3blGTklDM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 356,
+          "like_count": 3670,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1550
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "location": "30樓的地下室",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 639,
+          "like_count": 31407,
+          "listed_count": 4,
+          "media_count": 1099,
+          "tweet_count": 9857
+        },
+        "username": "OwOb_QAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973208712547561472/uMmrj843_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 197,
+          "like_count": 2906,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

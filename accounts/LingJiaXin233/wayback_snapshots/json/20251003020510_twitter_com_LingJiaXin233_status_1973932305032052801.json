@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973646775128072350",
+    "created_at": "2025-10-03T02:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T03:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973932305032052801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793491174122192896",
+          "start": 0,
+          "username": "boilingwatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973932305032052801",
+    "in_reply_to_user_id": "1793491174122192896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973931509016113179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boilingwatter 因为草不起顺女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973646775128072350",
+        "created_at": "2025-10-03T02:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973932305032052801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973932305032052801",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973931509016113179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boilingwatter 因为草不起顺女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793491174122192896",
+        "conversation_id": "1973646775128072350",
+        "created_at": "2025-10-03T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973931509016113179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973931509016113179",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973646775128072350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 为啥会发生关系😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 358,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1691
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||🏳️‍⚧️🏳️‍🌈||本科CS在读||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍥",
+        "pinned_tweet_id": "1958104725632553471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 175,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1252
+        },
+        "username": "boilingwatter",
+        "verified": false
+      }
+    ]
+  }
+}

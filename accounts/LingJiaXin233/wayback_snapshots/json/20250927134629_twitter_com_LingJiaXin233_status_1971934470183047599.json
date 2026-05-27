@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1971918611863544291",
+    "created_at": "2025-09-27T13:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T14:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971934470183047599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945200532471341056",
+          "start": 0,
+          "username": "LuLuCapcake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971934470183047599",
+    "in_reply_to_user_id": "1945200532471341056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971918611863544291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuLuCapcake 给我喝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1971918611863544291",
+        "created_at": "2025-09-27T13:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971934470183047599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945200532471341056",
+              "start": 0,
+              "username": "LuLuCapcake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971934470183047599",
+        "in_reply_to_user_id": "1945200532471341056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971918611863544291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuLuCapcake 给我喝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945200532471341056",
+        "conversation_id": "1971918611863544291",
+        "created_at": "2025-09-27T12:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971918611863544291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971918611863544291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试射了一发出来，已经完全无色无味了🥺\n色谱龙你干得好啊♡把我体内的睾酮都杀光光吧♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 346,
+          "like_count": 3298,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 1433
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuLuCapcake",
+                "end": 23,
+                "expanded_url": "http://t.me/LuLuCapcake",
+                "start": 0,
+                "url": "https://t.co/HdPMmhNkq6"
+              }
+            ]
+          }
+        },
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1969129324029591849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957544090175959041/kWXKF_gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 290,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/HdPMmhNkq6",
+        "username": "LuLuCapcake",
+        "verified": true
+      }
+    ]
+  }
+}

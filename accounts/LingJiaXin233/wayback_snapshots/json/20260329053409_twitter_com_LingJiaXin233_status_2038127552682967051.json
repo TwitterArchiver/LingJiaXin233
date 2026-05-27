@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038127542323015680"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2038127552682967051",
+    "created_at": "2026-03-29T05:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038127552682967051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZL6JFTVh29",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2038127552682967051/photo/1",
+          "media_key": "3_2038127542323015680",
+          "start": 17,
+          "url": "https://t.co/ZL6JFTVh29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038127552682967051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩少女乐队当然是玩少女而不是乐队 https://t.co/ZL6JFTVh29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038127542323015680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjiM4cacAANR4X.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038127542323015680"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2038127552682967051",
+        "created_at": "2026-03-29T05:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038127552682967051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZL6JFTVh29",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2038127552682967051/photo/1",
+              "media_key": "3_2038127542323015680",
+              "start": 17,
+              "url": "https://t.co/ZL6JFTVh29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038127552682967051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩少女乐队当然是玩少女而不是乐队 https://t.co/ZL6JFTVh29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2881,
+          "following_count": 781,
+          "like_count": 10707,
+          "listed_count": 6,
+          "media_count": 419,
+          "tweet_count": 2926
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

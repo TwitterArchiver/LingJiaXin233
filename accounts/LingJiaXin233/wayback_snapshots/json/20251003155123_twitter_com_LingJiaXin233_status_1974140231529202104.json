@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973050453492383786",
+    "created_at": "2025-10-03T15:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974140231529202104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805568179625934848",
+          "start": 0,
+          "username": "ro_retaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974140231529202104",
+    "in_reply_to_user_id": "1805568179625934848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974139736165134603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ro_retaw 是的是的是的我很赞同，一定的mtf“权限”必须经过专业医疗机构的“认证与评估”才算数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-03T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974140231529202104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805568179625934848",
+              "start": 0,
+              "username": "ro_retaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974140231529202104",
+        "in_reply_to_user_id": "1805568179625934848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974139736165134603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ro_retaw 是的是的是的我很赞同，一定的mtf“权限”必须经过专业医疗机构的“认证与评估”才算数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805568179625934848",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-03T15:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974139736165134603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974139736165134603",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974137606633120042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 mtf 不一定含糖，因为在我印象中 mtf 是遗传学上的男性但是性别认同女性的人。同时我也不支持让所有的 mtf 都去女厕所这种说法。真正要去女厕所需要通过一定的认证，比如说经过鉴定看起来能在社会上被广泛认同为女性之类的才被允许\n\n但是我依旧强调，无论凉的性别认同是什么，尝试强奸别人就是不对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 4081,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1736
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:46:25.000Z",
+        "description": "o.O?",
+        "id": "1805568179625934848",
+        "name": "RO retaW🥰🥵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890689513615138817/1W4c02q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 353,
+          "like_count": 22106,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1101
+        },
+        "username": "ro_retaw",
+        "verified": false
+      }
+    ]
+  }
+}

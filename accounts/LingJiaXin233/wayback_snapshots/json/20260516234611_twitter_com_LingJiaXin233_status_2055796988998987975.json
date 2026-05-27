@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055770266249068697",
+    "created_at": "2026-05-16T23:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055796988998987975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 26,
+          "id": "1513760684995133442",
+          "start": 16,
+          "username": "huoqubot_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055796988998987975",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055770266249068697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele @huoqubot_"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 366573,
+        "height": 976,
+        "media_key": "13_2055611474324942849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055611474324942849/img/ivifzEKuZQLO8mv-.jpg",
+        "public_metrics": {
+          "view_count": 19687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055611474324942849/vid/avc1/320x696/HI440ipzc1qu-IHt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055611474324942849/vid/avc1/448x976/lw_xtIuc09y0vx20.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055611474324942849/pl/Pi_RQxdRGDmwat7D.m3u8?v=cfc"
+          }
+        ],
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055770266249068697",
+        "created_at": "2026-05-16T23:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055796988998987975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 26,
+              "id": "1513760684995133442",
+              "start": 16,
+              "username": "huoqubot_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055796988998987975",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055770266249068697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @huoqubot_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055611474324942849"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055770266249068697",
+        "created_at": "2026-05-16T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055770266249068697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/og77P1ux2y",
+              "end": 148,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055770266249068697/video/1",
+              "media_key": "13_2055611474324942849",
+              "start": 125,
+              "url": "https://t.co/og77P1ux2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055770266249068697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 39225,
+          "like_count": 217,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "“让孩子去上学比孩子身体健康更重要？”\n近日，一名博主与家长连线时，被家长不断追问博主：“为什么我的孩子就是不肯去上学？”“你能帮别人，为什么不肯帮我？”当博主进一步询问“孩子的身体健康和去上学哪个更重要”时，该家长几乎没有犹豫地回答：“去上学。” https://t.co/og77P1ux2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 695,
+          "like_count": 17002,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 4617
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2228953,
+          "following_count": 1055,
+          "like_count": 9552,
+          "listed_count": 8756,
+          "media_count": 46946,
+          "tweet_count": 54065
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-12T06:07:50.000Z",
+        "description": "@我视频即可，几秒内发下载链接！\n关注我获取通知✨",
+        "id": "1513760684995133442",
+        "location": "World Wide Web",
+        "name": "获取影片机器人 | HuoQubot",
+        "pinned_tweet_id": "2030750408671400286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028392572150800384/WySRX80P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12844,
+          "following_count": 137,
+          "like_count": 1228,
+          "listed_count": 7,
+          "media_count": 2,
+          "tweet_count": 9120
+        },
+        "username": "huoqubot_",
+        "verified": true
+      }
+    ]
+  }
+}

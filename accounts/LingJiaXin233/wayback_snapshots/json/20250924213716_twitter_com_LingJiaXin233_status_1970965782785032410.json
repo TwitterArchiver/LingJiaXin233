@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1970510556399611964",
+    "created_at": "2025-09-24T21:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T22:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970965782785032410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764453435037089792",
+          "start": 0,
+          "username": "UshioNoaNTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970965782785032410",
+    "in_reply_to_user_id": "1764453435037089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970899093959409804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UshioNoaNTR 一加（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1970510556399611964",
+        "created_at": "2025-09-24T21:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T22:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970965782785032410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764453435037089792",
+              "start": 0,
+              "username": "UshioNoaNTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970965782785032410",
+        "in_reply_to_user_id": "1764453435037089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970899093959409804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UshioNoaNTR 一加（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764453435037089792",
+        "conversation_id": "1970510556399611964",
+        "created_at": "2025-09-24T17:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970899093959409804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970899093959409804",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970510556399611964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 什么手机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 342,
+          "like_count": 3177,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 1405
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T00:51:25.000Z",
+        "description": "Blue archive zealot, erotics collecter,reverse NTR lover,masochism(maybe?),elder lover,no policy,thanks!\n碧蓝档案重度爱好者，色情图像鉴赏者，喜欢看牛（逆牛），抖M（大概？），喜欢姐系女生，请不要涉政，谢谢！",
+        "id": "1764453435037089792",
+        "name": "想看诺亚牛优香",
+        "pinned_tweet_id": "1966111417523900773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966109144609607680/pGo__N_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 281
+        },
+        "username": "UshioNoaNTR",
+        "verified": false
+      }
+    ]
+  }
+}

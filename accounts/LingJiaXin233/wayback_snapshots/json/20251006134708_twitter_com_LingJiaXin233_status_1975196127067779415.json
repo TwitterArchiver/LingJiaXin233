@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975095821017506212",
+    "created_at": "2025-10-06T13:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975196127067779415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897310645655326720",
+          "start": 0,
+          "username": "RobertoC_cr03x"
+        },
+        {
+          "end": 29,
+          "id": "1769078117052854272",
+          "start": 16,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975196127067779415",
+    "in_reply_to_user_id": "1897310645655326720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975095821017506212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RobertoC_cr03x @huahuojiang_ 哇你好酷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975095821017506212",
+        "created_at": "2025-10-06T13:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975196127067779415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897310645655326720",
+              "start": 0,
+              "username": "RobertoC_cr03x"
+            },
+            {
+              "end": 29,
+              "id": "1769078117052854272",
+              "start": 16,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975196127067779415",
+        "in_reply_to_user_id": "1897310645655326720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975095821017506212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RobertoC_cr03x @huahuojiang_ 哇你好酷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897310645655326720",
+        "conversation_id": "1975095821017506212",
+        "created_at": "2025-10-06T07:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975095821017506212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975095821017506212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2266,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出生：🇬🇹\n居住地：🇬🇹\n會的語言：🇬🇹🇺🇸🇯🇵🇰🇷🇨🇳🇹🇼\n去過旅遊的國家：🇸🇻🇭🇳🇳🇮🇦🇷🇲🇽🇺🇸🇨🇦\n最愛的國家：🇯🇵\n最討厭的國家：➖\n想去玩的國家：🇯🇵🇹🇼🇨🇭🇰🇷🇧🇻🇸🇬🇨🇳🇫🇮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975168353166602570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 364,
+          "like_count": 4619,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1870
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:39:52.000Z",
+        "description": "Joven guatemalteco de 21 años 🇬🇹, amo el fútbol ⚽, mi fe es católica 🙏🏻, 想試重庆辣味🥵, 想去台中喝珍珠奶茶🧋, 我在用谷歌翻译www",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@robertoc_cr03",
+                "end": 23,
+                "expanded_url": "http://tiktok.com/@robertoc_cr03",
+                "start": 0,
+                "url": "https://t.co/omdjO7Dv1V"
+              }
+            ]
+          }
+        },
+        "id": "1897310645655326720",
+        "location": "Guatemala",
+        "name": "🇬🇹 Roberto Carlos 🇹🇼 El Fútbol es Pasión ⚽🔥",
+        "pinned_tweet_id": "1964188811484598756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967434972194635776/SCKL6D4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 490,
+          "like_count": 13928,
+          "listed_count": 10,
+          "media_count": 1076,
+          "tweet_count": 5834
+        },
+        "url": "https://t.co/omdjO7Dv1V",
+        "username": "RobertoC_cr03x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6480,
+          "following_count": 3626,
+          "like_count": 93092,
+          "listed_count": 17,
+          "media_count": 5475,
+          "tweet_count": 81493
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

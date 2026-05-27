@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055290470415360247",
+    "created_at": "2026-05-16T23:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055793686269816940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1973911337467326466",
+          "start": 0,
+          "username": "hujiahao618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055793686269816940",
+    "in_reply_to_user_id": "1973911337467326466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055754789649322493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujiahao618 电击小子杨永信的暴行你还不清楚吗？到底你生活在中国还是我生活在中国？我咋比你更了解呢？麻烦您有事先去问问AI行吗？先去查阅相关资料再来反驳我行吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055290470415360247",
+        "created_at": "2026-05-16T23:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055793686269816940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1973911337467326466",
+              "start": 0,
+              "username": "hujiahao618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055793686269816940",
+        "in_reply_to_user_id": "1973911337467326466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055754789649322493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujiahao618 电击小子杨永信的暴行你还不清楚吗？到底你生活在中国还是我生活在中国？我咋比你更了解呢？麻烦您有事先去问问AI行吗？先去查阅相关资料再来反驳我行吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973911337467326466",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2055290470415360247",
+        "created_at": "2026-05-16T20:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055754789649322493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055754789649322493",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055290470415360247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 得了吧，戒网瘾有可能吗，最多是为你健康上网，而且学校从来不会把“同性恋”“跨性别”拿出来讲，更别谈你后面那一大堆有的没的，就连反对这种关系的学生都很少。但是这终归不是一个主流思想，如果你想拿这个来上升政治我认为是非常不妥当的，如果你真在中国上学，你讲点良心扪心自问行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 695,
+          "like_count": 16998,
+          "listed_count": 11,
+          "media_count": 1504,
+          "tweet_count": 4614
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T00:42:06.000Z",
+        "description": "愛 愛 うるせえ もう一回。",
+        "id": "1973911337467326466",
+        "location": "Osaka-shi Chuo, Osaka",
+        "name": "七岛～silo🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973911402160234496/KVn1w3qI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 128
+        },
+        "username": "hujiahao618",
+        "verified": false
+      }
+    ]
+  }
+}

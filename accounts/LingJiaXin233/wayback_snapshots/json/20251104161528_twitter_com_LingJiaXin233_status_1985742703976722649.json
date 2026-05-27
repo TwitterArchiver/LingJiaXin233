@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985542862898073600",
+        "3_1985542862889730048",
+        "3_1985542862902284288"
+      ],
+      "media_source_tweet_id": [
+        "1985542876240232765",
+        "1985542876240232765",
+        "1985542876240232765"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1985742703976722649",
+    "created_at": "2025-11-04T16:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985742703976722649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1156097249841041408",
+          "start": 3,
+          "username": "LightrainPure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vkkWLqAZ9a",
+          "end": 94,
+          "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+          "media_key": "3_1985542862898073600",
+          "start": 71,
+          "url": "https://t.co/vkkWLqAZ9a"
+        },
+        {
+          "display_url": "pic.x.com/vkkWLqAZ9a",
+          "end": 94,
+          "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+          "media_key": "3_1985542862889730048",
+          "start": 71,
+          "url": "https://t.co/vkkWLqAZ9a"
+        },
+        {
+          "display_url": "pic.x.com/vkkWLqAZ9a",
+          "end": 94,
+          "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+          "media_key": "3_1985542862902284288",
+          "start": 71,
+          "url": "https://t.co/vkkWLqAZ9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985742703976722649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985542876240232765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightrainPure: 作为跨性别女性被认为是男同从而被拒绝献血。我一纸投诉信让当事人道歉+血站当天开大会+血站领导层给我道歉 https://t.co/vkkWLqAZ9a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_1985542862898073600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44QtsVaEAAuxGj.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985542862889730048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44QtsTawAAZcSD.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985542862902284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44QtsWaUAAb7Qq.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985542862898073600",
+            "3_1985542862889730048",
+            "3_1985542862902284288"
+          ],
+          "media_source_tweet_id": [
+            "1985542876240232765",
+            "1985542876240232765",
+            "1985542876240232765"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1985742703976722649",
+        "created_at": "2025-11-04T16:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985742703976722649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1156097249841041408",
+              "start": 3,
+              "username": "LightrainPure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 94,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862898073600",
+              "start": 71,
+              "url": "https://t.co/vkkWLqAZ9a"
+            },
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 94,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862889730048",
+              "start": 71,
+              "url": "https://t.co/vkkWLqAZ9a"
+            },
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 94,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862902284288",
+              "start": 71,
+              "url": "https://t.co/vkkWLqAZ9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985742703976722649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985542876240232765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightrainPure: 作为跨性别女性被认为是男同从而被拒绝献血。我一纸投诉信让当事人道歉+血站当天开大会+血站领导层给我道歉 https://t.co/vkkWLqAZ9a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985542862898073600",
+            "3_1985542862889730048",
+            "3_1985542862902284288"
+          ]
+        },
+        "author_id": "1156097249841041408",
+        "conversation_id": "1985542876240232765",
+        "created_at": "2025-11-04T03:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985542876240232765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 75,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862898073600",
+              "start": 52,
+              "url": "https://t.co/vkkWLqAZ9a"
+            },
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 75,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862889730048",
+              "start": 52,
+              "url": "https://t.co/vkkWLqAZ9a"
+            },
+            {
+              "display_url": "pic.x.com/vkkWLqAZ9a",
+              "end": 75,
+              "expanded_url": "https://x.com/LightrainPure/status/1985542876240232765/photo/1",
+              "media_key": "3_1985542862902284288",
+              "start": 52,
+              "url": "https://t.co/vkkWLqAZ9a"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1985531864891740666",
+              "start": 76,
+              "url": "https://t.co/Kq6l7uIxHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985542876240232765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 57962,
+          "like_count": 396,
+          "quote_count": 10,
+          "reply_count": 32,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985531864891740666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为跨性别女性被认为是男同从而被拒绝献血。我一纸投诉信让当事人道歉+血站当天开大会+血站领导层给我道歉 https://t.co/vkkWLqAZ9a https://t.co/Kq6l7uIxHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 402,
+          "like_count": 5798,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 2060
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜日本语を勉强しています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1020,
+          "like_count": 2063,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1334
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

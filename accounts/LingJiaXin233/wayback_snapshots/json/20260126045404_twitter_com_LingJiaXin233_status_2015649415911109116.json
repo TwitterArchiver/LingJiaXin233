@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2015636441611510195",
+    "created_at": "2026-01-26T04:54:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T05:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015649415911109116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390560341227020291",
+          "start": 0,
+          "username": "hongkongdoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015649415911109116",
+    "in_reply_to_user_id": "1390560341227020291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015636441611510195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongkongdoll 我的天呐……祝姐姐往后余生幸福🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2015636441611510195",
+        "created_at": "2026-01-26T04:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015649415911109116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390560341227020291",
+              "start": 0,
+              "username": "hongkongdoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015649415911109116",
+        "in_reply_to_user_id": "1390560341227020291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015636441611510195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongkongdoll 我的天呐……祝姐姐往后余生幸福🙏"
+      },
+      {
+        "article": {
+          "title": "曾经我也想过一了百了，这几年我和两个他的“爱情故事”"
+        },
+        "attachments": {},
+        "author_id": "1390560341227020291",
+        "conversation_id": "2015636441611510195",
+        "created_at": "2026-01-26T04:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015636441611510195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2015…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2015627802532253696",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2015627802532253696",
+              "url": "https://t.co/YqWFvghNPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015636441611510195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 26154,
+          "like_count": 163,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YqWFvghNPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 428,
+          "like_count": 7665,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2256
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T06:53:28.000Z",
+        "description": "NOT A KOL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hongkongdoll.io",
+                "end": 23,
+                "expanded_url": "http://hongkongdoll.io",
+                "start": 0,
+                "url": "https://t.co/6jdgs04ep8"
+              }
+            ]
+          }
+        },
+        "id": "1390560341227020291",
+        "location": "频道 & Links",
+        "name": "HongKongDoll",
+        "pinned_tweet_id": "1978332242230325301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997302369361780736/e0pP2M3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635339,
+          "following_count": 400,
+          "like_count": 2819,
+          "listed_count": 2244,
+          "media_count": 532,
+          "tweet_count": 3311
+        },
+        "url": "https://t.co/6jdgs04ep8",
+        "username": "hongkongdoll",
+        "verified": true
+      }
+    ]
+  }
+}

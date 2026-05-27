@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-19T03:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024325696584372426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1378897551013900288",
+          "start": 0,
+          "username": "AHdark_0428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024325696584372426",
+    "in_reply_to_user_id": "1378897551013900288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023976439176196323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AHdark_0428 厉害👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2023976431148208128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBab1zRaEAAKm-L.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-19T03:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024325696584372426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1378897551013900288",
+              "start": 0,
+              "username": "AHdark_0428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024325696584372426",
+        "in_reply_to_user_id": "1378897551013900288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023976439176196323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AHdark_0428 厉害👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023976431148208128"
+          ]
+        },
+        "author_id": "1378897551013900288",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-18T04:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023976439176196323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj1I8kLUU3",
+              "end": 63,
+              "expanded_url": "https://x.com/AHdark_0428/status/2023976439176196323/photo/1",
+              "media_key": "3_2023976431148208128",
+              "start": 40,
+              "url": "https://t.co/uj1I8kLUU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023976439176196323",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 18岁，已留澳洲，全靠自己，没有爆家长的一块金币 https://t.co/uj1I8kLUU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 444,
+          "like_count": 8289,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2413
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-05T02:29:37.000Z",
+        "description": "Noob developer, full stack engineer. Focus on #Golang. GitHub: https://t.co/NWYb616jav",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Golang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/AH-dark",
+                "end": 86,
+                "expanded_url": "http://github.com/AH-dark",
+                "start": 63,
+                "url": "https://t.co/NWYb616jav"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ahdark.blog",
+                "end": 23,
+                "expanded_url": "https://ahdark.blog",
+                "start": 0,
+                "url": "https://t.co/LwazNaX4oQ"
+              }
+            ]
+          }
+        },
+        "id": "1378897551013900288",
+        "location": "Beijing, China",
+        "name": "AHdark",
+        "pinned_tweet_id": "1533118860182056961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565707326366945280/fJmry7bF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 107,
+          "like_count": 318,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/LwazNaX4oQ",
+        "username": "AHdark_0428",
+        "verified": false
+      }
+    ]
+  }
+}

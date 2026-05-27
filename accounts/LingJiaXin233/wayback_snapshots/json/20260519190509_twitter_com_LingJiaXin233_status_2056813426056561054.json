@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056733269107040293",
+    "created_at": "2026-05-19T19:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056813426056561054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "741623930562039808",
+          "start": 0,
+          "username": "z605400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056813426056561054",
+    "in_reply_to_user_id": "741623930562039808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056769326812889278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z605400 看黄男你笑死我主页破案了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T19:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056813426056561054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741623930562039808",
+              "start": 0,
+              "username": "z605400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056813426056561054",
+        "in_reply_to_user_id": "741623930562039808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056769326812889278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z605400 看黄男你笑死我主页破案了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "741623930562039808",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T16:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056769326812889278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056769326812889278",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733269107040293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 一刀捅死你们这些磕药的，自己是个不健全傻狗还为难客服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 701,
+          "like_count": 17249,
+          "listed_count": 11,
+          "media_count": 1593,
+          "tweet_count": 4755
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-11T13:31:38.000Z",
+        "description": "谁来侵犯我啊",
+        "id": "741623930562039808",
+        "location": "Hong Kong",
+        "name": "嘤嘤曳曳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/826572929156550656/o6M1Xf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 946,
+          "like_count": 33655,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 473
+        },
+        "username": "z605400",
+        "verified": false
+      }
+    ]
+  }
+}

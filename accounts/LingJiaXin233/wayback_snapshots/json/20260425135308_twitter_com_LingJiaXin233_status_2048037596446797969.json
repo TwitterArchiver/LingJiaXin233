@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048037588989292544"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2048037596446797969",
+    "created_at": "2026-04-25T13:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048037596446797969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3UYqZ2P5B0",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2048037596446797969/photo/1",
+          "media_key": "3_2048037588989292544",
+          "start": 12,
+          "url": "https://t.co/3UYqZ2P5B0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048037596446797969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来你们也玩熊大快跑！ https://t.co/3UYqZ2P5B0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2048037588989292544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwXVhJasAA2k9L.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048037588989292544"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2048037596446797969",
+        "created_at": "2026-04-25T13:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048037596446797969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UYqZ2P5B0",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2048037596446797969/photo/1",
+              "media_key": "3_2048037588989292544",
+              "start": 12,
+              "url": "https://t.co/3UYqZ2P5B0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048037596446797969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们也玩熊大快跑！ https://t.co/3UYqZ2P5B0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 618,
+          "like_count": 15020,
+          "listed_count": 9,
+          "media_count": 928,
+          "tweet_count": 3853
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

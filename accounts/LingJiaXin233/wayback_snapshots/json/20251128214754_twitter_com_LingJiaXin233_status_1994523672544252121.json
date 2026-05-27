@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1993899616673333332",
+    "created_at": "2025-11-28T21:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T22:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994523672544252121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1768892920994656256",
+          "start": 0,
+          "username": "HOMO071203"
+        },
+        {
+          "end": 22,
+          "id": "1896061942785310720",
+          "start": 12,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994523672544252121",
+    "in_reply_to_user_id": "1768892920994656256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994463857373589647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOMO071203 @notThujaS 我也差不多（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1993899616673333332",
+        "created_at": "2025-11-28T21:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994523672544252121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768892920994656256",
+              "start": 0,
+              "username": "HOMO071203"
+            },
+            {
+              "end": 22,
+              "id": "1896061942785310720",
+              "start": 12,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994523672544252121",
+        "in_reply_to_user_id": "1768892920994656256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994463857373589647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOMO071203 @notThujaS 我也差不多（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768892920994656256",
+        "conversation_id": "1993899616673333332",
+        "created_at": "2025-11-28T17:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994463857373589647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 25,
+              "id": "1896061942785310720",
+              "start": 15,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994463857373589647",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994198045517283754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @notThujaS 我朋友倒货的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 421,
+          "like_count": 6504,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 2134
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T06:52:01.000Z",
+        "description": "随手写点文学相关",
+        "id": "1768892920994656256",
+        "location": "japan",
+        "name": "萬正",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803099694387666950/wGV1OHT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 152
+        },
+        "username": "HOMO071203",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        随机回关//2000粉堵桥∞延期😭///有人拿我照片建我仿号骚扰女生，请认准唯一大号@iamThujaS///遇到神人请@我，感激不尽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 124,
+                "username": "iamThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1991657587608285501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3975,
+          "following_count": 881,
+          "like_count": 7948,
+          "listed_count": 10,
+          "media_count": 417,
+          "tweet_count": 4136
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

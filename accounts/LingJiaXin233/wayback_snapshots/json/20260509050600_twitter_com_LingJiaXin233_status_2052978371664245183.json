@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052978363330138112"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052978371664245183",
+    "created_at": "2026-05-09T05:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052978371664245183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HFVsMuItcj",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2052978371664245183/photo/1",
+          "media_key": "3_2052978363330138112",
+          "start": 5,
+          "url": "https://t.co/HFVsMuItcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052978371664245183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "撤离成功 https://t.co/HFVsMuItcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2052978363330138112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2k8b3bEAAzpvE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052978363330138112"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052978371664245183",
+        "created_at": "2026-05-09T05:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052978371664245183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFVsMuItcj",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2052978371664245183/photo/1",
+              "media_key": "3_2052978363330138112",
+              "start": 5,
+              "url": "https://t.co/HFVsMuItcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052978371664245183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "撤离成功 https://t.co/HFVsMuItcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3952,
+          "following_count": 674,
+          "like_count": 16256,
+          "listed_count": 12,
+          "media_count": 1270,
+          "tweet_count": 4303
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

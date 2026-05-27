@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049835721008300032",
+        "3_2049835721071218688",
+        "3_2049835721004040194"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049835732328649215",
+    "created_at": "2026-04-30T12:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049835732328649215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNiDpUEH7H",
+          "end": 116,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+          "media_key": "3_2049835721008300032",
+          "start": 93,
+          "url": "https://t.co/BNiDpUEH7H"
+        },
+        {
+          "display_url": "pic.x.com/BNiDpUEH7H",
+          "end": 116,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+          "media_key": "3_2049835721071218688",
+          "start": 93,
+          "url": "https://t.co/BNiDpUEH7H"
+        },
+        {
+          "display_url": "pic.x.com/BNiDpUEH7H",
+          "end": 116,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+          "media_key": "3_2049835721004040194",
+          "start": 93,
+          "url": "https://t.co/BNiDpUEH7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049835732328649215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请教一下创作者收入的各位这种是怎么回事：\nstripe显示已经在4月30号把收入打到wise了，港卡账户也过了，但是wise里面没有收到钱。这是我打到wise的第一笔，是需要审核吗还是 https://t.co/BNiDpUEH7H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049835721008300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ6uk6bQAAtaux.jpg",
+        "width": 943
+      },
+      {
+        "height": 1138,
+        "media_key": "3_2049835721071218688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ6ulJbUAAkVzJ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 951,
+        "media_key": "3_2049835721004040194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ6uk5aQAIVdZ0.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049835721008300032",
+            "3_2049835721071218688",
+            "3_2049835721004040194"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049835732328649215",
+        "created_at": "2026-04-30T12:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049835732328649215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNiDpUEH7H",
+              "end": 116,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+              "media_key": "3_2049835721008300032",
+              "start": 93,
+              "url": "https://t.co/BNiDpUEH7H"
+            },
+            {
+              "display_url": "pic.x.com/BNiDpUEH7H",
+              "end": 116,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+              "media_key": "3_2049835721071218688",
+              "start": 93,
+              "url": "https://t.co/BNiDpUEH7H"
+            },
+            {
+              "display_url": "pic.x.com/BNiDpUEH7H",
+              "end": 116,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2049835732328649215/photo/1",
+              "media_key": "3_2049835721004040194",
+              "start": 93,
+              "url": "https://t.co/BNiDpUEH7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049835732328649215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请教一下创作者收入的各位这种是怎么回事：\nstripe显示已经在4月30号把收入打到wise了，港卡账户也过了，但是wise里面没有收到钱。这是我打到wise的第一笔，是需要审核吗还是 https://t.co/BNiDpUEH7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3436,
+          "following_count": 635,
+          "like_count": 15488,
+          "listed_count": 11,
+          "media_count": 1038,
+          "tweet_count": 4000
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

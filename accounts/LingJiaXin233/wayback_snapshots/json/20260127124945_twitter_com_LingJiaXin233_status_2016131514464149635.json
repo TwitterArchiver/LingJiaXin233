@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2016131514464149635",
+    "created_at": "2026-01-27T12:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016131514464149635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013874039195070464",
+          "start": 3,
+          "username": "liangxizjdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016131514464149635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016068914166563216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liangxizjdq: 跨性别是好的，是善良的，邪恶的是男同，很多跨都是觉得好玩，男同是恶心，想插男人屁眼，太恶心了，艾滋病全他妈是同性恋国内国内传播起来的，成都的艾滋病全国第一，肛肠科就诊全国第一，成都的男同酒吧一大堆，我要挺跨灭同，要提高跨性别的地位，把同性恋的地…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2016131514464149635",
+        "created_at": "2026-01-27T12:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016131514464149635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013874039195070464",
+              "start": 3,
+              "username": "liangxizjdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016131514464149635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016068914166563216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liangxizjdq: 跨性别是好的，是善良的，邪恶的是男同，很多跨都是觉得好玩，男同是恶心，想插男人屁眼，太恶心了，艾滋病全他妈是同性恋国内国内传播起来的，成都的艾滋病全国第一，肛肠科就诊全国第一，成都的男同酒吧一大堆，我要挺跨灭同，要提高跨性别的地位，把同性恋的地…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013874039195070464",
+        "conversation_id": "2016068914166563216",
+        "created_at": "2026-01-27T08:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:39:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016068551426376085",
+          "2016068914166563216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016068914166563216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跨性别是好的，是善良的，邪恶的是男同，很多跨都是觉得好玩，男同是恶心，想插男人屁眼，太恶心了，艾滋病全他妈是同性恋国内国内传播起来的，成都的艾滋病全国第一，肛肠科就诊全国第一，成都的男同酒吧一大堆，我要挺跨灭同，要提高跨性别的地位，把同性恋的地位打下去，俗称同下跨上，也可以叫做跨上同下"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8029,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别是好的，是善良的，邪恶的是男同，很多跨都是觉得好玩，男同是恶心，想插男人屁眼，太恶心了，艾滋病全他妈是同性恋国内国内传播起来的，成都的艾滋病全国第一，肛肠科就诊全国第一，成都的男同酒吧一大堆，我要挺跨灭同，要提高跨性别的地位，把同性恋的地位打下去，俗称同下跨上，也可以叫做跨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 429,
+          "like_count": 7679,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2257
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:20:15.000Z",
+        "description": "新账号，老号30多万粉丝@liangxihuigui因为揭穿阴谋集团，和活摘器官被封禁了，推特扼杀了我的言论自由，唯一被封两个推特的男人，最早的大号也被封@liangxied",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "liangxihuigui"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "liangxied"
+              }
+            ]
+          }
+        },
+        "id": "2013874039195070464",
+        "name": "凉兮将军（与邪恶对抗）",
+        "pinned_tweet_id": "2013967678441234928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874726821863426/kFlVCkul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30958,
+          "following_count": 28,
+          "like_count": 6,
+          "listed_count": 74,
+          "media_count": 23,
+          "tweet_count": 115
+        },
+        "username": "liangxizjdq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1973655667585196038"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973659086635016626",
+    "created_at": "2025-10-02T07:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T08:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973659086635016626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973659086635016626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973655668738646325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 如果一位生理性别为男的人，他试图说自己的心理性别为女（存疑），但是他并没有为此作出任何的努力（服用相关激素类药物，女装等），仅留长发\n并且他不注重体重控制，体重始终在200斤以上，此外，他会以“mtf”这个头衔来骚扰真正的mtf\n你们认为这…"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2025-10-09T07:45:54.000Z",
+        "id": "1973655667585196038",
+        "options": [
+          {
+            "label": "可信，ta嘴上说自己是什么性别就是什么性别",
+            "position": 1,
+            "votes": 1
+          },
+          {
+            "label": "不可信，ta没有为此目标做出任何实质性的改变",
+            "position": 2,
+            "votes": 2
+          },
+          {
+            "label": "ta都不是入",
+            "position": 3,
+            "votes": 2
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1973655667585196038"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973659086635016626",
+        "created_at": "2025-10-02T07:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973659086635016626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973659086635016626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973655668738646325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 如果一位生理性别为男的人，他试图说自己的心理性别为女（存疑），但是他并没有为此作出任何的努力（服用相关激素类药物，女装等），仅留长发\n并且他不注重体重控制，体重始终在200斤以上，此外，他会以“mtf”这个头衔来骚扰真正的mtf\n你们认为这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1973655667585196038"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973655668738646325",
+        "created_at": "2025-10-02T07:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973655668738646325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973655668738646325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果一位生理性别为男的人，他试图说自己的心理性别为女（存疑），但是他并没有为此作出任何的努力（服用相关激素类药物，女装等），仅留长发\n并且他不注重体重控制，体重始终在200斤以上，此外，他会以“mtf”这个头衔来骚扰真正的mtf\n你们认为这个人说自己是“mtf”可信吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973585171237757020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 358,
+          "like_count": 3771,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1624
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

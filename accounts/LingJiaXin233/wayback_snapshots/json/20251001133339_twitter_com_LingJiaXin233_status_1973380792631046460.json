@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973379728699695612",
+    "created_at": "2025-10-01T13:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T14:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973380792631046460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973380792631046460",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973379728699695612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 建议你去看看前两年美国案子，顺男强奸后自称mtf把受害者家属都告了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973379728699695612",
+        "created_at": "2025-10-01T13:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973380792631046460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973380792631046460",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973379728699695612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 建议你去看看前两年美国案子，顺男强奸后自称mtf把受害者家属都告了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1973379728699695612",
+        "created_at": "2025-10-01T13:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973379728699695612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/1973375839606808707",
+              "start": 24,
+              "url": "https://t.co/9jBTUoBICt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973379728699695612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973375839606808707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就算是顺女去女厕所偷拍强奸猥亵都应该被逮捕吧？ https://t.co/9jBTUoBICt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 356,
+          "like_count": 3624,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 1524
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "中国劳动党中央委员会总书记｜含糖MtF｜INFP-T｜社会化程度极低的AS｜重度BPD｜重度抑郁｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜LLM｜NLP｜类人人工智能与情感交互研究人员｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 161,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 138,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥（自杀倒计时）🔪🩸",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973208712547561472/uMmrj843_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 197,
+          "like_count": 2867,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2290
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

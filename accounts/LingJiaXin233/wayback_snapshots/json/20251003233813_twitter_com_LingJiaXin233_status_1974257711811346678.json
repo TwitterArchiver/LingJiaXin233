@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974128664146293108",
+    "created_at": "2025-10-03T23:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T00:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974257711811346678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769904101704552448",
+          "start": 0,
+          "username": "ShengTian22332"
+        },
+        {
+          "end": 27,
+          "id": "1946598569747894273",
+          "start": 16,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974257711811346678",
+    "in_reply_to_user_id": "1769904101704552448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974253133841797331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengTian22332 @xmin240286 唉。。。和asd的人真的真的说不清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T23:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974257711811346678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769904101704552448",
+              "start": 0,
+              "username": "ShengTian22332"
+            },
+            {
+              "end": 27,
+              "id": "1946598569747894273",
+              "start": 16,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974257711811346678",
+        "in_reply_to_user_id": "1769904101704552448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974253133841797331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengTian22332 @xmin240286 唉。。。和asd的人真的真的说不清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769904101704552448",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T23:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974253133841797331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 26,
+              "id": "1946598569747894273",
+              "start": 15,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974253133841797331",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974128664146293108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @xmin240286 宝宝🥺🥺，感觉你俩越聊，爆的越多，这件事情的争论我感觉本身就只是不同人观点不同，说得越多地图炮越大越爆。所以要不要尝试互相和解一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 364,
+          "like_count": 4108,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1746
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T01:50:31.000Z",
+        "description": "mtf🏳️‍⚧️/小证含糖🍥/HRT2024.06/健身/爱吃好吃的/同类贴贴互fo\n音游练习中（现在主osumania/maimai）4k ε/ln14 afk 可愛妹妹 @KoishinFlandre/打maimai的可爱妹妹@Raychan_da/数学物理/intp/贴贴/应该是温柔的人/欢迎来找我聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 87,
+                "username": "KoishinFlandre"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Raychan_da"
+              }
+            ]
+          }
+        },
+        "id": "1769904101704552448",
+        "location": "Los Angeles, CA",
+        "name": "甜普生🍥",
+        "pinned_tweet_id": "1971227720240726396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769904776354160640/T01noA-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 226,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1092
+        },
+        "username": "ShengTian22332",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 200,
+          "like_count": 3071,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

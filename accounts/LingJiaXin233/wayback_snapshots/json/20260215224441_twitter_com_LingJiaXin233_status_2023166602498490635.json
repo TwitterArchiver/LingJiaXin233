@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-15T22:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T23:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023166602498490635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976933128293023744",
+          "start": 0,
+          "username": "HKMakki0115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023166602498490635",
+    "in_reply_to_user_id": "1976933128293023744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023143541627920816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HKMakki0115 没事过两个月再买一台美版无锁的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T22:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023166602498490635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976933128293023744",
+              "start": 0,
+              "username": "HKMakki0115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023166602498490635",
+        "in_reply_to_user_id": "1976933128293023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023143541627920816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HKMakki0115 没事过两个月再买一台美版无锁的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976933128293023744",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T21:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023143541627920816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023143541627920816",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 不要買大陸的啊😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 444,
+          "like_count": 8160,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2382
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T08:49:39.000Z",
+        "description": "#Canton&HongKong#10#isfp♑️_ #ballislife🏀🏸⚽️ 我係神父唔该耶稣將d全世界可愛い嘅ショタ&Femboy&Tomboy全部俾曬我得唔得🥺🤲🏻 UK🇬🇧@centralcee^1295@lukadoncic",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Canton"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "tag": "ballislife"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "centralcee"
+              }
+            ]
+          }
+        },
+        "id": "1976933128293023744",
+        "location": "Kwun Tong , Hong Kong",
+        "name": "Ymakeyyy_16cthk🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017330439938314240/2QpKJ7u9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 91,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "HKMakki0115",
+        "verified": false
+      }
+    ]
+  }
+}

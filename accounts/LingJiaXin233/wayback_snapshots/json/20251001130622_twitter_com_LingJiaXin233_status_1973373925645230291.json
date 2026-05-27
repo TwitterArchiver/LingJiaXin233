@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973325186247303645",
+    "created_at": "2025-10-01T13:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T14:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973373925645230291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880614929771978752",
+          "start": 0,
+          "username": "bngh1377288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973373925645230291",
+    "in_reply_to_user_id": "1880614929771978752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973325186247303645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bngh1377288 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973325182313041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KozFYaEAAM-fA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973325186247303645",
+        "created_at": "2025-10-01T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973373925645230291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880614929771978752",
+              "start": 0,
+              "username": "bngh1377288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973373925645230291",
+        "in_reply_to_user_id": "1880614929771978752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973325186247303645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bngh1377288 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973325182313041920"
+          ]
+        },
+        "author_id": "1880614929771978752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973325186247303645",
+        "created_at": "2025-10-01T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973325186247303645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEuHLBNaru",
+              "end": 152,
+              "expanded_url": "https://x.com/bngh1377288/status/1973325186247303645/photo/1",
+              "media_key": "3_1973325182313041920",
+              "start": 129,
+              "url": "https://t.co/sEuHLBNaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973325186247303645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天，这个令人开心的日子，我们还得到了一份特殊的祝福🥰\n哇哇哇！看看这位性压抑的武汉小伙，像我发起了交配申请（某种意义是也算是对我非常认可了）不过，咱可是洁身自好的小姑娘，这种事是不干的☺不过如果有哪位离得近有需要的姐妹可以私信吱一声，我可以把他介绍给你🤗 https://t.co/sEuHLBNaru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 356,
+          "like_count": 3607,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 1518
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T13:55:48.000Z",
+        "description": "mtf，无证含糖一年半/非家长党/水仙/重度焦虑重度抑郁患者/infp/08/170/54kg/梦到什么说什么/希望大家多多关照😭同类户Fo🥲🥰💞妹妹：@Dianj71828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Dianj71828"
+              }
+            ]
+          }
+        },
+        "id": "1880614929771978752",
+        "name": "逃离世界🏳️‍⚧️",
+        "pinned_tweet_id": "1972263953599430771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950529097509249026/twYtrxJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 62,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 187
+        },
+        "username": "bngh1377288",
+        "verified": false
+      }
+    ]
+  }
+}

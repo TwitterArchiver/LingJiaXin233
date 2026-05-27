@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1976140156605194298",
+    "created_at": "2025-10-09T07:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976188774863249751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955850423904165913",
+          "start": 0,
+          "username": "Ammaaazzz_62com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976188774863249751",
+    "in_reply_to_user_id": "1955850423904165913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976140156605194298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ammaaazzz_62com 加啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1976140156605194298",
+        "created_at": "2025-10-09T07:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976188774863249751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955850423904165913",
+              "start": 0,
+              "username": "Ammaaazzz_62com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976188774863249751",
+        "in_reply_to_user_id": "1955850423904165913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976140156605194298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ammaaazzz_62com 加啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955850423904165913",
+        "conversation_id": "1976140156605194298",
+        "created_at": "2025-10-09T04:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976140156605194298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976140156605194298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 250,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人和我做朋友吗🥺QQ3580432040"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 369,
+          "like_count": 4916,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1921
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T04:34:38.000Z",
+        "description": "哎呀呀～看看，看看，这是谁来了，我怎么知道？【我将成为跨圈最温柔的喵「叉腰」】｜最硬气的喵，我就是跨怎么了｜｜友好交流，别刷存在感｜",
+        "id": "1955850423904165913",
+        "name": "落喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966017928832098588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965709290456367105/udo8xzLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 71,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 163
+        },
+        "username": "Ammaaazzz_62com",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2000142189154705700",
+    "created_at": "2025-12-14T14:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T15:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000217228181184870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942038222886031360",
+          "start": 0,
+          "username": "ThujaSlover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000217228181184870",
+    "in_reply_to_user_id": "1942038222886031360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000142189154705700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThujaSlover 鸟兽兽和我互fo🥸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2000142189154705700",
+        "created_at": "2025-12-14T14:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000217228181184870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942038222886031360",
+              "start": 0,
+              "username": "ThujaSlover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000217228181184870",
+        "in_reply_to_user_id": "1942038222886031360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000142189154705700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThujaSlover 鸟兽兽和我互fo🥸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942038222886031360",
+        "conversation_id": "2000142189154705700",
+        "created_at": "2025-12-14T09:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000142189154705700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/S_Hyoscine/sta…",
+              "end": 45,
+              "expanded_url": "https://x.com/S_Hyoscine/status/2000117721313517976?t=UWQIXIdH4NudbdwxUpKV7g&s=19",
+              "start": 22,
+              "url": "https://t.co/W5ENXRqtoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000142189154705700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000117721313517976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你浮木已经在那边了，肯定希望你去找他们团聚啊https://t.co/W5ENXRqtoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 393,
+          "like_count": 6828,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 2163
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T01:49:50.000Z",
+        "description": "新买的美国号，希望稳定点，大号 @notThujaS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "notThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1942038222886031360",
+        "location": "丰宁",
+        "name": "传奇出生乌鲁鲁（准备复活中）",
+        "pinned_tweet_id": "1942570740093780161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999148400533475330/OoPiNrnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 241,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "ThujaSlover",
+        "verified": false
+      }
+    ]
+  }
+}

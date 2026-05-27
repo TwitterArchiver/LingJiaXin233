@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055130216113258728",
+    "created_at": "2026-05-15T08:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055203274253627393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705630684117610498",
+          "start": 0,
+          "username": "LemonTreeandSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055203274253627393",
+    "in_reply_to_user_id": "1705630684117610498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055201061711835412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonTreeandSea 马上就要脱离地球了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055130216113258728",
+        "created_at": "2026-05-15T08:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055203274253627393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705630684117610498",
+              "start": 0,
+              "username": "LemonTreeandSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055203274253627393",
+        "in_reply_to_user_id": "1705630684117610498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055201061711835412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonTreeandSea 马上就要脱离地球了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705630684117610498",
+        "conversation_id": "2055130216113258728",
+        "created_at": "2026-05-15T08:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055201061711835412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055201061711835412",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055130216113258728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 最后一张图是飞到平流层上面了吗😱他坐的真的是飞机吗😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 682,
+          "like_count": 16783,
+          "listed_count": 10,
+          "media_count": 1456,
+          "tweet_count": 4539
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生喵♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "1863293275202842775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 686,
+          "like_count": 22870,
+          "listed_count": 27,
+          "media_count": 538,
+          "tweet_count": 11797
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      }
+    ]
+  }
+}

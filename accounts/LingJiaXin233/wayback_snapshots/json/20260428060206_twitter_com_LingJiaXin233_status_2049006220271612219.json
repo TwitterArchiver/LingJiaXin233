@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049001621045354631",
+    "created_at": "2026-04-28T06:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049006220271612219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        },
+        {
+          "end": 27,
+          "id": "1912667915251511296",
+          "start": 16,
+          "username": "Ciky_Shore"
+        },
+        {
+          "end": 39,
+          "id": "1827360590328950786",
+          "start": 28,
+          "username": "ZhongJM123"
+        },
+        {
+          "end": 51,
+          "id": "1604763406669684737",
+          "start": 40,
+          "username": "shundebo__"
+        },
+        {
+          "end": 59,
+          "id": "899470193776140289",
+          "start": 52,
+          "username": "hzqsns"
+        },
+        {
+          "end": 70,
+          "id": "1908103114223468544",
+          "start": 60,
+          "username": "LybbenMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049006220271612219",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049001621045354631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri @Ciky_Shore @ZhongJM123 @shundebo__ @hzqsns @LybbenMTF 哇哇哇不黑幕我😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101885,
+        "height": 1280,
+        "media_key": "13_2049001467642814464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049001467642814464/img/PspkBDxWKUF9PQiP.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049001467642814464/vid/avc1/320x694/Q_0AMhfY7uTZXSmG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049001467642814464/vid/avc1/480x1040/WGNNlOaLcW_hOiPA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049001467642814464/vid/avc1/590x1280/3RXdkvBhsiXBHzXa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049001467642814464/pl/ZRQU8Ye2_wDkYZKD.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049001621045354631",
+        "created_at": "2026-04-28T06:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049006220271612219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            },
+            {
+              "end": 27,
+              "id": "1912667915251511296",
+              "start": 16,
+              "username": "Ciky_Shore"
+            },
+            {
+              "end": 39,
+              "id": "1827360590328950786",
+              "start": 28,
+              "username": "ZhongJM123"
+            },
+            {
+              "end": 51,
+              "id": "1604763406669684737",
+              "start": 40,
+              "username": "shundebo__"
+            },
+            {
+              "end": 59,
+              "id": "899470193776140289",
+              "start": 52,
+              "username": "hzqsns"
+            },
+            {
+              "end": 70,
+              "id": "1908103114223468544",
+              "start": 60,
+              "username": "LybbenMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006220271612219",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049001621045354631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri @Ciky_Shore @ZhongJM123 @shundebo__ @hzqsns @LybbenMTF 哇哇哇不黑幕我😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049001467642814464"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2049001621045354631",
+        "created_at": "2026-04-28T05:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049001621045354631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1912667915251511296",
+              "start": 10,
+              "username": "Ciky_Shore"
+            },
+            {
+              "end": 33,
+              "id": "1827360590328950786",
+              "start": 22,
+              "username": "ZhongJM123"
+            },
+            {
+              "end": 45,
+              "id": "1604763406669684737",
+              "start": 34,
+              "username": "shundebo__"
+            },
+            {
+              "end": 56,
+              "id": "899470193776140289",
+              "start": 49,
+              "username": "hzqsns"
+            },
+            {
+              "end": 70,
+              "id": "1908103114223468544",
+              "start": 60,
+              "username": "LybbenMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "docs.google.com/spreadsheets/d…",
+              "end": 100,
+              "expanded_url": "https://docs.google.com/spreadsheets/d/1mPqoa6yclTQPPmLZMsg0AKpd9CSel2_OtiMKIHznXB8/edit?usp=sharing",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2049001664632459264/gHZxlrhI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049001664632459264/gHZxlrhI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "抽奖人员名单，自行查找按ctrl+F",
+              "unwound_url": "https://docs.google.com/spreadsheets/d/1mPqoa6yclTQPPmLZMsg0AKpd9CSel2_OtiMKIHznXB8/edit?usp=sharing",
+              "url": "https://t.co/HDBRfstlzE"
+            },
+            {
+              "display_url": "pic.x.com/WUrJAtFrjX",
+              "end": 184,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2049001621045354631/video/1",
+              "media_key": "13_2049001467642814464",
+              "start": 161,
+              "url": "https://t.co/WUrJAtFrjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001621045354631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖结果出炉。铜奖：@Ciky_Shore @ZhongJM123 @shundebo__ 银奖：@hzqsns 金奖：@LybbenMTF\n抽奖资格名单https://t.co/HDBRfstlzE\n请中奖人员在3天内私聊我，过时视为放弃哈。名单在抽奖前做的，没有内幕绝对随机公正⚖️中奖者我一个都不认识。谢谢各位☺️ https://t.co/WUrJAtFrjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 632,
+          "like_count": 15286,
+          "listed_count": 11,
+          "media_count": 988,
+          "tweet_count": 3926
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜正義的夥伴｜femboy｜not trans｜friendly to trans｜EN CN JP｜An ally of justice and fairness｜love cute things｜168cm50kg｜music、comic、animation、pcgame｜thanks！",
+        "id": "1763034943599607808",
+        "location": "鄂｜saitama｜🉑🌙｜🚪48｜✈️｜DM",
+        "name": "月光的琉璃梦🏳️‍⚧️🍥🌸4代目",
+        "pinned_tweet_id": "2042448880512684506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 138,
+          "like_count": 440,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 1227
+        },
+        "username": "moonlight_ruri",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "Ciky/sɪ'kɪ/辞魁月and月见初霜 也可以叫我月霜！/🍥2026.4.16/这里只是一个垃圾桶喵/究竟什么时候才能死掉呢/出生日2009.2.6/CODM/逆水寒//lolm/提前致歉因我说的话而伤害到的人喵喵喵/我就是个超级大傻福/我在除夕夜逮狗 叫我野狗猎手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cikyitz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cikyitz",
+                "start": 0,
+                "url": "https://t.co/4gXj9Q6KZO"
+              }
+            ]
+          }
+        },
+        "id": "1912667915251511296",
+        "location": "湮灭潮",
+        "name": "辞魁月",
+        "pinned_tweet_id": "2048446987171962897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 334,
+          "like_count": 1908,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/4gXj9Q6KZO",
+        "username": "Ciky_Shore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T15:01:45.000Z",
+        "description": "",
+        "id": "1827360590328950786",
+        "name": "Winsen Zhong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042327134778130432/SQZ9gUCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 118,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 220
+        },
+        "username": "ZhongJM123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T09:00:18.000Z",
+        "description": "@shundebo__se\n🍝🍝🍝🍝🍝🍝🍝🍝🍝🍝JSR  aziwa'ninndro\nshundebo@shundebo.top/\n我是抖m我是杂鱼\nhttps://t.co/pYxaD2CL8R\nINTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "shundebo__se"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/aziwaninndroic…",
+                "end": 98,
+                "expanded_url": "http://t.me/aziwaninndroichi",
+                "start": 75,
+                "url": "https://t.co/pYxaD2CL8R"
+              }
+            ]
+          }
+        },
+        "id": "1604763406669684737",
+        "location": "schlen地",
+        "name": "shundebo",
+        "pinned_tweet_id": "1989666656889835547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022848904992296960/kyURG7Cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 619,
+          "like_count": 5839,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 1691
+        },
+        "username": "shundebo__",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-21T03:16:20.000Z",
+        "description": "奇迹和魔法并不是免费的。 一个满天星(maybe)\n🐧：第40542075个质数（不会有人这都不会算吧😋），欢迎和我交朋友ww",
+        "id": "899470193776140289",
+        "location": "M87",
+        "name": "Sakura🜃",
+        "pinned_tweet_id": "2014601533510545626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048271725629165568/b0dcv7Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 451,
+          "like_count": 2920,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 1834
+        },
+        "username": "hzqsns",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T10:23:38.000Z",
+        "description": "🏳️‍⚧️小号重生中... / 淡推很少上线 / HRT24.10.?? / 多次断糖🍬 / 天残党 / 重抑中焦 / 同类互fo /",
+        "id": "1908103114223468544",
+        "location": "1.14km",
+        "name": "Lybben凌汴喵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948435540447297538/22BEjssz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 102,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 46
+        },
+        "username": "LybbenMTF",
+        "verified": false
+      }
+    ]
+  }
+}

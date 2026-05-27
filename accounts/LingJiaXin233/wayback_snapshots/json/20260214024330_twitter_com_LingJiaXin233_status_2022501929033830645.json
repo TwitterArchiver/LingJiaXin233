@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022493203224760525",
+    "created_at": "2026-02-14T02:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022501929033830645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022501929033830645",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022493203224760525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 诡计多端的0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 127327,
+        "height": 640,
+        "media_key": "13_2022493081539645440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022493081539645440/img/o_Maq9a1No0bmVn1.jpg",
+        "public_metrics": {
+          "view_count": 656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022493081539645440/vid/avc1/320x568/zBycyC4qHv0QXZUW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022493081539645440/vid/avc1/360x640/Oat1t_34sf3TAE4R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022493081539645440/pl/NuUMnBvVJnvAJuBP.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022493203224760525",
+        "created_at": "2026-02-14T02:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022501929033830645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022501929033830645",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022493203224760525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 诡计多端的0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022493081539645440"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2022493203224760525",
+        "created_at": "2026-02-14T02:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022493203224760525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlcCIERdgj",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/2022493203224760525/video/1",
+              "media_key": "13_2022493081539645440",
+              "start": 0,
+              "url": "https://t.co/nlcCIERdgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022493203224760525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1727,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nlcCIERdgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2020123184813732041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 442,
+          "like_count": 8040,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2301
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269536,
+          "following_count": 104,
+          "like_count": 32924,
+          "listed_count": 469,
+          "media_count": 3431,
+          "tweet_count": 28441
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

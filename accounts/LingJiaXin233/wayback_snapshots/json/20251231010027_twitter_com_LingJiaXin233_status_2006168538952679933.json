@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006168531298332672"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1989900244310790655",
+    "created_at": "2025-12-31T01:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T02:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006168538952679933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oB5LG67RIu",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2006168538952679933/photo/1",
+          "media_key": "3_2006168531298332672",
+          "start": 13,
+          "url": "https://t.co/oB5LG67RIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006168538952679933",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989900244310790655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 https://t.co/oB5LG67RIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2006168531298332672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9dXpmuasAACo-N.jpg",
+        "width": 1024
+      },
+      {
+        "height": 512,
+        "media_key": "3_1989900241878102016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52Luh-bsAABC4b.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006168531298332672"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1989900244310790655",
+        "created_at": "2025-12-31T01:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T02:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006168538952679933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oB5LG67RIu",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2006168538952679933/photo/1",
+              "media_key": "3_2006168531298332672",
+              "start": 13,
+              "url": "https://t.co/oB5LG67RIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006168538952679933",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989900244310790655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 https://t.co/oB5LG67RIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989900241878102016"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1989900244310790655",
+        "created_at": "2025-11-16T03:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989900244310790655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYnmCfgPjz",
+              "end": 35,
+              "expanded_url": "https://x.com/miaoning000/status/1989900244310790655/photo/1",
+              "media_key": "3_1989900241878102016",
+              "start": 12,
+              "url": "https://t.co/yYnmCfgPjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989900244310790655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 118903,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "rip  我下了这个号 https://t.co/yYnmCfgPjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 418,
+          "like_count": 7122,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 2187
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/🚪30￥/MTX/ overdose💊/双相/爱人@wanchunshi/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙\n频道链接 https://t.co/bCWAnc9ypA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "wanchunshi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaonning000",
+                "end": 134,
+                "expanded_url": "https://t.me/miaonning000",
+                "start": 111,
+                "url": "https://t.co/bCWAnc9ypA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+fd4ppG7YOqRhM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+fd4ppG7YOqRhMzM1",
+                "start": 0,
+                "url": "https://t.co/vqtnzUqg6h"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 3667,
+          "like_count": 15487,
+          "listed_count": 12,
+          "media_count": 518,
+          "tweet_count": 7661
+        },
+        "url": "https://t.co/vqtnzUqg6h",
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

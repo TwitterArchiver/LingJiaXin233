@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049089156203372544"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049089165460156768",
+    "created_at": "2026-04-28T11:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049089165460156768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3R0M7b7xtt",
+          "end": 34,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2049089165460156768/photo/1",
+          "media_key": "3_2049089156203372544",
+          "start": 11,
+          "url": "https://t.co/3R0M7b7xtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049089165460156768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种物理成绩一定很好 https://t.co/3R0M7b7xtt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2049089156203372544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_TuySbYAAw-Fe.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049089156203372544"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049089165460156768",
+        "created_at": "2026-04-28T11:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049089165460156768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3R0M7b7xtt",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2049089165460156768/photo/1",
+              "media_key": "3_2049089156203372544",
+              "start": 11,
+              "url": "https://t.co/3R0M7b7xtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049089165460156768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种物理成绩一定很好 https://t.co/3R0M7b7xtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 634,
+          "like_count": 15319,
+          "listed_count": 11,
+          "media_count": 992,
+          "tweet_count": 3930
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052379465473519923",
+    "created_at": "2026-05-07T14:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052391359907332209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052391359907332209",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052379465473519923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle p2头像好笨啊啊啊好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2052379452089511936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNobMAAUFmb.jpg",
+        "width": 558
+      },
+      {
+        "height": 873,
+        "media_key": "3_2052379452047499264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNeaIAAvqy6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 719,
+        "media_key": "3_2052379452060090368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNhaQAAdSMP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2214,
+        "media_key": "3_2052379452064342016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuEPNibIAAxDsG.jpg",
+        "width": 4031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052379465473519923",
+        "created_at": "2026-05-07T14:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052391359907332209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391359907332209",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052379465473519923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle p2头像好笨啊啊啊好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052379452089511936",
+            "3_2052379452047499264",
+            "3_2052379452060090368",
+            "3_2052379452064342016"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2052379465473519923",
+        "created_at": "2026-05-07T13:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052379465473519923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452089511936",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452047499264",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452060090368",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            },
+            {
+              "display_url": "pic.x.com/yfmZHpDk9j",
+              "end": 176,
+              "expanded_url": "https://x.com/ServalCandle/status/2052379465473519923/photo/1",
+              "media_key": "3_2052379452064342016",
+              "start": 153,
+              "url": "https://t.co/yfmZHpDk9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052379465473519923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 602,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的改证就是比加拿大的改证爽很多（\n\n加拿大的改了和没改一样\n\n而中国的生活处处和性别有关\n\n当法定性别和心理性别符合时\n\n平时会带来性别焦虑的一切都会变成享受的来源_(:з」∠)_\n\n从滴滴上我从不会用的小红花\n到Alipay上的小粉标\n\n性别焦虑被满足的瞬间，世间变成了奶与蜜的土地，只剩欢愉存在（ https://t.co/yfmZHpDk9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 672,
+          "like_count": 16068,
+          "listed_count": 12,
+          "media_count": 1224,
+          "tweet_count": 4241
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 身分證性別女/封鎖必回 / 癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33942,
+          "following_count": 418,
+          "like_count": 235939,
+          "listed_count": 106,
+          "media_count": 9145,
+          "tweet_count": 59619
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

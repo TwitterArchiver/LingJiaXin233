@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1972119808503324787",
+    "created_at": "2025-10-04T15:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974503176012472773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 28,
+          "id": "1554005819649568768",
+          "start": 14,
+          "username": "wingattackqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974503176012472773",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972178420613452154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @wingattackqwq 经典永流传"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1972178417081524224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16V0j_WIAA9rNZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1972119808503324787",
+        "created_at": "2025-10-04T15:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974503176012472773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 28,
+              "id": "1554005819649568768",
+              "start": 14,
+              "username": "wingattackqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974503176012472773",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972178420613452154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @wingattackqwq 经典永流传"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972178417081524224"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1972119808503324787",
+        "created_at": "2025-09-28T05:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972178420613452154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554005819649568768",
+              "start": 0,
+              "username": "wingattackqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJPMdnSO1u",
+              "end": 43,
+              "expanded_url": "https://x.com/amber_toffee/status/1972178420613452154/photo/1",
+              "media_key": "3_1972178417081524224",
+              "start": 20,
+              "url": "https://t.co/RJPMdnSO1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972178420613452154",
+        "in_reply_to_user_id": "1554005819649568768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24314,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972119808503324787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingattackqwq 异曲同工 https://t.co/RJPMdnSO1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 369,
+          "like_count": 4328,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1802
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18514,
+          "following_count": 2310,
+          "like_count": 33601,
+          "listed_count": 56,
+          "media_count": 672,
+          "tweet_count": 16517
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-01T07:27:21.000Z",
+        "description": "04/未术，对象位空缺🥺取向是：非直男均可🥺做机器人全栈的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/cureflora",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/cureflora",
+                "start": 0,
+                "url": "https://t.co/QVGwL1EQKt"
+              }
+            ]
+          }
+        },
+        "id": "1554005819649568768",
+        "location": "枕阳",
+        "name": "小兔姬没有小肚叽🎀（唯一推特账号）",
+        "pinned_tweet_id": "1962061925455650857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896566996868976640/69DYcj6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10471,
+          "following_count": 3680,
+          "like_count": 3358,
+          "listed_count": 11,
+          "media_count": 98,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/QVGwL1EQKt",
+        "username": "wingattackqwq",
+        "verified": false
+      }
+    ]
+  }
+}

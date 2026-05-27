@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2007020581284409746",
+    "created_at": "2026-01-02T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007094704035487863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967080764119678976",
+          "start": 0,
+          "username": "rccn2501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007094704035487863",
+    "in_reply_to_user_id": "1967080764119678976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007090925600940416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rccn2501 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2007020581284409746",
+        "created_at": "2026-01-02T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007094704035487863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967080764119678976",
+              "start": 0,
+              "username": "rccn2501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007094704035487863",
+        "in_reply_to_user_id": "1967080764119678976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007090925600940416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rccn2501 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967080764119678976",
+        "conversation_id": "2007020581284409746",
+        "created_at": "2026-01-02T14:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007090925600940416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007090925600940416",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007020581284409746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 抱抱呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 414,
+          "like_count": 7174,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2205
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T04:19:50.000Z",
+        "description": "红十字运动/ 医疗急救  / MTF🏳‍⚧🍥/ RCS of the ROC /爱人❤️@xiaolianmm4/🥰妹妹:@hsgmxz民国99年-2010年出廠99.10.19/中華民國台灣派/不涉政/有證含糖/(已炸柜)/hrt:民国114年-25年 10.10 /关注会回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "xiaolianmm4"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "hsgmxz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "redcross.org.tw",
+                "end": 23,
+                "expanded_url": "https://www.redcross.org.tw",
+                "start": 0,
+                "url": "https://t.co/9rfNWvR0qi"
+              }
+            ]
+          }
+        },
+        "id": "1967080764119678976",
+        "location": "朝鮮民主主義人民共和國-平安北道-新義州特別行政區",
+        "name": "安卡睡不醒 RCROC🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999798653402464256/WYPYnn3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 324,
+          "like_count": 946,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/9rfNWvR0qi",
+        "username": "rccn2501",
+        "verified": false
+      }
+    ]
+  }
+}

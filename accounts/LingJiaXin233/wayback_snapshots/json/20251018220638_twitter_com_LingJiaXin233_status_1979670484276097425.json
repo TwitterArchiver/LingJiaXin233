@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1979044584517689541",
+    "created_at": "2025-10-18T22:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T23:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979670484276097425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821431905071570944",
+          "start": 0,
+          "username": "tuitenvwang"
+        },
+        {
+          "end": 22,
+          "id": "715183792697303041",
+          "start": 13,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979670484276097425",
+    "in_reply_to_user_id": "1821431905071570944",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979044584517689541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitenvwang @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11399,
+        "height": 1280,
+        "media_key": "13_1979044476258545664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979044476258545664/img/bqK5E0Ilmk_IIPbs.jpg",
+        "public_metrics": {
+          "view_count": 284289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979044476258545664/vid/avc1/320x568/Wh7iRQwhvTrc7fcx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979044476258545664/vid/avc1/480x852/FT4_qDplSGdO231q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979044476258545664/vid/avc1/720x1280/EglkG2MhyiZd8Mn3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979044476258545664/pl/hXJLNVVIjhAO2BPM.m3u8?v=f6d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1979044584517689541",
+        "created_at": "2025-10-18T22:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979670484276097425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821431905071570944",
+              "start": 0,
+              "username": "tuitenvwang"
+            },
+            {
+              "end": 22,
+              "id": "715183792697303041",
+              "start": 13,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979670484276097425",
+        "in_reply_to_user_id": "1821431905071570944",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979044584517689541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitenvwang @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979044476258545664"
+          ]
+        },
+        "author_id": "1821431905071570944",
+        "conversation_id": "1979044584517689541",
+        "created_at": "2025-10-17T04:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979044584517689541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pk16NBqXh0",
+              "end": 33,
+              "expanded_url": "https://x.com/tuitenvwang/status/1979044584517689541/video/1",
+              "media_key": "13_1979044476258545664",
+              "start": 10,
+              "url": "https://t.co/Pk16NBqXh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979044584517689541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 994,
+          "impression_count": 608718,
+          "like_count": 3820,
+          "quote_count": 77,
+          "reply_count": 210,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "我一直想这样试一试 https://t.co/Pk16NBqXh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 387,
+          "like_count": 5467,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2002
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我",
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1885391885889573340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11674,
+          "following_count": 320,
+          "like_count": 3702,
+          "listed_count": 11,
+          "media_count": 322,
+          "tweet_count": 2080
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275963,
+          "following_count": 115,
+          "like_count": 20,
+          "listed_count": 649,
+          "media_count": 1,
+          "tweet_count": 812748
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

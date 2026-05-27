@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973890989904609656",
+    "created_at": "2025-10-07T21:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T22:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975674562114453528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1156097249841041408",
+          "start": 0,
+          "username": "LightrainPure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975674562114453528",
+    "in_reply_to_user_id": "1156097249841041408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974313320510542035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightrainPure 你说“是否HRT/RLE与定义无关”是正确的，但问题在于——社会制度需要一个可验证标准。\n仅凭“心理认同”无法操作，否则所有顺男都能声称“我认同自己是女性”而进入女厕。\n医学定义解决“认同真实性”，却没解决“可执行性”，这是你的第一个逻辑缺口。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973890989904609656",
+        "created_at": "2025-10-07T21:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T22:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975674562114453528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1156097249841041408",
+              "start": 0,
+              "username": "LightrainPure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975674562114453528",
+        "in_reply_to_user_id": "1156097249841041408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974313320510542035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightrainPure 你说“是否HRT/RLE与定义无关”是正确的，但问题在于——社会制度需要一个可验证标准。\n仅凭“心理认同”无法操作，否则所有顺男都能声称“我认同自己是女性”而进入女厕。\n医学定义解决“认同真实性”，却没解决“可执行性”，这是你的第一个逻辑缺口。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156097249841041408",
+        "conversation_id": "1973890989904609656",
+        "created_at": "2025-10-04T03:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T04:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974313320510542035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974313320510542035",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973890989904609656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 跨性别者的医学核心定义是“性别认同与出生时被指派的生理性别不一致”，这是国际通用的医学共识（如《国际疾病分类（ICD-11）》），与是否进行HRT或rle无关。\n你的言论存在两处关键的逻辑混淆和不完备性\n1. 混淆了“性别认同的主观性”与“随意性”：性别认同的主观体验并非“想当然”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975168353166602570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 365,
+          "like_count": 4735,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1885
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜日本语を勉强しています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1003,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

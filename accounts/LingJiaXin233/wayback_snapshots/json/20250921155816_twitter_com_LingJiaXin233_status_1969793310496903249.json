@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1969710634083512460",
+    "created_at": "2025-09-21T15:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969793310496903249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903330172293746694",
+          "start": 0,
+          "username": "chenxilinnmsl"
+        },
+        {
+          "end": 31,
+          "id": "1886969144031240192",
+          "start": 15,
+          "username": "SpoxCHN_MaoNing"
+        },
+        {
+          "end": 47,
+          "id": "1919963459279888384",
+          "start": 32,
+          "username": "Haruka25999588"
+        },
+        {
+          "end": 58,
+          "id": "1565981667746914304",
+          "start": 48,
+          "username": "XynFemboy"
+        },
+        {
+          "end": 72,
+          "id": "1688215989970968576",
+          "start": 59,
+          "username": "mizuki_liang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969793310496903249",
+    "in_reply_to_user_id": "1903330172293746694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969715712190189915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenxilinnmsl @SpoxCHN_MaoNing @Haruka25999588 @XynFemboy @mizuki_liang 欸你妈怎么没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969715707391684608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XV__eWsAAWuKg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969715707395944448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XV__fXsAAaQ2y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969715707404320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XV__hXgAAklzI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1969710634083512460",
+        "created_at": "2025-09-21T15:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969793310496903249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903330172293746694",
+              "start": 0,
+              "username": "chenxilinnmsl"
+            },
+            {
+              "end": 31,
+              "id": "1886969144031240192",
+              "start": 15,
+              "username": "SpoxCHN_MaoNing"
+            },
+            {
+              "end": 47,
+              "id": "1919963459279888384",
+              "start": 32,
+              "username": "Haruka25999588"
+            },
+            {
+              "end": 58,
+              "id": "1565981667746914304",
+              "start": 48,
+              "username": "XynFemboy"
+            },
+            {
+              "end": 72,
+              "id": "1688215989970968576",
+              "start": 59,
+              "username": "mizuki_liang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969793310496903249",
+        "in_reply_to_user_id": "1903330172293746694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969715712190189915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenxilinnmsl @SpoxCHN_MaoNing @Haruka25999588 @XynFemboy @mizuki_liang 欸你妈怎么没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969715707391684608",
+            "3_1969715707395944448",
+            "3_1969715707404320768"
+          ]
+        },
+        "author_id": "1903330172293746694",
+        "conversation_id": "1969710634083512460",
+        "created_at": "2025-09-21T10:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969715712190189915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886969144031240192",
+              "start": 0,
+              "username": "SpoxCHN_MaoNing"
+            },
+            {
+              "end": 62,
+              "id": "1919963459279888384",
+              "start": 47,
+              "username": "Haruka25999588"
+            },
+            {
+              "end": 73,
+              "id": "1565981667746914304",
+              "start": 63,
+              "username": "XynFemboy"
+            },
+            {
+              "end": 87,
+              "id": "1688215989970968576",
+              "start": 74,
+              "username": "mizuki_liang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJMFHqGVHD",
+              "end": 111,
+              "expanded_url": "https://x.com/chenxilinnmsl/status/1969715712190189915/photo/1",
+              "media_key": "3_1969715707391684608",
+              "start": 88,
+              "url": "https://t.co/HJMFHqGVHD"
+            },
+            {
+              "display_url": "pic.x.com/HJMFHqGVHD",
+              "end": 111,
+              "expanded_url": "https://x.com/chenxilinnmsl/status/1969715712190189915/photo/1",
+              "media_key": "3_1969715707395944448",
+              "start": 88,
+              "url": "https://t.co/HJMFHqGVHD"
+            },
+            {
+              "display_url": "pic.x.com/HJMFHqGVHD",
+              "end": 111,
+              "expanded_url": "https://x.com/chenxilinnmsl/status/1969715712190189915/photo/1",
+              "media_key": "3_1969715707404320768",
+              "start": 88,
+              "url": "https://t.co/HJMFHqGVHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969715712190189915",
+        "in_reply_to_user_id": "1886969144031240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969710634083512460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpoxCHN_MaoNing 如何看待中国低龄跨性别中学生不好好上学翻墙反华？比如这三位 @Haruka25999588 @XynFemboy @mizuki_liang https://t.co/HJMFHqGVHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "不见证",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1962478259167535426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 398,
+          "like_count": 3034,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1369
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T06:17:39.000Z",
+        "description": "陈习林的叔叔开了一家小超市 嘉兴嘉善魏塘街道世纪华联超市长秀店 15928846920 合作加盟联系杨季林的弟弟杨季枫 17516470498 人生在世很多事都要学会放弃，，，——陈家辉之父陈国",
+        "id": "1903330172293746694",
+        "location": "四川省成都市东部新区三岔街道万福新村7组62号",
+        "name": "爱猫社区 - 不爱请闪开",
+        "pinned_tweet_id": "1962813601002992125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965877074968678400/Yn4dhZyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 59,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 642
+        },
+        "username": "chenxilinnmsl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139597,
+          "following_count": 242,
+          "like_count": 1,
+          "listed_count": 442,
+          "media_count": 738,
+          "tweet_count": 772
+        },
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "✟降りる降りる降りる✟ 𓏵‧₊\n                                      09无证mtf/mtx 最爱的宝宝@hsgmxz最好的姐姐@LuYa_Yayoi \n ｜  https://t.co/rGzWiV7L46中国の高校生です 翻訳ソフトを使っています。ご了承ください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 71,
+                "username": "hsgmxz"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "LuYa_Yayoi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/haruka_ichika",
+                "end": 123,
+                "expanded_url": "https://ngl.link/haruka_ichika",
+                "start": 100,
+                "url": "https://t.co/rGzWiV7L46"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "长春龙嘉国际机场T2航站楼吸烟室",
+        "name": "𓏴𓏴遥🍥𓏵‧₊",
+        "pinned_tweet_id": "1967576989637939370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959220692416962560/vxiOTkTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 809,
+          "like_count": 2046,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 384
+        },
+        "username": "Haruka25999588",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "转世中的internet overdoseer 主页不定时更换",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️哈寄米です🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962071498526498816/94KTqvfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 1148,
+          "like_count": 55019,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 6142
+        },
+        "username": "XynFemboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾 | 喜欢发日常 | 极度缺乏安全感 | 善待彼此 拥抱不同 | 已经有喜欢的人了喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 816,
+          "like_count": 5563,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": true
+      }
+    ]
+  }
+}

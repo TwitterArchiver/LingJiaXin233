@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974368373690769449",
+    "created_at": "2025-10-04T13:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974466665326039417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964718861753962496",
+          "start": 0,
+          "username": "plumcake444339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974466665326039417",
+    "in_reply_to_user_id": "1964718861753962496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974465019523027452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plumcake444339 炒币的，还有跨性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974368373690769449",
+        "created_at": "2025-10-04T13:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974466665326039417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964718861753962496",
+              "start": 0,
+              "username": "plumcake444339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974466665326039417",
+        "in_reply_to_user_id": "1964718861753962496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974465019523027452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plumcake444339 炒币的，还有跨性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964718861753962496",
+        "conversation_id": "1974368373690769449",
+        "created_at": "2025-10-04T13:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974465019523027452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974465019523027452",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974368373690769449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 1和4是什么，求解答"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 368,
+          "like_count": 4277,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1788
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T15:54:42.000Z",
+        "description": "可以叫我梅子｜\n毫无逻辑碎碎念，想到什么说什么｜\n也很喜欢看萌萌小女孩们的碎碎念，太可爱了",
+        "id": "1964718861753962496",
+        "location": "在你左心房",
+        "name": "plumcake",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964719075776516096/rWJ3E8f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "plumcake444339",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052334437162213376"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2052334444539949434",
+    "created_at": "2026-05-07T10:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052334444539949434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YahFnZactZ",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2052334444539949434/photo/1",
+          "media_key": "3_2052334437162213376",
+          "start": 13,
+          "url": "https://t.co/YahFnZactZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052334444539949434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不怕吃喝嫖赌就怕二代创业 https://t.co/YahFnZactZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2052334437162213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtbS_9a4AASo6V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052334437162213376"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2052334444539949434",
+        "created_at": "2026-05-07T10:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052334444539949434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YahFnZactZ",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2052334444539949434/photo/1",
+              "media_key": "3_2052334437162213376",
+              "start": 13,
+              "url": "https://t.co/YahFnZactZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052334444539949434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不怕吃喝嫖赌就怕二代创业 https://t.co/YahFnZactZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3809,
+          "following_count": 669,
+          "like_count": 16045,
+          "listed_count": 12,
+          "media_count": 1218,
+          "tweet_count": 4227
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

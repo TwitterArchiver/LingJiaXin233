@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1997653679642485154",
+    "created_at": "2025-12-07T15:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997694140575052063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997694140575052063",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997653679642485154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 之前捡到一个1200的15，无面容全绿，256的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997653670322991104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kXbdvbcAAGvRX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1997653679642485154",
+        "created_at": "2025-12-07T15:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997694140575052063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997694140575052063",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997653679642485154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 之前捡到一个1200的15，无面容全绿，256的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997653670322991104"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997653679642485154",
+        "created_at": "2025-12-07T13:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997653679642485154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JII6EeEyzF",
+              "end": 90,
+              "expanded_url": "https://x.com/RainEngine2024/status/1997653679642485154/photo/1",
+              "media_key": "3_1997653670322991104",
+              "start": 67,
+              "url": "https://t.co/JII6EeEyzF"
+            },
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/rainengine2024/status/1996533682237317174",
+              "start": 91,
+              "url": "https://t.co/vRQBvEPpPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997653679642485154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1847,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996533682237317174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1200的iPhone15pro到手\n除了屏幕以及面容损坏，爱思全绿，并且基础功能正常，还是国行的双卡版本，大家觉得我算不算捡到漏了 https://t.co/JII6EeEyzF https://t.co/vRQBvEPpPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 387,
+          "like_count": 6748,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 2155
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元（MtX/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1975731324443836803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995431022842806272/qX_4U75S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3679,
+          "following_count": 627,
+          "like_count": 33391,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 5030
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

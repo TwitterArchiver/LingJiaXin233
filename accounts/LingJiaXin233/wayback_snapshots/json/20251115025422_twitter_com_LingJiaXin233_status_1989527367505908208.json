@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1989347850237718528"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1989527367505908208",
+    "created_at": "2025-11-15T02:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989527367505908208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1753781038671675392",
+          "start": 3,
+          "username": "abwjv56796735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989527367505908208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 341
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989347851789549950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abwjv56796735: 大消息！！！大消息！！！\n麻豆传媒映画2019.11-2025.11至今是六周年了！！！\n感谢各位粉丝的支持与鼓励，每个公司官方旗下账号将给予福利回馈粉丝们！\n一键三连；评论！转发！点赞！即可领取官方福利！！！\n一定要关注后三连！！否则将无…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989527367505908208].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989527367505908208",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989527367505908208"
+    }
+  ],
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-11-15T15:01:02.000Z",
+        "id": "1989347850237718528",
+        "options": [
+          {
+            "label": "口令红包280份88元",
+            "position": 1,
+            "votes": 334
+          },
+          {
+            "label": "iPhone 17 10部",
+            "position": 2,
+            "votes": 411
+          },
+          {
+            "label": "面试机会5名",
+            "position": 3,
+            "votes": 99
+          },
+          {
+            "label": "出演六周年ying趴纪录片5名",
+            "position": 4,
+            "votes": 182
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1989347850237718528"
+          ]
+        },
+        "author_id": "1753781038671675392",
+        "conversation_id": "1989347851789549950",
+        "created_at": "2025-11-14T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989347851789549950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989347851789549950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 53934,
+          "like_count": 1294,
+          "quote_count": 4,
+          "reply_count": 643,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "大消息！！！大消息！！！\n麻豆传媒映画2019.11-2025.11至今是六周年了！！！\n感谢各位粉丝的支持与鼓励，每个公司官方旗下账号将给予福利回馈粉丝们！\n一键三连；评论！转发！点赞！即可领取官方福利！！！\n一定要关注后三连！！否则将无法私信你！！！一共300份（限时24小时）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 409,
+          "like_count": 6000,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2087
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T14:02:57.000Z",
+        "description": "麻豆分享 分享每一份快乐",
+        "id": "1753781038671675392",
+        "location": "麻豆传媒官方大赛账号",
+        "name": "麻豆分享",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949372603459842048/Kn0etuSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 59,
+          "like_count": 0,
+          "listed_count": 10,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "abwjv56796735",
+        "verified": false
+      }
+    ]
+  }
+}

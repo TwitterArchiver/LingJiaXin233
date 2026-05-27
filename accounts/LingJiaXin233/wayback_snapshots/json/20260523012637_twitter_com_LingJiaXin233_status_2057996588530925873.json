@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057996573477568513",
+        "3_2057996573481832449"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2057996588530925873",
+    "created_at": "2026-05-23T01:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T02:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057996588530925873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERZa2E8SHY",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2057996588530925873/photo/1",
+          "media_key": "3_2057996573477568513",
+          "start": 12,
+          "url": "https://t.co/ERZa2E8SHY"
+        },
+        {
+          "display_url": "pic.x.com/ERZa2E8SHY",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2057996588530925873/photo/1",
+          "media_key": "3_2057996573481832449",
+          "start": 12,
+          "url": "https://t.co/ERZa2E8SHY"
+        },
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/2056817091165245604",
+          "start": 36,
+          "url": "https://t.co/gii5facAjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057996588530925873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056817091165245604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我的小平板买了个壳😋 https://t.co/ERZa2E8SHY https://t.co/gii5facAjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057996573477568513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI94-tcaAAEVimD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057996573481832449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI94-tdbEAEHSLU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 717,
+        "media_key": "3_2056817084987047936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HItIPcabgAAaG6z.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057996573477568513",
+            "3_2057996573481832449"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2057996588530925873",
+        "created_at": "2026-05-23T01:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057996588530925873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERZa2E8SHY",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2057996588530925873/photo/1",
+              "media_key": "3_2057996573477568513",
+              "start": 12,
+              "url": "https://t.co/ERZa2E8SHY"
+            },
+            {
+              "display_url": "pic.x.com/ERZa2E8SHY",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2057996588530925873/photo/1",
+              "media_key": "3_2057996573481832449",
+              "start": 12,
+              "url": "https://t.co/ERZa2E8SHY"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2056817091165245604",
+              "start": 36,
+              "url": "https://t.co/gii5facAjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057996588530925873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056817091165245604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我的小平板买了个壳😋 https://t.co/ERZa2E8SHY https://t.co/gii5facAjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056817084987047936"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056817091165245604",
+        "created_at": "2026-05-19T19:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056817091165245604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2z9Qf9SjIP",
+              "end": 84,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056817091165245604/photo/1",
+              "media_key": "3_2056817084987047936",
+              "start": 61,
+              "url": "https://t.co/2z9Qf9SjIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056817091165245604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6034,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026.5.19 我想要一台ipadmini7用来专门看油管和推特\n2026.5.20 我得到一台ipadmini7😋 https://t.co/2z9Qf9SjIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5646,
+          "following_count": 712,
+          "like_count": 17542,
+          "listed_count": 11,
+          "media_count": 1694,
+          "tweet_count": 4914
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

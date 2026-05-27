@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974494716365582747",
+    "created_at": "2025-10-04T15:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974494716365582747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagura_yukikaz…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/kagura_yukikaze/status/1974494439101116469",
+          "start": 35,
+          "url": "https://t.co/HeEtruQdn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974494716365582747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974494439101116469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有推u能完完整整讲出x封号的所有情况\n一个“违反规则”真的很难绷 https://t.co/HeEtruQdn3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974494716365582747",
+        "created_at": "2025-10-04T15:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974494716365582747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagura_yukikaz…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kagura_yukikaze/status/1974494439101116469",
+              "start": 35,
+              "url": "https://t.co/HeEtruQdn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974494716365582747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974494439101116469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有推u能完完整整讲出x封号的所有情况\n一个“违反规则”真的很难绷 https://t.co/HeEtruQdn3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1974494439101116469",
+        "created_at": "2025-10-04T15:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974494439101116469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974494439101116469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克你怎么能乱封推油的账号呢😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 369,
+          "like_count": 4306,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1793
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1437,
+          "like_count": 60382,
+          "listed_count": 3,
+          "media_count": 501,
+          "tweet_count": 6769
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1979472663396659678",
+    "created_at": "2025-10-19T21:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T22:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980025473792147759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980025473792147759",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979557362970329202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1979472663396659678",
+        "created_at": "2025-10-19T21:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T22:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980025473792147759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980025473792147759",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979557362970329202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "1979472663396659678",
+        "created_at": "2025-10-18T14:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979557362970329202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902902431190499328",
+              "start": 0,
+              "username": "Blujack283685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979557362970329202",
+        "in_reply_to_user_id": "1902902431190499328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72879,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979472663396659678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blujack283685 不愿意，二十年前爸爸在打妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 389,
+          "like_count": 5488,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2010
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "懒大王没招了想要抱抱 | 水瓶座 | ENTJ-A |同性浪漫异性恋 | cai 沉浸式聊天玩家|瑞幸黑鹿V5|血管中流淌的是熊猫陨石拿铁|不yp 不聊骚|当朋友圈什么都发",
+        "id": "1897385240735240192",
+        "name": "懒大王",
+        "pinned_tweet_id": "1976865417286369657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897392981679783936/n1meRroR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 358,
+          "like_count": 3049,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 277
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

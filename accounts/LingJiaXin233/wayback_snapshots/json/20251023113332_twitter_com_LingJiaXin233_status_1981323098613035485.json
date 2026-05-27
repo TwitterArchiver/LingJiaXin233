@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1980789803865239916",
+    "created_at": "2025-10-23T11:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981323098613035485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981323098613035485",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980789803865239916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 许愿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1980789800975130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30t1E3W4AAulGQ.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1980789803865239916",
+        "created_at": "2025-10-23T11:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981323098613035485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981323098613035485",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980789803865239916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980789800975130624"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "conversation_id": "1980789803865239916",
+        "created_at": "2025-10-22T00:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T01:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980789803865239916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiyNNF2IYt",
+              "end": 189,
+              "expanded_url": "https://x.com/hsgmxz/status/1980789803865239916/photo/1",
+              "media_key": "3_1980789800975130624",
+              "start": 166,
+              "url": "https://t.co/PiyNNF2IYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980789803865239916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13059,
+          "like_count": 253,
+          "quote_count": 2,
+          "reply_count": 134,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉就1100+fo了\n感谢各位的一路陪伴\n那窝就来个抽奖吧\n开奖时间看帖子热度吧\n一等奖 100元支付宝口令红包 ×1\n二等奖 国补两盒（可折70元）×1\n三等奖 国补一盒（可折35元）×2\n特殊奖 \n如果这里抽到mtf的话就送国补一盒×1\n参与方式：关注+转贴+评论+点赞\n如果抽到bot就换下一位\n希望大家都好好的... https://t.co/PiyNNF2IYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 390,
+          "like_count": 5518,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 2020
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka|为这世界献出心脏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 131,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 128,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 105,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1980789803865239916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1206,
+          "like_count": 7881,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

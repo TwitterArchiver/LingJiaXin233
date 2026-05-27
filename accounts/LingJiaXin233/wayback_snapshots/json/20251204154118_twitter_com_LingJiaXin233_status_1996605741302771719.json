@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996542170497740800",
+        "3_1996542170476793856"
+      ],
+      "media_source_tweet_id": [
+        "1996544797977579623",
+        "1996544797977579623"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1996605741302771719",
+    "created_at": "2025-12-04T15:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996605741302771719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867244970853466112",
+          "start": 3,
+          "username": "hyc945"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dcn23JIubJ",
+          "end": 98,
+          "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+          "media_key": "3_1996542170497740800",
+          "start": 75,
+          "url": "https://t.co/Dcn23JIubJ"
+        },
+        {
+          "display_url": "pic.x.com/Dcn23JIubJ",
+          "end": 98,
+          "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+          "media_key": "3_1996542170476793856",
+          "start": 75,
+          "url": "https://t.co/Dcn23JIubJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996605741302771719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996544797977579623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyc945: 1500fo了，依旧发福利，抽五位送一瓶凝胶\n关注+转帖+评论+点赞，都要有哦\n随机抽五个送一瓶凝胶\n截止时间，12月12号 https://t.co/Dcn23JIubJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996542170497740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UkhqOa8AAuBrT.jpg",
+        "width": 922
+      },
+      {
+        "height": 576,
+        "media_key": "3_1996542170476793856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UkhqJbUAAkQze.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996542170497740800",
+            "3_1996542170476793856"
+          ],
+          "media_source_tweet_id": [
+            "1996544797977579623",
+            "1996544797977579623"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1996605741302771719",
+        "created_at": "2025-12-04T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996605741302771719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867244970853466112",
+              "start": 3,
+              "username": "hyc945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcn23JIubJ",
+              "end": 98,
+              "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+              "media_key": "3_1996542170497740800",
+              "start": 75,
+              "url": "https://t.co/Dcn23JIubJ"
+            },
+            {
+              "display_url": "pic.x.com/Dcn23JIubJ",
+              "end": 98,
+              "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+              "media_key": "3_1996542170476793856",
+              "start": 75,
+              "url": "https://t.co/Dcn23JIubJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996605741302771719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996544797977579623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyc945: 1500fo了，依旧发福利，抽五位送一瓶凝胶\n关注+转帖+评论+点赞，都要有哦\n随机抽五个送一瓶凝胶\n截止时间，12月12号 https://t.co/Dcn23JIubJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996542170497740800",
+            "3_1996542170476793856"
+          ]
+        },
+        "author_id": "1867244970853466112",
+        "conversation_id": "1996544797977579623",
+        "created_at": "2025-12-04T11:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:28:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996542173207253480",
+          "1996544797977579623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dcn23JIubJ",
+              "end": 86,
+              "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+              "media_key": "3_1996542170497740800",
+              "start": 63,
+              "url": "https://t.co/Dcn23JIubJ"
+            },
+            {
+              "display_url": "pic.x.com/Dcn23JIubJ",
+              "end": 86,
+              "expanded_url": "https://x.com/hyc945/status/1996544797977579623/photo/1",
+              "media_key": "3_1996542170476793856",
+              "start": 63,
+              "url": "https://t.co/Dcn23JIubJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01cb3bd54f92388e"
+        },
+        "id": "1996544797977579623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 556,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "1500fo了，依旧发福利，抽五位送一瓶凝胶\n关注+转帖+评论+点赞，都要有哦\n随机抽五个送一瓶凝胶\n截止时间，12月12号 https://t.co/Dcn23JIubJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 410,
+          "like_count": 6688,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 2146
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "需要买凝胶，请加这个qq3997247387，qq群897084565\n可出原味，可树洞陪聊",
+        "id": "1867244970853466112",
+        "name": "怀愚痴卖五倍雌二醇凝胶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1981277544487014610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968719205970370560/zpAQsyVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 77,
+          "like_count": 16,
+          "listed_count": 7,
+          "media_count": 177,
+          "tweet_count": 663
+        },
+        "username": "hyc945",
+        "verified": true
+      }
+    ]
+  }
+}

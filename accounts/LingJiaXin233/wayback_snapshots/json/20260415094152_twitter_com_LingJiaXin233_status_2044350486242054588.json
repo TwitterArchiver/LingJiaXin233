@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2044346863374250256",
+    "created_at": "2026-04-15T09:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044350486242054588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044350486242054588",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044346863374250256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 现在小孩电脑都不会用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044346863374250256",
+        "created_at": "2026-04-15T09:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044350486242054588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044350486242054588",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044346863374250256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 现在小孩电脑都不会用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044346863374250256",
+        "created_at": "2026-04-15T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044346863374250256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/minokakay/status/2044344898401554746",
+              "start": 88,
+              "url": "https://t.co/tXxltAY5nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044346863374250256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而且我觉得中国的小登在变得越来越弱智，因为这个社会是鼓励巨婴的存在的，在中国住久了就会发现，人可以什么都不会什么都不懂，因为这个社会在不断向下兼容，而非培养这些人的自理能力。\n\n我小时候的必备技能是在小学毕业前学会买火车票，搭地铁高铁，银行取钱，医院挂号，看懂线路图/地图，做饭，购物，看药物说明书，做兼职（社会义卖/志工），基础的理财（了解定存）。\n\n现在的小孩：12岁前天天玩手机看弱智小视频，12岁后遇到问题：豆包豆包火车票怎么买（然后第三方下单默认勾选保险的票）20岁后:怎么新建文本文档"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044344898401554746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我觉得中国的小登在变得越来越弱智，因为这个社会是鼓励巨婴的存在的，在中国住久了就会发现，人可以什么都不会什么都不懂，因为这个社会在不断向下兼容，而非培养这些人的自理能力。 https://t.co/tXxltAY5nU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 579,
+          "like_count": 13832,
+          "listed_count": 9,
+          "media_count": 696,
+          "tweet_count": 3479
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14158,
+          "following_count": 1051,
+          "like_count": 44018,
+          "listed_count": 52,
+          "media_count": 1788,
+          "tweet_count": 25823
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

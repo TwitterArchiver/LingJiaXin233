@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055429894105104384"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055306395940237805",
+    "created_at": "2026-05-15T23:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T00:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055429904817438788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8FRYwYCIB",
+          "end": 49,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055429904817438788/photo/1",
+          "media_key": "3_2055429894105104384",
+          "start": 26,
+          "url": "https://t.co/d8FRYwYCIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055429904817438788",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055306395940237805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 否极泰来，触底反弹 https://t.co/d8FRYwYCIB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055429894105104384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZamTragAAhybr.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055429894105104384"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055306395940237805",
+        "created_at": "2026-05-15T23:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055429904817438788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8FRYwYCIB",
+              "end": 49,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055429904817438788/photo/1",
+              "media_key": "3_2055429894105104384",
+              "start": 26,
+              "url": "https://t.co/d8FRYwYCIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055429904817438788",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055306395940237805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 否极泰来，触底反弹 https://t.co/d8FRYwYCIB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          }
+        ],
+        "conversation_id": "2055306395940237805",
+        "created_at": "2026-05-15T15:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055306395940237805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinusEkenstam/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/LinusEkenstam/status/2055171998997750133",
+              "start": 168,
+              "url": "https://t.co/enLdRG1Lrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055306395940237805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線 5 月 4 日 0 时 14 分发了一条推文，等一觉醒来的时候（大概六七点钟），那条推文的查看量竟然超过了 100K ！\n\n至今那条推文已有 927K 次查看，5 月 4 日也成为環状線第一次单日查看量突破 1M 的一天。\n\n但是从约 5 月 7 日开始，環状線的被严重限流，查看量在 24h 内能达 10K 的都屈指可数 。\n\n不过，環状線并不觉得这有什么，也没有非常焦虑。X 算法就是这样，它不会令你一直爆火下去。一是为了给其他创作者留出空间，二是让你冷静下来，得以在这个平台上继续耕耘，并为下一次爆火做准备——所谓「厚积薄发」大概就是如此吧。\n\n但是，Linus Ekenstam 所描述的情况确实很极端，X 算法在其中负有不可推脱的责任，在这一点上 X 算法确实有待改进。\n\n（環状線你真的没有焦虑吗？那天天在 Discord 上一会抱怨「環状線流量好低！」一会又绝望地说「環状線已经过气啦！」的人又是谁呢？（逃））"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1630,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055171998997750133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線 5 月 4 日 0 时 14 分发了一条推文，等一觉醒来的时候（大概六七点钟），那条推文的查看量竟然超过了 100K ！\n\n至今那条推文已有 927K 次查看，5 月 4 日也成为環状線第一次单日查看量突破 1M 的一天。\n\n但是从约 5 月 7 日开始，環状線的被严重限流，查看量在 24h 内能达 10K 的都屈指可数 。 https://t.co/enLdRG1Lrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5154,
+          "following_count": 686,
+          "like_count": 16877,
+          "listed_count": 10,
+          "media_count": 1470,
+          "tweet_count": 4566
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 826,
+          "like_count": 20014,
+          "listed_count": 8,
+          "media_count": 1068,
+          "tweet_count": 5957
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

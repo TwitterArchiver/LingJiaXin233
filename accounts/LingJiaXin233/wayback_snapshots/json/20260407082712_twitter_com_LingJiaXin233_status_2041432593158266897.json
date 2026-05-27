@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041432587617628160"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2041412939501224286",
+    "created_at": "2026-04-07T08:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041432593158266897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k1vWuXDKiE",
+          "end": 45,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2041432593158266897/photo/1",
+          "media_key": "3_2041432587617628160",
+          "start": 22,
+          "url": "https://t.co/k1vWuXDKiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041432593158266897",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041412939501224286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimo 我的就是这样（ https://t.co/k1vWuXDKiE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 239,
+        "media_key": "3_2041432587617628160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSgH1na8AAeCtd.jpg",
+        "width": 687
+      },
+      {
+        "height": 1370,
+        "media_key": "3_2041412932538646528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSOPwvawAAqRpG.jpg",
+        "width": 1658
+      },
+      {
+        "height": 1274,
+        "media_key": "3_2041412932542853120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSOPwwa8AAIXWn.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041432587617628160"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2041412939501224286",
+        "created_at": "2026-04-07T08:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041432593158266897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1vWuXDKiE",
+              "end": 45,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2041432593158266897/photo/1",
+              "media_key": "3_2041432587617628160",
+              "start": 22,
+              "url": "https://t.co/k1vWuXDKiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041432593158266897",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041412939501224286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimo 我的就是这样（ https://t.co/k1vWuXDKiE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041412932538646528",
+            "3_2041412932542853120"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2041412939501224286",
+        "created_at": "2026-04-07T07:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041412939501224286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txW27qUZ4b",
+              "end": 138,
+              "expanded_url": "https://x.com/lovelyshuimo/status/2041412939501224286/photo/1",
+              "media_key": "3_2041412932538646528",
+              "start": 115,
+              "url": "https://t.co/txW27qUZ4b"
+            },
+            {
+              "display_url": "pic.x.com/txW27qUZ4b",
+              "end": 138,
+              "expanded_url": "https://x.com/lovelyshuimo/status/2041412939501224286/photo/1",
+              "media_key": "3_2041412932542853120",
+              "start": 115,
+              "url": "https://t.co/txW27qUZ4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041412939501224286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 290,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年年初有约90g苹果用户数据泄\n其中包括iCloud账户信息和密码\n据说是因为下载了恶意键盘app，偷偷收集的\n所以苹果也不是一定安全\n建议都打开高级数据保护和双重认证\n并且不要使用不明第三方app\n可以一定程度保护自己的隐私 https://t.co/txW27qUZ4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 743,
+          "like_count": 12132,
+          "listed_count": 8,
+          "media_count": 518,
+          "tweet_count": 3153
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4846,
+          "following_count": 1027,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3111,
+          "tweet_count": 13826
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2044423081666682976",
+    "created_at": "2026-04-15T17:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044461299053310049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044461299053310049",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044423081666682976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 2级小号看到直接拉黑，就算是真的帮是情不帮也是理，不能有太大的心理负担"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044423078718144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8_9VGbAAAgruW.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044423081666682976",
+        "created_at": "2026-04-15T17:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044461299053310049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044461299053310049",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044423081666682976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 2级小号看到直接拉黑，就算是真的帮是情不帮也是理，不能有太大的心理负担"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044423078718144512"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2044423081666682976",
+        "created_at": "2026-04-15T14:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044423081666682976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u21BRwCzMK",
+              "end": 98,
+              "expanded_url": "https://x.com/jlxc2001/status/2044423081666682976/photo/1",
+              "media_key": "3_2044423078718144512",
+              "start": 75,
+              "url": "https://t.co/u21BRwCzMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044423081666682976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是因为有了这些，在B站到处骗捐助博取同情的人，才会让大家默认在B站上求助的都是骗子。\n那些真正需要帮助的人。反而因为这群骗子。而得不到真正的帮助。\n\n评论中那两个人的主页我点进去看了，照片都是同一个人先不说，简介说置顶是民政部授权许可的暖心平台，结果我一查域名，就是一个假冒的捐赠平台。甚至网站标题还写着“民政部指定捐助平台”\n干这种事的人，真的要下地狱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3436,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是因为有了这些，在B站到处骗捐助博取同情的人，才会让大家默认在B站上求助的都是骗子。\n那些真正需要帮助的人。反而因为这群骗子。而得不到真正的帮助。 https://t.co/u21BRwCzMK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 581,
+          "like_count": 13873,
+          "listed_count": 9,
+          "media_count": 704,
+          "tweet_count": 3495
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14594,
+          "following_count": 197,
+          "like_count": 502,
+          "listed_count": 31,
+          "media_count": 899,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

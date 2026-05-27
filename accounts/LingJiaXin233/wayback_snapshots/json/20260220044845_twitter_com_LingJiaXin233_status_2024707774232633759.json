@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2024696845440864637",
+    "created_at": "2026-02-20T04:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024707774232633759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024707774232633759",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024707534586839244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 p3四个人加起来买不起一张机票😅🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2024696845440864637",
+        "created_at": "2026-02-20T04:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024707774232633759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024707774232633759",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024707534586839244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 p3四个人加起来买不起一张机票😅🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3032768018",
+        "conversation_id": "2024696845440864637",
+        "created_at": "2026-02-20T04:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024707534586839244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024707534586839244",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024707190423244893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我还挺高兴的还有粉丝看到视频来慕名关注我🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "pinned_tweet_id": "2024702574423937169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 493,
+          "like_count": 8370,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2427
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海/02/男/铁道/航空/Airsoft/摄影/ACG 早稲田大学 M1 We live for love, not for hate 😘：@DurantRaym93677",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "DurantRaym93677"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1139,
+          "like_count": 3632,
+          "listed_count": 5,
+          "media_count": 506,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

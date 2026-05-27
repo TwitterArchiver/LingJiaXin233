@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973014860922499374",
+    "created_at": "2025-09-30T14:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T15:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973037946304622961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756227965858574336",
+          "start": 0,
+          "username": "ChatSevenZCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973037946304622961",
+    "in_reply_to_user_id": "1756227965858574336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973025635166806352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChatSevenZCS 你可以私我看看真相"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973014860922499374",
+        "created_at": "2025-09-30T14:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T15:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973037946304622961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756227965858574336",
+              "start": 0,
+              "username": "ChatSevenZCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973037946304622961",
+        "in_reply_to_user_id": "1756227965858574336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973025635166806352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChatSevenZCS 你可以私我看看真相"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756227965858574336",
+        "conversation_id": "1973014860922499374",
+        "created_at": "2025-09-30T14:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T15:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973025635166806352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973025635166806352",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973014860922499374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 谁在定义\"真实性\"？将是否含糖作为真伪判据，把群体简单划分为含糖与不含糖两类并贴上真假标签，这种行为本质上是将个人观点绝对化为真理，把私人偏好包装成道德指控，实为对跨性别群体的根本性不尊重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 352,
+          "like_count": 3388,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 1447
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T08:05:57.000Z",
+        "description": "可以叫我蛋糕哦🍰 / mtf🏳️‍⚧️ / 🍥无糖无证不术喵 / ISFP-T / 情绪垃圾桶 / 可以找我倾诉呜 / ❌ R18+极端+对立 / 同类互fo / 要抱抱摸摸呜呜🥹 / 1-4不在线节假日除外",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chatsven101",
+                "end": 23,
+                "expanded_url": "https://t.me/Chatsven101",
+                "start": 0,
+                "url": "https://t.co/gqP654bvFw"
+              }
+            ]
+          }
+        },
+        "id": "1756227965858574336",
+        "location": "基沃托斯",
+        "name": "Chatsven",
+        "pinned_tweet_id": "1970430142783820007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971096114561679360/yVIMpFFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 468,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/gqP654bvFw",
+        "username": "ChatSevenZCS",
+        "verified": false
+      }
+    ]
+  }
+}

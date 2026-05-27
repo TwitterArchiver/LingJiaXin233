@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042731021742018563"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2042731030432616811",
+    "created_at": "2026-04-10T22:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T23:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042731030432616811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kaB5nB9x9u",
+          "end": 29,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2042731030432616811/photo/1",
+          "media_key": "3_2042731021742018563",
+          "start": 6,
+          "url": "https://t.co/kaB5nB9x9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042731030432616811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还能这样？ https://t.co/kaB5nB9x9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2042731021742018563",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFk9CpqakAM7QiU.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042731021742018563"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2042731030432616811",
+        "created_at": "2026-04-10T22:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042731030432616811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaB5nB9x9u",
+              "end": 29,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2042731030432616811/photo/1",
+              "media_key": "3_2042731021742018563",
+              "start": 6,
+              "url": "https://t.co/kaB5nB9x9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042731030432616811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还能这样？ https://t.co/kaB5nB9x9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 765,
+          "like_count": 12816,
+          "listed_count": 9,
+          "media_count": 581,
+          "tweet_count": 3292
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

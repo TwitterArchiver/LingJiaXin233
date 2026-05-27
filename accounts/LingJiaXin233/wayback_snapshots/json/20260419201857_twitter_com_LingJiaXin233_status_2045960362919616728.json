@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2045860233780850942",
+    "created_at": "2026-04-19T20:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045960362919616728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "WakabaHiime9969"
+        },
+        {
+          "end": 27,
+          "id": "1589235830731997188",
+          "start": 17,
+          "username": "PWaterawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045960362919616728",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045860233780850942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WakabaHiime9969 @PWaterawa 喵喵喵🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2045860233780850942",
+        "created_at": "2026-04-19T20:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045960362919616728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "WakabaHiime9969"
+            },
+            {
+              "end": 27,
+              "id": "1589235830731997188",
+              "start": 17,
+              "username": "PWaterawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045960362919616728",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045860233780850942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WakabaHiime9969 @PWaterawa 喵喵喵🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2045860233780850942",
+        "created_at": "2026-04-19T13:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045860233780850942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045860233780850942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信\n⭐对于一等奖、二等奖中奖者，我可以免费陪聊10min（在我有空的时候，前提是你愿意w）\n最后谢谢大家的支持啦w，4.22晚上开奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2451,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&amp;仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2045080563636396502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 585,
+          "like_count": 14381,
+          "listed_count": 9,
+          "media_count": 798,
+          "tweet_count": 3659
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  ??/66/84｜希望能交到好朋友喵｜🏳️‍⚧️Trans-Lesbian｜💊精品神药享受者｜大龄天残｜不懂太社交 · 奇异搞笑发言请原谅qwq｜🍥🎆GAHT 26.03.26｜人間になりたく、女の子になりたいですわ",
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "Hiime🍡🍥",
+        "pinned_tweet_id": "2045860233780850942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045915880635412480/kvYtc5oK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 188,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 182
+        },
+        "username": "WakabaHiime9969",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloworld.com",
+                "end": 23,
+                "expanded_url": "http://helloworld.com",
+                "start": 0,
+                "url": "https://t.co/alRx9jSJdp"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1170,
+          "like_count": 2121,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2635
+        },
+        "url": "https://t.co/alRx9jSJdp",
+        "username": "PWaterawa",
+        "verified": false
+      }
+    ]
+  }
+}

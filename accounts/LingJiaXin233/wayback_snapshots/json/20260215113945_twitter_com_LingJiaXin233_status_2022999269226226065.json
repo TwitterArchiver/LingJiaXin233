@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-15T11:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022999269226226065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2910672711",
+          "start": 0,
+          "username": "fanhuaxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022999269226226065",
+    "in_reply_to_user_id": "2910672711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022999073100579260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanhuaxiu 这就好比你问巴菲特如何炒股一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022999269226226065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2910672711",
+              "start": 0,
+              "username": "fanhuaxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022999269226226065",
+        "in_reply_to_user_id": "2910672711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022999073100579260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanhuaxiu 这就好比你问巴菲特如何炒股一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2910672711",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022999073100579260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022999073100579260",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 干什么赚的？\n说说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 443,
+          "like_count": 8116,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2342
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-08T09:59:52.000Z",
+        "description": "数字，音乐，绘画，金融都入坑，坑坑埋人",
+        "id": "2910672711",
+        "name": "繁花嗅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015268014183301120/3RooZFIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 2477,
+          "like_count": 476,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 5738
+        },
+        "username": "fanhuaxiu",
+        "verified": true
+      }
+    ]
+  }
+}

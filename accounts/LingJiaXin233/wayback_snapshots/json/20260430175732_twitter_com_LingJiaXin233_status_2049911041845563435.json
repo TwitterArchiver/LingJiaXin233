@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049835732328649215",
+    "created_at": "2026-04-30T17:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049911041845563435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1432146992914853893",
+          "start": 0,
+          "username": "yccc_0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049911041845563435",
+    "in_reply_to_user_id": "1432146992914853893",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049909776134594940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yccc_0000 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049835732328649215",
+        "created_at": "2026-04-30T17:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049911041845563435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1432146992914853893",
+              "start": 0,
+              "username": "yccc_0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049911041845563435",
+        "in_reply_to_user_id": "1432146992914853893",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049909776134594940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yccc_0000 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432146992914853893",
+        "conversation_id": "2049835732328649215",
+        "created_at": "2026-04-30T17:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049909776134594940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049909776134594940",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049835732328649215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 Wise 得等几天的，他们很慢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 636,
+          "like_count": 15510,
+          "listed_count": 11,
+          "media_count": 1041,
+          "tweet_count": 4006
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-30T01:04:22.000Z",
+        "description": "雨晨或者浅羽|19y|Full Stack Dev|接全栈开发|MTF|HRT 24/12/05 |另一个我？ @yuchenx_0000 | Unity游戏开发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yuchenx_0000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "journey.yuchen.my",
+                "end": 23,
+                "expanded_url": "https://journey.yuchen.my",
+                "start": 0,
+                "url": "https://t.co/Yyxamsk40K"
+              }
+            ]
+          }
+        },
+        "id": "1432146992914853893",
+        "location": "Melbourne, Victoria",
+        "name": "🏳️‍⚧️yc🍥",
+        "pinned_tweet_id": "2034844949418844185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027673869763678210/4hTWV2jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 376,
+          "like_count": 22762,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/Yyxamsk40K",
+        "username": "yccc_0000",
+        "verified": false
+      }
+    ]
+  }
+}

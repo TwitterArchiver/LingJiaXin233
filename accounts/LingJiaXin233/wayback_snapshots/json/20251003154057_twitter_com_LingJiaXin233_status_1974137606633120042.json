@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973050453492383786",
+    "created_at": "2025-10-03T15:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974137606633120042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805568179625934848",
+          "start": 0,
+          "username": "ro_retaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974137606633120042",
+    "in_reply_to_user_id": "1805568179625934848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974136486707802500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ro_retaw 可以，假定我们定义凉是mtf，假定ta含糖\n那么ta的行为就是属于“药娘攻”\n但是问题是ta不含糖不rle无明显的女性特征，而且想草mtf\n那麻烦你告诉我，我们应该叫ta什么？应该怎么称呼ta？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-03T15:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974137606633120042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805568179625934848",
+              "start": 0,
+              "username": "ro_retaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974137606633120042",
+        "in_reply_to_user_id": "1805568179625934848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974136486707802500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ro_retaw 可以，假定我们定义凉是mtf，假定ta含糖\n那么ta的行为就是属于“药娘攻”\n但是问题是ta不含糖不rle无明显的女性特征，而且想草mtf\n那麻烦你告诉我，我们应该叫ta什么？应该怎么称呼ta？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805568179625934848",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-03T15:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974136486707802500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974136486707802500",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973749956742873374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 云 mtf 又是什么，我知道它尝试强奸你不对，但是你也不能这样给别人挂标签啊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 4077,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1732
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T11:46:25.000Z",
+        "description": "o.O?",
+        "id": "1805568179625934848",
+        "name": "RO retaW🥰🥵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890689513615138817/1W4c02q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 353,
+          "like_count": 22102,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1100
+        },
+        "username": "ro_retaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055570881725026304",
+        "3_2055570881720750080"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2055570888687534378",
+    "created_at": "2026-05-16T08:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055570888687534378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTYLLxL8uO",
+          "end": 33,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055570888687534378/photo/1",
+          "media_key": "3_2055570881725026304",
+          "start": 10,
+          "url": "https://t.co/jTYLLxL8uO"
+        },
+        {
+          "display_url": "pic.x.com/jTYLLxL8uO",
+          "end": 33,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055570888687534378/photo/1",
+          "media_key": "3_2055570881720750080",
+          "start": 10,
+          "url": "https://t.co/jTYLLxL8uO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055570888687534378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次购买华为产品 https://t.co/jTYLLxL8uO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055570881725026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIba03fbUAAHFq5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055570881720750080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIba03eaEAA2ejH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055570881725026304",
+            "3_2055570881720750080"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2055570888687534378",
+        "created_at": "2026-05-16T08:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055570888687534378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTYLLxL8uO",
+              "end": 33,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055570888687534378/photo/1",
+              "media_key": "3_2055570881725026304",
+              "start": 10,
+              "url": "https://t.co/jTYLLxL8uO"
+            },
+            {
+              "display_url": "pic.x.com/jTYLLxL8uO",
+              "end": 33,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055570888687534378/photo/1",
+              "media_key": "3_2055570881720750080",
+              "start": 10,
+              "url": "https://t.co/jTYLLxL8uO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055570888687534378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次购买华为产品 https://t.co/jTYLLxL8uO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5183,
+          "following_count": 690,
+          "like_count": 16945,
+          "listed_count": 11,
+          "media_count": 1490,
+          "tweet_count": 4595
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

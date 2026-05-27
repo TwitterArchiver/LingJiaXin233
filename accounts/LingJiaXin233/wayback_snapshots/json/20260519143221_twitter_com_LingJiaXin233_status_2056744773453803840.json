@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056744765249724416"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056733269107040293",
+    "created_at": "2026-05-19T14:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056744773453803840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685020816369659904",
+          "start": 0,
+          "username": "soulmate078078"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHaPs6Fx1j",
+          "end": 41,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056744773453803840/photo/1",
+          "media_key": "3_2056744765249724416",
+          "start": 18,
+          "url": "https://t.co/wHaPs6Fx1j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056744773453803840",
+    "in_reply_to_user_id": "1685020816369659904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056744627974410383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulmate078078 😢 https://t.co/wHaPs6Fx1j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2056744765249724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsGd4ZaoAA_a_v.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056744765249724416"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T14:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056744773453803840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685020816369659904",
+              "start": 0,
+              "username": "soulmate078078"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHaPs6Fx1j",
+              "end": 41,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056744773453803840/photo/1",
+              "media_key": "3_2056744765249724416",
+              "start": 18,
+              "url": "https://t.co/wHaPs6Fx1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056744773453803840",
+        "in_reply_to_user_id": "1685020816369659904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056744627974410383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulmate078078 😢 https://t.co/wHaPs6Fx1j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T14:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056744627974410383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056744627974410383",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733269107040293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 这种客服就是这样的话术，很恶心的。你直接说生理女，反正他们又没有要求查看身份证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5465,
+          "following_count": 701,
+          "like_count": 17237,
+          "listed_count": 11,
+          "media_count": 1590,
+          "tweet_count": 4746
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄mtf/HRT2026/3/1\n天残党/家暴党/",
+        "id": "1685020816369659904",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911977940620824576/Q9sX0RL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "username": "soulmate078078",
+        "verified": false
+      }
+    ]
+  }
+}

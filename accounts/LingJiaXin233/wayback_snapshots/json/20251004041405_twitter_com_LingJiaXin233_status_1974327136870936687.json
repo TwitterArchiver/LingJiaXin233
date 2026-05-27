@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974327136870936687",
+    "created_at": "2025-10-04T04:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T05:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974327136870936687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 91,
+          "id": "1946598569747894273",
+          "start": 80,
+          "username": "xmin240286"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/1974282292920221915",
+          "start": 92,
+          "url": "https://t.co/n3n544wkRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974327136870936687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974282292920221915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "声明2:\n我为我的言论攻击感到抱歉，能不能麻烦“抛开事实不谈”的汐眠老师不要乘胜追击了，大家各退一步好吗，我也不想改变你的思维，你也别指望改变我，行吗和平解决\n@xmin240286 https://t.co/n3n544wkRI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974327136870936687",
+        "created_at": "2025-10-04T04:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974327136870936687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1946598569747894273",
+              "start": 80,
+              "username": "xmin240286"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/1974282292920221915",
+              "start": 92,
+              "url": "https://t.co/n3n544wkRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974327136870936687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974282292920221915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "声明2:\n我为我的言论攻击感到抱歉，能不能麻烦“抛开事实不谈”的汐眠老师不要乘胜追击了，大家各退一步好吗，我也不想改变你的思维，你也别指望改变我，行吗和平解决\n@xmin240286 https://t.co/n3n544wkRI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974282292920221915",
+        "created_at": "2025-10-04T01:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T02:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974282292920221915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "1946598569747894273",
+              "start": 45,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974282292920221915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明：\n即日起，我不想再讨论有关“肥胖人群”，以及“没hrt到底算不算mtf”的问题，同时@xmin240286 可能做出的一系列行为，包括但不限于od吃盐，与本人无关。各位，看我不顺眼取fo互b完事，本来玩推也不是为了什么就是纯好玩\n但是，她的行为让我对asd人群有了刻板印象\n特此声明\n凌嘉欣       2025.10.4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 367,
+          "like_count": 4164,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1761
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 201,
+          "like_count": 3094,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

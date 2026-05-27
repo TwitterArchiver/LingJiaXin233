@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058894702326468608",
+        "3_2058894702330757120"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2058894712594137387",
+    "created_at": "2026-05-25T12:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:34:57.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058889556225913167",
+      "2058894712594137387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/64BJH5ZPnc",
+          "end": 84,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2058894712594137387/photo/1",
+          "media_key": "3_2058894702326468608",
+          "start": 61,
+          "url": "https://t.co/64BJH5ZPnc"
+        },
+        {
+          "display_url": "pic.x.com/64BJH5ZPnc",
+          "end": 84,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2058894712594137387/photo/1",
+          "media_key": "3_2058894702330757120",
+          "start": 61,
+          "url": "https://t.co/64BJH5ZPnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058894712594137387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我看到现在的漫展图片，我有两个想法\n1.这张图是不是AI生成的？\n2.如果第一个问题的答案是否定的，那么人类已经完蛋了 https://t.co/64BJH5ZPnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1985,
+        "media_key": "3_2058894702326468608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKp0sIaUAAFk-d.jpg",
+        "width": 1362
+      },
+      {
+        "height": 1973,
+        "media_key": "3_2058894702330757120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKp0sJbwAAEWSQ.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058889545060675584",
+            "3_2058889545039712256"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2058889556225913167",
+        "created_at": "2026-05-25T12:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:34:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058889556225913167",
+          "2058894712594137387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Jn2Rxbiag",
+              "end": 84,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2058889556225913167/photo/1",
+              "media_key": "3_2058889545060675584",
+              "start": 61,
+              "url": "https://t.co/4Jn2Rxbiag"
+            },
+            {
+              "display_url": "pic.x.com/4Jn2Rxbiag",
+              "end": 84,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2058889556225913167/photo/1",
+              "media_key": "3_2058889545039712256",
+              "start": 61,
+              "url": "https://t.co/4Jn2Rxbiag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058889556225913167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我看到现在的漫展图片，我有两个想法\n1.这张图是不是AI生成的？\n2.如果第一个问题的答案是否定的，那么人类已经完蛋了 https://t.co/4Jn2Rxbiag"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058894702326468608",
+            "3_2058894702330757120"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2058894712594137387",
+        "created_at": "2026-05-25T12:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:34:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058889556225913167",
+          "2058894712594137387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64BJH5ZPnc",
+              "end": 84,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2058894712594137387/photo/1",
+              "media_key": "3_2058894702326468608",
+              "start": 61,
+              "url": "https://t.co/64BJH5ZPnc"
+            },
+            {
+              "display_url": "pic.x.com/64BJH5ZPnc",
+              "end": 84,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2058894712594137387/photo/1",
+              "media_key": "3_2058894702330757120",
+              "start": 61,
+              "url": "https://t.co/64BJH5ZPnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058894712594137387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我看到现在的漫展图片，我有两个想法\n1.这张图是不是AI生成的？\n2.如果第一个问题的答案是否定的，那么人类已经完蛋了 https://t.co/64BJH5ZPnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5818,
+          "following_count": 671,
+          "like_count": 17758,
+          "listed_count": 11,
+          "media_count": 1788,
+          "tweet_count": 5031
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

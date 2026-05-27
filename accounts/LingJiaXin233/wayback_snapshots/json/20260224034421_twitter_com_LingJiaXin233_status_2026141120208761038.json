@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026141116312236033"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2026141120208761038",
+    "created_at": "2026-02-24T03:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026141120208761038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/puKm20BoKC",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2026141120208761038/photo/1",
+          "media_key": "3_2026141116312236033",
+          "start": 8,
+          "url": "https://t.co/puKm20BoKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026141120208761038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种敢投诉吗？ https://t.co/puKm20BoKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2026141116312236033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5MnD6asAEhpgN.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026141116312236033"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2026141120208761038",
+        "created_at": "2026-02-24T03:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026141120208761038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/puKm20BoKC",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2026141120208761038/photo/1",
+              "media_key": "3_2026141116312236033",
+              "start": 8,
+              "url": "https://t.co/puKm20BoKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026141120208761038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种敢投诉吗？ https://t.co/puKm20BoKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "数码爱好者｜果粉｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭 投稿请私信，侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 593,
+          "like_count": 8521,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 2465
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

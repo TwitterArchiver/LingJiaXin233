@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056736504303796224"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056736587132936653",
+    "created_at": "2026-05-19T13:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056736587132936653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XiYzA1L1Ne",
+          "end": 34,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056736587132936653/video/1",
+          "media_key": "13_2056736504303796224",
+          "start": 11,
+          "url": "https://t.co/XiYzA1L1Ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056736587132936653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火鸡面，你是个老畜生 https://t.co/XiYzA1L1Ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84485,
+        "height": 626,
+        "media_key": "13_2056736504303796224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056736504303796224/img/Yi9Sqz6g3LnpZlJt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056736504303796224/vid/avc1/320x556/dINtwIjxTI4zH__5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056736504303796224/vid/avc1/360x626/Ujk1vontDtlJahFP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056736504303796224/pl/8eaEpHM6mL0wM2jG.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056736504303796224"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056736587132936653",
+        "created_at": "2026-05-19T13:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056736587132936653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiYzA1L1Ne",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056736587132936653/video/1",
+              "media_key": "13_2056736504303796224",
+              "start": 11,
+              "url": "https://t.co/XiYzA1L1Ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056736587132936653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火鸡面，你是个老畜生 https://t.co/XiYzA1L1Ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5461,
+          "following_count": 701,
+          "like_count": 17237,
+          "listed_count": 11,
+          "media_count": 1589,
+          "tweet_count": 4745
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

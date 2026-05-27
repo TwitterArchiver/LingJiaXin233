@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2028633062024884353",
+    "created_at": "2026-03-03T11:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028794222372118580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860698977412210688",
+          "start": 0,
+          "username": "KKNSL03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028794222372118580",
+    "in_reply_to_user_id": "1860698977412210688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028790708212322463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKNSL03 16e已经可以了（，美版有锁不改卡15张（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2028633062024884353",
+        "created_at": "2026-03-03T11:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028794222372118580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860698977412210688",
+              "start": 0,
+              "username": "KKNSL03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028794222372118580",
+        "in_reply_to_user_id": "1860698977412210688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028790708212322463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKNSL03 16e已经可以了（，美版有锁不改卡15张（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860698977412210688",
+        "conversation_id": "2028633062024884353",
+        "created_at": "2026-03-03T11:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028790708212322463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028790708212322463",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028633062024884353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我觉得等价格便宜了可以买美版当ipodtouch🤓☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "如果你没有被我block那你应该感到幸福/不见证，不讨论政治不感兴趣/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2028481477584003271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 734,
+          "like_count": 8931,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2563
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T14:56:36.000Z",
+        "description": "",
+        "id": "1860698977412210688",
+        "location": "Earth ",
+        "name": "SZENE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997696146480009216/9-9vnDgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 476,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "KKNSL03",
+        "verified": false
+      }
+    ]
+  }
+}

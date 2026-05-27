@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2044099152435724678",
+    "created_at": "2026-04-15T07:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044323818811076651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589135845834993665",
+          "start": 0,
+          "username": "bnzn10146901"
+        },
+        {
+          "end": 27,
+          "id": "2021505488337416192",
+          "start": 14,
+          "username": "HoroyoiBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044323818811076651",
+    "in_reply_to_user_id": "1589135845834993665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044099152435724678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnzn10146901 @HoroyoiBerry 喵喵🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-15T07:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044323818811076651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            },
+            {
+              "end": 27,
+              "id": "2021505488337416192",
+              "start": 14,
+              "username": "HoroyoiBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044323818811076651",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044099152435724678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 @HoroyoiBerry 喵喵🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-14T17:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044099152435724678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044099152435724678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2391,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "决定了！100fo纪念抽奖\n一等奖：52r（一名）\n二等奖：18r（两名）\n三等奖：5.2r（五名）\n安慰奖：我的亲亲🥰（所有人）\n（参与条件：关注我并且在该帖下评论，时间持续到2026年04月15日16时）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 577,
+          "like_count": 13809,
+          "listed_count": 9,
+          "media_count": 694,
+          "tweet_count": 3475
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2044099152435724678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 513,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 930
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "宝宝 @CyberKanjousen｜夏目アンアン 推し",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-acy.com",
+                "end": 23,
+                "expanded_url": "http://c-acy.com",
+                "start": 0,
+                "url": "https://t.co/hlQ5om0JY5"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "微醺木莓",
+        "pinned_tweet_id": "2041914913158000654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044321668047441920/mPu3el71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 515,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/hlQ5om0JY5",
+        "username": "HoroyoiBerry",
+        "verified": false
+      }
+    ]
+  }
+}

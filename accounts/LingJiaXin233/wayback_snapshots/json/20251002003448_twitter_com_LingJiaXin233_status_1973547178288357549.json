@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973523783341523145",
+    "created_at": "2025-10-02T00:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T01:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973547178288357549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1026482173300236288",
+          "start": 0,
+          "username": "OwOb_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973547178288357549",
+    "in_reply_to_user_id": "1026482173300236288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973523783341523145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOb_QAQ 我tmd是受害者行吗，你不要站在道德制高点好吗，tmd他性骚扰我ok？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973523783341523145",
+        "created_at": "2025-10-02T00:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T01:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973547178288357549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1026482173300236288",
+              "start": 0,
+              "username": "OwOb_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973547178288357549",
+        "in_reply_to_user_id": "1026482173300236288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973523783341523145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOb_QAQ 我tmd是受害者行吗，你不要站在道德制高点好吗，tmd他性骚扰我ok？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026482173300236288",
+        "conversation_id": "1973523783341523145",
+        "created_at": "2025-10-01T23:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T00:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973523783341523145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/1973333684620239211",
+              "start": 109,
+              "url": "https://t.co/iK7imiVJFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973523783341523145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973333684620239211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "對我來說身材、種族、年齡、性別、性少數歧視的嚴重程度都是一樣的，跨圈很多人在意性少數歧視，卻認為可以進行身材歧視，「和你们心中的形象是否吻合呢😅」言出嘲諷這麼看來多少有點虛偽，你不能只有歧視落在自己時才呼籲不該歧視。 https://t.co/iK7imiVJFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 356,
+          "like_count": 3670,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1551
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍@QAQ_xwx 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "1026482173300236288",
+        "location": "30樓的地下室",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1866763023693799668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 639,
+          "like_count": 31407,
+          "listed_count": 4,
+          "media_count": 1099,
+          "tweet_count": 9857
+        },
+        "username": "OwOb_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

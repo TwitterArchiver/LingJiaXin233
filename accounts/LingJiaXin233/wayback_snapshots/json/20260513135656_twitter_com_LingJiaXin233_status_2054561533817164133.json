@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054534324066693369",
+    "created_at": "2026-05-13T13:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054561533817164133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "827224720739336192",
+          "start": 0,
+          "username": "RealPresidentT"
+        },
+        {
+          "end": 23,
+          "id": "1807107145756008448",
+          "start": 16,
+          "username": "XldMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054561533817164133",
+    "in_reply_to_user_id": "827224720739336192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054534324066693369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealPresidentT @XldMtX 来苏州我给你口交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054534324066693369",
+        "created_at": "2026-05-13T13:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054561533817164133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "827224720739336192",
+              "start": 0,
+              "username": "RealPresidentT"
+            },
+            {
+              "end": 23,
+              "id": "1807107145756008448",
+              "start": 16,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054561533817164133",
+        "in_reply_to_user_id": "827224720739336192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054534324066693369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealPresidentT @XldMtX 来苏州我给你口交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827224720739336192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2054534324066693369",
+        "created_at": "2026-05-13T12:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054534324066693369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054534324066693369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 288116,
+          "like_count": 2097,
+          "quote_count": 34,
+          "reply_count": 236,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning, Beijing! It’s a beautiful airport! Much better than shithole Newark Airport which is a Biden era airport."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4971,
+          "following_count": 680,
+          "like_count": 16607,
+          "listed_count": 11,
+          "media_count": 1403,
+          "tweet_count": 4463
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-02T18:38:37.000Z",
+        "description": "I'm President of the United States. I won the popular vote by 1 billion votes. I won all 62 states. Hillary begged me to stop winning. This is PARODY",
+        "id": "827224720739336192",
+        "location": "Washington, DC",
+        "name": "Real President Trump Commentary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/827230544681398272/4ujWeDMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110344,
+          "following_count": 1092,
+          "like_count": 263,
+          "listed_count": 245,
+          "media_count": 618,
+          "tweet_count": 20094
+        },
+        "username": "RealPresidentT",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Allenium114"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Allenium114"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Allenium114"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Allenium114"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Allenium114"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Allenium114"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Allenium114"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Allenium114"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Allenium114"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2052694519129473346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7190,
+          "following_count": 1014,
+          "like_count": 53494,
+          "listed_count": 12,
+          "media_count": 3539,
+          "tweet_count": 29889
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

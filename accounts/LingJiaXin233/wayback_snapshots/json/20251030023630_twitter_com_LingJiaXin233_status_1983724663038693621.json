@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1983724663038693621",
+    "created_at": "2025-10-30T02:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T03:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983724663038693621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1688215989970968576",
+          "start": 11,
+          "username": "mizuki_liang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983724663038693621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦对了差点忘了说了🤓\n@mizuki_liang 租房子自慰是直接射到原房主墙上的，纸也不用，直接用水一冲😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1983724663038693621",
+        "created_at": "2025-10-30T02:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983724663038693621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1688215989970968576",
+              "start": 11,
+              "username": "mizuki_liang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983724663038693621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦对了差点忘了说了🤓\n@mizuki_liang 租房子自慰是直接射到原房主墙上的，纸也不用，直接用水一冲😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 396,
+          "like_count": 5712,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2050
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | MtF🏳️‍⚧️(No HRT) | 喜欢发日常 | 安全感自我创造中 | 善待彼此 拥抱不同 | 拒绝涩涩 拒绝线下 | 社交创伤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/MdPdxsmKD1"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972548969365647360/rLY4WPEL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 799,
+          "like_count": 5957,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 3685
+        },
+        "url": "https://t.co/MdPdxsmKD1",
+        "username": "mizuki_liang",
+        "verified": false
+      }
+    ]
+  }
+}

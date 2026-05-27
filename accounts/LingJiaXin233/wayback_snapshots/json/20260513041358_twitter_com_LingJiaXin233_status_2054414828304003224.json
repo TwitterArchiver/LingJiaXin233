@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054380001915711718",
+    "created_at": "2026-05-13T04:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054414828304003224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994685146092769284",
+          "start": 0,
+          "username": "Georgeanne35433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054414828304003224",
+    "in_reply_to_user_id": "1994685146092769284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054384439858516004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Georgeanne35433 我也是（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054380001915711718",
+        "created_at": "2026-05-13T04:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054414828304003224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994685146092769284",
+              "start": 0,
+              "username": "Georgeanne35433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054414828304003224",
+        "in_reply_to_user_id": "1994685146092769284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054384439858516004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Georgeanne35433 我也是（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994685146092769284",
+        "conversation_id": "2054380001915711718",
+        "created_at": "2026-05-13T02:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054384439858516004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054384439858516004",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054380001915711718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 别人：健身，运动，游戏\n我：吃雌od女装\n就跟……你们懂吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 680,
+          "like_count": 16547,
+          "listed_count": 11,
+          "media_count": 1381,
+          "tweet_count": 4436
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T08:29:45.000Z",
+        "description": "🇨🇳/06/前日语生/mtf/跨女同/无证含🍥/hrt 2026.3.16/会伪声/已炸柜/军事狙击/wargame/轻度抖m/跨圈骂街第一人\n★信仰共产主义\n日语名：雪田篤子（Yukita_Atsuko）\n◎活着才能在将来知道为什么要活着。",
+        "id": "1994685146092769284",
+        "name": "阿雪笃子🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2036384167915823519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030892145595588610/YaV3S0Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 405,
+          "like_count": 4606,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 885
+        },
+        "username": "Georgeanne35433",
+        "verified": false
+      }
+    ]
+  }
+}

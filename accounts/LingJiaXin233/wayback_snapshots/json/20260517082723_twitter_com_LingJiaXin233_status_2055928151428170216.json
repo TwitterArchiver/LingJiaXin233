@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055749134054003011",
+    "created_at": "2026-05-17T08:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055928151428170216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055928151428170216",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055927999644774427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 🫡👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055749134054003011",
+        "created_at": "2026-05-17T08:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055928151428170216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055928151428170216",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055927999644774427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 🫡👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "2055749134054003011",
+        "created_at": "2026-05-17T08:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927999644774427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 31,
+              "id": "1389129344790851588",
+              "start": 15,
+              "username": "mhObL1GaX02mPyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927999644774427",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055881777638723725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @mhObL1GaX02mPyy 全面维护凌嘉欣同志，局部盖整体一律私募"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 700,
+          "like_count": 17063,
+          "listed_count": 11,
+          "media_count": 1522,
+          "tweet_count": 4644
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        随机回关//2000粉堵桥∞延期😭///有瞎骂支黑拿我照片建我仿号骚扰女生，请认准唯一大号@iamThujaS///遇到神人请@我，感激不尽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "iamThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "2054558245797376017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4036,
+          "following_count": 855,
+          "like_count": 8211,
+          "listed_count": 8,
+          "media_count": 460,
+          "tweet_count": 4374
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-17T12:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023739338765594791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871115783838863362",
+          "start": 0,
+          "username": "BrittanyRi37350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023739338765594791",
+    "in_reply_to_user_id": "1871115783838863362",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023565899660464614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyRi37350 17air"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-17T12:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023739338765594791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871115783838863362",
+              "start": 0,
+              "username": "BrittanyRi37350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023739338765594791",
+        "in_reply_to_user_id": "1871115783838863362",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023565899660464614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyRi37350 17air"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871115783838863362",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-17T01:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023565899660464614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023565899660464614",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 好厉害！这是几啊17e吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭只要你不放下你的崇高，整个世界都会为你敞开🥰",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 443,
+          "like_count": 8259,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2410
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T08:49:14.000Z",
+        "description": "NCT💚\nWayV\nNCT 127\nNCT DREAM\nNCT WISH\nTXT💙💛💚\nsoobin×taehyun💗💙",
+        "id": "1871115783838863362",
+        "name": "挪挪nuonuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907453164284203008/-jqZ5lFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 234,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 117
+        },
+        "username": "BrittanyRi37350",
+        "verified": false
+      }
+    ]
+  }
+}

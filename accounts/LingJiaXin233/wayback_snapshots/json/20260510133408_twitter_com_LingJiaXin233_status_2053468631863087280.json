@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053468546357977088"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2053468631863087280",
+    "created_at": "2026-05-10T13:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053468631863087280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t5DgDO5Pv5",
+          "end": 57,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2053468631863087280/video/1",
+          "media_key": "13_2053468546357977088",
+          "start": 34,
+          "url": "https://t.co/t5DgDO5Pv5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053468631863087280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个视频诠释了该如何正确地进行咖啡拉花，你们必须要看完严肃学习🤓👍 https://t.co/t5DgDO5Pv5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16171,
+        "height": 1436,
+        "media_key": "13_2053468546357977088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053468546357977088/img/9XBv07H2tzgesYF3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053468546357977088/vid/avc1/1090x1436/zZwlyfkpcrNAKbPM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053468546357977088/vid/avc1/480x632/v94ujXfZnBSY9_IN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053468546357977088/pl/cixcvKN0M_SeEKlg.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053468546357977088/vid/avc1/320x420/1P1DTKRQwA0PtEn1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053468546357977088/vid/avc1/720x948/UlIciwp2xUpbbCl7.mp4"
+          }
+        ],
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053468546357977088"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2053468631863087280",
+        "created_at": "2026-05-10T13:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053468631863087280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5DgDO5Pv5",
+              "end": 57,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053468631863087280/video/1",
+              "media_key": "13_2053468546357977088",
+              "start": 34,
+              "url": "https://t.co/t5DgDO5Pv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053468631863087280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个视频诠释了该如何正确地进行咖啡拉花，你们必须要看完严肃学习🤓👍 https://t.co/t5DgDO5Pv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4539,
+          "following_count": 677,
+          "like_count": 16388,
+          "listed_count": 11,
+          "media_count": 1311,
+          "tweet_count": 4357
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

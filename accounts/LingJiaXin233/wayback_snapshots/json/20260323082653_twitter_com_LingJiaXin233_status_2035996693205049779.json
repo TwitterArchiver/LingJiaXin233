@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035996686447976448"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035996693205049779",
+    "created_at": "2026-03-23T08:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035996693205049779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ygIYU2sgC5",
+          "end": 23,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2035996693205049779/photo/1",
+          "media_key": "3_2035996686447976448",
+          "start": 0,
+          "url": "https://t.co/ygIYU2sgC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035996693205049779",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ygIYU2sgC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1937,
+        "media_key": "3_2035996686447976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFQMvuaoAAZXI4.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035996686447976448"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035996693205049779",
+        "created_at": "2026-03-23T08:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035996693205049779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygIYU2sgC5",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2035996693205049779/photo/1",
+              "media_key": "3_2035996686447976448",
+              "start": 0,
+              "url": "https://t.co/ygIYU2sgC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035996693205049779",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ygIYU2sgC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 910,
+          "like_count": 10160,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 2830
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

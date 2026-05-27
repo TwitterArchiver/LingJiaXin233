@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2054904779776966867",
+    "created_at": "2026-05-14T15:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054944682262888557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808726116842229762",
+          "start": 0,
+          "username": "ahuang70378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054944682262888557",
+    "in_reply_to_user_id": "1808726116842229762",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054944562284474804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahuang70378 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2054904779776966867",
+        "created_at": "2026-05-14T15:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054944682262888557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808726116842229762",
+              "start": 0,
+              "username": "ahuang70378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054944682262888557",
+        "in_reply_to_user_id": "1808726116842229762",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054944562284474804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahuang70378 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808726116842229762",
+        "conversation_id": "2054904779776966867",
+        "created_at": "2026-05-14T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054944562284474804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054944562284474804",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054904779776966867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我这两天流量也开始下降了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054769012492599789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5035,
+          "following_count": 680,
+          "like_count": 16706,
+          "listed_count": 10,
+          "media_count": 1435,
+          "tweet_count": 4511
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T04:54:56.000Z",
+        "description": "06/192cm/68kg\n男娘",
+        "id": "1808726116842229762",
+        "location": "-18cm",
+        "name": "阿皇",
+        "pinned_tweet_id": "1821926810407370754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980074616212140032/3YPK1Eqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 1496,
+          "like_count": 1778,
+          "listed_count": 31,
+          "media_count": 406,
+          "tweet_count": 1812
+        },
+        "username": "ahuang70378",
+        "verified": false
+      }
+    ]
+  }
+}

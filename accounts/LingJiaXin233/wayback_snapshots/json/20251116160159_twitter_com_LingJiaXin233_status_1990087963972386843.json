@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1990076541280374884",
+    "created_at": "2025-11-16T16:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990087963972386843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990087963972386843",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990076541280374884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 唉xmzw，高中就是浪费时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1990076541280374884",
+        "created_at": "2025-11-16T16:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990087963972386843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990087963972386843",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990076541280374884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 唉xmzw，高中就是浪费时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1990076541280374884",
+        "created_at": "2025-11-16T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990076541280374884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/saonanaa/status/1989898786072924345",
+              "start": 117,
+              "url": "https://t.co/LhHiUyl6RT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990076541280374884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有时候我会觉得我的人生已经脱轨了，我和同龄的孩子做着不一样的事情，同时浮木也不怎么管我了。\n但想想，如果我还在学校里，就这么在“熬一熬到高中就好了”在初中忍三年，又在“熬一熬到大学就好了”在高中忍三年，这算是我想要的生活吗，并不是！\n\n至少我觉得我的人生还蛮独特的，我能够在14岁做到独自一个人去旅行，还可以一步一步的构建起一个复杂且庞大的软件工程，在能在推特上有很多和墙内完全没法比的朋友，我很庆幸，如果我成为一个循规蹈矩的老实人，我不认为我能做到这些。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989898786072924345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候我会觉得我的人生已经脱轨了，我和同龄的孩子做着不一样的事情，同时浮木也不怎么管我了。\n但想想，如果我还在学校里，就这么在“熬一熬到高中就好了”在初中忍三年，又在“熬一熬到大学就好了”在高中忍三年，这算是我想要的生活吗，并不是！ https://t.co/LhHiUyl6RT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 413,
+          "like_count": 6049,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2093
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男不翻车不女装｜大坏猫 @lovelyshuimao｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943840160256000/CDlRt_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6441,
+          "following_count": 429,
+          "like_count": 32690,
+          "listed_count": 15,
+          "media_count": 2072,
+          "tweet_count": 18394
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

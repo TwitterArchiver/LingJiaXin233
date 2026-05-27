@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1979729685807509572",
+    "created_at": "2025-10-19T02:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T03:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979729685807509572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anxiousholly/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/anxiousholly/status/1979658487895564550",
+          "start": 21,
+          "url": "https://t.co/ZPMVs4V2pK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979729685807509572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979658487895564550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨时代的设计，apple引领了一整个十年 https://t.co/ZPMVs4V2pK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3071,
+        "media_key": "3_1979658481847107584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ko5osWAAAA_2F.jpg",
+        "width": 3071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1979729685807509572",
+        "created_at": "2025-10-19T02:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979729685807509572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anxiousholly/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/anxiousholly/status/1979658487895564550",
+              "start": 21,
+              "url": "https://t.co/ZPMVs4V2pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979729685807509572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979658487895564550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨时代的设计，apple引领了一整个十年 https://t.co/ZPMVs4V2pK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979658481847107584"
+          ]
+        },
+        "author_id": "869300057492905984",
+        "conversation_id": "1979658487895564550",
+        "created_at": "2025-10-18T21:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T22:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979658487895564550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Apple",
+              "probability": 0.8499,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hh87bUeR3a",
+              "end": 37,
+              "expanded_url": "https://x.com/AnxiousHolly/status/1979658487895564550/photo/1",
+              "media_key": "3_1979658481847107584",
+              "start": 14,
+              "url": "https://t.co/hh87bUeR3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979658487895564550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 9694,
+          "like_count": 493,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Apple in 2018 https://t.co/hh87bUeR3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 387,
+          "like_count": 5480,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2005
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-29T21:10:59.000Z",
+        "description": "Fan of Samsung/Android. i also enjoy iOS, iPad & Apple. mobile photography, a tech enthusiast ☕️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/anxiousholly",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/anxiousholly",
+                "start": 0,
+                "url": "https://t.co/NayATh1Kf9"
+              }
+            ]
+          }
+        },
+        "id": "869300057492905984",
+        "location": "United Kingdom",
+        "name": "Holly - I like tech",
+        "pinned_tweet_id": "1893264151490801757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611755694071373825/Lpdk9B5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37589,
+          "following_count": 390,
+          "like_count": 71445,
+          "listed_count": 132,
+          "media_count": 7803,
+          "tweet_count": 39968
+        },
+        "url": "https://t.co/NayATh1Kf9",
+        "username": "AnxiousHolly",
+        "verified": true
+      }
+    ]
+  }
+}

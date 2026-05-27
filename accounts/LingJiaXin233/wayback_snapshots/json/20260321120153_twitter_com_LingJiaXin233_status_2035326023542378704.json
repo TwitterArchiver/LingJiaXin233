@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2035326023542378704",
+    "created_at": "2026-03-21T12:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T13:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035326023542378704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "355011882",
+          "start": 3,
+          "username": "cryptoresetlife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035326023542378704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035295549617049830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryptoresetlife: 就这条了吧，下面好多熟悉的老朋友留言，就不折腾大家第二遍了。\n\n引用的这条推文，抽3个rtx3060（中古矿卡。我个人保证好用）\n要求\n1️⃣ 满足关注转发点赞\n2️⃣粉丝数大于20。非机器人。我会看发帖推文\n3️⃣奖品分配\n照顾老粉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2035326023542378704",
+        "created_at": "2026-03-21T12:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035326023542378704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "355011882",
+              "start": 3,
+              "username": "cryptoresetlife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035326023542378704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035295549617049830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryptoresetlife: 就这条了吧，下面好多熟悉的老朋友留言，就不折腾大家第二遍了。\n\n引用的这条推文，抽3个rtx3060（中古矿卡。我个人保证好用）\n要求\n1️⃣ 满足关注转发点赞\n2️⃣粉丝数大于20。非机器人。我会看发帖推文\n3️⃣奖品分配\n照顾老粉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "355011882",
+        "conversation_id": "2035295549617049830",
+        "created_at": "2026-03-21T10:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035295549617049830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryptoresetlif…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/cryptoresetlife/status/2034915944766775740",
+              "start": 145,
+              "url": "https://t.co/axEwBXrNnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035295549617049830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7951,
+          "like_count": 157,
+          "quote_count": 40,
+          "reply_count": 147,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034915944766775740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这条了吧，下面好多熟悉的老朋友留言，就不折腾大家第二遍了。\n\n引用的这条推文，抽3个rtx3060（中古矿卡。我个人保证好用）\n要求\n1️⃣ 满足关注转发点赞\n2️⃣粉丝数大于20。非机器人。我会看发帖推文\n3️⃣奖品分配\n照顾老粉 关注6个月以上选一个\n所有粉丝中选一个\n另一个我想想 https://t.co/axEwBXrNnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 910,
+          "like_count": 10105,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 2808
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-14T17:43:04.000Z",
+        "description": "Web3 miner マイニング 仮想通貨 エアドロップ Crypto Airdrop 🏆 ambassador @Nexuslabs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "Nexuslabs"
+              }
+            ]
+          }
+        },
+        "id": "355011882",
+        "location": "Japan",
+        "name": "老张1982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860529615577718784/lXLaBRvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10800,
+          "following_count": 3268,
+          "like_count": 3935,
+          "listed_count": 179,
+          "media_count": 1142,
+          "tweet_count": 19008
+        },
+        "username": "cryptoresetlife",
+        "verified": true
+      }
+    ]
+  }
+}

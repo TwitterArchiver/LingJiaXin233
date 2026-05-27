@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973050453492383786",
+    "created_at": "2025-10-01T01:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T02:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973195749803565101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973195749803565101",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973195393988174274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoZheFanQie 看我最新的帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-01T01:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T02:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973195749803565101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973195749803565101",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973195393988174274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie 看我最新的帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "1973050453492383786",
+        "created_at": "2025-10-01T01:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T02:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973195393988174274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973195393988174274",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973050453492383786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 ？？？？？？？？？？中文还有这样的排序组合吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1969289347737244056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 354,
+          "like_count": 3458,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1482
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。生理性别男/友跨友双友同，偶尔发癫外加抽象 \n成分复杂，包括不限于鉴政友 lgbt➕\n喜欢就 fo 不喜欢 b，欢迎讨论",
+        "id": "1756909109788753920",
+        "location": "视牛牛长度给🚪",
+        "name": "包着番茄籽的番茄",
+        "pinned_tweet_id": "1972200264850649317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941512092768665607/NxcT0bRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 2280,
+          "like_count": 1115,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 4621
+        },
+        "username": "BaoZheFanQie",
+        "verified": false
+      }
+    ]
+  }
+}

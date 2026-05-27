@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2004389406975926281",
+    "created_at": "2025-12-26T03:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T04:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004389406975926281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914521439392423939",
+          "start": 3,
+          "username": "2gqLIfyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004389406975926281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004188036444442693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2gqLIfyM: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004389406975926281",
+        "created_at": "2025-12-26T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004389406975926281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914521439392423939",
+              "start": 3,
+              "username": "2gqLIfyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004389406975926281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004188036444442693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2gqLIfyM: 有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914521439392423939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2004188036444442693",
+        "created_at": "2025-12-25T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004188036444442693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004188036444442693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 44262,
+          "like_count": 888,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "有钱真好，有钱学不好可以出国，有钱抑郁症可以旅游，有钱被校园暴力可以果断休学，有钱可以不用担心看病钱，有钱可以打车不用做公交车，有钱可以玩Cosplay，有钱可以随便点外卖吃，有钱可以不用省空调电费，有钱真好啊下辈子我也要当有钱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 409,
+          "like_count": 6992,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2173
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T03:28:06.000Z",
+        "description": "我是外星人别管我了 不接推广",
+        "id": "1914521439392423939",
+        "location": "🚪200/520",
+        "name": "我踏马受够这个逼世界了",
+        "pinned_tweet_id": "1984258317863256431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993944465795641344/e_ZquwVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15271,
+          "following_count": 41,
+          "like_count": 403,
+          "listed_count": 40,
+          "media_count": 98,
+          "tweet_count": 616
+        },
+        "username": "2gqLIfyM",
+        "verified": false
+      }
+    ]
+  }
+}

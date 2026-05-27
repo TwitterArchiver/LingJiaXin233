@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2058118437738889570",
+    "created_at": "2026-05-23T09:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058121496397291757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058121496397291757",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058118437738889570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 青年大学习🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2058118437738889570",
+        "created_at": "2026-05-23T09:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058121496397291757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058121496397291757",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058118437738889570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 青年大学习🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2058118437738889570",
+        "created_at": "2026-05-23T09:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058118437738889570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058118437738889570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男娘瘦肚子指南（超详细）\n吃对+动对，腰腹更平整，穿搭更显线条感\n控糖·高蛋白·低油盐·消水肿·轻核心\n\n1 清楚目标：先减脂，再减腹\n\n• 想让肚子看起来更平，重点不是狂练腹肌，而是先处理“胀气、便秘、久坐、水肿、松懈脂肪”。\n\n• 男妹妹瘦体态更容易“轻松治管理”：不过度增肌，优先腰腹平整、侧腰平整、体态挺拔。\n\n• 规律作息 + 稳定饮食，比极端节食更有效。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 284,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男娘瘦肚子指南（超详细）\n吃对+动对，腰腹更平整，穿搭更显线条感\n控糖·高蛋白·低油盐·消水肿·轻核心\n\n1 清楚目标：先减脂，再减腹\n\n• 想让肚子看起来更平，重点不是狂练腹肌，而是先处理“胀气、便秘、久坐、水肿、松懈脂肪”。\n\n•"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5676,
+          "following_count": 713,
+          "like_count": 17575,
+          "listed_count": 12,
+          "media_count": 1711,
+          "tweet_count": 4935
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2057639266470215689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6123,
+          "following_count": 284,
+          "like_count": 851,
+          "listed_count": 11,
+          "media_count": 140,
+          "tweet_count": 1739
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

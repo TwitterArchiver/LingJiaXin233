@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053303021044740096"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2053303191358570595",
+    "created_at": "2026-05-10T02:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053303191358570595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPosa6i56b",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2053303191358570595/video/1",
+          "media_key": "13_2053303021044740096",
+          "start": 13,
+          "url": "https://t.co/KPosa6i56b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053303191358570595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么浅的水也能淹死人吗？ https://t.co/KPosa6i56b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24858,
+        "height": 2034,
+        "media_key": "13_2053303021044740096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053303021044740096/img/J_6VmrcUwS9Bi0o9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053303021044740096/vid/avc1/720x1302/V3ec_67rVlwojVNn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053303021044740096/vid/avc1/480x868/woqR3eO1RmUn2JHJ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053303021044740096/vid/avc1/320x578/7BPBjKiujj6dn378.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053303021044740096/vid/avc1/1124x2034/1nAR3ClgBzzVUwdw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053303021044740096/pl/lFs9_Du3XwLFk941.m3u8"
+          }
+        ],
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053303021044740096"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2053303191358570595",
+        "created_at": "2026-05-10T02:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053303191358570595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPosa6i56b",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053303191358570595/video/1",
+              "media_key": "13_2053303021044740096",
+              "start": 13,
+              "url": "https://t.co/KPosa6i56b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053303191358570595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么浅的水也能淹死人吗？ https://t.co/KPosa6i56b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 676,
+          "like_count": 16326,
+          "listed_count": 12,
+          "media_count": 1296,
+          "tweet_count": 4338
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

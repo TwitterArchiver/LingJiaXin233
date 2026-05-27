@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044780159262502912"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2044808039832698989",
+    "created_at": "2026-04-16T16:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044808039832698989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yv4Z4UBGMa",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2044808039832698989/photo/1",
+          "media_key": "3_2044780159262502912",
+          "start": 7,
+          "url": "https://t.co/Yv4Z4UBGMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044808039832698989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用力摩擦银金 https://t.co/Yv4Z4UBGMa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2044780159262502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCEuJybsAA1ZH8.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044780159262502912"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2044808039832698989",
+        "created_at": "2026-04-16T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044808039832698989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yv4Z4UBGMa",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2044808039832698989/photo/1",
+              "media_key": "3_2044780159262502912",
+              "start": 7,
+              "url": "https://t.co/Yv4Z4UBGMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044808039832698989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用力摩擦银金 https://t.co/Yv4Z4UBGMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 581,
+          "like_count": 14020,
+          "listed_count": 9,
+          "media_count": 720,
+          "tweet_count": 3534
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

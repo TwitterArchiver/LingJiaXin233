@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2047692045075054962",
+    "created_at": "2026-04-24T22:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047809182926241824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "900946503765708805",
+          "start": 0,
+          "username": "Golumanwani2"
+        },
+        {
+          "end": 23,
+          "id": "2012631283898187776",
+          "start": 14,
+          "username": "youy1qwq"
+        },
+        {
+          "end": 33,
+          "id": "14812167",
+          "start": 24,
+          "username": "xiaonm88"
+        },
+        {
+          "end": 43,
+          "id": "1683218035602255872",
+          "start": 34,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047809182926241824",
+    "in_reply_to_user_id": "900946503765708805",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047752884289523930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Golumanwani2 @youy1qwq @xiaonm88 @jlxc2001 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2047692045075054962",
+        "created_at": "2026-04-24T22:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047809182926241824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "900946503765708805",
+              "start": 0,
+              "username": "Golumanwani2"
+            },
+            {
+              "end": 23,
+              "id": "2012631283898187776",
+              "start": 14,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 33,
+              "id": "14812167",
+              "start": 24,
+              "username": "xiaonm88"
+            },
+            {
+              "end": 43,
+              "id": "1683218035602255872",
+              "start": 34,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047809182926241824",
+        "in_reply_to_user_id": "900946503765708805",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047752884289523930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Golumanwani2 @youy1qwq @xiaonm88 @jlxc2001 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "900946503765708805",
+        "conversation_id": "2047692045075054962",
+        "created_at": "2026-04-24T19:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047752884289523930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            },
+            {
+              "end": 37,
+              "id": "14812167",
+              "start": 28,
+              "username": "xiaonm88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047752884289523930",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1719,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047692045075054962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 比她好看的没她骚😆比她骚的没她好看👉@xiaonm88 n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3238,
+          "following_count": 607,
+          "like_count": 14910,
+          "listed_count": 9,
+          "media_count": 906,
+          "tweet_count": 3813
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-25T05:02:40.000Z",
+        "description": "讨好型人格",
+        "id": "900946503765708805",
+        "name": "袈裟凯捷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047753163722330112/Lz94pKsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 694,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4286
+        },
+        "username": "Golumanwani2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11166,
+          "following_count": 1635,
+          "like_count": 3862,
+          "listed_count": 16,
+          "media_count": 1501,
+          "tweet_count": 1988
+        },
+        "username": "youy1qwq",
+        "verified": true
+      },
+      {
+        "created_at": "2008-05-17T16:21:35.000Z",
+        "description": "",
+        "id": "14812167",
+        "location": "附近5.734km",
+        "name": "小糯米",
+        "pinned_tweet_id": "2047364576388473240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965261585964040197/nC0c8xxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6157,
+          "following_count": 704,
+          "like_count": 49833,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 263
+        },
+        "username": "xiaonm88",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15487,
+          "following_count": 199,
+          "like_count": 515,
+          "listed_count": 35,
+          "media_count": 942,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

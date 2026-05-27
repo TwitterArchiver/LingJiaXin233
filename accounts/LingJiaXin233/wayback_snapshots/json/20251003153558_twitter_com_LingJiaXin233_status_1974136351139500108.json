@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974128664146293108",
+    "created_at": "2025-10-03T15:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974136351139500108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        },
+        {
+          "end": 28,
+          "id": "1946598569747894273",
+          "start": 17,
+          "username": "xmin240286"
+        },
+        {
+          "end": 107,
+          "id": "1946598569747894273",
+          "start": 96,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974136351139500108",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974134599342305712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle @xmin240286 我很赞同你最后的一段话，而且我想说的是我的骂战都是针对凉的，你们为什么一定要说我针对一群入？？？（特别是我已经强调了我没有这种意思），@xmin240286 仍然要主观臆断抹黑我的想法，我能怎么办？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T15:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974136351139500108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            },
+            {
+              "end": 28,
+              "id": "1946598569747894273",
+              "start": 17,
+              "username": "xmin240286"
+            },
+            {
+              "end": 107,
+              "id": "1946598569747894273",
+              "start": 96,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974136351139500108",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974134599342305712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle @xmin240286 我很赞同你最后的一段话，而且我想说的是我的骂战都是针对凉的，你们为什么一定要说我针对一群入？？？（特别是我已经强调了我没有这种意思），@xmin240286 仍然要主观臆断抹黑我的想法，我能怎么办？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756246342676979713",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974134599342305712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 26,
+              "id": "1946598569747894273",
+              "start": 15,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974134599342305712",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其實你要認清楚。\n\n以猥褻跨女為目的而騙別人說自己是跨性別，實際上心裡根本沒有想當女性的想法，那不算心理認同是女性，縱使他說千萬遍，他也不是跨女。\n\n另外，某些人實際的心理認同是女性，但是也猥褻別人，那是另一回事，那是她的敗壞道德和觸碰法律的行為，但是這並不能否定她是跨性別女性的客觀事實。\n\n涼如果是為了猥褻別人才騙別人說自己是跨女，那他肯定不是跨女；但是如果他的心理性別是女性的話，無論做沒做過類似行為，她也是跨女，只是她個人的敗壞，與其他心理認同是女性但並無異心的大家沒有任何關係。\n\n不要說只有HRT才能是跨女，那為什麼不說只有術後人士是跨女？\n\n汐眠在圖片裡的聊天記錄就講清楚了，她並不想對涼猥褻你這件事下定論，只是反對你上升到整個群體的歧視性行為。\n\n其實說簡單了，也就是：\n\n心理認同自己是女性的，哪怕有沒有HRT，都是跨女，只要他有一點點其他的不合理的目的，那都不是跨女，自然也不能算心理認同是女性的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974128664146293108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @xmin240286 其實你要認清楚。\n\n以猥褻跨女為目的而騙別人說自己是跨性別，實際上心裡根本沒有想當女性的想法，那不算心理認同是女性，縱使他說千萬遍，他也不是跨女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 4076,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1730
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "自建政黨：@CTP_TW | 中華民國派🇹🇼❂​ | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 🥺🍜❤️對象@MTNEKO8964  | 🦡@mi_huan030 |🐈@CuteKittenO3O | 可愛AB @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "CTP_TW"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "CuteKittenO3O"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPbke"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971901240423690241/mjpoVVc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 572,
+          "like_count": 2479,
+          "listed_count": 10,
+          "media_count": 497,
+          "tweet_count": 5476
+        },
+        "url": "https://t.co/2lbauKPbke",
+        "username": "sanmiguelnoodle",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 200,
+          "like_count": 3064,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2539
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

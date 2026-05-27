@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2022927064811360632",
+    "created_at": "2026-02-15T11:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022999832009597135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975257502523740160",
+          "start": 0,
+          "username": "CommitmenT_CJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022999832009597135",
+    "in_reply_to_user_id": "1975257502523740160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022970522041254355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CommitmenT_CJS 好志向！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 244,
+        "media_key": "16_2022970512486678528",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBMI9oPbwAA2Wpl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBMI9oPbwAA2Wpl.mp4"
+          }
+        ],
+        "width": 206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T11:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022999832009597135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975257502523740160",
+              "start": 0,
+              "username": "CommitmenT_CJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022999832009597135",
+        "in_reply_to_user_id": "1975257502523740160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022970522041254355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CommitmenT_CJS 好志向！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2022970512486678528"
+          ]
+        },
+        "author_id": "1975257502523740160",
+        "conversation_id": "2022927064811360632",
+        "created_at": "2026-02-15T09:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022970522041254355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/varT7j1htn",
+              "end": 60,
+              "expanded_url": "https://x.com/CommitmenT_CJS/status/2022970522041254355/photo/1",
+              "media_key": "16_2022970512486678528",
+              "start": 37,
+              "url": "https://t.co/varT7j1htn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022970522041254355",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022927064811360632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我丢兄弟，从看到你这条X开始，我打算存钱了 https://t.co/varT7j1htn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2022927064811360632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 443,
+          "like_count": 8118,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2344
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T17:51:11.000Z",
+        "description": "",
+        "id": "1975257502523740160",
+        "name": "Jianshuo Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987157243880407040/7yOECT3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 49,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "username": "CommitmenT_CJS",
+        "verified": false
+      }
+    ]
+  }
+}

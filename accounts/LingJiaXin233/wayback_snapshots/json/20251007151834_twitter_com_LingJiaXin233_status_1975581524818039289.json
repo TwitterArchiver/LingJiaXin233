@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975581513648640000"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975517959767662823",
+    "created_at": "2025-10-07T15:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T16:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975581524818039289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fN6y41Tj49",
+          "end": 32,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1975581524818039289/photo/1",
+          "media_key": "3_1975581513648640000",
+          "start": 9,
+          "url": "https://t.co/fN6y41Tj49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975581524818039289",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975517959767662823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 https://t.co/fN6y41Tj49"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_1975581513648640000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qs62nbEAA5HoO.jpg",
+        "width": 1229
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1975517952452788224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pzHGtbAAAb6mS.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975581513648640000"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975517959767662823",
+        "created_at": "2025-10-07T15:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975581524818039289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN6y41Tj49",
+              "end": 32,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1975581524818039289/photo/1",
+              "media_key": "3_1975581513648640000",
+              "start": 9,
+              "url": "https://t.co/fN6y41Tj49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975581524818039289",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975517959767662823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 https://t.co/fN6y41Tj49"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975517952452788224"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1975517959767662823",
+        "created_at": "2025-10-07T11:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975517959767662823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5BGZYTt1Q",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1975517959767662823/photo/1",
+              "media_key": "3_1975517952452788224",
+              "start": 0,
+              "url": "https://t.co/x5BGZYTt1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975517959767662823",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 24063,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x5BGZYTt1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975168353166602570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 365,
+          "like_count": 4730,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1883
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98778,
+          "following_count": 988,
+          "like_count": 45082,
+          "listed_count": 221,
+          "media_count": 16284,
+          "tweet_count": 24019
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994906786776977408"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1994906794758651974",
+    "created_at": "2025-11-29T23:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T00:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994906794758651974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ts9TU1YcvX",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1994906794758651974/photo/1",
+          "media_key": "3_1994906786776977408",
+          "start": 17,
+          "url": "https://t.co/ts9TU1YcvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994906794758651974",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1000followers！！！ https://t.co/ts9TU1YcvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994906786776977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69VJzHbkAAZN38.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994906786776977408"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1994906794758651974",
+        "created_at": "2025-11-29T23:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T00:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994906794758651974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ts9TU1YcvX",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1994906794758651974/photo/1",
+              "media_key": "3_1994906786776977408",
+              "start": 17,
+              "url": "https://t.co/ts9TU1YcvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994906794758651974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000followers！！！ https://t.co/ts9TU1YcvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 421,
+          "like_count": 6550,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 2136
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

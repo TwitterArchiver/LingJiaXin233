@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1982835710915940361",
+    "created_at": "2025-10-27T15:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982838084724208099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        },
+        {
+          "end": 24,
+          "id": "1904873292366036992",
+          "start": 13,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982838084724208099",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982836802408100034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll @Chiyuyu520 窝在太仓隔壁跑过来旁观别鲨窝✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1982835710915940361",
+        "created_at": "2025-10-27T15:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982838084724208099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            },
+            {
+              "end": 24,
+              "id": "1904873292366036992",
+              "start": 13,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982838084724208099",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982836802408100034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll @Chiyuyu520 窝在太仓隔壁跑过来旁观别鲨窝✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982835710915940361",
+        "created_at": "2025-10-27T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982836802408100034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1904873292366036992",
+              "start": 129,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982836802408100034",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982835710915940361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有钱，肆仟叁佰肆拾伍块整，全部给老子退咯，妈个批，老子本来想卖日雌接济你，结果你从头到尾就拿老子当你的摇钱树，日你妈麻花，老子不飞北京了，直接飞苏州，记得多带几把刀，叫你那个小团伙多喊点人，让老子刷KD，老子要一起杀，你全家你朋友你所有社交关系全都杀干净 @Chiyuyu520"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 396,
+          "like_count": 5625,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2035
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 拥有tu5jp4但一周修一次车的法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 775,
+          "like_count": 608,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1680
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "含糖2025.3.24  雷见证蛆抽象人\n跨过晨昏线，便是永夜。",
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼",
+        "pinned_tweet_id": "1982347631746847206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 1283,
+          "like_count": 5874,
+          "listed_count": 3,
+          "media_count": 262,
+          "tweet_count": 1046
+        },
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

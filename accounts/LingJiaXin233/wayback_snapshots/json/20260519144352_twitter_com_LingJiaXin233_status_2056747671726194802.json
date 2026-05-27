@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056733269107040293",
+    "created_at": "2026-05-19T14:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056747671726194802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685020816369659904",
+          "start": 0,
+          "username": "soulmate078078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056747671726194802",
+    "in_reply_to_user_id": "1685020816369659904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056745415501086747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulmate078078 是的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T14:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056747671726194802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685020816369659904",
+              "start": 0,
+              "username": "soulmate078078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056747671726194802",
+        "in_reply_to_user_id": "1685020816369659904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056745415501086747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulmate078078 是的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-19T14:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056745415501086747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056745415501086747",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056744773453803840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 这种商家就是纯恶心人的，不管是顺男顺女还是跨男跨女 血清都有这几种指标，怎么可能测不出来 \n就跟我上次上医院，我要求检查激素六项，一个50多岁的老女医生，她竟然说激素六项是女性专用的，不给我测\n秒换了一个科室，是个男医生，人家什么都不问直接就开单了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5465,
+          "following_count": 701,
+          "like_count": 17238,
+          "listed_count": 11,
+          "media_count": 1590,
+          "tweet_count": 4747
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄mtf/HRT2026/3/1\n天残党/家暴党/",
+        "id": "1685020816369659904",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911977940620824576/Q9sX0RL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "username": "soulmate078078",
+        "verified": false
+      }
+    ]
+  }
+}

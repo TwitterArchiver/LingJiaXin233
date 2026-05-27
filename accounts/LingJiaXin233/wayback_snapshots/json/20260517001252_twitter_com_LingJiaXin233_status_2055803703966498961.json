@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055803699289858048"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055544147092840765",
+    "created_at": "2026-05-17T00:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055803703966498961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90142941",
+          "start": 0,
+          "username": "Circadianeye"
+        },
+        {
+          "end": 30,
+          "id": "1726640885490716672",
+          "start": 14,
+          "username": "yrxc12345673524"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1IlXsp8OrU",
+          "end": 69,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2055803703966498961/photo/1",
+          "media_key": "3_2055803699289858048",
+          "start": 46,
+          "url": "https://t.co/1IlXsp8OrU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055803703966498961",
+    "in_reply_to_user_id": "90142941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055778761501794307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Circadianeye @yrxc12345673524 用时0秒猜出你用什么手机🫡🤣 https://t.co/1IlXsp8OrU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 379,
+        "media_key": "3_2055803699289858048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIeukogbIAAdNIp.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055803699289858048"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-17T00:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055803703966498961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90142941",
+              "start": 0,
+              "username": "Circadianeye"
+            },
+            {
+              "end": 30,
+              "id": "1726640885490716672",
+              "start": 14,
+              "username": "yrxc12345673524"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IlXsp8OrU",
+              "end": 69,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055803703966498961/photo/1",
+              "media_key": "3_2055803699289858048",
+              "start": 46,
+              "url": "https://t.co/1IlXsp8OrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055803703966498961",
+        "in_reply_to_user_id": "90142941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055778761501794307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Circadianeye @yrxc12345673524 用时0秒猜出你用什么手机🫡🤣 https://t.co/1IlXsp8OrU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90142941",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-16T22:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T23:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055778761501794307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 31,
+              "id": "1726640885490716672",
+              "start": 15,
+              "username": "yrxc12345673524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055778761501794307",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055749955986628888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @yrxc12345673524 OPPO find x9这个系列都叫旗舰机。搞不懂就不要装逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5231,
+          "following_count": 695,
+          "like_count": 17004,
+          "listed_count": 11,
+          "media_count": 1509,
+          "tweet_count": 4622
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-15T11:12:47.000Z",
+        "description": "支人，支面不支心。",
+        "id": "90142941",
+        "location": "Osaka-shi Higashiyodogawa-ku",
+        "name": "晴空乱流🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725541935522447360/Fd4RXeps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 131,
+          "like_count": 2369,
+          "listed_count": 1,
+          "media_count": 943,
+          "tweet_count": 8331
+        },
+        "username": "Circadianeye",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T16:37:32.000Z",
+        "description": "",
+        "id": "1726640885490716672",
+        "location": "主世界",
+        "name": "光破薄云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939807814454501376/N2SJ5GYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 47,
+          "like_count": 1980,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "yrxc12345673524",
+        "verified": false
+      }
+    ]
+  }
+}

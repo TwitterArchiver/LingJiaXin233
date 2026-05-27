@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973890989904609656",
+    "created_at": "2025-10-07T21:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T22:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975674655353807026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1156097249841041408",
+          "start": 0,
+          "username": "LightrainPure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975674655353807026",
+    "in_reply_to_user_id": "1156097249841041408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974313693602329009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightrainPure 你混淆了“主观性”与“随意性”。\n性别认同当然是主观体验，但主观体验即使真实，也无法仅凭自述被社会认可。\n“主观真实” ≠ “社会可验证”，否则制度失去了防滥用机制。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973890989904609656",
+        "created_at": "2025-10-07T21:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T22:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975674655353807026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1156097249841041408",
+              "start": 0,
+              "username": "LightrainPure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975674655353807026",
+        "in_reply_to_user_id": "1156097249841041408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974313693602329009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightrainPure 你混淆了“主观性”与“随意性”。\n性别认同当然是主观体验，但主观体验即使真实，也无法仅凭自述被社会认可。\n“主观真实” ≠ “社会可验证”，否则制度失去了防滥用机制。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156097249841041408",
+        "conversation_id": "1973890989904609656",
+        "created_at": "2025-10-04T03:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T04:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974313693602329009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974313693602329009",
+        "in_reply_to_user_id": "1156097249841041408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974313320510542035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 2. 混淆了“医学定义”与“社会监管责任”：HRT/RLE是跨性别者为缓解性别焦虑、实现自我认同的医疗干预选项，而非“防止滥用的门槛”。厕所使用、公共空间管理等属于社会监管问题，责任主体是司法和行政机构应通过制定可操作的规范来管理，而非扭曲医学定义让跨性别者用身体改造来承担本属于监管机构的责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975168353166602570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 365,
+          "like_count": 4735,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1886
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜日本语を勉强しています",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 1003,
+          "like_count": 1987,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

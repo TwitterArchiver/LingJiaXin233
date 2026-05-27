@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974135804416176416",
+    "created_at": "2025-10-04T09:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974406511112950115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "955555752319602688",
+          "start": 0,
+          "username": "realRoyLiu"
+        },
+        {
+          "end": 28,
+          "id": "1756246342676979713",
+          "start": 12,
+          "username": "sanmiguelnoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974406511112950115",
+    "in_reply_to_user_id": "955555752319602688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974293524255551875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realRoyLiu @sanmiguelnoodle 很客观，这也是我想表达的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974135804416176416",
+        "created_at": "2025-10-04T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974406511112950115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "955555752319602688",
+              "start": 0,
+              "username": "realRoyLiu"
+            },
+            {
+              "end": 28,
+              "id": "1756246342676979713",
+              "start": 12,
+              "username": "sanmiguelnoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974406511112950115",
+        "in_reply_to_user_id": "955555752319602688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974293524255551875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realRoyLiu @sanmiguelnoodle 很客观，这也是我想表达的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "955555752319602688",
+        "conversation_id": "1974135804416176416",
+        "created_at": "2025-10-04T02:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974293524255551875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974293524255551875",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974135804416176416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle 更多是简单的概率吧。在有经济能力且不为minor的人群里：同时有HRT心理认同是女的非常可能是跨女，但没有HRT的有更高概率不是\n只要存在incentive to lie的情形，都需要一定的验证成本。就和你说有病要请病假也需要医生证明一样（请假条也不一定是真的，但是是真的的概率更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 368,
+          "like_count": 4240,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1780
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-22T21:40:19.000Z",
+        "description": "Economically liberal, socially isolated",
+        "id": "955555752319602688",
+        "name": "Roy 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423074553379491841/8ZPYzkfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 321,
+          "like_count": 30623,
+          "listed_count": 1,
+          "media_count": 1189,
+          "tweet_count": 4327
+        },
+        "username": "realRoyLiu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "自建政黨：@CTP_TW | 中華民國派🇹🇼❂​ | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 🥺🍜❤️對象@MTNEKO8964  | 🦡@mi_huan030 |🐈@CuteKittenO3O | 可愛AB @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "CTP_TW"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 122,
+                "start": 108,
+                "username": "CuteKittenO3O"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPbke"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "UTC+8",
+        "name": "生力麵🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971901240423690241/mjpoVVc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 572,
+          "like_count": 2487,
+          "listed_count": 10,
+          "media_count": 498,
+          "tweet_count": 5496
+        },
+        "url": "https://t.co/2lbauKPbke",
+        "username": "sanmiguelnoodle",
+        "verified": true
+      }
+    ]
+  }
+}

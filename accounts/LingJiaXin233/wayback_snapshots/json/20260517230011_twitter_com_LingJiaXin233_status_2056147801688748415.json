@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056147791626551296"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056147801688748415",
+    "created_at": "2026-05-17T23:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T00:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056147801688748415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1YOrw7cD0W",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056147801688748415/photo/1",
+          "media_key": "3_2056147791626551296",
+          "start": 8,
+          "url": "https://t.co/1YOrw7cD0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056147801688748415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包你在想啥呢 https://t.co/1YOrw7cD0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2056147791626551296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjnhcWawAATRLn.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056147791626551296"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056147801688748415",
+        "created_at": "2026-05-17T23:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056147801688748415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YOrw7cD0W",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056147801688748415/photo/1",
+              "media_key": "3_2056147791626551296",
+              "start": 8,
+              "url": "https://t.co/1YOrw7cD0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056147801688748415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包你在想啥呢 https://t.co/1YOrw7cD0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2056084137669497119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5312,
+          "following_count": 703,
+          "like_count": 17126,
+          "listed_count": 11,
+          "media_count": 1537,
+          "tweet_count": 4671
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

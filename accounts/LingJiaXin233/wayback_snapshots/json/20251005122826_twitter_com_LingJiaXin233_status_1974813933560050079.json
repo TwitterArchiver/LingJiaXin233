@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1960177921357652014",
+    "created_at": "2025-10-05T12:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974813933560050079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949312636140638208",
+          "start": 0,
+          "username": "Yuri_SRL2"
+        },
+        {
+          "end": 20,
+          "id": "715183792697303041",
+          "start": 11,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974813933560050079",
+    "in_reply_to_user_id": "1949312636140638208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960177921357652014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuri_SRL2 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22564,
+        "height": 1080,
+        "media_key": "13_1960177871319625728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960177871319625728/img/j8rhos0yZQVvhZXR.jpg",
+        "public_metrics": {
+          "view_count": 3446217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960177871319625728/vid/avc1/480x270/8W5-xxcsKIuQpfHz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960177871319625728/vid/avc1/640x360/cuvUBweNVqDledwo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960177871319625728/vid/avc1/1280x720/e7YYQeDOxv-v5OCk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960177871319625728/pl/uSbcxgo1-Iqe9FoZ.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1960177921357652014",
+        "created_at": "2025-10-05T12:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974813933560050079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949312636140638208",
+              "start": 0,
+              "username": "Yuri_SRL2"
+            },
+            {
+              "end": 20,
+              "id": "715183792697303041",
+              "start": 11,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974813933560050079",
+        "in_reply_to_user_id": "1949312636140638208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960177921357652014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuri_SRL2 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960177871319625728"
+          ]
+        },
+        "author_id": "1949312636140638208",
+        "conversation_id": "1960177921357652014",
+        "created_at": "2025-08-26T03:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960177921357652014"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "yuri",
+              "probability": 0.4761,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2fxOIDomp",
+              "end": 49,
+              "expanded_url": "https://x.com/Yuri_SRL2/status/1960177921357652014/video/1",
+              "media_key": "13_1960177871319625728",
+              "start": 26,
+              "url": "https://t.co/V2fxOIDomp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960177921357652014",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51998,
+          "impression_count": 1882820,
+          "like_count": 135895,
+          "quote_count": 833,
+          "reply_count": 264,
+          "retweet_count": 7421
+        },
+        "reply_settings": "everyone",
+        "text": "Good old afterschool yuri https://t.co/V2fxOIDomp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 362,
+          "like_count": 4438,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1823
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T03:35:38.000Z",
+        "description": "Underrated yuri (@Yuri_SRL) starting over. The same posts and recommendations 💯 for overlooked, lesser known anime - manga (and yuri). No censoring anyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "Yuri_SRL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/Naranja12…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/Naranja128/animelist",
+                "start": 0,
+                "url": "https://t.co/HI9OvAqIF1"
+              }
+            ]
+          }
+        },
+        "id": "1949312636140638208",
+        "location": "Lillian",
+        "name": "Underrated yuri & anime dump",
+        "pinned_tweet_id": "1957141789976199221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951329320548376576/N7oPu1EV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46749,
+          "following_count": 46,
+          "like_count": 366,
+          "listed_count": 45,
+          "media_count": 94,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/HI9OvAqIF1",
+        "username": "Yuri_SRL2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263491,
+          "following_count": 115,
+          "like_count": 20,
+          "listed_count": 640,
+          "media_count": 1,
+          "tweet_count": 802168
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

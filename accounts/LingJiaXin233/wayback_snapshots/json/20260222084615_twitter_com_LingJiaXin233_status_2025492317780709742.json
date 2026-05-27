@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025492245156405248"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2025492317780709742",
+    "created_at": "2026-02-22T08:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025492317780709742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bA8iInOpS",
+          "end": 32,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2025492317780709742/video/1",
+          "media_key": "13_2025492245156405248",
+          "start": 9,
+          "url": "https://t.co/9bA8iInOpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025492317780709742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还好我们反应够快 https://t.co/9bA8iInOpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16973,
+        "height": 1360,
+        "media_key": "13_2025492245156405248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025492245156405248/img/RDH8EIZEecAWDw7o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025492245156405248/pl/ZrgEjD6y4ABABRYz.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025492245156405248/vid/avc1/1112x1360/rVSrzY69lWZRUCy9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025492245156405248/vid/avc1/480x586/SE8tGoHw4UpZXf6e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025492245156405248/vid/avc1/720x880/xCoyMf65O89-qD_S.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025492245156405248/vid/avc1/320x390/16AthdoO8aNIkSfT.mp4"
+          }
+        ],
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025492245156405248"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2025492317780709742",
+        "created_at": "2026-02-22T08:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025492317780709742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bA8iInOpS",
+              "end": 32,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2025492317780709742/video/1",
+              "media_key": "13_2025492245156405248",
+              "start": 9,
+              "url": "https://t.co/9bA8iInOpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025492317780709742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好我们反应够快 https://t.co/9bA8iInOpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "数码爱好者｜果粉｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭 投稿请私信，侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 560,
+          "like_count": 8444,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 2453
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2002592553712169237",
+    "created_at": "2025-12-21T04:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T05:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002592553712169237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002592553712169237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002420969164755092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 可笑的是，2018年之前，我们是全市唯一一个允许智能手机 烫染发 不穿校服 随意出校门 无门禁 外卖送到教室的学校，连拾荒者都能进到教学楼来取走学生们的塑料水瓶，没有围墙。校长在90年前立下了承诺：本校永久禁止应试教育，永远注重美育与德育高于应试。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2002592553712169237",
+        "created_at": "2025-12-21T04:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002592553712169237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002592553712169237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002420969164755092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 可笑的是，2018年之前，我们是全市唯一一个允许智能手机 烫染发 不穿校服 随意出校门 无门禁 外卖送到教室的学校，连拾荒者都能进到教学楼来取走学生们的塑料水瓶，没有围墙。校长在90年前立下了承诺：本校永久禁止应试教育，永远注重美育与德育高于应试。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2002420969164755092",
+        "created_at": "2025-12-20T16:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002420969164755092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/minokakay/status/2002348983700631782",
+              "start": 146,
+              "url": "https://t.co/r7fcBrOX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002420969164755092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 49569,
+          "like_count": 437,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002348983700631782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可笑的是，2018年之前，我们是全市唯一一个允许智能手机 烫染发 不穿校服 随意出校门 无门禁 外卖送到教室的学校，连拾荒者都能进到教学楼来取走学生们的塑料水瓶，没有围墙。校长在90年前立下了承诺：本校永久禁止应试教育，永远注重美育与德育高于应试。\n\n自从衡水模式的风吹到南方，一切都变了。 https://t.co/r7fcBrOX5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 406,
+          "like_count": 6909,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2169
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13144,
+          "following_count": 1013,
+          "like_count": 44945,
+          "listed_count": 50,
+          "media_count": 1783,
+          "tweet_count": 24769
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

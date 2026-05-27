@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041170982866681856"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2041170992580747297",
+    "created_at": "2026-04-06T15:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041170992580747297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4ysDMCV1t",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2041170992580747297/photo/1",
+          "media_key": "3_2041170982866681856",
+          "start": 5,
+          "url": "https://t.co/d4ysDMCV1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041170992580747297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/d4ysDMCV1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1969,
+        "media_key": "3_2041170982866681856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOyMb-agAAu6df.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041170982866681856"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2041170992580747297",
+        "created_at": "2026-04-06T15:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041170992580747297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4ysDMCV1t",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2041170992580747297/photo/1",
+              "media_key": "3_2041170982866681856",
+              "start": 5,
+              "url": "https://t.co/d4ysDMCV1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041170992580747297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/d4ysDMCV1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 784,
+          "like_count": 11981,
+          "listed_count": 8,
+          "media_count": 507,
+          "tweet_count": 3135
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

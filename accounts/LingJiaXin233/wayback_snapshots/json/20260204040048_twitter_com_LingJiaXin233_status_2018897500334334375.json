@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1982086973981700471",
+    "created_at": "2026-02-04T04:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018897500334334375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018897500334334375",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982086973981700471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 ios26.0不锁（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982086958114328576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HJljxW0AAZYTB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982086958059769857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HJljkWUAEmris.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982086958168829952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HJlj-WcAA6OGD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982086958089158656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HJljrWwAA2gNj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1982086973981700471",
+        "created_at": "2026-02-04T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018897500334334375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018897500334334375",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982086973981700471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 ios26.0不锁（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982086958114328576",
+            "3_1982086958059769857",
+            "3_1982086958168829952",
+            "3_1982086958089158656"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982086973981700471",
+        "created_at": "2025-10-25T14:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982086973981700471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRLdw2q2QG",
+              "end": 87,
+              "expanded_url": "https://x.com/RainEngine2024/status/1982086973981700471/photo/1",
+              "media_key": "3_1982086958114328576",
+              "start": 64,
+              "url": "https://t.co/pRLdw2q2QG"
+            },
+            {
+              "display_url": "pic.x.com/pRLdw2q2QG",
+              "end": 87,
+              "expanded_url": "https://x.com/RainEngine2024/status/1982086973981700471/photo/1",
+              "media_key": "3_1982086958059769857",
+              "start": 64,
+              "url": "https://t.co/pRLdw2q2QG"
+            },
+            {
+              "display_url": "pic.x.com/pRLdw2q2QG",
+              "end": 87,
+              "expanded_url": "https://x.com/RainEngine2024/status/1982086973981700471/photo/1",
+              "media_key": "3_1982086958168829952",
+              "start": 64,
+              "url": "https://t.co/pRLdw2q2QG"
+            },
+            {
+              "display_url": "pic.x.com/pRLdw2q2QG",
+              "end": 87,
+              "expanded_url": "https://x.com/RainEngine2024/status/1982086973981700471/photo/1",
+              "media_key": "3_1982086958089158656",
+              "start": 64,
+              "url": "https://t.co/pRLdw2q2QG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982086973981700471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3883,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是玩上17air了\n机身厚度和重量比我预期的还要理想一点\n但缺点也很明显，esim锁区以及单扬声器，最重要的一点还是续航问题 https://t.co/pRLdw2q2QG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 437,
+          "like_count": 7785,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2266
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6199,
+          "following_count": 739,
+          "like_count": 45937,
+          "listed_count": 6,
+          "media_count": 1031,
+          "tweet_count": 6854
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

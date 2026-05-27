@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002385269228716032"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2002385280171675984",
+    "created_at": "2025-12-20T14:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002385280171675984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867244970853466112",
+          "start": 2,
+          "username": "hyc945"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PrgKSfhdEe",
+          "end": 50,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2002385280171675984/photo/1",
+          "media_key": "3_2002385269228716032",
+          "start": 27,
+          "url": "https://t.co/PrgKSfhdEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002385280171675984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@hyc945 抽奖送出的凝胶\n感谢姐姐！！！🥰 https://t.co/PrgKSfhdEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002385269228716032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8nmyxPaQAA50Y6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002385269228716032"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2002385280171675984",
+        "created_at": "2025-12-20T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002385280171675984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867244970853466112",
+              "start": 2,
+              "username": "hyc945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrgKSfhdEe",
+              "end": 50,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2002385280171675984/photo/1",
+              "media_key": "3_2002385269228716032",
+              "start": 27,
+              "url": "https://t.co/PrgKSfhdEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002385280171675984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@hyc945 抽奖送出的凝胶\n感谢姐姐！！！🥰 https://t.co/PrgKSfhdEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 性别焦虑，无证含糖 精神不稳定 不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 407,
+          "like_count": 6904,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2169
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "需要买凝胶，请加这个qq3997247387，qq群897084565\n无🚪，可出原味，可树洞陪聊",
+        "id": "1867244970853466112",
+        "name": "怀愚痴卖五倍雌二醇凝胶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1981277544487014610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968719205970370560/zpAQsyVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 85,
+          "like_count": 17,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 730
+        },
+        "username": "hyc945",
+        "verified": false
+      }
+    ]
+  }
+}

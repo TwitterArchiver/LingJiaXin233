@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1979714670513758530",
+    "created_at": "2025-10-19T01:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979714670513758530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779149099084009472",
+          "start": 3,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979714670513758530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979578360931172527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuLoverr_: 很多mtf（包括我）女性化的倾向本来就很高了，只是缺少一个渠道或者方法而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1979714670513758530",
+        "created_at": "2025-10-19T01:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979714670513758530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779149099084009472",
+              "start": 3,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979714670513758530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979578360931172527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuLoverr_: 很多mtf（包括我）女性化的倾向本来就很高了，只是缺少一个渠道或者方法而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "1979578360931172527",
+        "created_at": "2025-10-18T16:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979578360931172527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1979486053619876066",
+              "start": 38,
+              "url": "https://t.co/1fGR4tKrnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979578360931172527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979486053619876066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多mtf（包括我）女性化的倾向本来就很高了，只是缺少一个渠道或者方法而已 https://t.co/1fGR4tKrnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 387,
+          "like_count": 5471,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2003
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/srs预备/167cm/48kg/hrt：2024.11.16/重庆09年16岁理科牲/mtf🏳️‍⚧️/负能小号 @HiddenEmmMiku （同时作为里推使用）/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl4FbT"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🏳️‍⚧️🍥🥝",
+        "pinned_tweet_id": "1935374858705321997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976693314616541188/-TNfR3-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 1198,
+          "like_count": 25589,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 12782
+        },
+        "url": "https://t.co/rz5fLl4FbT",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

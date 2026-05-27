@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1969404207938879757",
+    "created_at": "2025-09-20T22:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T23:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969526380523372556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "Mr_LDYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969526380523372556",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969444107249729644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_LDYS 没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1969404207938879757",
+        "created_at": "2025-09-20T22:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T23:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969526380523372556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "Mr_LDYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969526380523372556",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969444107249729644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_LDYS 没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554286007096590336",
+        "conversation_id": "1969404207938879757",
+        "created_at": "2025-09-20T16:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T17:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969444107249729644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969444107249729644",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969404207938879757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 救回来几率很大吧这些药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "不见证",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1962478259167535426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 398,
+          "like_count": 3009,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 1362
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜没人爱我｜高中生牛马麦当劳学兼｜对一切性向和性别认同政治认同友好｜\n欢迎扩列喵｜\n08/178cm/75kg/0.5/m偏0不10（side）/Gay🏳️‍🌈 xp很杂｜\n里@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BH7Sv"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John.Kazuha",
+        "pinned_tweet_id": "1952234170568351796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 2515,
+          "like_count": 6433,
+          "listed_count": 3,
+          "media_count": 630,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/k7YP9BH7Sv",
+        "username": "Mr_LDYS",
+        "verified": false
+      }
+    ]
+  }
+}

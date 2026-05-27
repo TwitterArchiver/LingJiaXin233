@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974128664146293108",
+    "created_at": "2025-10-03T15:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974141479124938792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1211888744657084416",
+          "start": 0,
+          "username": "DD459_Laffey"
+        },
+        {
+          "end": 28,
+          "id": "1390652924481527810",
+          "start": 14,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 40,
+          "id": "1946598569747894273",
+          "start": 29,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974141479124938792",
+    "in_reply_to_user_id": "1211888744657084416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974140376014598648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DD459_Laffey @zqtlovekris99 @xmin240286 是啊！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T15:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974141479124938792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1211888744657084416",
+              "start": 0,
+              "username": "DD459_Laffey"
+            },
+            {
+              "end": 28,
+              "id": "1390652924481527810",
+              "start": 14,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 40,
+              "id": "1946598569747894273",
+              "start": 29,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974141479124938792",
+        "in_reply_to_user_id": "1211888744657084416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974140376014598648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DD459_Laffey @zqtlovekris99 @xmin240286 是啊！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211888744657084416",
+        "conversation_id": "1974128664146293108",
+        "created_at": "2025-10-03T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974140376014598648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 29,
+              "id": "1857802986837172224",
+              "start": 15,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 41,
+              "id": "1946598569747894273",
+              "start": 30,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974140376014598648",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974137121238929724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @LingJiaXin233 @xmin240286 我一个女性朋友说她在小学的时候被强奸过，不是猥亵而是强奸，我的心里只有愤怒和悲伤，她没有再提之后怎么样，我也不敢再多问。我认为首先要共情受害者而不是进行批判，就算是去卖的被强奸了那也是被强奸了,不要试图拿被害者有罪论来反驳被害者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 365,
+          "like_count": 4083,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1738
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:56:16.000Z",
+        "description": "简体｜繁體｜日本語｜06｜双低mtx｜ENFJ｜性冷淡｜ 双相（不过已经好透了w）喜欢加一些友善的同类。希望自己可以给他人带来希望和救赎。尽力包容所有人。绝不鉴证，不涩涩，🚪：任何人。性骚扰的直接b掉",
+        "id": "1211888744657084416",
+        "name": "Laffey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954143456735174656/SVIwnXx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 121,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 763
+        },
+        "username": "DD459_Laffey",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10200,
+          "following_count": 989,
+          "like_count": 22086,
+          "listed_count": 10,
+          "media_count": 3660,
+          "tweet_count": 22993
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 200,
+          "like_count": 3067,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2541
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

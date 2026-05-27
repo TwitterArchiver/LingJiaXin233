@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025218558436016128"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2025218564278673890",
+    "created_at": "2026-02-21T14:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025218564278673890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9r4sDbdrEl",
+          "end": 29,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2025218564278673890/photo/1",
+          "media_key": "3_2025218558436016128",
+          "start": 6,
+          "url": "https://t.co/9r4sDbdrEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025218564278673890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是真纯爱 https://t.co/9r4sDbdrEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_2025218558436016128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsFjIAbgAADl49.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025218558436016128"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2025218564278673890",
+        "created_at": "2026-02-21T14:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025218564278673890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9r4sDbdrEl",
+              "end": 29,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2025218564278673890/photo/1",
+              "media_key": "3_2025218558436016128",
+              "start": 6,
+              "url": "https://t.co/9r4sDbdrEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025218564278673890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是真纯爱 https://t.co/9r4sDbdrEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "数码爱好者｜果粉｜精神不稳定 ｜不见证，不讨论政治不感兴趣/求求你关注我😭😭😭 投稿请私信，侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "pinned_tweet_id": "2024702574423937169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 536,
+          "like_count": 8419,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 2445
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

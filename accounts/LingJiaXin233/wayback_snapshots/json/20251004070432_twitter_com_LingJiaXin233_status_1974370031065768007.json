@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974276156724555776"
+      ],
+      "media_source_tweet_id": [
+        "1974276159245300160"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1974370031065768007",
+    "created_at": "2025-10-04T07:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T08:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974370031065768007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919090854033051648",
+          "start": 3,
+          "username": "Hot_F_B"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vFgDYrKUn8",
+          "end": 42,
+          "expanded_url": "https://x.com/Hot_F_B/status/1974276159245300160/photo/1",
+          "media_key": "3_1974276156724555776",
+          "start": 19,
+          "url": "https://t.co/vFgDYrKUn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974370031065768007",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974276159245300160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hot_F_B: Wataa https://t.co/vFgDYrKUn8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974370031065768007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974370031065768007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974370031065768007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_1974276156724555776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2YJtFIXMAAb_U1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974276156724555776"
+          ]
+        },
+        "author_id": "1919090854033051648",
+        "conversation_id": "1974276159245300160",
+        "created_at": "2025-10-04T00:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T01:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974276159245300160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vFgDYrKUn8",
+              "end": 29,
+              "expanded_url": "https://x.com/Hot_F_B/status/1974276159245300160/photo/1",
+              "media_key": "3_1974276156724555776",
+              "start": 6,
+              "url": "https://t.co/vFgDYrKUn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974276159245300160",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 9700,
+          "like_count": 1367,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/vFgDYrKUn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1974282292920221915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 367,
+          "like_count": 4207,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 1772
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:07:37.000Z",
+        "description": "just like hot things🤤.(🔞art not mine) I learn 3D. you can support me to make my own art 🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/T_he_player_3D…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/T_he_player_3D?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/JP0P7gs88t"
+              }
+            ]
+          }
+        },
+        "id": "1919090854033051648",
+        "name": "H_F_B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919171962925985793/gKD6klkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43728,
+          "following_count": 31,
+          "like_count": 13,
+          "listed_count": 89,
+          "media_count": 140,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/JP0P7gs88t",
+        "username": "Hot_F_B",
+        "verified": false
+      }
+    ]
+  }
+}

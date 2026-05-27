@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042604153344794624"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2042604228598992960",
+    "created_at": "2026-04-10T14:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042604228598992960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2RIORwjZzv",
+          "end": 32,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2042604228598992960/video/1",
+          "media_key": "13_2042604153344794624",
+          "start": 9,
+          "url": "https://t.co/2RIORwjZzv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042604228598992960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧弟多了就这样了 https://t.co/2RIORwjZzv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19466,
+        "height": 2146,
+        "media_key": "13_2042604153344794624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042604153344794624/img/QqORf-h34yY7gDw4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042604153344794624/vid/avc1/320x634/47ZZp5Braj-cxE2c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042604153344794624/vid/avc1/720x1430/kKUYp9XLad98jT4k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042604153344794624/pl/aGbEIkEamlzUPiDK.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042604153344794624/vid/avc1/1080x2146/lPTDMSYzT1hSW1zz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042604153344794624/vid/avc1/480x952/nKaTUKGpP-Kxnqw_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042604153344794624"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2042604228598992960",
+        "created_at": "2026-04-10T14:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042604228598992960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RIORwjZzv",
+              "end": 32,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2042604228598992960/video/1",
+              "media_key": "13_2042604153344794624",
+              "start": 9,
+              "url": "https://t.co/2RIORwjZzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042604228598992960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧弟多了就这样了 https://t.co/2RIORwjZzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 764,
+          "like_count": 12798,
+          "listed_count": 8,
+          "media_count": 580,
+          "tweet_count": 3288
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

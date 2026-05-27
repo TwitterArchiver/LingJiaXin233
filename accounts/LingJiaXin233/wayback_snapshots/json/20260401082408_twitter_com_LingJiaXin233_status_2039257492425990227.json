@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2039249400610898187",
+    "created_at": "2026-04-01T08:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039257492425990227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "sincecoco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039257492425990227",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039249400610898187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sincecoco 饿死我了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_2039246257751719936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzbqsLWAAAxSKY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039246257940844545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzbqs4b0AESC_E.jpg",
+        "width": 1572
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039246257911439361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzbqsxbIAEVvEm.jpg",
+        "width": 1993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2039249400610898187",
+        "created_at": "2026-04-01T08:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039257492425990227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "sincecoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039257492425990227",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039249400610898187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sincecoco 饿死我了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039246257751719936",
+            "3_2039246257940844545",
+            "3_2039246257911439361"
+          ]
+        },
+        "author_id": "1439465002851725314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2039249400610898187",
+        "created_at": "2026-04-01T07:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:39:37.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039246291515933178",
+          "2039246529257480360",
+          "2039249400610898187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4V2z1AFfY",
+              "end": 152,
+              "expanded_url": "https://x.com/sincecoco/status/2039249400610898187/photo/1",
+              "media_key": "3_2039246257751719936",
+              "start": 129,
+              "url": "https://t.co/d4V2z1AFfY"
+            },
+            {
+              "display_url": "pic.x.com/d4V2z1AFfY",
+              "end": 152,
+              "expanded_url": "https://x.com/sincecoco/status/2039249400610898187/photo/1",
+              "media_key": "3_2039246257940844545",
+              "start": 129,
+              "url": "https://t.co/d4V2z1AFfY"
+            },
+            {
+              "display_url": "pic.x.com/d4V2z1AFfY",
+              "end": 152,
+              "expanded_url": "https://x.com/sincecoco/status/2039249400610898187/photo/1",
+              "media_key": "3_2039246257911439361",
+              "start": 129,
+              "url": "https://t.co/d4V2z1AFfY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039249400610898187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 422,
+                "start": 419,
+                "tag": "日常"
+              },
+              {
+                "end": 426,
+                "start": 423,
+                "tag": "美食"
+              },
+              {
+                "end": 430,
+                "start": 427,
+                "tag": "分享"
+              }
+            ]
+          },
+          "text": "今日份快乐：麦麦开箱！🍔✨\n\n嗨，宝贝们，今天橙子带着你们来开箱麦麦的「麦辣芝士鸡腿汉堡」！\n\n首先我们看到的是一个极具视觉冲击力的包装盒。不得不说麦当劳这次的联名设计真的走心了，明黄与深黑的撞色，配上充满张力的热血漫画风插画，简直是一秒点燃食欲！作为一名 M属性大爆发的博主，我得说这个配色方案和排版真的随手一拍都能出片，完全舍不得扔掉这个盒子好吗！\n\n打开盒子，仪式感拉满：\n\n热气混合着炸鸡特有的油脂香和若隐若现的芝士奶香，直接扑脸而来！汉堡乖乖地躺在吸油纸里，等着我橙子我吃掉，就像小狗乖乖的趴在地上等待着他的主人带它回家一样。\n\n咬下去的第一口，外皮酥脆到能听到“咔嚓”声，内里却汁水丰盈。芝士的味道在舌尖化开，加上小龙虾风味的酱香，让经典的麦辣鸡腿堡多了一份温柔的醇厚感。搭配一份热气腾腾的薯条，再来一大杯冰雪碧（橙子不喜欢喝可乐），别提有多爽了。\n\n今天的高热量指标虽然爆表了，但这种碳水带来的多巴胺快乐，真的谁吃谁知道！\n#日常 #美食 #分享"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份快乐：麦麦开箱！🍔✨\n\n嗨，宝贝们，今天橙子带着你们来开箱麦麦的「麦辣芝士鸡腿汉堡」！\n\n首先我们看到的是一个极具视觉冲击力的包装盒。不得不说麦当劳这次的联名设计真的走心了，明黄与深黑的撞色，配上充满张力的热血漫画风插画，简直是一秒点燃食欲！作为一名 https://t.co/d4V2z1AFfY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2038996682931884530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 750,
+          "like_count": 11246,
+          "listed_count": 6,
+          "media_count": 451,
+          "tweet_count": 3004
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "记录日常生活碎片，专业艺术家 美食搜索家 爱逛街 爱吃饭 争取做一个旅游博主｜#日常 | #旅游｜#分享｜看黄的不要关注我！| This is an interesting account.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "日常"
+              },
+              {
+                "end": 48,
+                "start": 45,
+                "tag": "旅游"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "分享"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lShaS"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "location": "everywhere ",
+        "name": "橙子BABY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021242948092919808/OmB2Fc_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16024,
+          "following_count": 380,
+          "like_count": 1885,
+          "listed_count": 47,
+          "media_count": 394,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/VCsG9lShaS",
+        "username": "sincecoco",
+        "verified": true
+      }
+    ]
+  }
+}

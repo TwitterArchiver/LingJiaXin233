@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033198098940583937"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2033198108142936126",
+    "created_at": "2026-03-15T15:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033198108142936126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUzuR0voBH",
+          "end": 33,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2033198108142936126/photo/1",
+          "media_key": "3_2033198098940583937",
+          "start": 10,
+          "url": "https://t.co/nUzuR0voBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033198108142936126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不太想认识中文了 https://t.co/nUzuR0voBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_2033198098940583937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDde5g1aYAEGaZr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033198098940583937"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2033198108142936126",
+        "created_at": "2026-03-15T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033198108142936126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUzuR0voBH",
+              "end": 33,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2033198108142936126/photo/1",
+              "media_key": "3_2033198098940583937",
+              "start": 10,
+              "url": "https://t.co/nUzuR0voBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033198108142936126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不太想认识中文了 https://t.co/nUzuR0voBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2032967210709430595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 893,
+          "like_count": 9874,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 2719
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1981323243828236803",
+    "created_at": "2025-10-23T11:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981323243828236803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891722301584048128",
+          "start": 3,
+          "username": "Shrimp_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981323243828236803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981203731820793974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shrimp_8964: 抽獎吧\n1等，2盒國補，1人\n2等，1盒國補，2人\n3等，魚板掛件，5人\n皆可折現（一等60元、二等30元、三等5元）\n參與條件：跟隨+按讚+留言\n截止日期明天中午12點"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1981323243828236803",
+        "created_at": "2025-10-23T11:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981323243828236803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891722301584048128",
+              "start": 3,
+              "username": "Shrimp_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981323243828236803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981203731820793974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shrimp_8964: 抽獎吧\n1等，2盒國補，1人\n2等，1盒國補，2人\n3等，魚板掛件，5人\n皆可折現（一等60元、二等30元、三等5元）\n參與條件：跟隨+按讚+留言\n截止日期明天中午12點"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891722301584048128",
+        "conversation_id": "1981203731820793974",
+        "created_at": "2025-10-23T03:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981203731820793974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981203731820793974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4945,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "抽獎吧\n1等，2盒國補，1人\n2等，1盒國補，2人\n3等，魚板掛件，5人\n皆可折現（一等60元、二等30元、三等5元）\n參與條件：跟隨+按讚+留言\n截止日期明天中午12點"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "1975943047335772461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 391,
+          "like_count": 5519,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 2022
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "最愛的雜魚雨夏老婆：@xaa386| 有老婆但是不嫌多（|🍥HRT 2025.3.12 |已炸櫃家長黨| 邊緣人，雙向b，單車佬（Giant PP SL）||對我有意見你就滾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "xaa386"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "name": "8964蝦蝦醬🍥🦈",
+        "pinned_tweet_id": "1981194542213943726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897917125999968257/QaYuwvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 577,
+          "like_count": 8243,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 859
+        },
+        "username": "Shrimp_8964",
+        "verified": false
+      }
+    ]
+  }
+}

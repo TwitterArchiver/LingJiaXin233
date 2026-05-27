@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1986062384902078464"
+      ],
+      "media_source_tweet_id": [
+        "1986062423309377842"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "1986105872565875040",
+    "created_at": "2025-11-05T16:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986105872565875040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895769230676729856",
+          "start": 3,
+          "username": "liuyun304"
+        },
+        {
+          "end": 25,
+          "id": "1896061942785310720",
+          "start": 15,
+          "username": "notThujaS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CAydJveGty",
+          "end": 49,
+          "expanded_url": "https://x.com/liuyun304/status/1986062423309377842/video/1",
+          "media_key": "7_1986062384902078464",
+          "start": 26,
+          "url": "https://t.co/CAydJveGty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986105872565875040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986062423309377842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liuyun304: @notThujaS https://t.co/CAydJveGty"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10080,
+        "height": 1280,
+        "media_key": "7_1986062384902078464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986062384902078464/pu/img/VEGv9BhnM5m98s8s.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986062384902078464/pu/vid/avc1/320x580/pekE2fHYGe_0xbVl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986062384902078464/pu/vid/avc1/480x872/4oXrZX_9CMDfIMxv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986062384902078464/pu/vid/avc1/704x1280/fNZKyxwemDTMUIqI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986062384902078464/pu/pl/R1jPJpI_Y3GhMnq3.m3u8?tag=12"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986062384902078464"
+          ],
+          "media_source_tweet_id": [
+            "1986062423309377842"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1986105872565875040",
+        "created_at": "2025-11-05T16:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986105872565875040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895769230676729856",
+              "start": 3,
+              "username": "liuyun304"
+            },
+            {
+              "end": 25,
+              "id": "1896061942785310720",
+              "start": 15,
+              "username": "notThujaS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAydJveGty",
+              "end": 49,
+              "expanded_url": "https://x.com/liuyun304/status/1986062423309377842/video/1",
+              "media_key": "7_1986062384902078464",
+              "start": 26,
+              "url": "https://t.co/CAydJveGty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986105872565875040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986062423309377842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liuyun304: @notThujaS https://t.co/CAydJveGty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986062384902078464"
+          ]
+        },
+        "author_id": "1895769230676729856",
+        "conversation_id": "1986020615514714142",
+        "created_at": "2025-11-05T13:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986062423309377842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAydJveGty",
+              "end": 34,
+              "expanded_url": "https://x.com/liuyun304/status/1986062423309377842/video/1",
+              "media_key": "7_1986062384902078464",
+              "start": 11,
+              "url": "https://t.co/CAydJveGty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986062423309377842",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986021311265554878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS https://t.co/CAydJveGty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8🤓mtf？sissy？femboy？ 选择性出柜，不见证，对政治不感兴趣，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 403,
+          "like_count": 5828,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 2064
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T09:33:12.000Z",
+        "description": "07mtf (x?) 172/120飞🐖\n疑似已疯魔\n抽象猎奇",
+        "id": "1895769230676729856",
+        "name": "琉芸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971817525953404928/jPHEIdZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 376,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 214
+        },
+        "username": "liuyun304",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳正宗劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与互骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我会随机回关的。求各位多转贴我想涨粉🤓2000fo直播杜桥///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "GTI热河省分部",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978461994652213248/lb6jtsni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 804,
+          "like_count": 5042,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 3057
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

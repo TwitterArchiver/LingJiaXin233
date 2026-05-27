@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2021181098730881247",
+    "created_at": "2026-02-10T11:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021181098730881247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413584021460815876",
+          "start": 3,
+          "username": "Fiona02390687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021181098730881247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020876503719071764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fiona02390687: 我一看到tl里同时出现“李老师、跨性别”这个组合时，我心里就暗叫“坏了……”\n点开一张图，果然……\n唉，指望这些海外搞抽象的人放过国内的跨性别人群本来就是个奢望……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2021181098730881247",
+        "created_at": "2026-02-10T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021181098730881247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413584021460815876",
+              "start": 3,
+              "username": "Fiona02390687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021181098730881247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020876503719071764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fiona02390687: 我一看到tl里同时出现“李老师、跨性别”这个组合时，我心里就暗叫“坏了……”\n点开一张图，果然……\n唉，指望这些海外搞抽象的人放过国内的跨性别人群本来就是个奢望……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413584021460815876",
+        "conversation_id": "2020876503719071764",
+        "created_at": "2026-02-09T15:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020876503719071764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020876503719071764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14818,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我一看到tl里同时出现“李老师、跨性别”这个组合时，我心里就暗叫“坏了……”\n点开一张图，果然……\n唉，指望这些海外搞抽象的人放过国内的跨性别人群本来就是个奢望……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2020123184813732041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 440,
+          "like_count": 7960,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2288
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T19:41:15.000Z",
+        "description": "大龄MTF（持续改进中），重型坦克，INTP-A，brat，感恩这个世界，但内核其实是个降临派。  来聊天：https://t.co/NjXA4xKBCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Pqpglz2b10w5Z…",
+                "end": 77,
+                "expanded_url": "https://t.me/+Pqpglz2b10w5ZGZl",
+                "start": 54,
+                "url": "https://t.co/NjXA4xKBCK"
+              }
+            ]
+          }
+        },
+        "id": "1413584021460815876",
+        "name": "Qubeley.Fiona（丞静）",
+        "pinned_tweet_id": "1660042739747094529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666344138667700224/sDw57MpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17987,
+          "following_count": 701,
+          "like_count": 25041,
+          "listed_count": 80,
+          "media_count": 1441,
+          "tweet_count": 12541
+        },
+        "username": "Fiona02390687",
+        "verified": true
+      }
+    ]
+  }
+}

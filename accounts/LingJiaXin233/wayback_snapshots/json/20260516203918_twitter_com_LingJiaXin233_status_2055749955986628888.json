@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055544147092840765",
+    "created_at": "2026-05-16T20:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055749955986628888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1726640885490716672",
+          "start": 0,
+          "username": "yrxc12345673524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055749955986628888",
+    "in_reply_to_user_id": "1726640885490716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055742363478495699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrxc12345673524 旗舰肯定都过5k了，参考promax和ultra，没有“标准版旗舰”这一说（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-16T20:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055749955986628888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1726640885490716672",
+              "start": 0,
+              "username": "yrxc12345673524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055749955986628888",
+        "in_reply_to_user_id": "1726640885490716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055742363478495699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrxc12345673524 旗舰肯定都过5k了，参考promax和ultra，没有“标准版旗舰”这一说（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726640885490716672",
+        "conversation_id": "2055544147092840765",
+        "created_at": "2026-05-16T20:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055742363478495699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055742363478495699",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055544147092840765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 虽然说做不到就别答应但是3000块钱左右的手机也很好了吧ov米的标准版旗舰也就3000多......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 694,
+          "like_count": 16976,
+          "listed_count": 14,
+          "media_count": 1502,
+          "tweet_count": 4610
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-20T16:37:32.000Z",
+        "description": "",
+        "id": "1726640885490716672",
+        "location": "主世界",
+        "name": "光破薄云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939807814454501376/N2SJ5GYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 47,
+          "like_count": 1980,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "yrxc12345673524",
+        "verified": false
+      }
+    ]
+  }
+}

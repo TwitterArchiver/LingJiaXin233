@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2055796052322869569",
+    "created_at": "2026-05-17T00:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055802784830963939"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055802784830963939",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055796052322869569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“学校从来不会把“同性恋”“跨性别”拿出来讲”本身就已经很能说明问题了好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2055796044999561216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIennGDaEAAHciU.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055796052322869569",
+        "created_at": "2026-05-17T00:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055802784830963939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055802784830963939",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055796052322869569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“学校从来不会把“同性恋”“跨性别”拿出来讲”本身就已经很能说明问题了好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055796044999561216"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2055796052322869569",
+        "created_at": "2026-05-16T23:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055796052322869569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIdhxKkWq7",
+              "end": 62,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2055796052322869569/photo/1",
+              "media_key": "3_2055796044999561216",
+              "start": 39,
+              "url": "https://t.co/mIdhxKkWq7"
+            },
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/2055290470415360247",
+              "start": 63,
+              "url": "https://t.co/1FuAicHsYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055796052322869569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055290470415360247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只想说，为施暴者的暴行开脱的人，本身就和施暴者一样，令人发自灵魂深处的厌恶 https://t.co/mIdhxKkWq7 https://t.co/1FuAicHsYr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5231,
+          "following_count": 695,
+          "like_count": 17003,
+          "listed_count": 11,
+          "media_count": 1508,
+          "tweet_count": 4621
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

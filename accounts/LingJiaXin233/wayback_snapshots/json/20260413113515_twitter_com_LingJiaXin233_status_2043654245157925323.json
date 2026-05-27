@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2043652906268975605",
+    "created_at": "2026-04-13T11:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043654245157925323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043654245157925323",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043652906268975605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 但是我感觉你的描述在说红魔（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_2043652903576166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyDfPHaYAAnuFB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2043652906268975605",
+        "created_at": "2026-04-13T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043654245157925323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043654245157925323",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043652906268975605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 但是我感觉你的描述在说红魔（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043652903576166400"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2043652906268975605",
+        "created_at": "2026-04-13T11:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043652906268975605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mC6gG1R6iC",
+              "end": 163,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2043652906268975605/photo/1",
+              "media_key": "3_2043652903576166400",
+              "start": 140,
+              "url": "https://t.co/mC6gG1R6iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043652906268975605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么样的人，在用一加手机？\n是那些看不上其他品牌，追求极致性能和游戏体验的年轻“极客”或重度玩家，是一群懂参数、重体验，且不为“品牌溢价”买单的务实主义者，一加最早期的目标用户是全球范围内的技术的极客与数码发烧友，他们懂技术，爱折腾，追求顶级性能，但不会去盲目追求大众品牌 https://t.co/mC6gG1R6iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 559,
+          "like_count": 13399,
+          "listed_count": 9,
+          "media_count": 645,
+          "tweet_count": 3402
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9494,
+          "following_count": 913,
+          "like_count": 74971,
+          "listed_count": 18,
+          "media_count": 1494,
+          "tweet_count": 10638
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

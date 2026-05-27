@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2042339214084452352",
+    "created_at": "2026-04-10T06:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042496687751811287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849183768445353984",
+          "start": 0,
+          "username": "B17w153"
+        },
+        {
+          "end": 19,
+          "id": "1589235830731997188",
+          "start": 9,
+          "username": "PWaterawa"
+        },
+        {
+          "end": 31,
+          "id": "1754774517594181632",
+          "start": 20,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042496687751811287",
+    "in_reply_to_user_id": "1849183768445353984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042339214084452352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B17w153 @PWaterawa @ValenceLab 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2042339207436517377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfYsDobQAEeqPt.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2042339214084452352",
+        "created_at": "2026-04-10T06:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042496687751811287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849183768445353984",
+              "start": 0,
+              "username": "B17w153"
+            },
+            {
+              "end": 19,
+              "id": "1589235830731997188",
+              "start": 9,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 31,
+              "id": "1754774517594181632",
+              "start": 20,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042496687751811287",
+        "in_reply_to_user_id": "1849183768445353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042339214084452352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B17w153 @PWaterawa @ValenceLab 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042339207436517377"
+          ]
+        },
+        "author_id": "1849183768445353984",
+        "conversation_id": "2042339214084452352",
+        "created_at": "2026-04-09T20:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042339214084452352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 120,
+              "id": "1754774517594181632",
+              "start": 109,
+              "username": "ValenceLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rADYDhIhWx",
+              "end": 175,
+              "expanded_url": "https://x.com/B17w153/status/2042339214084452352/photo/1",
+              "media_key": "3_2042339207436517377",
+              "start": 152,
+              "url": "https://t.co/rADYDhIhWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042339214084452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 990,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Hey Normie\n抽奖联动活动\n关注评论转推参与活动\n一等奖：飘飘糖🍬 1t（折现100r）\n二等奖：pr80 150mg * 32t 两盒（折现30r）\n三等奖：瑞辛咖啡一杯（折现15r）\n飘飘糖🍬报告正在路上\n@ValenceLab \nLay Back And Dive\n▽( ▮   ▬ )▽ https://t.co/rADYDhIhWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 761,
+          "like_count": 12684,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 3266
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 168,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 423
+        },
+        "username": "B17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloworld.com",
+                "end": 23,
+                "expanded_url": "http://helloworld.com",
+                "start": 0,
+                "url": "https://t.co/alRx9jSJdp"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1136,
+          "like_count": 2041,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/alRx9jSJdp",
+        "username": "PWaterawa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 156,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

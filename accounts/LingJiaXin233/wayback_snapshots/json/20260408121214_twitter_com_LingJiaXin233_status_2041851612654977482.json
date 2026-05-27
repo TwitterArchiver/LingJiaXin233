@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2030455087240519874",
+    "created_at": "2026-04-08T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041851612654977482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041851612654977482",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030455087240519874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 杂鱼宝宝好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2030455034413305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2gGJKb0AAmpSg.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2030455044752244736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2gGvrbgAA6evQ.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2030455087240519874",
+        "created_at": "2026-04-08T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041851612654977482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041851612654977482",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030455087240519874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 杂鱼宝宝好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030455034413305856",
+            "3_2030455044752244736"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2030455087240519874",
+        "created_at": "2026-03-08T01:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030455087240519874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9ga3nq7pZ",
+              "end": 109,
+              "expanded_url": "https://x.com/JanboMikan/status/2030455087240519874/photo/1",
+              "media_key": "3_2030455034413305856",
+              "start": 86,
+              "url": "https://t.co/G9ga3nq7pZ"
+            },
+            {
+              "display_url": "pic.x.com/G9ga3nq7pZ",
+              "end": 109,
+              "expanded_url": "https://x.com/JanboMikan/status/2030455087240519874/photo/1",
+              "media_key": "3_2030455044752244736",
+              "start": 86,
+              "url": "https://t.co/G9ga3nq7pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030455087240519874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 132772,
+          "like_count": 258,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这里是ジャンボ蜜柑！🍊\n主更：JK/穿搭自拍+好玩的原创文案（尽量日更）\n喜欢的话欢迎点个关注~\n称呼随意：蜜柑酱/杂鱼酱等，都可以！感谢支持！\n（26.3.8置顶更新） https://t.co/G9ga3nq7pZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2041484957026267436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 751,
+          "like_count": 12414,
+          "listed_count": 8,
+          "media_count": 542,
+          "tweet_count": 3213
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10618,
+          "following_count": 440,
+          "like_count": 14708,
+          "listed_count": 39,
+          "media_count": 212,
+          "tweet_count": 7516
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2049910983775375769",
+    "created_at": "2026-04-30T17:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049910983775375769"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049910983775375769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "对于一件事情，双方各执一词，我无意对双方各自都进行事实核查，但我至少会赞同这样的一方：\n      “打开评论区，允许自由辩论的”\n如果你仅因为一句“嘴笨”就选择封锁他人表达的权利，那你和删评控评的官媒这种国家机器有什么区别？\n      “这不恰恰就是心虚与专制的完美诠释吗？”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对于一件事情，双方各执一词，我无意对双方各自都进行事实核查，但我至少会赞同这样的一方：\n      “打开评论区，允许自由辩论的”\n如果你仅因为一句“嘴笨”就选择封锁他人表达的权利，那你和删评控评的官媒这种国家机器有什么区别？\n      “这不恰恰就是心虚与专制的完美诠释吗？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2049910983775375769",
+        "created_at": "2026-04-30T17:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049910983775375769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049910983775375769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于一件事情，双方各执一词，我无意对双方各自都进行事实核查，但我至少会赞同这样的一方：\n      “打开评论区，允许自由辩论的”\n如果你仅因为一句“嘴笨”就选择封锁他人表达的权利，那你和删评控评的官媒这种国家机器有什么区别？\n      “这不恰恰就是心虚与专制的完美诠释吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于一件事情，双方各执一词，我无意对双方各自都进行事实核查，但我至少会赞同这样的一方：\n      “打开评论区，允许自由辩论的”\n如果你仅因为一句“嘴笨”就选择封锁他人表达的权利，那你和删评控评的官媒这种国家机器有什么区别？\n      “这不恰恰就是心虚与专制的完美诠释吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 636,
+          "like_count": 15509,
+          "listed_count": 11,
+          "media_count": 1041,
+          "tweet_count": 4005
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

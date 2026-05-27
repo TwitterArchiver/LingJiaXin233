@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1975438767247986989",
+    "created_at": "2025-10-07T06:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T07:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975444440291721602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975444440291721602",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975438767247986989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FusiKayoko 你要好好的！😢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1975438767247986989",
+        "created_at": "2025-10-07T06:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975444440291721602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975444440291721602",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975438767247986989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 你要好好的！😢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1975438767247986989",
+        "created_at": "2025-10-07T05:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975438767247986989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975438767247986989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hn这两天一直哭  一听到我想死什么的就会掉眼泪求我要好好的\n我接受不了我的身体真的接受不了我阴暗我自卑\n但我不忍心看到他伤心\n我也意外我这样的人也能被如此对待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证，抽象乐子人，看我不顺眼请互b谢谢哦",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1975168353166602570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 365,
+          "like_count": 4668,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1876
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的，随时都可以找我私信聊天，深柜，呜呜超极笨！脾气很好的，不用害怕我喔❤️应该是mtf🍥｜最可爱的凌同学~@Lingjiaxin233｜最喜欢的妹妹@ElP15_｜我爱的人@Makoto_00590002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "ElP15_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Makoto_00590002"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗🍥",
+        "pinned_tweet_id": "1962087620466659357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968657455505883138/srTQ4uWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 262,
+          "like_count": 8987,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 3795
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

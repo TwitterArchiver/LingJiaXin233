@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2058070378199879698",
+    "created_at": "2026-05-23T10:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058134875685957814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022903278330343424",
+          "start": 0,
+          "username": "littlecat889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058134875685957814",
+    "in_reply_to_user_id": "2022903278330343424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058070378199879698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlecat889 fake"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2058070378199879698",
+        "created_at": "2026-05-23T10:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058134875685957814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022903278330343424",
+              "start": 0,
+              "username": "littlecat889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058134875685957814",
+        "in_reply_to_user_id": "2022903278330343424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058070378199879698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlecat889 fake"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022903278330343424",
+        "conversation_id": "2058070378199879698",
+        "created_at": "2026-05-23T06:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058070378199879698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058070378199879698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3195,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于创作者收益，\n我看了一下：\n5000粉以下的，一毛没有🙂‍↔️，\n5000粉以上的，几十刀，\n万粉以上的，小几百刀，\n10万粉以上的，才能上千刀，\n这个观察靠谱不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5675,
+          "following_count": 713,
+          "like_count": 17583,
+          "listed_count": 12,
+          "media_count": 1713,
+          "tweet_count": 4940
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-15T05:19:15.000Z",
+        "description": "🌸｜旅居海外烟火日常｜🌸\n🌸｜探秘异国风土人情｜🌸\n🌸｜治愈感悟温柔人生｜🌸",
+        "id": "2022903278330343424",
+        "name": "冰柠檬🍋",
+        "pinned_tweet_id": "2055864375651758288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023750200066797568/lyCo-498_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2999,
+          "following_count": 1745,
+          "like_count": 4181,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 12121
+        },
+        "username": "littlecat889",
+        "verified": true
+      }
+    ]
+  }
+}

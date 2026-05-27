@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2027573290315960551",
+    "created_at": "2026-02-28T09:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027676519729164734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1929544731652231168",
+          "start": 0,
+          "username": "efo_xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027676519729164734",
+    "in_reply_to_user_id": "1929544731652231168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027573290315960551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efo_xx 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2027573290315960551",
+        "created_at": "2026-02-28T09:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027676519729164734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1929544731652231168",
+              "start": 0,
+              "username": "efo_xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027676519729164734",
+        "in_reply_to_user_id": "1929544731652231168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027573290315960551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efo_xx 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929544731652231168",
+        "conversation_id": "2027573290315960551",
+        "created_at": "2026-02-28T02:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027573290315960551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/efo_xx/status/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/efo_xx/status/2027208386656473145",
+              "start": 120,
+              "url": "https://t.co/RKfY32Lp4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027573290315960551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4219,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027208386656473145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#蓝V互关\n今天这是要继续冲击3000粉了😂\n\n昨天评论的正常账号基本都回关了，没有回的再滴滴我一下\n\n我看还有些宝子都没有开蓝V，要做x账号先开个蓝V吧\n\n不然互关以及你帐号流量权重都会受影响的\n\n工欲善其事 必先利其器\n\n这点钱别省🤣 https://t.co/RKfY32Lp4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "数码爱好者｜果粉｜精神不稳定 ｜不见证，不讨论政治不感兴趣/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "United States",
+        "name": "🏳️‍⚧️凌嘉欣🍥（蓝v互关）",
+        "pinned_tweet_id": "2027623128814522453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 736,
+          "like_count": 8683,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 2505
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T14:25:09.000Z",
+        "description": "投研 | Investment Research ｜Virtuals ecosystem | 长期主义 | 套利选手 | All is a game! | EFO的投研星球：https://t.co/aXb2WtsU0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+v0ZP25brHa82Y…",
+                "end": 110,
+                "expanded_url": "https://t.me/+v0ZP25brHa82YTY1",
+                "start": 87,
+                "url": "https://t.co/aXb2WtsU0s"
+              }
+            ]
+          }
+        },
+        "id": "1929544731652231168",
+        "location": "Investment Research | 投研",
+        "name": "EFO_xx",
+        "pinned_tweet_id": "2010301054844616933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951962474301034496/Cn-YriFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 1390,
+          "like_count": 12143,
+          "listed_count": 43,
+          "media_count": 464,
+          "tweet_count": 8964
+        },
+        "username": "efo_xx",
+        "verified": true
+      }
+    ]
+  }
+}

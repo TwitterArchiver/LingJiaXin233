@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053242931906260992"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2053242940378730498",
+    "created_at": "2026-05-09T22:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053242940378730498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZIGoFIzr6t",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2053242940378730498/photo/1",
+          "media_key": "3_2053242931906260992",
+          "start": 12,
+          "url": "https://t.co/ZIGoFIzr6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053242940378730498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我都不敢看完这段文字😨 https://t.co/ZIGoFIzr6t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2053242931906260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6VkWnasAAix6D.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053242931906260992"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2053242940378730498",
+        "created_at": "2026-05-09T22:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053242940378730498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIGoFIzr6t",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2053242940378730498/photo/1",
+              "media_key": "3_2053242931906260992",
+              "start": 12,
+              "url": "https://t.co/ZIGoFIzr6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053242940378730498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不敢看完这段文字😨 https://t.co/ZIGoFIzr6t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4314,
+          "following_count": 676,
+          "like_count": 16304,
+          "listed_count": 12,
+          "media_count": 1292,
+          "tweet_count": 4333
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

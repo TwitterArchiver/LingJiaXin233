@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1969404671136842186",
+    "created_at": "2025-09-20T14:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969404671136842186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945200532471341056",
+          "start": 2,
+          "username": "LuLuCapcake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lingjiaxin233/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/lingjiaxin233/status/1969404207938879757",
+          "start": 21,
+          "url": "https://t.co/vYXWOFlTQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969404671136842186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969404207938879757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救救@LuLuCapcake ，请转发！ https://t.co/vYXWOFlTQa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1969404207938879757].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1969404207938879757",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969404207938879757"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1969404671136842186",
+        "created_at": "2025-09-20T14:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969404671136842186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945200532471341056",
+              "start": 2,
+              "username": "LuLuCapcake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin233/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/lingjiaxin233/status/1969404207938879757",
+              "start": 21,
+              "url": "https://t.co/vYXWOFlTQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969404671136842186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969404207938879757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救救@LuLuCapcake ，请转发！ https://t.co/vYXWOFlTQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "不见证",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1962478259167535426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 396,
+          "like_count": 2989,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1356
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1969129324029591849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957544090175959041/kWXKF_gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 288,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 314
+        },
+        "username": "LuLuCapcake",
+        "verified": true
+      }
+    ]
+  }
+}

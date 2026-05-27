@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973589680311640528",
+    "created_at": "2025-10-02T08:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T09:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973668758486130923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833062406882242560",
+          "start": 0,
+          "username": "ShuBiao60010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973668758486130923",
+    "in_reply_to_user_id": "1833062406882242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973652245804884458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuBiao60010 很遗憾，我做到了\n另外针对你的脏话：我操你妈你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973589680311640528",
+        "created_at": "2025-10-02T08:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T09:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973668758486130923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833062406882242560",
+              "start": 0,
+              "username": "ShuBiao60010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973668758486130923",
+        "in_reply_to_user_id": "1833062406882242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973652245804884458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuBiao60010 很遗憾，我做到了\n另外针对你的脏话：我操你妈你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833062406882242560",
+        "conversation_id": "1973589680311640528",
+        "created_at": "2025-10-02T07:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973652245804884458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973652245804884458",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973589680311640528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 你问他自己做到了吗？妈逼还说他有一个朋友。傻逼东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973585171237757020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 358,
+          "like_count": 3784,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1638
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:38:50.000Z",
+        "description": "",
+        "id": "1833062406882242560",
+        "name": "Ellie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972910405506011136/p0bsmVbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 214,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 301
+        },
+        "username": "ShuBiao60010",
+        "verified": false
+      }
+    ]
+  }
+}

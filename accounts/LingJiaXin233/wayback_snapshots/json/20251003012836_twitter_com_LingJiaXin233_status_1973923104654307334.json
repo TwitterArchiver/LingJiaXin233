@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "1973887608943227237",
+    "created_at": "2025-10-03T01:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T02:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973923104654307334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803660054991872002",
+          "start": 0,
+          "username": "singring0417669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973923104654307334",
+    "in_reply_to_user_id": "1803660054991872002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973922492847960238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@singring0417669 这是事实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "1973887608943227237",
+        "created_at": "2025-10-03T01:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973923104654307334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803660054991872002",
+              "start": 0,
+              "username": "singring0417669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973923104654307334",
+        "in_reply_to_user_id": "1803660054991872002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973922492847960238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@singring0417669 这是事实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803660054991872002",
+        "conversation_id": "1973887608943227237",
+        "created_at": "2025-10-03T01:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T02:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973922492847960238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973922492847960238",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973887608943227237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 “牢中虽然不是法治国家”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf？sissy？femboy？ 我也不知道，选择性出柜，不见证",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1973655668738646325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 358,
+          "like_count": 3901,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1690
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T05:24:22.000Z",
+        "description": "双向/高中生上学ing/江苏省省重点/不聊h不聊s不约p/轻度od/偶尔鉴证/闲聊（不是粉红网左哦头像仅仅是好看）\n🈚🚪，很乐意和真诚的人聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tsing_ring",
+                "end": 23,
+                "expanded_url": "http://t.me/Tsing_ring",
+                "start": 0,
+                "url": "https://t.co/y1g9ttvey7"
+              }
+            ]
+          }
+        },
+        "id": "1803660054991872002",
+        "location": "你的心里",
+        "name": "Tsing_ring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973447207186767873/r1Ee6eMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 46,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/y1g9ttvey7",
+        "username": "singring0417669",
+        "verified": false
+      }
+    ]
+  }
+}

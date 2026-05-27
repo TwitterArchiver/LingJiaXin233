@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056733269107040293",
+    "created_at": "2026-05-20T01:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056911362748784693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740971205824516096",
+          "start": 0,
+          "username": "Trouble_Marker_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056911362748784693",
+    "in_reply_to_user_id": "1740971205824516096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056910273999700255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trouble_Marker_ 一千万痛痛快快活10年和负债一百万活一百年，你选一个，bro月薪不会没我高吧hhh🤣👉🫡👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-20T01:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056911362748784693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740971205824516096",
+              "start": 0,
+              "username": "Trouble_Marker_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056911362748784693",
+        "in_reply_to_user_id": "1740971205824516096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056910273999700255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trouble_Marker_ 一千万痛痛快快活10年和负债一百万活一百年，你选一个，bro月薪不会没我高吧hhh🤣👉🫡👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740971205824516096",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-20T01:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056910273999700255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056910273999700255",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056908670173377008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 你一边玩去，活过我鞋码来找我领一只爱马仕bk25金扣大象灰，折现25万，说到做到😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 701,
+          "like_count": 17276,
+          "listed_count": 11,
+          "media_count": 1602,
+          "tweet_count": 4768
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-30T05:41:08.000Z",
+        "description": "脾气不好",
+        "id": "1740971205824516096",
+        "name": "起司豹豹",
+        "pinned_tweet_id": "2027442826787881444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046913044694155264/JmtQBMld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 38,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 532
+        },
+        "username": "Trouble_Marker_",
+        "verified": false
+      }
+    ]
+  }
+}

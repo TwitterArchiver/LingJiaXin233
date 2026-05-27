@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2040332338937352420",
+    "created_at": "2026-04-04T07:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040336102838706646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 15,
+          "id": "1286241253621817344",
+          "start": 8,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040336102838706646",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040332338937352420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @CldGeo 好可爱，绑起来草死（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4751,
+        "height": 2346,
+        "media_key": "13_2040332233823981568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040332233823981568/img/sr2pXsp41ymzslNT.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/pl/yC8XIHzjXFzYfNPN.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/720x1278/0aN1INqbs3WzysqO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/1320x2346/t4oQzWb89EvDdLeo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/480x852/2i_Q0yZ6l8skzWI6.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040332233823981568/vid/avc1/320x568/P9ksTTkTdDhVE9xQ.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2040332338937352420",
+        "created_at": "2026-04-04T07:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040336102838706646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 15,
+              "id": "1286241253621817344",
+              "start": 8,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040336102838706646",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040332338937352420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @CldGeo 好可爱，绑起来草死（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040332233823981568"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2040332338937352420",
+        "created_at": "2026-04-04T07:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040332338937352420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iz1617h36T",
+              "end": 36,
+              "expanded_url": "https://x.com/Cldeop/status/2040332338937352420/video/1",
+              "media_key": "13_2040332233823981568",
+              "start": 13,
+              "url": "https://t.co/Iz1617h36T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040332338937352420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "云鸠_Offical？！ https://t.co/Iz1617h36T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/侵删/生活分享小号@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2948,
+          "following_count": 769,
+          "like_count": 11658,
+          "listed_count": 6,
+          "media_count": 484,
+          "tweet_count": 3098
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102242,
+          "following_count": 752,
+          "like_count": 35890,
+          "listed_count": 290,
+          "media_count": 17304,
+          "tweet_count": 24873
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う",
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2018082327285702682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 331,
+          "like_count": 3535,
+          "listed_count": 6,
+          "media_count": 385,
+          "tweet_count": 1487
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

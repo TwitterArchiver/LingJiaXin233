@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056954770951467008"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2056733269107040293",
+    "created_at": "2026-05-20T04:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056954775326142895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914113767245565952",
+          "start": 0,
+          "username": "tetsu__0819"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQjIi7Kh0o",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2056954775326142895/photo/1",
+          "media_key": "3_2056954770951467008",
+          "start": 17,
+          "url": "https://t.co/oQjIi7Kh0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056954775326142895",
+    "in_reply_to_user_id": "1914113767245565952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056945459101659347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tetsu__0819 呃呃呃 https://t.co/oQjIi7Kh0o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2056954770951467008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvFd0mbcAApAlX.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056954770951467008"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-20T04:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056954775326142895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914113767245565952",
+              "start": 0,
+              "username": "tetsu__0819"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQjIi7Kh0o",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2056954775326142895/photo/1",
+              "media_key": "3_2056954770951467008",
+              "start": 17,
+              "url": "https://t.co/oQjIi7Kh0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056954775326142895",
+        "in_reply_to_user_id": "1914113767245565952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056945459101659347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tetsu__0819 呃呃呃 https://t.co/oQjIi7Kh0o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914113767245565952",
+        "conversation_id": "2056733269107040293",
+        "created_at": "2026-05-20T03:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056945459101659347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056945459101659347",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733269107040293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 但是你这不是故意找茬吗。。直接买就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 700,
+          "like_count": 17281,
+          "listed_count": 11,
+          "media_count": 1610,
+          "tweet_count": 4777
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-21T00:27:56.000Z",
+        "description": "季節はずれだ \n親友@Rinmoon0705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Rinmoon0705"
+              }
+            ]
+          }
+        },
+        "id": "1914113767245565952",
+        "location": "🛏️",
+        "name": "tetsu",
+        "pinned_tweet_id": "2020907103498666328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919131525746130944/vfNP3zut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 522,
+          "like_count": 2507,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1172
+        },
+        "username": "tetsu__0819",
+        "verified": false
+      }
+    ]
+  }
+}
