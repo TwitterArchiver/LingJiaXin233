@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060603056363102319",
+    "created_at": "2026-05-30T17:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060771670164672754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1744970574269661184",
+          "start": 0,
+          "username": "0x70E_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060771670164672754",
+    "in_reply_to_user_id": "1744970574269661184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060603056363102319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x70E_ 我恨一些人……\n但是无论如何，没了它们，我还是深深爱着这一片我眷恋的土地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060603056363102319",
+        "created_at": "2026-05-30T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060771670164672754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1744970574269661184",
+              "start": 0,
+              "username": "0x70E_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060771670164672754",
+        "in_reply_to_user_id": "1744970574269661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060603056363102319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x70E_ 我恨一些人……\n但是无论如何，没了它们，我还是深深爱着这一片我眷恋的土地"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2060603054022676480"
+          ]
+        },
+        "author_id": "1744970574269661184",
+        "conversation_id": "2060603056363102319",
+        "created_at": "2026-05-30T06:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060603056363102319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060603056363102319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问个主观性的问题，你喜欢中国吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6271,
+          "following_count": 563,
+          "like_count": 18404,
+          "listed_count": 12,
+          "media_count": 1945,
+          "tweet_count": 5247
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T06:33:10.000Z",
+        "description": "中资历二次元 | 鹿乃厨 | 打音游 ，明日方舟| FPS低手 |听歌很杂，术力口厨，喜欢初音！| 爱研究电子产品\n愿望是世界和平，人与人之间少点争端",
+        "id": "1744970574269661184",
+        "name": "1wakura0",
+        "pinned_tweet_id": "1987056847317311607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011675129978462208/wvNDQnOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 1588,
+          "like_count": 7314,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 2941
+        },
+        "username": "0x70E_",
+        "verified": false
+      }
+    ]
+  }
+}

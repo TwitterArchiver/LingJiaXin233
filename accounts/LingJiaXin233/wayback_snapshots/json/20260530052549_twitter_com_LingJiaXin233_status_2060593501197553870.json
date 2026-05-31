@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060593492766904320",
+        "3_2060593492762791936",
+        "3_2060593492771147776",
+        "3_2060593492775370752"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060593501197553870",
+    "created_at": "2026-05-30T05:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060593501197553870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50X9FptrgR",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+          "media_key": "3_2060593492766904320",
+          "start": 15,
+          "url": "https://t.co/50X9FptrgR"
+        },
+        {
+          "display_url": "pic.x.com/50X9FptrgR",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+          "media_key": "3_2060593492762791936",
+          "start": 15,
+          "url": "https://t.co/50X9FptrgR"
+        },
+        {
+          "display_url": "pic.x.com/50X9FptrgR",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+          "media_key": "3_2060593492771147776",
+          "start": 15,
+          "url": "https://t.co/50X9FptrgR"
+        },
+        {
+          "display_url": "pic.x.com/50X9FptrgR",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+          "media_key": "3_2060593492775370752",
+          "start": 15,
+          "url": "https://t.co/50X9FptrgR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060593501197553870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沸羊羊你就乖乖加入小药娘吧！ https://t.co/50X9FptrgR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2060593492766904320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiy3TraUAAQyPR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1062,
+        "media_key": "3_2060593492762791936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiy3TqbkAAb_1O.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1062,
+        "media_key": "3_2060593492771147776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiy3TsbEAA6pP7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1062,
+        "media_key": "3_2060593492775370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiy3TtbgAAuZnJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060593492766904320",
+            "3_2060593492762791936",
+            "3_2060593492771147776",
+            "3_2060593492775370752"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060593501197553870",
+        "created_at": "2026-05-30T05:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060593501197553870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50X9FptrgR",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+              "media_key": "3_2060593492766904320",
+              "start": 15,
+              "url": "https://t.co/50X9FptrgR"
+            },
+            {
+              "display_url": "pic.x.com/50X9FptrgR",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+              "media_key": "3_2060593492762791936",
+              "start": 15,
+              "url": "https://t.co/50X9FptrgR"
+            },
+            {
+              "display_url": "pic.x.com/50X9FptrgR",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+              "media_key": "3_2060593492771147776",
+              "start": 15,
+              "url": "https://t.co/50X9FptrgR"
+            },
+            {
+              "display_url": "pic.x.com/50X9FptrgR",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060593501197553870/photo/1",
+              "media_key": "3_2060593492775370752",
+              "start": 15,
+              "url": "https://t.co/50X9FptrgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060593501197553870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沸羊羊你就乖乖加入小药娘吧！ https://t.co/50X9FptrgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6238,
+          "following_count": 561,
+          "like_count": 18328,
+          "listed_count": 12,
+          "media_count": 1926,
+          "tweet_count": 5217
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

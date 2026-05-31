@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060702254089609216"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060702260817191388",
+    "created_at": "2026-05-30T12:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060702260817191388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYNR8gaxPP",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060702260817191388/photo/1",
+          "media_key": "3_2060702254089609216",
+          "start": 8,
+          "url": "https://t.co/lYNR8gaxPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060702260817191388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧神秘代码🤓 https://t.co/lYNR8gaxPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2060702254089609216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkVyDLboAANo04.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060702254089609216"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060702260817191388",
+        "created_at": "2026-05-30T12:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060702260817191388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYNR8gaxPP",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060702260817191388/photo/1",
+              "media_key": "3_2060702254089609216",
+              "start": 8,
+              "url": "https://t.co/lYNR8gaxPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060702260817191388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧神秘代码🤓 https://t.co/lYNR8gaxPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6255,
+          "following_count": 562,
+          "like_count": 18377,
+          "listed_count": 12,
+          "media_count": 1940,
+          "tweet_count": 5238
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

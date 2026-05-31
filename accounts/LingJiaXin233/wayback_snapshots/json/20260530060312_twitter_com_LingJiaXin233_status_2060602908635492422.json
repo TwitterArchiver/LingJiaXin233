@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060602889257832448",
+        "3_2060602889274597376",
+        "3_2060602889253588992"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060602908635492422",
+    "created_at": "2026-05-30T06:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060602908635492422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fcyZgJfdUD",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+          "media_key": "3_2060602889257832448",
+          "start": 5,
+          "url": "https://t.co/fcyZgJfdUD"
+        },
+        {
+          "display_url": "pic.x.com/fcyZgJfdUD",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+          "media_key": "3_2060602889274597376",
+          "start": 5,
+          "url": "https://t.co/fcyZgJfdUD"
+        },
+        {
+          "display_url": "pic.x.com/fcyZgJfdUD",
+          "end": 28,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+          "media_key": "3_2060602889253588992",
+          "start": 5,
+          "url": "https://t.co/fcyZgJfdUD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060602908635492422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么浪漫 https://t.co/fcyZgJfdUD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2060602889257832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi7aQVbUAA9Pj9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1451,
+        "media_key": "3_2060602889274597376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi7aQZbIAAkBAc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2060602889253588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJi7aQUakAAJ4X5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060602889257832448",
+            "3_2060602889274597376",
+            "3_2060602889253588992"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060602908635492422",
+        "created_at": "2026-05-30T06:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060602908635492422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcyZgJfdUD",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+              "media_key": "3_2060602889257832448",
+              "start": 5,
+              "url": "https://t.co/fcyZgJfdUD"
+            },
+            {
+              "display_url": "pic.x.com/fcyZgJfdUD",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+              "media_key": "3_2060602889274597376",
+              "start": 5,
+              "url": "https://t.co/fcyZgJfdUD"
+            },
+            {
+              "display_url": "pic.x.com/fcyZgJfdUD",
+              "end": 28,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060602908635492422/photo/1",
+              "media_key": "3_2060602889253588992",
+              "start": 5,
+              "url": "https://t.co/fcyZgJfdUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602908635492422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么浪漫 https://t.co/fcyZgJfdUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 562,
+          "like_count": 18333,
+          "listed_count": 12,
+          "media_count": 1927,
+          "tweet_count": 5218
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

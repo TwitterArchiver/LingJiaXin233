@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060371881086025919",
+    "created_at": "2026-05-30T08:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060634596170248226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427101163871145990",
+          "start": 0,
+          "username": "allellino_"
+        },
+        {
+          "end": 21,
+          "id": "2007950003227201536",
+          "start": 12,
+          "username": "luvkniff"
+        },
+        {
+          "end": 33,
+          "id": "2054877291633909760",
+          "start": 22,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060634596170248226",
+    "in_reply_to_user_id": "1427101163871145990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060510489671540737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allellino_ @luvkniff @TransYuwen 你去顶班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060371881086025919",
+        "created_at": "2026-05-30T08:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060634596170248226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427101163871145990",
+              "start": 0,
+              "username": "allellino_"
+            },
+            {
+              "end": 21,
+              "id": "2007950003227201536",
+              "start": 12,
+              "username": "luvkniff"
+            },
+            {
+              "end": 33,
+              "id": "2054877291633909760",
+              "start": 22,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060634596170248226",
+        "in_reply_to_user_id": "1427101163871145990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060510489671540737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allellino_ @luvkniff @TransYuwen 你去顶班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427101163871145990",
+        "conversation_id": "2060371881086025919",
+        "created_at": "2026-05-29T23:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060510489671540737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007950003227201536",
+              "start": 0,
+              "username": "luvkniff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060510489671540737",
+        "in_reply_to_user_id": "2007950003227201536",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20609,
+          "like_count": 460,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060371881086025919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvkniff de agora em diante quero transar com homens sem bolas! se castrem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6243,
+          "following_count": 562,
+          "like_count": 18343,
+          "listed_count": 12,
+          "media_count": 1931,
+          "tweet_count": 5224
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-16T02:53:44.000Z",
+        "description": "eu sou ciente do amor porque o 𝙡𝙚𝙚 𝙠𝙣𝙤𝙬 existe, e eu amo ele com todas as fibras do meu corpo .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minsung.⠀",
+                "end": 23,
+                "expanded_url": "http://minsung.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/HksddWVfkf"
+              }
+            ]
+          }
+        },
+        "id": "1427101163871145990",
+        "location": "caratstayengenecoer",
+        "name": "ale | 🎨 filha dos minsung ᴠɪᴜ ᴏ sᴋᴢ",
+        "pinned_tweet_id": "1999684241165369769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060507488508678147/5q_uxUlp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 674,
+          "like_count": 3306,
+          "listed_count": 9,
+          "media_count": 456,
+          "tweet_count": 5449
+        },
+        "url": "https://t.co/HksddWVfkf",
+        "username": "allellino_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T22:59:32.000Z",
+        "description": "angel",
+        "id": "2007950003227201536",
+        "name": "mari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060449429786619905/A1IZ5HXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 69,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 404
+        },
+        "username": "luvkniff",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NOMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NOMTF.COM",
+                "start": 0,
+                "url": "https://t.co/2tRpR1PlKO"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2060386721960018396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 41,
+          "like_count": 275,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/2tRpR1PlKO",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

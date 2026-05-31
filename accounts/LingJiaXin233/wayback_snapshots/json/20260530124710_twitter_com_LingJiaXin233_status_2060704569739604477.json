@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060635030704279852",
+    "created_at": "2026-05-30T12:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060704569739604477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060704569739604477",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060660814487671227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 还好我已经没有了🤓😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060635030704279852",
+        "created_at": "2026-05-30T12:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060704569739604477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060704569739604477",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060660814487671227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 还好我已经没有了🤓😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "2060635030704279852",
+        "created_at": "2026-05-30T09:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060660814487671227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060660814487671227",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060635030704279852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 男的不可以这样烤、\n会不孕的。😨\n\n要知道精子对高温是很敏感的。💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6254,
+          "following_count": 561,
+          "like_count": 18380,
+          "listed_count": 12,
+          "media_count": 1941,
+          "tweet_count": 5241
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "日本在住😶｜♂️？｜観察者であり👁‍🗨\nそれぞれの情報を発信💻｜一応クリエイター（創作者）\n#Vtuber #個人勢｜HRT計画中｜TBI+C-PTSD\n投資再検討中😇｜お仕事募集中💲\nゲーム、遊戲｜サプリメント、營養補充品相關🥦\nlanguage：🇭🇰🇨🇳🇹🇼🇯🇵🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Vtuber"
+              },
+              {
+                "end": 58,
+                "start": 54,
+                "tag": "個人勢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 0,
+                "url": "https://t.co/48vTFODmRs"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "location": "日本",
+        "name": "班目望 (Madarame Nozomi)",
+        "pinned_tweet_id": "2031611137654141054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1021,
+          "like_count": 16893,
+          "listed_count": 3,
+          "media_count": 1137,
+          "tweet_count": 6901
+        },
+        "url": "https://t.co/48vTFODmRs",
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

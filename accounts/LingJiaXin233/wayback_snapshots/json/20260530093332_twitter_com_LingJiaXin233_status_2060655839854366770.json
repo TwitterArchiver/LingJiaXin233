@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060457578631434452",
+    "created_at": "2026-05-30T09:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060655839854366770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776624909352861696",
+          "start": 0,
+          "username": "Myslee_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060655839854366770",
+    "in_reply_to_user_id": "1776624909352861696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060457578631434452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myslee_U 祝你幸福💕💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060457578631434452",
+        "created_at": "2026-05-30T09:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060655839854366770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776624909352861696",
+              "start": 0,
+              "username": "Myslee_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060655839854366770",
+        "in_reply_to_user_id": "1776624909352861696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060457578631434452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myslee_U 祝你幸福💕💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776624909352861696",
+        "conversation_id": "2060457578631434452",
+        "created_at": "2026-05-29T20:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060457578631434452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060457578631434452",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 537307,
+          "like_count": 19565,
+          "quote_count": 17,
+          "reply_count": 58,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "j’viens de dire ouvertement à ma mère « jsuis trans » parce que bah j’avais jamais dit en vrai et elle m’a juste dit « ok mais je choisi ton prénom », bon bah toute cette transphobie pour ça jsuis soulagé"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 562,
+          "like_count": 18354,
+          "listed_count": 12,
+          "media_count": 1933,
+          "tweet_count": 5230
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-06T14:56:16.000Z",
+        "description": "⚠︎ MysleeU provides content \nintended to redirect your thoughts | antipsy | he/him",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allinks.click/MysleeU",
+                "end": 23,
+                "expanded_url": "https://allinks.click/MysleeU",
+                "start": 0,
+                "url": "https://t.co/4NPPESn2MN"
+              }
+            ]
+          }
+        },
+        "id": "1776624909352861696",
+        "name": "isaac-𑄝-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252746463825920/QxkQn-JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 71,
+          "like_count": 2900,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/4NPPESn2MN",
+        "username": "Myslee_U",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060576023499112448"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060576032797917543",
+    "created_at": "2026-05-30T04:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060576032797917543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtkuHKjXqN",
+          "end": 39,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060576032797917543/photo/1",
+          "media_key": "3_2060576023499112448",
+          "start": 16,
+          "url": "https://t.co/EtkuHKjXqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576032797917543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界上第一个男娘在绝望中诞生了 https://t.co/EtkuHKjXqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2060576023499112448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJii-dlaAAAkDxQ.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060576023499112448"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060576032797917543",
+        "created_at": "2026-05-30T04:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060576032797917543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtkuHKjXqN",
+              "end": 39,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060576032797917543/photo/1",
+              "media_key": "3_2060576023499112448",
+              "start": 16,
+              "url": "https://t.co/EtkuHKjXqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576032797917543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上第一个男娘在绝望中诞生了 https://t.co/EtkuHKjXqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6232,
+          "following_count": 560,
+          "like_count": 18318,
+          "listed_count": 12,
+          "media_count": 1923,
+          "tweet_count": 5212
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}
