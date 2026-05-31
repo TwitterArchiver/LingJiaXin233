@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059600436567678977"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2059600442372632644",
+    "created_at": "2026-05-27T11:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059600442372632644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r53smU0QYH",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2059600442372632644/photo/1",
+          "media_key": "3_2059600436567678977",
+          "start": 17,
+          "url": "https://t.co/r53smU0QYH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059600442372632644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他拯救了所有人，唯独没能拯救自己 https://t.co/r53smU0QYH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2059600436567678977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUrr1DbIAEceRK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059600436567678977"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2059600442372632644",
+        "created_at": "2026-05-27T11:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059600442372632644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r53smU0QYH",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2059600442372632644/photo/1",
+              "media_key": "3_2059600436567678977",
+              "start": 17,
+              "url": "https://t.co/r53smU0QYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059600442372632644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他拯救了所有人，唯独没能拯救自己 https://t.co/r53smU0QYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 674,
+          "like_count": 17997,
+          "listed_count": 11,
+          "media_count": 1841,
+          "tweet_count": 5109
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

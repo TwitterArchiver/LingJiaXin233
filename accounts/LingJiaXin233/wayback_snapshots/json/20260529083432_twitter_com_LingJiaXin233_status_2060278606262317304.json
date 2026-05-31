@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060276642933838164",
+    "created_at": "2026-05-29T08:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060278606262317304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060278606262317304",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060276642933838164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@smiroyama 说实话每次打开推特不好的情绪可以被分为三种：\n1.讣告类，看到某人逝世感叹这个社会/牢中特色家长\n2.自恨类，看到同类多么优秀感觉自己像杂鱼和蛆\n3.看到粉红孝子和低智反贼和反跨顺直的难绷😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060276642933838164",
+        "created_at": "2026-05-29T08:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060278606262317304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060278606262317304",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060276642933838164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@smiroyama 说实话每次打开推特不好的情绪可以被分为三种：\n1.讣告类，看到某人逝世感叹这个社会/牢中特色家长\n2.自恨类，看到同类多么优秀感觉自己像杂鱼和蛆\n3.看到粉红孝子和低智反贼和反跨顺直的难绷😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060276642933838164",
+        "created_at": "2026-05-29T08:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060276642933838164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060276642933838164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’m genuinely exhausted by certain people on here. The frustration has been building to the point where quitting twitter feels like the only way out, but this platform is tied to how I make a living, so walking away isn’t really an option. It’s a trap I didn’t sign up for.\n\nWhat wears me down the most is opening my timeline and being met with news of someone’s death. Every single day. I just want to scroll without bracing myself for grief. That’s not too much to ask."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "I’m genuinely exhausted by certain people on here. The frustration has been building to the point where quitting twitter feels like the only way out, but this platform is tied to how I make a living, so walking away isn’t really an option. It’s a trap I didn’t sign up for.\n\nWhat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6202,
+          "following_count": 626,
+          "like_count": 18217,
+          "listed_count": 12,
+          "media_count": 1897,
+          "tweet_count": 5176
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26\nalt @smirneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 142,
+                "start": 133,
+                "username": "smirneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060081534624018432/I4IU4pYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5863,
+          "following_count": 2318,
+          "like_count": 12201,
+          "listed_count": 19,
+          "media_count": 1855,
+          "tweet_count": 7147
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

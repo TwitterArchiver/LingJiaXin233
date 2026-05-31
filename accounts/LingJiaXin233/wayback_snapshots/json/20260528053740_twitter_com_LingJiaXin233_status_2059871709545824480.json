@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059871702872653824"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2059871709545824480",
+    "created_at": "2026-05-28T05:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059871709545824480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fz4te5z7cV",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2059871709545824480/photo/1",
+          "media_key": "3_2059871702872653824",
+          "start": 14,
+          "url": "https://t.co/Fz4te5z7cV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059871709545824480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这……应该只是坏掉的酸奶吧 https://t.co/Fz4te5z7cV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2059871702872653824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYiZmyagAAqQGz.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059871702872653824"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2059871709545824480",
+        "created_at": "2026-05-28T05:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059871709545824480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fz4te5z7cV",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2059871709545824480/photo/1",
+              "media_key": "3_2059871702872653824",
+              "start": 14,
+              "url": "https://t.co/Fz4te5z7cV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059871709545824480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这……应该只是坏掉的酸奶吧 https://t.co/Fz4te5z7cV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6114,
+          "following_count": 679,
+          "like_count": 18073,
+          "listed_count": 12,
+          "media_count": 1862,
+          "tweet_count": 5133
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}
