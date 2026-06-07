@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060917106221404160"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060947126629380548",
+    "created_at": "2026-05-31T04:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060947126629380548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmhfKS0kgJ",
+          "end": 39,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060947126629380548/photo/1",
+          "media_key": "3_2060917106221404160",
+          "start": 16,
+          "url": "https://t.co/PmhfKS0kgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060947126629380548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你高考数学有一整个大题不会… https://t.co/PmhfKS0kgJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2060917106221404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnZMFvaUAAfTfx.jpg",
+        "width": 829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060917106221404160"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060947126629380548",
+        "created_at": "2026-05-31T04:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060947126629380548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmhfKS0kgJ",
+              "end": 39,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060947126629380548/photo/1",
+              "media_key": "3_2060917106221404160",
+              "start": 16,
+              "url": "https://t.co/PmhfKS0kgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060947126629380548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你高考数学有一整个大题不会… https://t.co/PmhfKS0kgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6280,
+          "following_count": 565,
+          "like_count": 18461,
+          "listed_count": 12,
+          "media_count": 1958,
+          "tweet_count": 5263
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

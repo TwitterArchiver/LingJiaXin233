@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061016803497955328"
+      ],
+      "media_source_tweet_id": [
+        "2061016809982308755"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2061016904656191743",
+    "created_at": "2026-05-31T09:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061016904656191743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929778281840365570",
+          "start": 3,
+          "username": "adorableLing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxyaLSipiG",
+          "end": 78,
+          "expanded_url": "https://x.com/adorableLing/status/2061016809982308755/photo/1",
+          "media_key": "3_2061016803497955328",
+          "start": 55,
+          "url": "https://t.co/NxyaLSipiG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061016904656191743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061016809982308755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adorableLing: 忍不了微信了，三天两头更新一次也不告诉你更新个啥，关键占用存储还特别大😅 https://t.co/NxyaLSipiG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061016803497955328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoz3PCbUAAfSGJ.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061016803497955328"
+          ],
+          "media_source_tweet_id": [
+            "2061016809982308755"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2061016904656191743",
+        "created_at": "2026-05-31T09:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061016904656191743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929778281840365570",
+              "start": 3,
+              "username": "adorableLing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxyaLSipiG",
+              "end": 78,
+              "expanded_url": "https://x.com/adorableLing/status/2061016809982308755/photo/1",
+              "media_key": "3_2061016803497955328",
+              "start": 55,
+              "url": "https://t.co/NxyaLSipiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061016904656191743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061016809982308755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adorableLing: 忍不了微信了，三天两头更新一次也不告诉你更新个啥，关键占用存储还特别大😅 https://t.co/NxyaLSipiG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061016803497955328"
+          ]
+        },
+        "author_id": "1929778281840365570",
+        "conversation_id": "2061016809982308755",
+        "created_at": "2026-05-31T09:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061016809982308755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxyaLSipiG",
+              "end": 60,
+              "expanded_url": "https://x.com/adorableLing/status/2061016809982308755/photo/1",
+              "media_key": "3_2061016803497955328",
+              "start": 37,
+              "url": "https://t.co/NxyaLSipiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061016809982308755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "忍不了微信了，三天两头更新一次也不告诉你更新个啥，关键占用存储还特别大😅 https://t.co/NxyaLSipiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 565,
+          "like_count": 18479,
+          "listed_count": 12,
+          "media_count": 1964,
+          "tweet_count": 5273
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T05:53:05.000Z",
+        "description": "mtf🏳️‍⚧️//哲学，性别与社会政策研究//数码爱好者//果粉//hrt：2025.7.26//来自@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "1929778281840365570",
+        "name": "Sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061014175867101184/0ClSq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 4,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "adorableLing",
+        "verified": false
+      }
+    ]
+  }
+}

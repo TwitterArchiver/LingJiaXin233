@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061379161219026944",
+        "3_2061379161223258112",
+        "3_2061379161223254016"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061379176125608324",
+    "created_at": "2026-06-01T09:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061379176125608324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWI2wNt7es",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+          "media_key": "3_2061379161219026944",
+          "start": 17,
+          "url": "https://t.co/nWI2wNt7es"
+        },
+        {
+          "display_url": "pic.x.com/nWI2wNt7es",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+          "media_key": "3_2061379161223258112",
+          "start": 17,
+          "url": "https://t.co/nWI2wNt7es"
+        },
+        {
+          "display_url": "pic.x.com/nWI2wNt7es",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+          "media_key": "3_2061379161223254016",
+          "start": 17,
+          "url": "https://t.co/nWI2wNt7es"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061379176125608324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎新朋友！\n喜欢粉色啊哇哇哇🥰 https://t.co/nWI2wNt7es"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061379161219026944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt9bOvaUAAO0IO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061379161223258112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt9bOwa4AA6Ko6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061379161223254016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt9bOwa0AAB3R6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061379161219026944",
+            "3_2061379161223258112",
+            "3_2061379161223254016"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061379176125608324",
+        "created_at": "2026-06-01T09:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061379176125608324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWI2wNt7es",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+              "media_key": "3_2061379161219026944",
+              "start": 17,
+              "url": "https://t.co/nWI2wNt7es"
+            },
+            {
+              "display_url": "pic.x.com/nWI2wNt7es",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+              "media_key": "3_2061379161223258112",
+              "start": 17,
+              "url": "https://t.co/nWI2wNt7es"
+            },
+            {
+              "display_url": "pic.x.com/nWI2wNt7es",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2061379176125608324/photo/1",
+              "media_key": "3_2061379161223254016",
+              "start": 17,
+              "url": "https://t.co/nWI2wNt7es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061379176125608324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎新朋友！\n喜欢粉色啊哇哇哇🥰 https://t.co/nWI2wNt7es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 525,
+          "like_count": 18622,
+          "listed_count": 12,
+          "media_count": 2005,
+          "tweet_count": 5329
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

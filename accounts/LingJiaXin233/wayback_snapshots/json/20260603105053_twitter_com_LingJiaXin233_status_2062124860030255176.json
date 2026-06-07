@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062124852098879488"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2062124860030255176",
+    "created_at": "2026-06-03T10:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062124860030255176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9xeGNs0sf",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2062124860030255176/photo/1",
+          "media_key": "3_2062124852098879488",
+          "start": 7,
+          "url": "https://t.co/Z9xeGNs0sf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062124860030255176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这都快卧轨了 https://t.co/Z9xeGNs0sf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2062124852098879488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4joJvb0AANuU4.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062124852098879488"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2062124860030255176",
+        "created_at": "2026-06-03T10:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062124860030255176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9xeGNs0sf",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2062124860030255176/photo/1",
+              "media_key": "3_2062124852098879488",
+              "start": 7,
+              "url": "https://t.co/Z9xeGNs0sf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062124860030255176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这都快卧轨了 https://t.co/Z9xeGNs0sf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6492,
+          "following_count": 525,
+          "like_count": 18925,
+          "listed_count": 14,
+          "media_count": 2094,
+          "tweet_count": 5450
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061365421157273600",
+        "3_2061365421161447424",
+        "3_2061365421157318656"
+      ],
+      "media_source_tweet_id": [
+        "2061365436386824419",
+        "2061365436386824419",
+        "2061365436386824419"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061365891175211133",
+    "created_at": "2026-06-01T08:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061365891175211133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929778281840365570",
+          "start": 3,
+          "username": "adorableLing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EO7qZkZw40",
+          "end": 57,
+          "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+          "media_key": "3_2061365421157273600",
+          "start": 34,
+          "url": "https://t.co/EO7qZkZw40"
+        },
+        {
+          "display_url": "pic.x.com/EO7qZkZw40",
+          "end": 57,
+          "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+          "media_key": "3_2061365421161447424",
+          "start": 34,
+          "url": "https://t.co/EO7qZkZw40"
+        },
+        {
+          "display_url": "pic.x.com/EO7qZkZw40",
+          "end": 57,
+          "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+          "media_key": "3_2061365421157318656",
+          "start": 34,
+          "url": "https://t.co/EO7qZkZw40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061365891175211133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061365436386824419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adorableLing: 欢迎新朋友！\n喜欢粉色啊哇哇哇 https://t.co/EO7qZkZw40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061365421157273600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtw7dBaUAAhes2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061365421161447424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtw7dCaAAAZzL6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061365421157318656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtw7dBbAAA6VWO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061365421157273600",
+            "3_2061365421161447424",
+            "3_2061365421157318656"
+          ],
+          "media_source_tweet_id": [
+            "2061365436386824419",
+            "2061365436386824419",
+            "2061365436386824419"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061365891175211133",
+        "created_at": "2026-06-01T08:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061365891175211133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929778281840365570",
+              "start": 3,
+              "username": "adorableLing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 57,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421157273600",
+              "start": 34,
+              "url": "https://t.co/EO7qZkZw40"
+            },
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 57,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421161447424",
+              "start": 34,
+              "url": "https://t.co/EO7qZkZw40"
+            },
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 57,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421157318656",
+              "start": 34,
+              "url": "https://t.co/EO7qZkZw40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061365891175211133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061365436386824419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adorableLing: 欢迎新朋友！\n喜欢粉色啊哇哇哇 https://t.co/EO7qZkZw40"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061365421157273600",
+            "3_2061365421161447424",
+            "3_2061365421157318656"
+          ]
+        },
+        "author_id": "1929778281840365570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061365436386824419",
+        "created_at": "2026-06-01T08:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061365436386824419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 39,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421157273600",
+              "start": 16,
+              "url": "https://t.co/EO7qZkZw40"
+            },
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 39,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421161447424",
+              "start": 16,
+              "url": "https://t.co/EO7qZkZw40"
+            },
+            {
+              "display_url": "pic.x.com/EO7qZkZw40",
+              "end": 39,
+              "expanded_url": "https://x.com/adorableLing/status/2061365436386824419/photo/1",
+              "media_key": "3_2061365421157318656",
+              "start": 16,
+              "url": "https://t.co/EO7qZkZw40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061365436386824419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎新朋友！\n喜欢粉色啊哇哇哇 https://t.co/EO7qZkZw40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 525,
+          "like_count": 18613,
+          "listed_count": 12,
+          "media_count": 2003,
+          "tweet_count": 5324
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T05:53:05.000Z",
+        "description": "mtf🏳️‍⚧️//哲学，性别与社会政策研究//数码爱好者//果粉//hrt：2025.7.26//来自@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "1929778281840365570",
+        "name": "Sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061014175867101184/0ClSq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "adorableLing",
+        "verified": false
+      }
+    ]
+  }
+}

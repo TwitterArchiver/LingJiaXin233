@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2061769491730858361",
+    "created_at": "2026-06-02T11:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061776433710825753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061776433710825753",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061769491730858361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama smirnova很难受，叫医生来（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2061769491730858361",
+        "created_at": "2026-06-02T11:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061776433710825753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061776433710825753",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061769491730858361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama smirnova很难受，叫医生来（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2061769491730858361",
+        "created_at": "2026-06-02T11:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061769491730858361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061769491730858361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2022 年 12 月份，我中招了新冠病毒。那时候我在读高中，周末我申请了留校。下午 6 点左右我洗了个澡，然后回教室自习，晚上 10 点晚自习结束我回宿舍。当时感到全身有点无力，些许发热，浑身上下非常冷，皮肤触摸起来有点敏感。\n\n回到宿舍后，我爬上床，拿起手机看《小羊肖恩》，看了几分钟后看不下去了，便关灯睡觉，十几分钟后一位舍友回到宿舍，我当时已经有点不舒服了，我用沙哑的声音跟他说「不要开灯，我感觉我阳了」。随后闭上眼试图睡觉。\n\n大概过了几个小时，差不多是凌晨 1 点，我醒来了，全身无力，发烧，背部痛，头晕但不是很严重，我上了个厕所，喝了点水。舍友仍在玩手机，我问他有没有不舒服，他说没有，我又爬上床试图睡觉，后背实在痛只好垫一层被子仰着睡，迷迷糊糊睡到早上 7 点，起床打电话给家长和老师说阳了，戴口罩收拾行李书本离开。\n\n回到家吃了点退烧药（中药💩），然后每一顿饭喝猪杂粥，有时蒸橙子加盐（氯化钠）吃。当时喉咙如刀割一样痛，肺部倒是不严重。症状持续了一周才有所好转。当时学校通过腾讯会议上网课，一开始每一节课我上的迷迷糊糊，完全不在状态。两天后上课才能集中注意力去理解老师讲的内容。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2022 年 12 月份，我中招了新冠病毒。那时候我在读高中，周末我申请了留校。下午 6 点左右我洗了个澡，然后回教室自习，晚上 10 点晚自习结束我回宿舍。当时感到全身有点无力，些许发热，浑身上下非常冷，皮肤触摸起来有点敏感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6371,
+          "following_count": 525,
+          "like_count": 18738,
+          "listed_count": 13,
+          "media_count": 2057,
+          "tweet_count": 5393
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | bestie🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060621621879353344/jRdB1QDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 2352,
+          "like_count": 12578,
+          "listed_count": 19,
+          "media_count": 1926,
+          "tweet_count": 7338
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

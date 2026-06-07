@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2061378922982609209",
+    "created_at": "2026-06-01T09:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061378922982609209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1929778281840365570",
+          "start": 12,
+          "username": "adorableLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061378922982609209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家可以关注我的生活小号@adorableLing ！会分享一些生活日常🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2061378922982609209",
+        "created_at": "2026-06-01T09:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061378922982609209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1929778281840365570",
+              "start": 12,
+              "username": "adorableLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061378922982609209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以关注我的生活小号@adorableLing ！会分享一些生活日常🤓👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 525,
+          "like_count": 18622,
+          "listed_count": 12,
+          "media_count": 2004,
+          "tweet_count": 5328
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T05:53:05.000Z",
+        "description": "mtf🏳️‍⚧️//哲学，性别与社会政策研究//数码爱好者//果粉//hrt：2025.7.26//来自@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "1929778281840365570",
+        "name": "Sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061014175867101184/0ClSq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 3,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "adorableLing",
+        "verified": false
+      }
+    ]
+  }
+}

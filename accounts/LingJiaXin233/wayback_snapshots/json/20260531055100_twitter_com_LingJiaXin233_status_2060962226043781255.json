@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060917396794458112"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060962226043781255",
+    "created_at": "2026-05-31T05:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060962226043781255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SOhuzx4e1S",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2060962226043781255/photo/1",
+          "media_key": "3_2060917396794458112",
+          "start": 8,
+          "url": "https://t.co/SOhuzx4e1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060962226043781255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那很勤俭持家了 https://t.co/SOhuzx4e1S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2060917396794458112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnZdANbQAAI_Ny.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060917396794458112"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060962226043781255",
+        "created_at": "2026-05-31T05:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060962226043781255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOhuzx4e1S",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2060962226043781255/photo/1",
+              "media_key": "3_2060917396794458112",
+              "start": 8,
+              "url": "https://t.co/SOhuzx4e1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060962226043781255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那很勤俭持家了 https://t.co/SOhuzx4e1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 565,
+          "like_count": 18466,
+          "listed_count": 12,
+          "media_count": 1959,
+          "tweet_count": 5264
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2060788123945324858",
+    "created_at": "2026-05-30T18:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T19:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060788123945324858"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060788123945324858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "听着，我的自白：我不认为也不该认为自己有所谓“女性认同”，这是对女性的刻板印象，也是对跨性别者的刻板印象。我说我想变性，实质上只是我讨厌我的这幅躯体，他“不够优雅，不够完美，配不上我的大脑”我只是想把这个当成一场整形手术，但我压根不想改变我的大脑，我对我大脑的逻辑，思维，运行方式，感知世界的能力，相当、相当满意。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "听着，我的自白：我不认为也不该认为自己有所谓“女性认同”，这是对女性的刻板印象，也是对跨性别者的刻板印象。我说我想变性，实质上只是我讨厌我的这幅躯体，他“不够优雅，不够完美，配不上我的大脑”我只是想把这个当成一场整形手术，但我压根不想改变我的大脑，我对我大脑的逻辑，思维，运行方式，感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2060788123945324858",
+        "created_at": "2026-05-30T18:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060788123945324858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060788123945324858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "听着，我的自白：我不认为也不该认为自己有所谓“女性认同”，这是对女性的刻板印象，也是对跨性别者的刻板印象。我说我想变性，实质上只是我讨厌我的这幅躯体，他“不够优雅，不够完美，配不上我的大脑”我只是想把这个当成一场整形手术，但我压根不想改变我的大脑，我对我大脑的逻辑，思维，运行方式，感知世界的能力，相当、相当满意。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "听着，我的自白：我不认为也不该认为自己有所谓“女性认同”，这是对女性的刻板印象，也是对跨性别者的刻板印象。我说我想变性，实质上只是我讨厌我的这幅躯体，他“不够优雅，不够完美，配不上我的大脑”我只是想把这个当成一场整形手术，但我压根不想改变我的大脑，我对我大脑的逻辑，思维，运行方式，感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2058581192237355128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6273,
+          "following_count": 564,
+          "like_count": 18420,
+          "listed_count": 12,
+          "media_count": 1949,
+          "tweet_count": 5252
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

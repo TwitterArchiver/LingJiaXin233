@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2062802547824550230",
+    "created_at": "2026-06-05T07:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062802547824550230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929778281840365570",
+          "start": 3,
+          "username": "adorableLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062802547824550230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062802506833596679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adorableLing: 一个正常的社会，应当广泛认可同性恋与跨性别者，同时容忍不和谐的音调———少量的反同以及反跨\n\n我们应当尊重人类的思想，普遍平均是很难的，就像共产主义社会虚无缥缈一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2062802547824550230",
+        "created_at": "2026-06-05T07:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062802547824550230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1929778281840365570",
+              "start": 3,
+              "username": "adorableLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062802547824550230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062802506833596679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adorableLing: 一个正常的社会，应当广泛认可同性恋与跨性别者，同时容忍不和谐的音调———少量的反同以及反跨\n\n我们应当尊重人类的思想，普遍平均是很难的，就像共产主义社会虚无缥缈一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929778281840365570",
+        "conversation_id": "2062802506833596679",
+        "created_at": "2026-06-05T07:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062802506833596679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062802506833596679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个正常的社会，应当广泛认可同性恋与跨性别者，同时容忍不和谐的音调———少量的反同以及反跨\n\n我们应当尊重人类的思想，普遍平均是很难的，就像共产主义社会虚无缥缈一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6599,
+          "following_count": 531,
+          "like_count": 19300,
+          "listed_count": 14,
+          "media_count": 2168,
+          "tweet_count": 5568
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T05:53:05.000Z",
+        "description": "mtf🏳️‍⚧️//哲学，性别与社会政策研究//数码爱好者//果粉//hrt：2025.7.26//来自@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "1929778281840365570",
+        "name": "Sonora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061014175867101184/0ClSq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 3,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "adorableLing",
+        "verified": false
+      }
+    ]
+  }
+}

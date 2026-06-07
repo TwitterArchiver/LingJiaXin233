@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061038244977106944"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2061038252581441866",
+    "created_at": "2026-05-31T10:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061038252581441866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YlJd5n2yv4",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2061038252581441866/photo/1",
+          "media_key": "3_2061038244977106944",
+          "start": 15,
+          "url": "https://t.co/YlJd5n2yv4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061038252581441866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈，我真吓哭了这是中文啊 https://t.co/YlJd5n2yv4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061038244977106944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpHXSxa4AAOwc8.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061038244977106944"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2061038252581441866",
+        "created_at": "2026-05-31T10:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061038252581441866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlJd5n2yv4",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2061038252581441866/photo/1",
+              "media_key": "3_2061038244977106944",
+              "start": 15,
+              "url": "https://t.co/YlJd5n2yv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061038252581441866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈，我真吓哭了这是中文啊 https://t.co/YlJd5n2yv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6285,
+          "following_count": 565,
+          "like_count": 18502,
+          "listed_count": 12,
+          "media_count": 1968,
+          "tweet_count": 5278
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

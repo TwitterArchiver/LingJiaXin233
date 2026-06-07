@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2062628115592171774",
+    "created_at": "2026-06-04T23:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T00:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062673642438504763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062673642438504763",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062628115592171774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 非常期待统计结果……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2062628115592171774",
+        "created_at": "2026-06-04T23:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062673642438504763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062673642438504763",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062628115592171774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 非常期待统计结果……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2062628115592171774",
+        "created_at": "2026-06-04T20:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062628115592171774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "KiraMyao Equal 是一个关注跨性别与性少数群体处境的公益信息网站，发布生存指南、研究报告、真实故事与倡导行动，整理安全、隐私友好的公共资料，帮助更多人被看见、被理解并获得支持。",
+              "display_url": "kiraequal.org/join",
+              "end": 135,
+              "expanded_url": "https://kiraequal.org/join",
+              "start": 112,
+              "status": 200,
+              "title": "KiraMyao Equal | 跨性别与性少数群体公益信息与倡导网站",
+              "unwound_url": "https://kiraequal.org/join",
+              "url": "https://t.co/IDzMGYGbWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062628115592171774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org/join",
+                "end": 135,
+                "expanded_url": "https://kiraequal.org/join",
+                "start": 112,
+                "url": "https://t.co/q6odxcAbvv"
+              }
+            ]
+          },
+          "text": "咪你好！\nkira最近在做一个跨性别匿名问卷项目，目前问卷收集2天完成500余份，不过还想收集更多国内平台跨性别群体的真实数据。\n如果您在国内平台有一定跨性别粉丝，可否帮忙挂一下网站或者转发一下 （类似视频或者动态之类的）\nhttps://t.co/q6odxcAbvv\n不是商业项目，也不是什么机构，主要就是想认真做一点能留下来的东西。\n不方便也没关系！谢谢泥～❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪你好！\nkira最近在做一个跨性别匿名问卷项目，目前问卷收集2天完成500余份，不过还想收集更多国内平台跨性别群体的真实数据。\n如果您在国内平台有一定跨性别粉丝，可否帮忙挂一下网站或者转发一下 （类似视频或者动态之类的）\nhttps://t.co/IDzMGYGbWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6589,
+          "following_count": 526,
+          "like_count": 19214,
+          "listed_count": 14,
+          "media_count": 2152,
+          "tweet_count": 5548
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiraequal.org",
+                "end": 23,
+                "expanded_url": "https://kiraequal.org/",
+                "start": 0,
+                "url": "https://t.co/LOqOOjLxuS"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 360,
+          "like_count": 9942,
+          "listed_count": 5,
+          "media_count": 409,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/LOqOOjLxuS",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}
