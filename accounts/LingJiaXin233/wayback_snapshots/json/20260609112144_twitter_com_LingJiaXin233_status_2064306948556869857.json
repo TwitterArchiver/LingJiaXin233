@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064306942085058561"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2064306948556869857",
+    "created_at": "2026-06-09T11:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064306948556869857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PmJuBzcTzG",
+          "end": 29,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2064306948556869857/photo/1",
+          "media_key": "3_2064306942085058561",
+          "start": 6,
+          "url": "https://t.co/PmJuBzcTzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064306948556869857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蛤…蛤蟆？ https://t.co/PmJuBzcTzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_2064306942085058561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXkOgZaUAEfXD0.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064306942085058561"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2064306948556869857",
+        "created_at": "2026-06-09T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064306948556869857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmJuBzcTzG",
+              "end": 29,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2064306948556869857/photo/1",
+              "media_key": "3_2064306942085058561",
+              "start": 6,
+              "url": "https://t.co/PmJuBzcTzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064306948556869857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛤…蛤蟆？ https://t.co/PmJuBzcTzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6848,
+          "following_count": 542,
+          "like_count": 19390,
+          "listed_count": 15,
+          "media_count": 2299,
+          "tweet_count": 5775
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

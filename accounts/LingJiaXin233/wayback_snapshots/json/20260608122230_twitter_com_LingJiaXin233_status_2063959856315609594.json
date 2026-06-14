@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063959850569326592"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2063959856315609594",
+    "created_at": "2026-06-08T12:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063959856315609594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/obqWeieaqP",
+          "end": 36,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2063959856315609594/photo/1",
+          "media_key": "3_2063959850569326592",
+          "start": 13,
+          "url": "https://t.co/obqWeieaqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063959856315609594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们一定要天长地久啊😢😭 https://t.co/obqWeieaqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2063959850569326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSojHvaYAAJkDi.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063959850569326592"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2063959856315609594",
+        "created_at": "2026-06-08T12:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063959856315609594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obqWeieaqP",
+              "end": 36,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2063959856315609594/photo/1",
+              "media_key": "3_2063959850569326592",
+              "start": 13,
+              "url": "https://t.co/obqWeieaqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063959856315609594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们一定要天长地久啊😢😭 https://t.co/obqWeieaqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6833,
+          "following_count": 541,
+          "like_count": 19336,
+          "listed_count": 15,
+          "media_count": 2275,
+          "tweet_count": 5747
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}
