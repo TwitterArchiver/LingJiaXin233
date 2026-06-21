@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065970959396560896"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2066031126502948877",
+    "created_at": "2026-06-14T05:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T06:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066031126502948877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/naZ9YhbiGl",
+          "end": 23,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2066031126502948877/photo/1",
+          "media_key": "3_2065970959396560896",
+          "start": 0,
+          "url": "https://t.co/naZ9YhbiGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066031126502948877",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/naZ9YhbiGl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2065970959396560896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvNpD8a4AAeIfv.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065970959396560896"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2066031126502948877",
+        "created_at": "2026-06-14T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066031126502948877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/naZ9YhbiGl",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2066031126502948877/photo/1",
+              "media_key": "3_2065970959396560896",
+              "start": 0,
+              "url": "https://t.co/naZ9YhbiGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066031126502948877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/naZ9YhbiGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7226,
+          "following_count": 550,
+          "like_count": 19732,
+          "listed_count": 16,
+          "media_count": 2484,
+          "tweet_count": 5973
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

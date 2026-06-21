@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065232132382109696"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2065232141177507980",
+    "created_at": "2026-06-12T00:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065232141177507980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VG3qic48If",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2065232141177507980/photo/1",
+          "media_key": "3_2065232132382109696",
+          "start": 8,
+          "url": "https://t.co/VG3qic48If"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065232141177507980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我嘞个天文学家 https://t.co/VG3qic48If"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_2065232132382109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKktrq1bsAAMag3.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065232132382109696"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2065232141177507980",
+        "created_at": "2026-06-12T00:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065232141177507980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VG3qic48If",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2065232141177507980/photo/1",
+              "media_key": "3_2065232132382109696",
+              "start": 8,
+              "url": "https://t.co/VG3qic48If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065232141177507980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个天文学家 https://t.co/VG3qic48If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7019,
+          "following_count": 543,
+          "like_count": 19586,
+          "listed_count": 14,
+          "media_count": 2391,
+          "tweet_count": 5876
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

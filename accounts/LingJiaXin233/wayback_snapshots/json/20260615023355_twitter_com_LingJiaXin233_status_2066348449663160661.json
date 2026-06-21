@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2066346441702801738",
+    "created_at": "2026-06-15T02:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066348449663160661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039189699240001537",
+          "start": 0,
+          "username": "RHarriman41707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066348449663160661",
+    "in_reply_to_user_id": "2039189699240001537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066347830302888208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RHarriman41707 你妈了个死机器人再给我发，我操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2066346441702801738",
+        "created_at": "2026-06-15T02:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066348449663160661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039189699240001537",
+              "start": 0,
+              "username": "RHarriman41707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066348449663160661",
+        "in_reply_to_user_id": "2039189699240001537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066347830302888208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RHarriman41707 你妈了个死机器人再给我发，我操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039189699240001537",
+        "conversation_id": "2066346441702801738",
+        "created_at": "2026-06-15T02:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066347830302888208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066347830302888208",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066346441702801738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 🍁👑💦\n🧳\n🎊\n🌐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7243,
+          "following_count": 550,
+          "like_count": 19791,
+          "listed_count": 16,
+          "media_count": 2515,
+          "tweet_count": 6012
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T03:54:46.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/litaosu",
+                "end": 23,
+                "expanded_url": "http://t.me/litaosu",
+                "start": 0,
+                "url": "https://t.co/Me3X3Gb8vy"
+              }
+            ]
+          }
+        },
+        "id": "2039189699240001537",
+        "location": "面付直达👉",
+        "name": "可可💕同城面付💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065820467693584384/Fe8sHq6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/Me3X3Gb8vy",
+        "username": "RHarriman41707",
+        "verified": false
+      }
+    ]
+  }
+}
