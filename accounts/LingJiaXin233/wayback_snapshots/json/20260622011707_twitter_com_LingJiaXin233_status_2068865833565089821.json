@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068865823502999552"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2068865833565089821",
+    "created_at": "2026-06-22T01:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068865833565089821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y4SnnXSYex",
+          "end": 51,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2068865833565089821/photo/1",
+          "media_key": "3_2068865823502999552",
+          "start": 28,
+          "url": "https://t.co/Y4SnnXSYex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068865833565089821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就应该把他嘴掰开塞几只虫子进去让他分辨虫子和牛筋的区别 https://t.co/Y4SnnXSYex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2068865823502999552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYWgVHXoAA1PDc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068865823502999552"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2068865833565089821",
+        "created_at": "2026-06-22T01:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068865833565089821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4SnnXSYex",
+              "end": 51,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2068865833565089821/photo/1",
+              "media_key": "3_2068865823502999552",
+              "start": 28,
+              "url": "https://t.co/Y4SnnXSYex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068865833565089821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就应该把他嘴掰开塞几只虫子进去让他分辨虫子和牛筋的区别 https://t.co/Y4SnnXSYex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 551,
+          "like_count": 19860,
+          "listed_count": 15,
+          "media_count": 2511,
+          "tweet_count": 6013
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

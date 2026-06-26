@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2068615993459630137",
+    "created_at": "2026-06-21T15:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068721524123570450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068721524123570450",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068615993459630137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll 左下角日期能够预言未来（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12701,
+        "height": 720,
+        "media_key": "13_2068615926652813312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068615926652813312/img/AYGbaaDWwqfnnweu.jpg",
+        "public_metrics": {
+          "view_count": 734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068615926652813312/vid/avc1/480x270/EVdfToEG9Ob-U0K_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068615926652813312/vid/avc1/640x360/_9XlzK5-JHH-mjws.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068615926652813312/vid/avc1/1280x720/yJex47EVOC2SN0RC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068615926652813312/pl/BRvNKSiLareUTbbP.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2068615993459630137",
+        "created_at": "2026-06-21T15:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068721524123570450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068721524123570450",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068615993459630137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll 左下角日期能够预言未来（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068615926652813312"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2068615993459630137",
+        "created_at": "2026-06-21T08:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068615993459630137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRbzb7Mei7",
+              "end": 65,
+              "expanded_url": "https://x.com/itsCatRoll/status/2068615993459630137/video/1",
+              "media_key": "13_2068615926652813312",
+              "start": 42,
+              "url": "https://t.co/cRbzb7Mei7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068615993459630137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1371,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "神人司机，开门杀汽车😅\n\n每天见到1-2起事故是正常的，就这群神人不出事故才难吧😅 https://t.co/cRbzb7Mei7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 551,
+          "like_count": 19856,
+          "listed_count": 15,
+          "media_count": 2506,
+          "tweet_count": 6008
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退休的）糖商🍥\n基本是除了团购以外能找到的最低价\n\n永久锁推账号@LTSxn0z\n\n💌@hobartr6\n妹妹@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n大猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "hobartr6"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "leetfs1"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067930460949458944/WcXdOVaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 842,
+          "like_count": 4211,
+          "listed_count": 9,
+          "media_count": 97,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068997593019899904"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2068997603224617415",
+    "created_at": "2026-06-22T10:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068997603224617415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yq1YFvYmL6",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2068997603224617415/photo/1",
+          "media_key": "3_2068997593019899904",
+          "start": 7,
+          "url": "https://t.co/yq1YFvYmL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068997603224617415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "应该很美味了 https://t.co/yq1YFvYmL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2068997593019899904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaOWU0W4AA-aEx.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068997593019899904"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2068997603224617415",
+        "created_at": "2026-06-22T10:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068997603224617415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yq1YFvYmL6",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2068997603224617415/photo/1",
+              "media_key": "3_2068997593019899904",
+              "start": 7,
+              "url": "https://t.co/yq1YFvYmL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068997603224617415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "应该很美味了 https://t.co/yq1YFvYmL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7440,
+          "following_count": 551,
+          "like_count": 19875,
+          "listed_count": 15,
+          "media_count": 2523,
+          "tweet_count": 6027
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

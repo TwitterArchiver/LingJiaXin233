@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2068852094442828004",
+    "created_at": "2026-06-22T13:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069052894427406341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893821104810278912",
+          "start": 0,
+          "username": "TangzhouXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069052894427406341",
+    "in_reply_to_user_id": "1893821104810278912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069009985753735681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangzhouXU 已经删除了，对您和您朋友造成的不便敬请谅解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2068852094442828004",
+        "created_at": "2026-06-22T13:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069052894427406341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893821104810278912",
+              "start": 0,
+              "username": "TangzhouXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069052894427406341",
+        "in_reply_to_user_id": "1893821104810278912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069009985753735681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangzhouXU 已经删除了，对您和您朋友造成的不便敬请谅解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893821104810278912",
+        "conversation_id": "2068852094442828004",
+        "created_at": "2026-06-22T10:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069009985753735681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069009985753735681",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2008,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068852094442828004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 你好这张图原创是我朋友，她没有授权你发这张图，希望你可以删了谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7612,
+          "following_count": 551,
+          "like_count": 19882,
+          "listed_count": 16,
+          "media_count": 2527,
+          "tweet_count": 6032
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-24T00:33:09.000Z",
+        "description": "",
+        "id": "1893821104810278912",
+        "name": "给我出八音窍！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049754505453957120/jlJNTngV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "TangzhouXU",
+        "verified": false
+      }
+    ]
+  }
+}

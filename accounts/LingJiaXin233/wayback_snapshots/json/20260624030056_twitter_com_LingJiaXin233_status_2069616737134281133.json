@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069616724429742084",
+        "3_2069616724400357376"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2069616737134281133",
+    "created_at": "2026-06-24T03:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069616737134281133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IytyDBBg5s",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2069616737134281133/photo/1",
+          "media_key": "3_2069616724429742084",
+          "start": 7,
+          "url": "https://t.co/IytyDBBg5s"
+        },
+        {
+          "display_url": "pic.x.com/IytyDBBg5s",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2069616737134281133/photo/1",
+          "media_key": "3_2069616724400357376",
+          "start": 7,
+          "url": "https://t.co/IytyDBBg5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069616737134281133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被抓住把柄了 https://t.co/IytyDBBg5s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2069616724429742084",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjBchDXoAQX0wg.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1786,
+        "media_key": "3_2069616724400357376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjBcg8XQAAuMOJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069616724429742084",
+            "3_2069616724400357376"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2069616737134281133",
+        "created_at": "2026-06-24T03:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069616737134281133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IytyDBBg5s",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2069616737134281133/photo/1",
+              "media_key": "3_2069616724429742084",
+              "start": 7,
+              "url": "https://t.co/IytyDBBg5s"
+            },
+            {
+              "display_url": "pic.x.com/IytyDBBg5s",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2069616737134281133/photo/1",
+              "media_key": "3_2069616724400357376",
+              "start": 7,
+              "url": "https://t.co/IytyDBBg5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069616737134281133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被抓住把柄了 https://t.co/IytyDBBg5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2069052806779043991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7662,
+          "following_count": 551,
+          "like_count": 19916,
+          "listed_count": 17,
+          "media_count": 2575,
+          "tweet_count": 6083
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}
