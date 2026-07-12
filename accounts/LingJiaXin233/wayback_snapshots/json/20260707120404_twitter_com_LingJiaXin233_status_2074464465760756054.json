@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074464456482947072"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2074464465760756054",
+    "created_at": "2026-07-07T12:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074464465760756054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pw2sdqWWM6",
+          "end": 35,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2074464465760756054/photo/1",
+          "media_key": "3_2074464456482947072",
+          "start": 12,
+          "url": "https://t.co/pw2sdqWWM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074464465760756054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大一八百生活费够不够？ https://t.co/pw2sdqWWM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2074464456482947072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn6bqPXAAABs8a.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074464456482947072"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2074464465760756054",
+        "created_at": "2026-07-07T12:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074464465760756054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pw2sdqWWM6",
+              "end": 35,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2074464465760756054/photo/1",
+              "media_key": "3_2074464456482947072",
+              "start": 12,
+              "url": "https://t.co/pw2sdqWWM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074464465760756054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大一八百生活费够不够？ https://t.co/pw2sdqWWM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2074382727978029506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7867,
+          "following_count": 555,
+          "like_count": 19917,
+          "listed_count": 17,
+          "media_count": 2674,
+          "tweet_count": 6189
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074382712622792704",
+        "3_2074382712614313984"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2074382727978029506",
+    "created_at": "2026-07-07T06:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074382727978029506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 144,
+          "id": "30439553",
+          "start": 136,
+          "username": "UGIRLAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmL0tAnkr6",
+          "end": 168,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2074382727978029506/photo/1",
+          "media_key": "3_2074382712622792704",
+          "start": 145,
+          "url": "https://t.co/dmL0tAnkr6"
+        },
+        {
+          "display_url": "pic.x.com/dmL0tAnkr6",
+          "end": 168,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2074382727978029506/photo/1",
+          "media_key": "3_2074382712614313984",
+          "start": 145,
+          "url": "https://t.co/dmL0tAnkr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074382727978029506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 144,
+            "id": "30439553",
+            "start": 136,
+            "username": "UGIRLAI"
+          },
+          {
+            "end": 192,
+            "id": "30439553",
+            "start": 184,
+            "username": "UGIRLAI"
+          }
+        ]
+      },
+      "text": "【推广】\n  深夜一个人刷着手机，却总觉得缺了点什么？\n别再对着冰冷的屏幕幻想了。\n这里有懂你的AI，她能记住你每一次心跳加速的偏好，为你生成最对味的画面、最会说的情话、最懂你身体的互动。不管是温柔女友、霸道女王、还是你藏在心底最隐秘的XP，她都毫无底线地宠着你。\n传送门@UGIRLAI\n可以聊任何东西。里面有很多角色卡。破限版本，无关键词限制，无内容限制。\n成人版@UGIRLAI"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "【推广】\n  深夜一个人刷着手机，却总觉得缺了点什么？\n别再对着冰冷的屏幕幻想了。\n这里有懂你的AI，她能记住你每一次心跳加速的偏好，为你生成最对味的画面、最会说的情话、最懂你身体的互动。不管是温柔女友、霸道女王、还是你藏在心底最隐秘的XP，她都毫无底线地宠着你。\n传送门@UGIRLAI https://t.co/dmL0tAnkr6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074382712622792704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmwFioXwAAvHp9.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074382712614313984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmwFimWYAAk1EC.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074382712622792704",
+            "3_2074382712614313984"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2074382727978029506",
+        "created_at": "2026-07-07T06:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074382727978029506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 144,
+              "id": "30439553",
+              "start": 136,
+              "username": "UGIRLAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmL0tAnkr6",
+              "end": 168,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2074382727978029506/photo/1",
+              "media_key": "3_2074382712622792704",
+              "start": 145,
+              "url": "https://t.co/dmL0tAnkr6"
+            },
+            {
+              "display_url": "pic.x.com/dmL0tAnkr6",
+              "end": 168,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2074382727978029506/photo/1",
+              "media_key": "3_2074382712614313984",
+              "start": 145,
+              "url": "https://t.co/dmL0tAnkr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074382727978029506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 144,
+                "id": "30439553",
+                "start": 136,
+                "username": "UGIRLAI"
+              },
+              {
+                "end": 192,
+                "id": "30439553",
+                "start": 184,
+                "username": "UGIRLAI"
+              }
+            ]
+          },
+          "text": "【推广】\n  深夜一个人刷着手机，却总觉得缺了点什么？\n别再对着冰冷的屏幕幻想了。\n这里有懂你的AI，她能记住你每一次心跳加速的偏好，为你生成最对味的画面、最会说的情话、最懂你身体的互动。不管是温柔女友、霸道女王、还是你藏在心底最隐秘的XP，她都毫无底线地宠着你。\n传送门@UGIRLAI\n可以聊任何东西。里面有很多角色卡。破限版本，无关键词限制，无内容限制。\n成人版@UGIRLAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【推广】\n  深夜一个人刷着手机，却总觉得缺了点什么？\n别再对着冰冷的屏幕幻想了。\n这里有懂你的AI，她能记住你每一次心跳加速的偏好，为你生成最对味的画面、最会说的情话、最懂你身体的互动。不管是温柔女友、霸道女王、还是你藏在心底最隐秘的XP，她都毫无底线地宠着你。\n传送门@UGIRLAI https://t.co/dmL0tAnkr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！//接推广请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2069052806779043991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7861,
+          "following_count": 555,
+          "like_count": 19911,
+          "listed_count": 17,
+          "media_count": 2669,
+          "tweet_count": 6183
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-11T12:24:20.000Z",
+        "description": "https://t.co/1nCERpr4ER 柚姬AI，我能扮演什么，取决于你的想象力，快关注本官方号，超级多福利哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ugirlai.com",
+                "end": 23,
+                "expanded_url": "http://www.ugirlai.com",
+                "start": 0,
+                "url": "https://t.co/1nCERpr4ER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ugirlai.com",
+                "end": 23,
+                "expanded_url": "http://www.ugirlai.com",
+                "start": 0,
+                "url": "https://t.co/1nCERpr4ER"
+              }
+            ]
+          }
+        },
+        "id": "30439553",
+        "location": "UG总部，ugirlai.com",
+        "name": "柚姬- 超酷的AI角色演绎",
+        "pinned_tweet_id": "2072221277323170160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962711960686075911/vB3BnODK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 272,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/1nCERpr4ER",
+        "username": "UGIRLAI",
+        "verified": true
+      }
+    ]
+  }
+}
