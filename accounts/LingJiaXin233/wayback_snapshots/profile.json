@@ -1,19 +1,12 @@
 {
-  "name": "🏳️‍⚧️凌嘉欣🍥",
+  "name": "凌嘉欣",
   "username": "@LingJiaXin233",
-  "bio": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//",
+  "bio": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
   "location": "everywhere",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 65,
-        "start": 52,
-        "username": "adorableLing"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg"
 }
