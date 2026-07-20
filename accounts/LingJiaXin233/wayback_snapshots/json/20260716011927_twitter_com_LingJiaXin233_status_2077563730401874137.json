@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2077534758179913877",
+    "created_at": "2026-07-16T01:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077563730401874137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060481041413124096",
+          "start": 0,
+          "username": "YuehuaSomniorum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077563730401874137",
+    "in_reply_to_user_id": "2060481041413124096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077559830068490495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuehuaSomniorum 正确的，不能让爱国沦为极端，应当是理性客观的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2077534758179913877",
+        "created_at": "2026-07-16T01:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077563730401874137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060481041413124096",
+              "start": 0,
+              "username": "YuehuaSomniorum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077563730401874137",
+        "in_reply_to_user_id": "2060481041413124096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077559830068490495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuehuaSomniorum 正确的，不能让爱国沦为极端，应当是理性客观的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060481041413124096",
+        "conversation_id": "2077534758179913877",
+        "created_at": "2026-07-16T01:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077559830068490495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077559830068490495",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077534758179913877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 （个人观点，不喜勿喷）\n感觉我们的国民有些缺乏国际主义精神，而且有些民族沙文主义。。。\n中国人民的敌人不是日本人民，中日人民应当团结起来而不是在因特网上互喷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7942,
+          "following_count": 549,
+          "like_count": 19864,
+          "listed_count": 17,
+          "media_count": 2689,
+          "tweet_count": 6214
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-29T21:59:09.000Z",
+        "description": "毋畏幻梦│这里是月華（Somniorum），网络寄生虫，阿卡林级别的低存在感，喜欢ACG和数码之类的说│里人格@kai_somniorum│高三日语文科生，绝赞念书中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "kai_somniorum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuehua_somnior…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuehua_somniorum",
+                "start": 0,
+                "url": "https://t.co/S1u2OQfHk9"
+              }
+            ]
+          }
+        },
+        "id": "2060481041413124096",
+        "location": "临月特别区",
+        "name": "月華冬廿壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076853124791468032/Vo-eqGMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 123,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/S1u2OQfHk9",
+        "username": "YuehuaSomniorum",
+        "verified": false
+      }
+    ]
+  }
+}

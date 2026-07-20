@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2077534758179913877",
+    "created_at": "2026-07-16T01:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077572799472840901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077022490258505728",
+          "start": 0,
+          "username": "pingchuan362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077572799472840901",
+    "in_reply_to_user_id": "2077022490258505728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077565917597503574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingchuan362 宣扬反人类的罪行，这不好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077565913919033344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT_MPiakAAtLWe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2077534758179913877",
+        "created_at": "2026-07-16T01:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077572799472840901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077022490258505728",
+              "start": 0,
+              "username": "pingchuan362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077572799472840901",
+        "in_reply_to_user_id": "2077022490258505728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077565917597503574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingchuan362 宣扬反人类的罪行，这不好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077565913919033344"
+          ]
+        },
+        "author_id": "2077022490258505728",
+        "conversation_id": "2077534758179913877",
+        "created_at": "2026-07-16T01:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077565917597503574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRFRBhegfZ",
+              "end": 104,
+              "expanded_url": "https://x.com/pingchuan362/status/2077565917597503574/photo/1",
+              "media_key": "3_2077565913919033344",
+              "start": 81,
+              "url": "https://t.co/FRFRBhegfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077565917597503574",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077534758179913877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 有人发了一个印尼大屠杀的梗图，我反驳了一句，被喷了十几楼，这帮人好像处处透露着一股优越感，好像在证明使用屠杀是什么非常好的手段一样 https://t.co/FRFRBhegfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7945,
+          "following_count": 550,
+          "like_count": 19864,
+          "listed_count": 17,
+          "media_count": 2689,
+          "tweet_count": 6215
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T13:33:38.000Z",
+        "description": "",
+        "id": "2077022490258505728",
+        "name": "leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077024040523538432/gcOBJzXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "pingchuan362",
+        "verified": false
+      }
+    ]
+  }
+}

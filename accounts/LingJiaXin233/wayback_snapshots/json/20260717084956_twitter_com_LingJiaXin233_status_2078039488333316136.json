@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078039479055458304"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2078039488333316136",
+    "created_at": "2026-07-17T08:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078039488333316136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 124,
+          "id": "30439553",
+          "start": 116,
+          "username": "UGIRLAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vRwBwTur6B",
+          "end": 148,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2078039488333316136/photo/1",
+          "media_key": "3_2078039479055458304",
+          "start": 125,
+          "url": "https://t.co/vRwBwTur6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078039488333316136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 124,
+            "id": "30439553",
+            "start": 116,
+            "username": "UGIRLAI"
+          },
+          {
+            "end": 185,
+            "id": "30439553",
+            "start": 177,
+            "username": "UGIRLAI"
+          }
+        ]
+      },
+      "text": "【推广合作】\n深夜一个人刷着手机，总觉得缺点陪伴？\n别再对着冰冷的屏幕发呆啦。\n这里有100%懂你的专属AI，不仅能记住你的偏好，还能为你定制最对味的画面和互动。不管是温柔贴心、还是你最喜欢的独特人设，她都能随时陪在你身边。\n传送门@UGIRLAI\n可以聊任何话题，（你懂的也可以😏）内置超多好玩的角色卡。懂的都懂，主打一个无拘无束、自由探索。\n体验地址@UGIRLAI"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "【推广合作】\n深夜一个人刷着手机，总觉得缺点陪伴？\n别再对着冰冷的屏幕发呆啦。\n这里有100%懂你的专属AI，不仅能记住你的偏好，还能为你定制最对味的画面和互动。不管是温柔贴心、还是你最喜欢的独特人设，她都能随时陪在你身边。\n传送门@UGIRLAI https://t.co/vRwBwTur6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2078039479055458304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNat5XJWoAAwv57.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078039479055458304"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2078039488333316136",
+        "created_at": "2026-07-17T08:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078039488333316136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 124,
+              "id": "30439553",
+              "start": 116,
+              "username": "UGIRLAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRwBwTur6B",
+              "end": 148,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2078039488333316136/photo/1",
+              "media_key": "3_2078039479055458304",
+              "start": 125,
+              "url": "https://t.co/vRwBwTur6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078039488333316136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 124,
+                "id": "30439553",
+                "start": 116,
+                "username": "UGIRLAI"
+              },
+              {
+                "end": 185,
+                "id": "30439553",
+                "start": 177,
+                "username": "UGIRLAI"
+              }
+            ]
+          },
+          "text": "【推广合作】\n深夜一个人刷着手机，总觉得缺点陪伴？\n别再对着冰冷的屏幕发呆啦。\n这里有100%懂你的专属AI，不仅能记住你的偏好，还能为你定制最对味的画面和互动。不管是温柔贴心、还是你最喜欢的独特人设，她都能随时陪在你身边。\n传送门@UGIRLAI\n可以聊任何话题，（你懂的也可以😏）内置超多好玩的角色卡。懂的都懂，主打一个无拘无束、自由探索。\n体验地址@UGIRLAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【推广合作】\n深夜一个人刷着手机，总觉得缺点陪伴？\n别再对着冰冷的屏幕发呆啦。\n这里有100%懂你的专属AI，不仅能记住你的偏好，还能为你定制最对味的画面和互动。不管是温柔贴心、还是你最喜欢的独特人设，她都能随时陪在你身边。\n传送门@UGIRLAI https://t.co/vRwBwTur6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2078036976331100402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8259,
+          "following_count": 551,
+          "like_count": 19923,
+          "listed_count": 17,
+          "media_count": 2702,
+          "tweet_count": 6246
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-11T12:24:20.000Z",
+        "description": "https://t.co/1nCERpr4ER 柚姬AI，我能扮演什么，取决于你的想象力，快关注本官方号，超级多福利哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ugirlai.com",
+                "end": 23,
+                "expanded_url": "http://www.ugirlai.com",
+                "start": 0,
+                "url": "https://t.co/1nCERpr4ER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ugirlai.com",
+                "end": 23,
+                "expanded_url": "http://www.ugirlai.com",
+                "start": 0,
+                "url": "https://t.co/1nCERpr4ER"
+              }
+            ]
+          }
+        },
+        "id": "30439553",
+        "location": "UG总部，ugirlai.com",
+        "name": "柚姬- 超酷的AI角色演绎",
+        "pinned_tweet_id": "2072221277323170160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962711960686075911/vB3BnODK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 282,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/1nCERpr4ER",
+        "username": "UGIRLAI",
+        "verified": true
+      }
+    ]
+  }
+}

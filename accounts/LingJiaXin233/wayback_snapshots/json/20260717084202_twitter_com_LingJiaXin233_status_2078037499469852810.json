@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2077912243446935560",
+    "created_at": "2026-07-17T08:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078037499469852810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "96472939",
+          "start": 0,
+          "username": "pilotcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078037499469852810",
+    "in_reply_to_user_id": "96472939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077954316003168374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilotcn 嫖娼追诉最长半年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2077912243446935560",
+        "created_at": "2026-07-17T08:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078037499469852810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "96472939",
+              "start": 0,
+              "username": "pilotcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078037499469852810",
+        "in_reply_to_user_id": "96472939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077954316003168374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilotcn 嫖娼追诉最长半年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96472939",
+        "conversation_id": "2077912243446935560",
+        "created_at": "2026-07-17T03:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077954316003168374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077954316003168374",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12957,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077912243446935560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 12月被抓为什么要供述10月的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2078036976331100402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8257,
+          "following_count": 551,
+          "like_count": 19921,
+          "listed_count": 17,
+          "media_count": 2701,
+          "tweet_count": 6244
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-13T03:11:00.000Z",
+        "description": "archaeologist of flight simulation",
+        "id": "96472939",
+        "location": "china",
+        "name": "pi1ot",
+        "pinned_tweet_id": "2075506549766975669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1331213952089395201/ykZ3PqkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 679,
+          "like_count": 46960,
+          "listed_count": 10,
+          "media_count": 170,
+          "tweet_count": 4590
+        },
+        "url": "",
+        "username": "pilotcn",
+        "verified": false
+      }
+    ]
+  }
+}
