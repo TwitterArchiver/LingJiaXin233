@@ -1,12 +1,20 @@
 {
   "name": "凌嘉欣",
   "username": "@LingJiaXin233",
-  "bio": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+  "bio": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
   "location": "everywhere",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {},
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 91,
+        "start": 77,
+        "username": "LingJiaXin520"
+      }
+    ]
+  },
   "_avatar_source": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg"
 }
