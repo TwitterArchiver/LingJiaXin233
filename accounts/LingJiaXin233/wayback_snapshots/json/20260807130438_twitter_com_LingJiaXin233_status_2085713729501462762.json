@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2085696955028492490",
+    "created_at": "2026-08-07T13:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085713729501462762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1871521849781460994",
+          "start": 0,
+          "username": "Silas_KCEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085713729501462762",
+    "in_reply_to_user_id": "1871521849781460994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085703320845599070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Silas_KCEX 纯爱万岁！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2085696955028492490",
+        "created_at": "2026-08-07T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085713729501462762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1871521849781460994",
+              "start": 0,
+              "username": "Silas_KCEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085713729501462762",
+        "in_reply_to_user_id": "1871521849781460994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085703320845599070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Silas_KCEX 纯爱万岁！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871521849781460994",
+        "conversation_id": "2085696955028492490",
+        "created_at": "2026-08-07T12:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085703320845599070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703320845599070",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085696955028492490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 抱抱她，純愛萬歲！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8724,
+          "following_count": 547,
+          "like_count": 20413,
+          "listed_count": 20,
+          "media_count": 2824,
+          "tweet_count": 6455
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T11:43:05.000Z",
+        "description": "BD @KCEX_official\nPM @GravityAmber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "KCEX_official"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "GravityAmber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ink1ing",
+                "end": 23,
+                "expanded_url": "http://github.com/ink1ing",
+                "start": 0,
+                "url": "https://t.co/UkcOZ3m7dw"
+              }
+            ]
+          }
+        },
+        "id": "1871521849781460994",
+        "name": "𝓢𝓲𝓵𝓪𝓼",
+        "pinned_tweet_id": "2080675352226267238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065820636963127296/GTkhnWq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 20,
+          "like_count": 442,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/UkcOZ3m7dw",
+        "username": "Silas_KCEX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2084593111385174445",
+    "created_at": "2026-08-04T18:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084715078180364396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1953393801340575744",
+          "start": 0,
+          "username": "n473428097803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084715078180364396",
+    "in_reply_to_user_id": "1953393801340575744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084645667041906721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n473428097803 致敬gta5里面崔佛和巴勒帮成员面粉交易换成石膏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2084645660289372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4mLuAbkAAZKLA.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084593111385174445",
+        "created_at": "2026-08-04T18:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084715078180364396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953393801340575744",
+              "start": 0,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084715078180364396",
+        "in_reply_to_user_id": "1953393801340575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645667041906721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n473428097803 致敬gta5里面崔佛和巴勒帮成员面粉交易换成石膏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084645660289372160"
+          ]
+        },
+        "author_id": "1953393801340575744",
+        "conversation_id": "2084593111385174445",
+        "created_at": "2026-08-04T14:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084645667041906721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfPadUu9qY",
+              "end": 55,
+              "expanded_url": "https://x.com/n473428097803/status/2084645667041906721/photo/1",
+              "media_key": "3_2084645660289372160",
+              "start": 32,
+              "url": "https://t.co/nfPadUu9qY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084645667041906721",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3662,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084593111385174445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 这应该是学那一个把白糖当冰毒卖的 https://t.co/nfPadUu9qY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 548,
+          "like_count": 20333,
+          "listed_count": 18,
+          "media_count": 2808,
+          "tweet_count": 6423
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "I love music",
+        "id": "1953393801340575744",
+        "name": "skth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 57,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2084995696986374538",
+    "created_at": "2026-08-06T02:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085187001867751706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2084642074134188032",
+          "start": 0,
+          "username": "MathcaJam"
+        },
+        {
+          "end": 25,
+          "id": "1759787246587379712",
+          "start": 11,
+          "username": "Artoria040130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085187001867751706",
+    "in_reply_to_user_id": "2084642074134188032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085186221467439481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MathcaJam @Artoria040130 这里不是抖音🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084995696986374538",
+        "created_at": "2026-08-06T02:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085187001867751706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2084642074134188032",
+              "start": 0,
+              "username": "MathcaJam"
+            },
+            {
+              "end": 25,
+              "id": "1759787246587379712",
+              "start": 11,
+              "username": "Artoria040130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085187001867751706",
+        "in_reply_to_user_id": "2084642074134188032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085186221467439481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MathcaJam @Artoria040130 这里不是抖音🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084642074134188032",
+        "conversation_id": "2084995696986374538",
+        "created_at": "2026-08-06T02:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085186221467439481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 29,
+              "id": "1759787246587379712",
+              "start": 15,
+              "username": "Artoria040130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085186221467439481",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085088870668890534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @Artoria040130 头像不想要了是吧😠👤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8690,
+          "following_count": 548,
+          "like_count": 20353,
+          "listed_count": 18,
+          "media_count": 2812,
+          "tweet_count": 6434
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-08-04T14:07:03.000Z",
+        "description": "05 188/74\nB站神秘小up\n是个coser",
+        "id": "2084642074134188032",
+        "location": "你心里喵",
+        "name": "Mathca Jam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084642515173646336/kFNvbNrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "MathcaJam",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "🇩🇪 Aus Deutschland\nFreiheit, Gedanken und ein bisschen Magie.\nAnime, Fate & Saber-Fan.\nIch gehe meinen eigenen Weg",
+        "id": "1759787246587379712",
+        "location": "Berlin, Germany",
+        "name": "Adrian Elisabeth",
+        "pinned_tweet_id": "2084960952609599638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083693987932852224/CAM6IWJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 1593,
+          "like_count": 6305,
+          "listed_count": 10,
+          "media_count": 927,
+          "tweet_count": 3201
+        },
+        "url": "",
+        "username": "Artoria040130",
+        "verified": false
+      }
+    ]
+  }
+}

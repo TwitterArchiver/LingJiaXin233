@@ -1,0 +1,763 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2088017931292865008",
+    "created_at": "2026-08-13T21:40:42.000Z",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088017931292865008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 2,
+          "id": "783214",
+          "start": 0,
+          "username": "X"
+        },
+        {
+          "end": 11,
+          "id": "1399766153053061121",
+          "start": 3,
+          "username": "premium"
+        },
+        {
+          "end": 21,
+          "id": "44196397",
+          "start": 12,
+          "username": "elonmusk"
+        },
+        {
+          "end": 33,
+          "id": "636513296",
+          "start": 22,
+          "username": "nikitabier"
+        },
+        {
+          "end": 44,
+          "id": "3282859598",
+          "start": 34,
+          "username": "XCreators"
+        },
+        {
+          "end": 145,
+          "id": "1857802986837172224",
+          "start": 131,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088017931292865008",
+    "in_reply_to_user_id": "783214",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 2,
+            "id": "783214",
+            "start": 0,
+            "username": "X"
+          },
+          {
+            "end": 11,
+            "id": "1399766153053061121",
+            "start": 3,
+            "username": "premium"
+          },
+          {
+            "end": 21,
+            "id": "44196397",
+            "start": 12,
+            "username": "elonmusk"
+          },
+          {
+            "end": 33,
+            "id": "636513296",
+            "start": 22,
+            "username": "nikitabier"
+          },
+          {
+            "end": 44,
+            "id": "3282859598",
+            "start": 34,
+            "username": "XCreators"
+          },
+          {
+            "end": 145,
+            "id": "1857802986837172224",
+            "start": 131,
+            "username": "LingJiaXin233"
+          },
+          {
+            "end": 750,
+            "id": "1857802986837172224",
+            "start": 736,
+            "username": "LingJiaXin233"
+          }
+        ]
+      },
+      "text": "@X @premium @elonmusk @nikitabier @XCreators \nHello X Support Team,\nI am writing to appeal the permanent suspension of my account (@LingJiaXin233) from the Creator Revenue Sharing program due to an Adult Content violation (Case: CREATOR-223499).\nMy account primarily posts non-adult content, mainly ACG/moe illustrations and personal posts. Only two posts were identified as potentially borderline under the Adult Content standards, and both have already been deleted.\nI understand and respect X’s Creator Monetization Standards. I will ensure all future content fully complies with the guidelines.\nI kindly request a re-review of my account and hope the permanent suspension can be reconsidered.\nThank you for your time.\nBest regards,\n@LingJiaXin233\nCREATOR-223499"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "@X @premium @elonmusk @nikitabier @XCreators \nHello X Support Team,\nI am writing to appeal the permanent suspension of my account (@LingJiaXin233) from the Creator Revenue Sharing program due to an Adult Content violation (Case: CREATOR-223499).\nMy account primarily posts"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2088017931292865008",
+        "created_at": "2026-08-13T21:40:42.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088017931292865008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 2,
+              "id": "783214",
+              "start": 0,
+              "username": "X"
+            },
+            {
+              "end": 11,
+              "id": "1399766153053061121",
+              "start": 3,
+              "username": "premium"
+            },
+            {
+              "end": 21,
+              "id": "44196397",
+              "start": 12,
+              "username": "elonmusk"
+            },
+            {
+              "end": 33,
+              "id": "636513296",
+              "start": 22,
+              "username": "nikitabier"
+            },
+            {
+              "end": 44,
+              "id": "3282859598",
+              "start": 34,
+              "username": "XCreators"
+            },
+            {
+              "end": 145,
+              "id": "1857802986837172224",
+              "start": 131,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088017931292865008",
+        "in_reply_to_user_id": "783214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 2,
+                "id": "783214",
+                "start": 0,
+                "username": "X"
+              },
+              {
+                "end": 11,
+                "id": "1399766153053061121",
+                "start": 3,
+                "username": "premium"
+              },
+              {
+                "end": 21,
+                "id": "44196397",
+                "start": 12,
+                "username": "elonmusk"
+              },
+              {
+                "end": 33,
+                "id": "636513296",
+                "start": 22,
+                "username": "nikitabier"
+              },
+              {
+                "end": 44,
+                "id": "3282859598",
+                "start": 34,
+                "username": "XCreators"
+              },
+              {
+                "end": 145,
+                "id": "1857802986837172224",
+                "start": 131,
+                "username": "LingJiaXin233"
+              },
+              {
+                "end": 750,
+                "id": "1857802986837172224",
+                "start": 736,
+                "username": "LingJiaXin233"
+              }
+            ]
+          },
+          "text": "@X @premium @elonmusk @nikitabier @XCreators \nHello X Support Team,\nI am writing to appeal the permanent suspension of my account (@LingJiaXin233) from the Creator Revenue Sharing program due to an Adult Content violation (Case: CREATOR-223499).\nMy account primarily posts non-adult content, mainly ACG/moe illustrations and personal posts. Only two posts were identified as potentially borderline under the Adult Content standards, and both have already been deleted.\nI understand and respect X’s Creator Monetization Standards. I will ensure all future content fully complies with the guidelines.\nI kindly request a re-review of my account and hope the permanent suspension can be reconsidered.\nThank you for your time.\nBest regards,\n@LingJiaXin233\nCREATOR-223499"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "@X @premium @elonmusk @nikitabier @XCreators \nHello X Support Team,\nI am writing to appeal the permanent suspension of my account (@LingJiaXin233) from the Creator Revenue Sharing program due to an Adult Content violation (Case: CREATOR-223499).\nMy account primarily posts"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088017931292865008",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8854,
+          "following_count": 409,
+          "like_count": 20559,
+          "listed_count": 21,
+          "media_count": 2878,
+          "tweet_count": 6582
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2081809802515136887",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1690175171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60768967,
+          "following_count": 1,
+          "like_count": 5976,
+          "listed_count": 85218,
+          "media_count": 2490,
+          "tweet_count": 15711
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081845113811243217",
+        "name": "Premium",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399766153053061121/1690180776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279724,
+          "following_count": 3,
+          "like_count": 665,
+          "listed_count": 1894,
+          "media_count": 66,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088010333008838938",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2087565020158992709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241292617,
+          "following_count": 1389,
+          "like_count": 243562,
+          "listed_count": 170308,
+          "media_count": 4702,
+          "tweet_count": 107022
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "Palo Alto",
+        "most_recent_tweet_id": "2088017324616130985",
+        "name": "Nikita Bier",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285594,
+          "following_count": 2057,
+          "like_count": 40051,
+          "listed_count": 6084,
+          "media_count": 1634,
+          "tweet_count": 11823
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2015-07-18T00:54:11.000Z",
+        "description": "X is for creators.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/jf/creators/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/jf/creators/studio",
+                "start": 0,
+                "url": "https://t.co/7PGgylabAT"
+              }
+            ]
+          }
+        },
+        "id": "3282859598",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088006016721940988",
+        "name": "Creators",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3282859598/1690180322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683364393323577345/uUWH_TiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10859801,
+          "following_count": 41,
+          "like_count": 8366,
+          "listed_count": 3754,
+          "media_count": 2706,
+          "tweet_count": 8810
+        },
+        "url": "https://t.co/7PGgylabAT",
+        "username": "XCreators",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

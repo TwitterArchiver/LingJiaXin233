@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2083020634225856980",
+    "created_at": "2026-07-31T04:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083053546853843447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940094735252955136",
+          "start": 0,
+          "username": "yan19833"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083053546853843447",
+    "in_reply_to_user_id": "1940094735252955136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083045576078483614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan19833 也符合我的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2083020634225856980",
+        "created_at": "2026-07-31T04:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083053546853843447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940094735252955136",
+              "start": 0,
+              "username": "yan19833"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083053546853843447",
+        "in_reply_to_user_id": "1940094735252955136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083045576078483614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan19833 也符合我的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940094735252955136",
+        "conversation_id": "2083020634225856980",
+        "created_at": "2026-07-31T04:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083045576078483614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083045576078483614",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083020634225856980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 😋这个组合太色了，非常复合我的XP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8582,
+          "following_count": 548,
+          "like_count": 20187,
+          "listed_count": 17,
+          "media_count": 2784,
+          "tweet_count": 6378
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T17:07:00.000Z",
+        "description": "被重力与欲望束缚于地面的可悲人类",
+        "id": "1940094735252955136",
+        "name": "yL",
+        "pinned_tweet_id": "2081405353464574015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058557385472700416/aqij6FIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 5185,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "yan19833",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088113699647045632",
+        "3_2088113701077327873",
+        "3_2088113699642810368",
+        "3_2088113701073063936"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088113717590274196",
+    "created_at": "2026-08-14T04:01:20.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088113717590274196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ovGhrHfKsY",
+          "end": 96,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+          "media_key": "3_2088113699647045632",
+          "start": 73,
+          "url": "https://t.co/ovGhrHfKsY"
+        },
+        {
+          "display_url": "pic.x.com/ovGhrHfKsY",
+          "end": 96,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+          "media_key": "3_2088113701077327873",
+          "start": 73,
+          "url": "https://t.co/ovGhrHfKsY"
+        },
+        {
+          "display_url": "pic.x.com/ovGhrHfKsY",
+          "end": 96,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+          "media_key": "3_2088113699642810368",
+          "start": 73,
+          "url": "https://t.co/ovGhrHfKsY"
+        },
+        {
+          "display_url": "pic.x.com/ovGhrHfKsY",
+          "end": 96,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+          "media_key": "3_2088113701073063936",
+          "start": 73,
+          "url": "https://t.co/ovGhrHfKsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088113717590274196",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088113699647045632"
+      },
+      {
+        "media_key": "3_2088113701077327873"
+      },
+      {
+        "media_key": "3_2088113699642810368"
+      },
+      {
+        "media_key": "3_2088113701073063936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2026最大笑话———买了蜂窝版平板不知道苹果已经取消了实体卡槽转为esim，硬生生在中框与屏幕间打穿寻找插卡的地方，把平板搞坏了开始告苹果了🤣 https://t.co/ovGhrHfKsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088113699647045632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp4WLYWwAAcg3i.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088113701077327873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp4WQtXIAEEW4S.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088113699642810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp4WLXWIAAqT_d.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088113701073063936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp4WQsWEAAx31K.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088113699647045632",
+            "3_2088113701077327873",
+            "3_2088113699642810368",
+            "3_2088113701073063936"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088113717590274196",
+        "created_at": "2026-08-14T04:01:20.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088113717590274196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovGhrHfKsY",
+              "end": 96,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+              "media_key": "3_2088113699647045632",
+              "start": 73,
+              "url": "https://t.co/ovGhrHfKsY"
+            },
+            {
+              "display_url": "pic.x.com/ovGhrHfKsY",
+              "end": 96,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+              "media_key": "3_2088113701077327873",
+              "start": 73,
+              "url": "https://t.co/ovGhrHfKsY"
+            },
+            {
+              "display_url": "pic.x.com/ovGhrHfKsY",
+              "end": 96,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+              "media_key": "3_2088113699642810368",
+              "start": 73,
+              "url": "https://t.co/ovGhrHfKsY"
+            },
+            {
+              "display_url": "pic.x.com/ovGhrHfKsY",
+              "end": 96,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088113717590274196/photo/1",
+              "media_key": "3_2088113701073063936",
+              "start": 73,
+              "url": "https://t.co/ovGhrHfKsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088113717590274196",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088113699647045632"
+          },
+          {
+            "media_key": "3_2088113701077327873"
+          },
+          {
+            "media_key": "3_2088113699642810368"
+          },
+          {
+            "media_key": "3_2088113701073063936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026最大笑话———买了蜂窝版平板不知道苹果已经取消了实体卡槽转为esim，硬生生在中框与屏幕间打穿寻找插卡的地方，把平板搞坏了开始告苹果了🤣 https://t.co/ovGhrHfKsY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088113717590274196",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8869,
+          "following_count": 409,
+          "like_count": 20568,
+          "listed_count": 21,
+          "media_count": 2874,
+          "tweet_count": 6585
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

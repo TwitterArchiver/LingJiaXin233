@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2086713915291869520",
+    "created_at": "2026-08-10T12:39:55.000Z",
+    "display_text_range": [
+      17,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086794672257613874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868107925006532608",
+          "start": 0,
+          "username": "happyTi32477804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086794672257613874",
+    "in_reply_to_user_id": "1868107925006532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086782767023399373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyTi32477804 这不至于，我觉得你过度解读了\n这个“怎么会”也可能是母亲觉得这太不可思议了及难以接受现实的惊讶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2086713915291869520",
+        "created_at": "2026-08-10T12:39:55.000Z",
+        "display_text_range": [
+          17,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086794672257613874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868107925006532608",
+              "start": 0,
+              "username": "happyTi32477804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086794672257613874",
+        "in_reply_to_user_id": "1868107925006532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086782767023399373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyTi32477804 这不至于，我觉得你过度解读了\n这个“怎么会”也可能是母亲觉得这太不可思议了及难以接受现实的惊讶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868107925006532608",
+        "conversation_id": "2086713915291869520",
+        "created_at": "2026-08-10T11:52:36.000Z",
+        "display_text_range": [
+          15,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086782767023399373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086782767023399373",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086713915291869520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 经典第一时间自动开启反驳。\n“怎么会？”\n还是你不够努力！你就不能踩着火苗吸几口烟冲出来吗，万一出来了呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2086794672257613874",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8825,
+          "following_count": 548,
+          "like_count": 20493,
+          "listed_count": 20,
+          "media_count": 2850,
+          "tweet_count": 6526
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T01:37:04.000Z",
+        "description": "",
+        "id": "1868107925006532608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086785425050357879",
+        "name": "happyTime",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868109523946524672/Av1Qmgtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "happyTi32477804",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

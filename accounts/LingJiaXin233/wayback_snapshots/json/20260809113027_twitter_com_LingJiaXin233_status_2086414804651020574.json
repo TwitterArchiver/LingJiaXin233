@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2086285520024248777",
+    "created_at": "2026-08-09T11:30:27.000Z",
+    "display_text_range": [
+      34,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086414804651020574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "778207808172929024",
+          "start": 0,
+          "username": "DanielRubenAGaz"
+        },
+        {
+          "end": 33,
+          "id": "2057033629306703872",
+          "start": 17,
+          "username": "33139650549j4qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086414804651020574",
+    "in_reply_to_user_id": "778207808172929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086387640354656354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanielRubenAGaz @33139650549j4qa 所以这到底是真的假的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2086285520024248777",
+        "created_at": "2026-08-09T11:30:27.000Z",
+        "display_text_range": [
+          34,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086414804651020574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "778207808172929024",
+              "start": 0,
+              "username": "DanielRubenAGaz"
+            },
+            {
+              "end": 33,
+              "id": "2057033629306703872",
+              "start": 17,
+              "username": "33139650549j4qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086414804651020574",
+        "in_reply_to_user_id": "778207808172929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086387640354656354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanielRubenAGaz @33139650549j4qa 所以这到底是真的假的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "778207808172929024",
+        "conversation_id": "2086285520024248777",
+        "created_at": "2026-08-09T09:42:31.000Z",
+        "display_text_range": [
+          32,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086387640354656354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2057033629306703872",
+              "start": 0,
+              "username": "33139650549j4qa"
+            },
+            {
+              "end": 31,
+              "id": "1857802986837172224",
+              "start": 17,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086387640354656354",
+        "in_reply_to_user_id": "2057033629306703872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086365584380624974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@33139650549j4qa @LingJiaXin233 當年他出軌\n我們台灣網上在討論他是怎麼做愛的\n就用這張圖\n超級火"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2086414804651020574",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8792,
+          "following_count": 548,
+          "like_count": 20460,
+          "listed_count": 20,
+          "media_count": 2840,
+          "tweet_count": 6495
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-20T12:22:54.000Z",
+        "description": "嘿嘿嘿",
+        "id": "778207808172929024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086398365760401564",
+        "name": "Daniel RubenAGaza",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606560423322349568/Qq6jisJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 909,
+          "like_count": 10388,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "DanielRubenAGaz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T09:40:53.000Z",
+        "description": "来自中国的闷骚年轻人",
+        "id": "2057033629306703872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086375099142390028",
+        "name": "立夏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057033629306703872/1779270151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057033978138574848/FgooPdu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "33139650549j4qa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

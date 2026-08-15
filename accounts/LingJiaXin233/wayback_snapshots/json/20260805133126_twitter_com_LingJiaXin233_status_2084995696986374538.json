@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084995683069620224"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2084995696986374538",
+    "created_at": "2026-08-05T13:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084995696986374538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2WjNhu0ewk",
+          "end": 34,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2084995696986374538/photo/1",
+          "media_key": "3_2084995683069620224",
+          "start": 11,
+          "url": "https://t.co/2WjNhu0ewk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084995696986374538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你猜这么多车企在喷谁 https://t.co/2WjNhu0ewk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2084995683069620224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9khueWcAAYm2I.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084995683069620224"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084995696986374538",
+        "created_at": "2026-08-05T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084995696986374538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WjNhu0ewk",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084995696986374538/photo/1",
+              "media_key": "3_2084995683069620224",
+              "start": 11,
+              "url": "https://t.co/2WjNhu0ewk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084995696986374538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你猜这么多车企在喷谁 https://t.co/2WjNhu0ewk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8687,
+          "following_count": 548,
+          "like_count": 20349,
+          "listed_count": 18,
+          "media_count": 2811,
+          "tweet_count": 6430
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

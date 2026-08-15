@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082951667402616833"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2082706587622187440",
+    "created_at": "2026-07-30T22:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082951676223197341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616035120464691201",
+          "start": 0,
+          "username": "TodZheng25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cbdDbgxpAv",
+          "end": 88,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2082951676223197341/photo/1",
+          "media_key": "3_2082951667402616833",
+          "start": 65,
+          "url": "https://t.co/cbdDbgxpAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082951676223197341",
+    "in_reply_to_user_id": "1616035120464691201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082927110616907849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TodZheng25 我上推特就是发这些2b水帖的，爱看看不看滚，去看你的小男娘吧，这就是“最前沿的新闻”和“有价值的东西”😁 https://t.co/cbdDbgxpAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2082951667402616833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOghgWvXMAEQNrX.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082951667402616833"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2082706587622187440",
+        "created_at": "2026-07-30T22:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082951676223197341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616035120464691201",
+              "start": 0,
+              "username": "TodZheng25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbdDbgxpAv",
+              "end": 88,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2082951676223197341/photo/1",
+              "media_key": "3_2082951667402616833",
+              "start": 65,
+              "url": "https://t.co/cbdDbgxpAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082951676223197341",
+        "in_reply_to_user_id": "1616035120464691201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082927110616907849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TodZheng25 我上推特就是发这些2b水帖的，爱看看不看滚，去看你的小男娘吧，这就是“最前沿的新闻”和“有价值的东西”😁 https://t.co/cbdDbgxpAv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616035120464691201",
+        "conversation_id": "2082706587622187440",
+        "created_at": "2026-07-30T20:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082927110616907849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082927110616907849",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 840,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082706587622187440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我上推特是想看最前沿的新闻和有价值的信息，不是看你们这种2b水帖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2080630867475460241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8572,
+          "following_count": 548,
+          "like_count": 20153,
+          "listed_count": 17,
+          "media_count": 2783,
+          "tweet_count": 6370
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-19T11:29:43.000Z",
+        "description": "最近沉迷vibe coding，尝试做一些有意思的东西\n永远喜欢若叶睦🥒",
+        "id": "1616035120464691201",
+        "name": "vibe睦头人",
+        "pinned_tweet_id": "2081086055613436181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076995468635332608/IZyUwWYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 281,
+          "like_count": 667,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "TodZheng25",
+        "verified": false
+      }
+    ]
+  }
+}

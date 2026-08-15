@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085985882725605376"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2085985896021598636",
+    "created_at": "2026-08-08T07:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T08:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085985896021598636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aG0m4YudF8",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2085985896021598636/photo/1",
+          "media_key": "3_2085985882725605376",
+          "start": 17,
+          "url": "https://t.co/aG0m4YudF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085985896021598636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "符合我们对东亚家长的刻板印象🤭👍 https://t.co/aG0m4YudF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2085985882725605376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLpG7pW4AA0HQ4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085985882725605376"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2085985896021598636",
+        "created_at": "2026-08-08T07:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085985896021598636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aG0m4YudF8",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2085985896021598636/photo/1",
+              "media_key": "3_2085985882725605376",
+              "start": 17,
+              "url": "https://t.co/aG0m4YudF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085985896021598636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "符合我们对东亚家长的刻板印象🤭👍 https://t.co/aG0m4YudF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8753,
+          "following_count": 547,
+          "like_count": 20434,
+          "listed_count": 20,
+          "media_count": 2831,
+          "tweet_count": 6466
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

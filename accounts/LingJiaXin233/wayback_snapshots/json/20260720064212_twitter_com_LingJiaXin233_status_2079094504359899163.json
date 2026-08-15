@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2078926220243370159",
+    "created_at": "2026-07-20T06:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079094504359899163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "KitsuMio7"
+        },
+        {
+          "end": 24,
+          "id": "1589484921822781443",
+          "start": 11,
+          "username": "ObjectShadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079094504359899163",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078926220243370159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio7 @ObjectShadow 在没有取得当事人同意的情况下，我也认为这是不妥当的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2078926220243370159",
+        "created_at": "2026-07-20T06:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079094504359899163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "KitsuMio7"
+            },
+            {
+              "end": 24,
+              "id": "1589484921822781443",
+              "start": 11,
+              "username": "ObjectShadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079094504359899163",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078926220243370159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio7 @ObjectShadow 在没有取得当事人同意的情况下，我也认为这是不妥当的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2078926220243370159",
+        "created_at": "2026-07-19T19:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078926220243370159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2078911565999599628",
+              "start": 54,
+              "url": "https://t.co/s1SRteSujr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078926220243370159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4389,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样太不尊重人了，\n我不支持这种在他人丧失行为能力之后把他人蒸馏成 AI 的恶劣做法。\n这真的太不尊重人了 https://t.co/s1SRteSujr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2078039488333316136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8537,
+          "following_count": 551,
+          "like_count": 20017,
+          "listed_count": 17,
+          "media_count": 2729,
+          "tweet_count": 6294
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1186,
+          "like_count": 2294,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-07T05:08:42.000Z",
+        "description": "🏳‍⚧是小女孩还是猫猫? | 17 y.o. | 🚑 HS Stu | Blog https://t.co/KHVZ0u9iFc | 🩷 @Qinnoii 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "Qinnoii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "objshadow.is-a.dev",
+                "end": 64,
+                "expanded_url": "http://objshadow.is-a.dev",
+                "start": 41,
+                "url": "https://t.co/KHVZ0u9iFc"
+              }
+            ]
+          }
+        },
+        "id": "1589484921822781443",
+        "location": "0xdeadbeef",
+        "name": "𝕆𝕓𝕛 𝕊𝕙𝕒𝕕𝕠𝕨🎐",
+        "pinned_tweet_id": "1974874430204768551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589485031143211008/kIUjfSB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1086,
+          "like_count": 10537,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "ObjectShadow",
+        "verified": false
+      }
+    ]
+  }
+}

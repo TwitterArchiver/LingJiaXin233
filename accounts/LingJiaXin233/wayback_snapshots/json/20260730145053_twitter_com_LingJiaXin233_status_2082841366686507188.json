@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2082706587622187440",
+    "created_at": "2026-07-30T14:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082841366686507188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "166114738",
+          "start": 0,
+          "username": "Beaumont972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082841366686507188",
+    "in_reply_to_user_id": "166114738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082795029769371899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beaumont972 114514个（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2082706587622187440",
+        "created_at": "2026-07-30T14:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082841366686507188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "166114738",
+              "start": 0,
+              "username": "Beaumont972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082841366686507188",
+        "in_reply_to_user_id": "166114738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795029769371899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beaumont972 114514个（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "166114738",
+        "conversation_id": "2082706587622187440",
+        "created_at": "2026-07-30T11:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082795029769371899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082795029769371899",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33557,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082706587622187440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 充多少QB可以让自己的绿色发言框盖住屏幕裂痕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2080630867475460241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8565,
+          "following_count": 549,
+          "like_count": 20152,
+          "listed_count": 17,
+          "media_count": 2781,
+          "tweet_count": 6368
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-13T10:52:11.000Z",
+        "description": "沉迷被AI调教中🥵 | 古希腊掌管讲故事的神 | Mariru",
+        "id": "166114738",
+        "location": "United States",
+        "name": "d'Eon樱 🌸",
+        "pinned_tweet_id": "1817134569176600687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654735396977389571/UP_PMIdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 2224,
+          "like_count": 5878,
+          "listed_count": 17,
+          "media_count": 285,
+          "tweet_count": 2227
+        },
+        "url": "",
+        "username": "Beaumont972",
+        "verified": false
+      }
+    ]
+  }
+}

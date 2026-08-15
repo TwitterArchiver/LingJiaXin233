@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084522486100566017"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084522497299317094",
+    "created_at": "2026-08-04T06:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084522497299317094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkT6FPwVhk",
+          "end": 41,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2084522497299317094/photo/1",
+          "media_key": "3_2084522486100566017",
+          "start": 18,
+          "url": "https://t.co/AkT6FPwVhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084522497299317094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我挺好奇这玩意儿的适用人群是哪些人 https://t.co/AkT6FPwVhk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2084522486100566017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO22KCZWoAE40jr.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084522486100566017"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084522497299317094",
+        "created_at": "2026-08-04T06:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084522497299317094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkT6FPwVhk",
+              "end": 41,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084522497299317094/photo/1",
+              "media_key": "3_2084522486100566017",
+              "start": 18,
+              "url": "https://t.co/AkT6FPwVhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084522497299317094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我挺好奇这玩意儿的适用人群是哪些人 https://t.co/AkT6FPwVhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8672,
+          "following_count": 547,
+          "like_count": 20325,
+          "listed_count": 18,
+          "media_count": 2805,
+          "tweet_count": 6419
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

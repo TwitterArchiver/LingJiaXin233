@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087787841363271681",
+        "3_2087787850372706304"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2087787858140475523",
+    "created_at": "2026-08-13T06:26:29.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087787858140475523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxjq0OmZxQ",
+          "end": 23,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2087787858140475523/photo/1",
+          "media_key": "3_2087787841363271681",
+          "start": 0,
+          "url": "https://t.co/kxjq0OmZxQ"
+        },
+        {
+          "display_url": "pic.x.com/kxjq0OmZxQ",
+          "end": 23,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2087787858140475523/photo/1",
+          "media_key": "3_2087787850372706304",
+          "start": 0,
+          "url": "https://t.co/kxjq0OmZxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087787858140475523",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087787841363271681"
+      },
+      {
+        "media_key": "3_2087787850372706304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kxjq0OmZxQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2087787841363271681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlP-urWYAEL96G.jpg",
+        "width": 719
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2087787850372706304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlP_QPXcAASgul.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087787841363271681",
+            "3_2087787850372706304"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2087787858140475523",
+        "created_at": "2026-08-13T06:26:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087787858140475523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxjq0OmZxQ",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2087787858140475523/photo/1",
+              "media_key": "3_2087787841363271681",
+              "start": 0,
+              "url": "https://t.co/kxjq0OmZxQ"
+            },
+            {
+              "display_url": "pic.x.com/kxjq0OmZxQ",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2087787858140475523/photo/1",
+              "media_key": "3_2087787850372706304",
+              "start": 0,
+              "url": "https://t.co/kxjq0OmZxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087787858140475523",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087787841363271681"
+          },
+          {
+            "media_key": "3_2087787850372706304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kxjq0OmZxQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2087787858140475523",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842,
+          "following_count": 408,
+          "like_count": 20546,
+          "listed_count": 21,
+          "media_count": 2875,
+          "tweet_count": 6571
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

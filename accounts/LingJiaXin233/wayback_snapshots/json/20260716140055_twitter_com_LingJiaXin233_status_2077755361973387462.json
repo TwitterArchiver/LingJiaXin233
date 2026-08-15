@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2077741399433224630",
+    "created_at": "2026-07-16T14:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077755361973387462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2002797855657037824",
+          "start": 0,
+          "username": "ChuanBu92705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077755361973387462",
+    "in_reply_to_user_id": "2002797855657037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077752817012621325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuanBu92705 培养皿这一块（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2077741399433224630",
+        "created_at": "2026-07-16T14:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077755361973387462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002797855657037824",
+              "start": 0,
+              "username": "ChuanBu92705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077755361973387462",
+        "in_reply_to_user_id": "2002797855657037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752817012621325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuanBu92705 培养皿这一块（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002797855657037824",
+        "conversation_id": "2077741399433224630",
+        "created_at": "2026-07-16T13:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077752817012621325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752817012621325",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077741399433224630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 万一里面还有蛋白质作为营养呢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8114,
+          "following_count": 551,
+          "like_count": 19891,
+          "listed_count": 17,
+          "media_count": 2695,
+          "tweet_count": 6231
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T17:46:48.000Z",
+        "description": "为什么看我的主页💔",
+        "id": "2002797855657037824",
+        "name": "转身战锤被基佬Man 摁在政务厅疯狂惩罚公务",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072355551829458948/MBOUKWmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 56,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "ChuanBu92705",
+        "verified": false
+      }
+    ]
+  }
+}

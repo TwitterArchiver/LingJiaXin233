@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2034146610129633396",
+    "created_at": "2026-07-31T23:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083329895359250566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083329895359250566",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034146610129633396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 病魔终于战胜了她！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034146576277405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDq9iKQXgAAorT-.jpg",
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034146576269033472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDq9iKOXwAAP2IR.jpg",
+        "width": 820
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2034146576289947648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDq9iKTW4AArqIm.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1994,
+        "media_key": "3_2034146576277422081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDq9iKQXwAEzRhu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2034146610129633396",
+        "created_at": "2026-07-31T23:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083329895359250566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083329895359250566",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034146610129633396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 病魔终于战胜了她！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034146576277405696",
+            "3_2034146576269033472",
+            "3_2034146576289947648",
+            "3_2034146576277422081"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2034146610129633396",
+        "created_at": "2026-03-18T05:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034146610129633396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOQ1AJ3Oe4",
+              "end": 131,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2034146610129633396/photo/1",
+              "media_key": "3_2034146576277405696",
+              "start": 108,
+              "url": "https://t.co/aOQ1AJ3Oe4"
+            },
+            {
+              "display_url": "pic.x.com/aOQ1AJ3Oe4",
+              "end": 131,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2034146610129633396/photo/1",
+              "media_key": "3_2034146576269033472",
+              "start": 108,
+              "url": "https://t.co/aOQ1AJ3Oe4"
+            },
+            {
+              "display_url": "pic.x.com/aOQ1AJ3Oe4",
+              "end": 131,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2034146610129633396/photo/1",
+              "media_key": "3_2034146576289947648",
+              "start": 108,
+              "url": "https://t.co/aOQ1AJ3Oe4"
+            },
+            {
+              "display_url": "pic.x.com/aOQ1AJ3Oe4",
+              "end": 131,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2034146610129633396/photo/1",
+              "media_key": "3_2034146576277422081",
+              "start": 108,
+              "url": "https://t.co/aOQ1AJ3Oe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034146610129633396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 741073,
+          "like_count": 1400,
+          "quote_count": 38,
+          "reply_count": 356,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "微薄89.7万粉女权博主落生自杀身亡。\n\n她曾经支持南非紫色女权运动（对男性严刑苛法）。认为不给彩礼是剥削女性。支持对（男性）精神病杀人犯死刑。反对AI使用者的言论自由，认为应该禁止使用AI“催婚”。支持阉割刑…… https://t.co/aOQ1AJ3Oe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8611,
+          "following_count": 548,
+          "like_count": 20200,
+          "listed_count": 17,
+          "media_count": 2787,
+          "tweet_count": 6389
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10969,
+          "following_count": 927,
+          "like_count": 1565,
+          "listed_count": 46,
+          "media_count": 2741,
+          "tweet_count": 5552
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

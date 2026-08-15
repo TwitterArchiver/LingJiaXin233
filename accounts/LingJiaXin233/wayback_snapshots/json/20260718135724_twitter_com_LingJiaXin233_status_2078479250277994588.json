@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2078474222075105361",
+    "created_at": "2026-07-18T13:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078479250277994588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059464779857903616",
+          "start": 0,
+          "username": "Meme_trace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078479250277994588",
+    "in_reply_to_user_id": "2059464779857903616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078478056357069036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meme_trace 那更恐怖了😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2078474222075105361",
+        "created_at": "2026-07-18T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078479250277994588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059464779857903616",
+              "start": 0,
+              "username": "Meme_trace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078479250277994588",
+        "in_reply_to_user_id": "2059464779857903616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078478056357069036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meme_trace 那更恐怖了😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059464779857903616",
+        "conversation_id": "2078474222075105361",
+        "created_at": "2026-07-18T13:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078478056357069036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078478056357069036",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078474222075105361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 上次看到这张图，孩子的性别还是男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2078039488333316136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8404,
+          "following_count": 551,
+          "like_count": 19963,
+          "listed_count": 17,
+          "media_count": 2712,
+          "tweet_count": 6266
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T02:44:03.000Z",
+        "description": "分享Meme梗图/猫/新鲜图文，时不时转载B站内容；\n皮下是ACE，Male，家里有两只猫咪，INFJ，爱CRPG与创作故事",
+        "id": "2059464779857903616",
+        "name": "迷因调查员🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059469294367571968/NXw-QW0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 272,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "Meme_trace",
+        "verified": true
+      }
+    ]
+  }
+}

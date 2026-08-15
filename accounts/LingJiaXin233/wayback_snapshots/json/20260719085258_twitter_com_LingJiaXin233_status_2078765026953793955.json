@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2078636606089510967",
+    "created_at": "2026-07-19T08:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078765026953793955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639974457614663681",
+          "start": 0,
+          "username": "yokoseineko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078765026953793955",
+    "in_reply_to_user_id": "1639974457614663681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078761535619633640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yokoseineko 艺术就是毁灭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2078636606089510967",
+        "created_at": "2026-07-19T08:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078765026953793955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639974457614663681",
+              "start": 0,
+              "username": "yokoseineko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765026953793955",
+        "in_reply_to_user_id": "1639974457614663681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078761535619633640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yokoseineko 艺术就是毁灭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639974457614663681",
+        "conversation_id": "2078636606089510967",
+        "created_at": "2026-07-19T08:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078761535619633640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078761535619633640",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078636606089510967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 氢氟酸，全都溶了就没事了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2078039488333316136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8447,
+          "following_count": 551,
+          "like_count": 19983,
+          "listed_count": 17,
+          "media_count": 2719,
+          "tweet_count": 6277
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-26T12:55:59.000Z",
+        "description": "marshmallow: https://t.co/Bs88OmTNJ0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bwbkde3r8r29v4m",
+                "end": 36,
+                "expanded_url": "https://marshmallow-qa.com/bwbkde3r8r29v4m",
+                "start": 13,
+                "url": "https://t.co/Bs88OmTNJ0"
+              }
+            ]
+          }
+        },
+        "id": "1639974457614663681",
+        "name": "我还没想好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067046184443887616/jUx-52ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 194,
+          "like_count": 8666,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "yokoseineko",
+        "verified": true
+      }
+    ]
+  }
+}

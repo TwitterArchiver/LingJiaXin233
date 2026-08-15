@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2086021378373816694",
+    "created_at": "2026-08-08T13:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T14:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086081821201072265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679804116946792448",
+          "start": 0,
+          "username": "JiYan69389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086081821201072265",
+    "in_reply_to_user_id": "1679804116946792448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086076527654158786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiYan69389 你也是饿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2086021378373816694",
+        "created_at": "2026-08-08T13:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086081821201072265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679804116946792448",
+              "start": 0,
+              "username": "JiYan69389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086081821201072265",
+        "in_reply_to_user_id": "1679804116946792448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086076527654158786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiYan69389 你也是饿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679804116946792448",
+        "conversation_id": "2086021378373816694",
+        "created_at": "2026-08-08T13:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086076527654158786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086076527654158786",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086021378373816694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 四个杯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8764,
+          "following_count": 548,
+          "like_count": 20446,
+          "listed_count": 20,
+          "media_count": 2834,
+          "tweet_count": 6479
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-14T10:44:52.000Z",
+        "description": "",
+        "id": "1679804116946792448",
+        "name": "张延吉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968865712879058945/LmSEbVZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "JiYan69389",
+        "verified": false
+      }
+    ]
+  }
+}

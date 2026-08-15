@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2086375009182773692",
+    "created_at": "2026-08-09T08:52:19.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086375009182773692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "2085707237155053568",
+          "start": 25,
+          "username": "LingJiaXin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086375009182773692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "1.打算发一些原创性的长文\n\n2.可以关注我的小号@LingJiaXin520 会分享一些生活日常\n\n3.广告位招租接推广有意私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2086375009182773692",
+        "created_at": "2026-08-09T08:52:19.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086375009182773692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "2085707237155053568",
+              "start": 25,
+              "username": "LingJiaXin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086375009182773692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "1.打算发一些原创性的长文\n\n2.可以关注我的小号@LingJiaXin520 会分享一些生活日常\n\n3.广告位招租接推广有意私信"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2086375009182773692",
+        "name": "凌嘉欣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8784,
+          "following_count": 548,
+          "like_count": 20457,
+          "listed_count": 20,
+          "media_count": 2840,
+          "tweet_count": 6491
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T12:39:30.000Z",
+        "description": "@LingJiaXin233的指派个人账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "2085707237155053568",
+        "is_identity_verified": false,
+        "location": "未来的未来",
+        "most_recent_tweet_id": "2085714787879559219",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2085714787879559219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085707237155053568/1786108371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085715736387850240/pnzKORNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "LingJiaXin520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
