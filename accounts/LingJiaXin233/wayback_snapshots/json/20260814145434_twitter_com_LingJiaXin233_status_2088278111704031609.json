@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088278097938325504"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2088278111704031609",
+    "created_at": "2026-08-14T14:54:34.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088278111704031609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6irAxAmZMf",
+          "end": 154,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088278111704031609/photo/1",
+          "media_key": "3_2088278097938325504",
+          "start": 131,
+          "url": "https://t.co/6irAxAmZMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088278111704031609",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088278097938325504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "“性专营”与“性压抑”，看似一个主动出击、一个被动承受，实则在这场泡脚柠檬水的荒诞剧中，构成了一个严丝合缝的闭环：压抑创造需求，专营收割欲望。\n\n在一个对性话题讳莫如深、正常亲密关系成本日益高昂的环境里，大量年轻人的性张力无处释放。这种压抑不会消失，只会变形。\n\n当主流渠道被堵死，欲望便会向边缘、禁忌、甚至肮脏的方向寻找出口。于是，“舔脚”“喝洗脚水”这种极端行为，反而因为其强烈的禁忌色彩，成了压抑者眼中最具冲击力的代偿品。\n\n再看性专营。有些女生敏锐地捕捉到了这股暗流。她们将“被凝视的身体”和“性暗示的动作”进行明码标价，把原本属于私人领域的情感互动，压缩成一杯流水线上的柠檬水。\n\n50元的定价，卖的不是原料，而是“支配权”和“参与感”。你付钱，我表演；你跪舔，我收钱：一种赤裸裸的权力变现。\n\n最可怕的，是两者的结合：性压抑让消费者甘愿自降尊严，性专营则把这份尊严打包出售。一个愿打一个愿挨，形成了一套完整的扭曲经济链。压抑越深，需求越弱；专营越狠，收割越猛。最终，人被异化成欲望的奴隶和交易的符号，公共空间沦为猎奇的秀场。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“性专营”与“性压抑”，看似一个主动出击、一个被动承受，实则在这场泡脚柠檬水的荒诞剧中，构成了一个严丝合缝的闭环：压抑创造需求，专营收割欲望。\n\n在一个对性话题讳莫如深、正常亲密关系成本日益高昂的环境里，大量年轻人的性张力无处释放。这种压抑不会消失，只会变形。 https://t.co/6irAxAmZMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2038,
+        "media_key": "3_2088278097938325504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsN3avXoAA9bU9.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088278097938325504"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2088278111704031609",
+        "created_at": "2026-08-14T14:54:34.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088278111704031609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6irAxAmZMf",
+              "end": 154,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088278111704031609/photo/1",
+              "media_key": "3_2088278097938325504",
+              "start": 131,
+              "url": "https://t.co/6irAxAmZMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088278111704031609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088278097938325504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“性专营”与“性压抑”，看似一个主动出击、一个被动承受，实则在这场泡脚柠檬水的荒诞剧中，构成了一个严丝合缝的闭环：压抑创造需求，专营收割欲望。\n\n在一个对性话题讳莫如深、正常亲密关系成本日益高昂的环境里，大量年轻人的性张力无处释放。这种压抑不会消失，只会变形。\n\n当主流渠道被堵死，欲望便会向边缘、禁忌、甚至肮脏的方向寻找出口。于是，“舔脚”“喝洗脚水”这种极端行为，反而因为其强烈的禁忌色彩，成了压抑者眼中最具冲击力的代偿品。\n\n再看性专营。有些女生敏锐地捕捉到了这股暗流。她们将“被凝视的身体”和“性暗示的动作”进行明码标价，把原本属于私人领域的情感互动，压缩成一杯流水线上的柠檬水。\n\n50元的定价，卖的不是原料，而是“支配权”和“参与感”。你付钱，我表演；你跪舔，我收钱：一种赤裸裸的权力变现。\n\n最可怕的，是两者的结合：性压抑让消费者甘愿自降尊严，性专营则把这份尊严打包出售。一个愿打一个愿挨，形成了一套完整的扭曲经济链。压抑越深，需求越弱；专营越狠，收割越猛。最终，人被异化成欲望的奴隶和交易的符号，公共空间沦为猎奇的秀场。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“性专营”与“性压抑”，看似一个主动出击、一个被动承受，实则在这场泡脚柠檬水的荒诞剧中，构成了一个严丝合缝的闭环：压抑创造需求，专营收割欲望。\n\n在一个对性话题讳莫如深、正常亲密关系成本日益高昂的环境里，大量年轻人的性张力无处释放。这种压抑不会消失，只会变形。 https://t.co/6irAxAmZMf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088278111704031609",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 410,
+          "like_count": 20571,
+          "listed_count": 21,
+          "media_count": 2882,
+          "tweet_count": 6605
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

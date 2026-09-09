@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095853947760398336"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2095853957667311914",
+    "created_at": "2026-09-04T12:38:17.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095853957667311914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9a7awqcNKX",
+          "end": 40,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2095853957667311914/photo/1",
+          "media_key": "3_2095853947760398336",
+          "start": 17,
+          "url": "https://t.co/9a7awqcNKX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095853957667311914",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095853947760398336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个“其他”是谁？好难猜啊🤓☝️ https://t.co/9a7awqcNKX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2095853947760398336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX4D6lb0AAbLGu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095853947760398336"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2095853957667311914",
+        "created_at": "2026-09-04T12:38:17.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095853957667311914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9a7awqcNKX",
+              "end": 40,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2095853957667311914/photo/1",
+              "media_key": "3_2095853947760398336",
+              "start": 17,
+              "url": "https://t.co/9a7awqcNKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095853957667311914",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095853947760398336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个“其他”是谁？好难猜啊🤓☝️ https://t.co/9a7awqcNKX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2095853957667311914",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9809,
+          "following_count": 832,
+          "like_count": 20715,
+          "listed_count": 19,
+          "media_count": 2877,
+          "tweet_count": 6651
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

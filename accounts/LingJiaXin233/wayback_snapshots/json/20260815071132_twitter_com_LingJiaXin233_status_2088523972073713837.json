@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088523943246225408"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2088523972073713837",
+    "created_at": "2026-08-15T07:11:32.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088523972073713837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQLsLVTEcY",
+          "end": 66,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088523972073713837/photo/1",
+          "media_key": "3_2088523943246225408",
+          "start": 43,
+          "url": "https://t.co/HQLsLVTEcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088523972073713837",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088523943246225408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这是恶意赠送😡\n有没有给老师送礼🤭\n班委会收了多少钱😁\n胸前的红领巾更鲜艳了🤓☝️ https://t.co/HQLsLVTEcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_2088523943246225408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvtdf4W4AASgPe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088523943246225408"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2088523972073713837",
+        "created_at": "2026-08-15T07:11:32.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088523972073713837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQLsLVTEcY",
+              "end": 66,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088523972073713837/photo/1",
+              "media_key": "3_2088523943246225408",
+              "start": 43,
+              "url": "https://t.co/HQLsLVTEcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088523972073713837",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088523943246225408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这是恶意赠送😡\n有没有给老师送礼🤭\n班委会收了多少钱😁\n胸前的红领巾更鲜艳了🤓☝️ https://t.co/HQLsLVTEcY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088523972073713837",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8935,
+          "following_count": 412,
+          "like_count": 20540,
+          "listed_count": 21,
+          "media_count": 2876,
+          "tweet_count": 6595
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

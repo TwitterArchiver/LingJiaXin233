@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2094489143812210971",
+    "created_at": "2026-09-01T01:59:58.000Z",
+    "display_text_range": [
+      10,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T02:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094606157553795560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088584494748213249",
+          "start": 0,
+          "username": "zhfapple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094606157553795560",
+    "in_reply_to_user_id": "2088584494748213249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094602052278403332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhfapple 是这样的，大量企业盈利了不会给员工多分配，但是亏损了就要裁员让员工共担成本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2094489143812210971",
+        "created_at": "2026-09-01T01:59:58.000Z",
+        "display_text_range": [
+          10,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094606157553795560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088584494748213249",
+              "start": 0,
+              "username": "zhfapple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094606157553795560",
+        "in_reply_to_user_id": "2088584494748213249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094602052278403332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhfapple 是这样的，大量企业盈利了不会给员工多分配，但是亏损了就要裁员让员工共担成本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088584494748213249",
+        "conversation_id": "2094489143812210971",
+        "created_at": "2026-09-01T01:43:39.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094602052278403332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094602052278403332",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094489143812210971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 其他企业即使收入完全够，但是却不这么做，社会经济形态一直都无法发展"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2094606157553795560",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9715,
+          "following_count": 862,
+          "like_count": 20677,
+          "listed_count": 19,
+          "media_count": 2833,
+          "tweet_count": 6600
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T11:12:02.000Z",
+        "description": "唉，我还是希望能和平点吧",
+        "id": "2088584494748213249",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094604891755004281",
+        "name": "一只咸鱼",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088585285743570944/S452dLfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "zhfapple",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

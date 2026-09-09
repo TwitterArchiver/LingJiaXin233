@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091870605859753985",
+        "3_2091870609697644544"
+      ],
+      "media_source_tweet_id": [
+        "2091870862295306420",
+        "2091870862295306420"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091891908133933547",
+    "created_at": "2026-08-24T14:14:31.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091891908133933547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763034943599607808",
+          "start": 3,
+          "username": "moonlight_ruri"
+        },
+        {
+          "end": 56,
+          "id": "1565981667746914304",
+          "start": 40,
+          "username": "Kagura_Yukikaze"
+        },
+        {
+          "end": 75,
+          "id": "1608637128132685825",
+          "start": 65,
+          "username": "nyaepheia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACEz3Ff0eY",
+          "end": 112,
+          "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+          "media_key": "13_2091870605859753985",
+          "start": 89,
+          "url": "https://t.co/ACEz3Ff0eY"
+        },
+        {
+          "display_url": "pic.x.com/ACEz3Ff0eY",
+          "end": 112,
+          "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+          "media_key": "3_2091870609697644544",
+          "start": 89,
+          "url": "https://t.co/ACEz3Ff0eY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091891908133933547",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2091870605859753985"
+      },
+      {
+        "media_key": "3_2091870609697644544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091870862295306420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moonlight_ruri: 临近中元，月璃自费以购包钱二封束\n祭奠\n@Kagura_Yukikaze （雪風ちゃん）\n@nyaepheia （依菲雅）\n以 告慰亡灵 https://t.co/ACEz3Ff0eY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63068,
+        "height": 1920,
+        "media_key": "13_2091870605859753985",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091870605859753985/img/cq_Br-KPGbFzrVTN.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091870605859753985/vid/avc1/720x1280/8sstIFAcq7C8I5o5.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091870605859753985/vid/avc1/320x568/5BZFKNkEtWblCkdt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091870605859753985/pl/s5xy4CB6_LzfnCls.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091870605859753985/vid/avc1/480x852/lJ8G29UAcM4nKa-s.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091870605859753985/vid/avc1/1080x1920/7UvexPEvg5U7b1H6.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2091870609697644544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfRPH8boAAq2CF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091870605859753985",
+            "3_2091870609697644544"
+          ],
+          "media_source_tweet_id": [
+            "2091870862295306420",
+            "2091870862295306420"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091891908133933547",
+        "created_at": "2026-08-24T14:14:31.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091891908133933547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763034943599607808",
+              "start": 3,
+              "username": "moonlight_ruri"
+            },
+            {
+              "end": 56,
+              "id": "1565981667746914304",
+              "start": 40,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 75,
+              "id": "1608637128132685825",
+              "start": 65,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACEz3Ff0eY",
+              "end": 112,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+              "media_key": "13_2091870605859753985",
+              "start": 89,
+              "url": "https://t.co/ACEz3Ff0eY"
+            },
+            {
+              "display_url": "pic.x.com/ACEz3Ff0eY",
+              "end": 112,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+              "media_key": "3_2091870609697644544",
+              "start": 89,
+              "url": "https://t.co/ACEz3Ff0eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091891908133933547",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091870605859753985"
+          },
+          {
+            "media_key": "3_2091870609697644544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091870862295306420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moonlight_ruri: 临近中元，月璃自费以购包钱二封束\n祭奠\n@Kagura_Yukikaze （雪風ちゃん）\n@nyaepheia （依菲雅）\n以 告慰亡灵 https://t.co/ACEz3Ff0eY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091870605859753985",
+            "3_2091870609697644544"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2091870862295306420",
+        "created_at": "2026-08-24T12:50:53.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091870862295306420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1565981667746914304",
+              "start": 20,
+              "username": "Kagura_Yukikaze"
+            },
+            {
+              "end": 55,
+              "id": "1608637128132685825",
+              "start": 45,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACEz3Ff0eY",
+              "end": 92,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+              "media_key": "13_2091870605859753985",
+              "start": 69,
+              "url": "https://t.co/ACEz3Ff0eY"
+            },
+            {
+              "display_url": "pic.x.com/ACEz3Ff0eY",
+              "end": 92,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2091870862295306420/video/1",
+              "media_key": "3_2091870609697644544",
+              "start": 69,
+              "url": "https://t.co/ACEz3Ff0eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091870862295306420",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091870605859753985"
+          },
+          {
+            "media_key": "3_2091870609697644544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 712,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "临近中元，月璃自费以购包钱二封束\n祭奠\n@Kagura_Yukikaze （雪風ちゃん）\n@nyaepheia （依菲雅）\n以 告慰亡灵 https://t.co/ACEz3Ff0eY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2091891908133933547",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9015,
+          "following_count": 402,
+          "like_count": 20604,
+          "listed_count": 20,
+          "media_count": 2930,
+          "tweet_count": 6670
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091888264819208613",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15361,
+          "following_count": 1099,
+          "like_count": 1115,
+          "listed_count": 32,
+          "media_count": 455,
+          "tweet_count": 2553
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "id": "1565981667746914304",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2076930003087098156",
+        "name": "雪風ちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565981667746914304/1779203101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 3004,
+          "like_count": 114579,
+          "listed_count": 16,
+          "media_count": 826,
+          "tweet_count": 13911
+        },
+        "url": "",
+        "username": "Kagura_Yukikaze",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "yxrchina"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 33,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 10,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 93,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 70,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/JPmDqezgWc"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "is_identity_verified": false,
+        "location": "❤️@yxrchina",
+        "most_recent_tweet_id": "2080511066983837976",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078997463525142566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608637128132685825/1779711471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 931,
+          "like_count": 36860,
+          "listed_count": 11,
+          "media_count": 888,
+          "tweet_count": 7177
+        },
+        "url": "https://t.co/JPmDqezgWc",
+        "username": "nyaepheia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

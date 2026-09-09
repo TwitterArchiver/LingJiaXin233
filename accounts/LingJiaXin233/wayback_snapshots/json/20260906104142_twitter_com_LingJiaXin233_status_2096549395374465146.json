@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096549387724070912"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2096549395374465146",
+    "created_at": "2026-09-06T10:41:42.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096549395374465146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WJcDkj2mv3",
+          "end": 61,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2096549395374465146/photo/1",
+          "media_key": "3_2096549387724070912",
+          "start": 38,
+          "url": "https://t.co/WJcDkj2mv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096549395374465146",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096549387724070912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "A:你好，医生，我爸爸是省委高育良。\nB:你好，医生，我爸爸是骑手高育良。 https://t.co/WJcDkj2mv3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2096549387724070912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhwj2VbIAAOY6s.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096549387724070912"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2096549395374465146",
+        "created_at": "2026-09-06T10:41:42.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096549395374465146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WJcDkj2mv3",
+              "end": 61,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2096549395374465146/photo/1",
+              "media_key": "3_2096549387724070912",
+              "start": 38,
+              "url": "https://t.co/WJcDkj2mv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096549395374465146",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096549387724070912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A:你好，医生，我爸爸是省委高育良。\nB:你好，医生，我爸爸是骑手高育良。 https://t.co/WJcDkj2mv3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2096549395374465146",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10032,
+          "following_count": 920,
+          "like_count": 20743,
+          "listed_count": 19,
+          "media_count": 2899,
+          "tweet_count": 6652
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

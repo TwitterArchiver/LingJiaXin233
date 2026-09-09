@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2093792039867658415",
+    "created_at": "2026-08-30T01:40:35.000Z",
+    "display_text_range": [
+      29,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093876505411453316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680590626654662656",
+          "start": 0,
+          "username": "BiTeMuFaShi"
+        },
+        {
+          "end": 28,
+          "id": "1805280216228708352",
+          "start": 13,
+          "username": "juejuezuishuai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093876505411453316",
+    "in_reply_to_user_id": "1680590626654662656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093871459496288447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiTeMuFaShi @juejuezuishuai 回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2093792039867658415",
+        "created_at": "2026-08-30T01:40:35.000Z",
+        "display_text_range": [
+          29,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093876505411453316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680590626654662656",
+              "start": 0,
+              "username": "BiTeMuFaShi"
+            },
+            {
+              "end": 28,
+              "id": "1805280216228708352",
+              "start": 13,
+              "username": "juejuezuishuai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093876505411453316",
+        "in_reply_to_user_id": "1680590626654662656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093871459496288447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiTeMuFaShi @juejuezuishuai 回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680590626654662656",
+        "conversation_id": "2093792039867658415",
+        "created_at": "2026-08-30T01:20:32.000Z",
+        "display_text_range": [
+          16,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093871459496288447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "蓝V互关"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805280216228708352",
+              "start": 0,
+              "username": "juejuezuishuai"
+            },
+            {
+              "end": 41,
+              "id": "1680590626654662656",
+              "start": 29,
+              "username": "BiTeMuFaShi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093871459496288447",
+        "in_reply_to_user_id": "1805280216228708352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093792039867658415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juejuezuishuai 交个朋友，走个面，关注我\n@BiTeMuFaShi\n必回关。真诚100%回关，#蓝V互关"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2093876505411453316",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9485,
+          "following_count": 652,
+          "like_count": 20612,
+          "listed_count": 19,
+          "media_count": 2804,
+          "tweet_count": 6560
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-16T14:50:13.000Z",
+        "description": "#OKX Web3钱包一站式服务入口欧易 註冊https://t.co/eb0s9ji1We \n#Bitget 交易所 永久返50%https://t.co/X70L1aJpp1 #BTC/#Web3 #空投 #撸毛分享 #美股 TG：@Bit668",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "OKX"
+              },
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "Bitget"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "BTC"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "Web3"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "空投"
+              },
+              {
+                "end": 110,
+                "start": 105,
+                "tag": "撸毛分享"
+              },
+              {
+                "end": 114,
+                "start": 111,
+                "tag": "美股"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 118,
+                "username": "Bit668"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pdzheo.com/join/6444740",
+                "end": 46,
+                "expanded_url": "https://www.pdzheo.com/join/6444740",
+                "start": 23,
+                "url": "https://t.co/eb0s9ji1We"
+              },
+              {
+                "display_url": "partner.bitgetapps.com/bg/cshdw4sk",
+                "end": 89,
+                "expanded_url": "https://partner.bitgetapps.com/bg/cshdw4sk",
+                "start": 66,
+                "url": "https://t.co/X70L1aJpp1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gate.com/zh/signup?ref_…",
+                "end": 23,
+                "expanded_url": "https://www.gate.com/zh/signup?ref_type=103&ref=BTCSOLDD",
+                "start": 0,
+                "url": "https://t.co/TkrrOgPd0T"
+              }
+            ]
+          }
+        },
+        "id": "1680590626654662656",
+        "is_identity_verified": false,
+        "location": "Gate交易所最高80%返佣链接👉",
+        "most_recent_tweet_id": "2093871629076181088",
+        "name": "比特魔法师-加密美股",
+        "pinned_tweet_id": "2031486747717325240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680590626654662656/1764128898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018898844021596161/C7QIkVOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5088,
+          "following_count": 4045,
+          "like_count": 3004,
+          "listed_count": 9,
+          "media_count": 1206,
+          "tweet_count": 7312
+        },
+        "url": "https://t.co/TkrrOgPd0T",
+        "username": "BiTeMuFaShi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T16:42:05.000Z",
+        "description": "",
+        "id": "1805280216228708352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093792039867658415",
+        "name": "決絕",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092986674909421568/sYtvlYAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 100,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "juejuezuishuai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

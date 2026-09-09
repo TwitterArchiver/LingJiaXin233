@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2088030808917295115",
+    "created_at": "2026-08-14T01:44:40.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088079324226162785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1240967112660848641",
+          "start": 0,
+          "username": "ilovecatlovecar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088079324226162785",
+    "in_reply_to_user_id": "1240967112660848641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088067009921605883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovecatlovecar 但是事实上，父母的“惯着”往往会导致溺爱\n你很难保证随心所欲和规规矩矩同时做到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2088066970021187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpN2J9W0AAtoik.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2088030808917295115",
+        "created_at": "2026-08-14T01:44:40.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088079324226162785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1240967112660848641",
+              "start": 0,
+              "username": "ilovecatlovecar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088079324226162785",
+        "in_reply_to_user_id": "1240967112660848641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088067009921605883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovecatlovecar 但是事实上，父母的“惯着”往往会导致溺爱\n你很难保证随心所欲和规规矩矩同时做到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088066970021187584"
+          ]
+        },
+        "author_id": "1240967112660848641",
+        "conversation_id": "2088030808917295115",
+        "created_at": "2026-08-14T00:55:44.000Z",
+        "display_text_range": [
+          15,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088067009921605883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5D1bFfBh1",
+              "end": 131,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/2088067009921605883/photo/1",
+              "media_key": "3_2088066970021187584",
+              "start": 108,
+              "url": "https://t.co/m5D1bFfBh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088067009921605883",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088066970021187584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088030808917295115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 就算社会上没人惯着他，做父母的就也要不惯着他吗？\n正确的方式不应该是，在父母面前随心所欲，在社会上规规矩矩才对吗？\n因为长大后要面对的是残酷冰冷的社会\n所以才要在小的时候疼爱孩子才对啊 https://t.co/m5D1bFfBh1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088079324226162785",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 409,
+          "like_count": 20565,
+          "listed_count": 21,
+          "media_count": 2870,
+          "tweet_count": 6576
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-20T11:43:24.000Z",
+        "description": "幸福生活的奥秘，养只猫😼😸。 40+油腻老登。80%的推文是猫.车.佛法，和乱七八糟。信佛学佛的生意人，非僧侣。佛，道，基督三教施主。预备役段子手。只有猫咪才能拯救世界😼😸🫶🫶",
+        "id": "1240967112660848641",
+        "is_identity_verified": false,
+        "location": "尼泊尔",
+        "most_recent_tweet_id": "2088079098832671076",
+        "name": "阿米爱猫咪",
+        "pinned_tweet_id": "1949532322824683935",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1240967112660848641/1720866797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812072310062354432/7plaUVX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13846,
+          "following_count": 777,
+          "like_count": 154152,
+          "listed_count": 51,
+          "media_count": 9406,
+          "tweet_count": 38739
+        },
+        "url": "",
+        "username": "ilovecatlovecar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2091349685269115327",
+    "created_at": "2026-08-23T13:56:14.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091524921616716072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083406819964420096",
+          "start": 0,
+          "username": "OukaroMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091524921616716072",
+    "in_reply_to_user_id": "2083406819964420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091426539544211686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OukaroMF ！？强旧？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2091349685269115327",
+        "created_at": "2026-08-23T13:56:14.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091524921616716072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083406819964420096",
+              "start": 0,
+              "username": "OukaroMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091524921616716072",
+        "in_reply_to_user_id": "2083406819964420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091426539544211686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OukaroMF ！？强旧？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083406819964420096",
+        "conversation_id": "2091349685269115327",
+        "created_at": "2026-08-23T07:25:18.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091426539544211686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091426539544211686",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1100,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091349685269115327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 ！？强救犯？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2091524921616716072",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8944,
+          "following_count": 402,
+          "like_count": 20598,
+          "listed_count": 20,
+          "media_count": 2925,
+          "tweet_count": 6661
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T04:18:41.000Z",
+        "description": "Member/Junior-Designer of https://t.co/3SSh9WcTze\nAuDHD CG/MG 电子高速宏波炉 算是美工 但不是开发者 来自深圳 现居广州 性别已被占用 🍥HRT230609 🌭RLE250326 ❌NeverSRS\n banner by @kangaroo_sande",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 142,
+                "username": "kangaroo_sande"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "SukiSU.org",
+                "end": 49,
+                "expanded_url": "http://SukiSU.org",
+                "start": 26,
+                "url": "https://t.co/3SSh9WcTze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro/MF",
+                "end": 23,
+                "expanded_url": "http://ouka.ro/MF",
+                "start": 0,
+                "url": "https://t.co/GsQxfQb72s"
+              }
+            ]
+          }
+        },
+        "id": "2083406819964420096",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2091524874304893167",
+        "name": "OukaroMF",
+        "pinned_tweet_id": "2088972032776266216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083406819964420096/1785674814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083434459630882816/NZ4BOxV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 314,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/GsQxfQb72s",
+        "username": "OukaroMF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

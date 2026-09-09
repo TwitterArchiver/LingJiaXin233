@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2093741718902292786",
+    "created_at": "2026-08-30T01:46:26.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093877974219006055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707282107312295936",
+          "start": 0,
+          "username": "s1246894960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093877974219006055",
+    "in_reply_to_user_id": "707282107312295936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093850600991846772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1246894960 教育"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2093741718902292786",
+        "created_at": "2026-08-30T01:46:26.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093877974219006055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707282107312295936",
+              "start": 0,
+              "username": "s1246894960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093877974219006055",
+        "in_reply_to_user_id": "707282107312295936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093850600991846772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1246894960 教育"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707282107312295936",
+        "conversation_id": "2093741718902292786",
+        "created_at": "2026-08-29T23:57:39.000Z",
+        "display_text_range": [
+          15,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093850600991846772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093850600991846772",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2048,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093741718902292786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 太真实了，好多中国人都喜欢把任何事情往不好的方向脑补。搞不懂这是因为教育的原因还是因为社会的原因导致他们不愿意那么相信别人🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2093877974219006055",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9486,
+          "following_count": 665,
+          "like_count": 20613,
+          "listed_count": 19,
+          "media_count": 2804,
+          "tweet_count": 6562
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-08T19:09:29.000Z",
+        "description": "yooo, you trash come to check my account?",
+        "id": "707282107312295936",
+        "is_identity_verified": false,
+        "location": "Queens, NY",
+        "most_recent_tweet_id": "2093850600991846772",
+        "name": "萌萌哒的小老鼠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/707282107312295936/1535508555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771623521082306560/cZPE6PvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 241,
+          "like_count": 24770,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "s1246894960",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

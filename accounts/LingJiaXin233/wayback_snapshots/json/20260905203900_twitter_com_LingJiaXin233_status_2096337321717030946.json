@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096035729159974912",
+        "3_2096035729164189696"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2096337321717030946",
+    "created_at": "2026-09-05T20:39:00.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096337321717030946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yP8bOMNv2n",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2096337321717030946/photo/1",
+          "media_key": "3_2096035729159974912",
+          "start": 7,
+          "url": "https://t.co/yP8bOMNv2n"
+        },
+        {
+          "display_url": "pic.x.com/yP8bOMNv2n",
+          "end": 30,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2096337321717030946/photo/1",
+          "media_key": "3_2096035729164189696",
+          "start": 7,
+          "url": "https://t.co/yP8bOMNv2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096337321717030946",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096035729159974912"
+      },
+      {
+        "media_key": "3_2096035729164189696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "理想VS现实 https://t.co/yP8bOMNv2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2096035729159974912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRadY_EbcAAJ7HZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 620,
+        "media_key": "3_2096035729164189696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRadY_FbwAASd8D.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096035729159974912",
+            "3_2096035729164189696"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2096337321717030946",
+        "created_at": "2026-09-05T20:39:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096337321717030946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yP8bOMNv2n",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2096337321717030946/photo/1",
+              "media_key": "3_2096035729159974912",
+              "start": 7,
+              "url": "https://t.co/yP8bOMNv2n"
+            },
+            {
+              "display_url": "pic.x.com/yP8bOMNv2n",
+              "end": 30,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2096337321717030946/photo/1",
+              "media_key": "3_2096035729164189696",
+              "start": 7,
+              "url": "https://t.co/yP8bOMNv2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096337321717030946",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096035729159974912"
+          },
+          {
+            "media_key": "3_2096035729164189696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理想VS现实 https://t.co/yP8bOMNv2n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2096337321717030946",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9957,
+          "following_count": 876,
+          "like_count": 20742,
+          "listed_count": 19,
+          "media_count": 2894,
+          "tweet_count": 6671
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

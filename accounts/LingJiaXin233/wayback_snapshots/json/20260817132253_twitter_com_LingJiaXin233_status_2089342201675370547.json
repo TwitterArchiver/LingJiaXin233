@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089342190652690433"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2089342201675370547",
+    "created_at": "2026-08-17T13:22:53.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089342201675370547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSAQN3DP0V",
+          "end": 125,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2089342201675370547/photo/1",
+          "media_key": "3_2089342190652690433",
+          "start": 102,
+          "url": "https://t.co/ZSAQN3DP0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089342201675370547",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089342190652690433"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "互联网刚出现的时候，网上的人人知识分子礼貌得不行，人多了，喷户口本的就来了；\n\n公众号/短视频刚出来的时候，说新闻平权，平到现在，公众号=广告+标题党+洗脑内容，你的态度变成“抖音内容啊那不得不信了。”\n\n无论你喜欢ai还是不喜欢，以后一定会有一堆由ai产生的垃圾内容冒出来，也会有一堆人看到ai脸就想吐。\n\nai本身不是问题，但社会永远会出现问题。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互联网刚出现的时候，网上的人人知识分子礼貌得不行，人多了，喷户口本的就来了；\n\n公众号/短视频刚出来的时候，说新闻平权，平到现在，公众号=广告+标题党+洗脑内容，你的态度变成“抖音内容啊那不得不信了。” https://t.co/ZSAQN3DP0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2089342190652690433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7VpxAXEAEFRx6.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089342190652690433"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2089342201675370547",
+        "created_at": "2026-08-17T13:22:53.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089342201675370547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSAQN3DP0V",
+              "end": 125,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2089342201675370547/photo/1",
+              "media_key": "3_2089342190652690433",
+              "start": 102,
+              "url": "https://t.co/ZSAQN3DP0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089342201675370547",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089342190652690433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "互联网刚出现的时候，网上的人人知识分子礼貌得不行，人多了，喷户口本的就来了；\n\n公众号/短视频刚出来的时候，说新闻平权，平到现在，公众号=广告+标题党+洗脑内容，你的态度变成“抖音内容啊那不得不信了。”\n\n无论你喜欢ai还是不喜欢，以后一定会有一堆由ai产生的垃圾内容冒出来，也会有一堆人看到ai脸就想吐。\n\nai本身不是问题，但社会永远会出现问题。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网刚出现的时候，网上的人人知识分子礼貌得不行，人多了，喷户口本的就来了；\n\n公众号/短视频刚出来的时候，说新闻平权，平到现在，公众号=广告+标题党+洗脑内容，你的态度变成“抖音内容啊那不得不信了。” https://t.co/ZSAQN3DP0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2089342201675370547",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8927,
+          "following_count": 409,
+          "like_count": 20565,
+          "listed_count": 21,
+          "media_count": 2888,
+          "tweet_count": 6616
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

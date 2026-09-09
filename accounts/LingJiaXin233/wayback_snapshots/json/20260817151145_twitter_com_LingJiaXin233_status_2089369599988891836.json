@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2089296482008547351",
+    "created_at": "2026-08-17T15:11:45.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089369599988891836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2072365480308838401",
+          "start": 0,
+          "username": "CowBoy719302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089369599988891836",
+    "in_reply_to_user_id": "2072365480308838401",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089359100442493148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CowBoy719302 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2089296482008547351",
+        "created_at": "2026-08-17T15:11:45.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089369599988891836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2072365480308838401",
+              "start": 0,
+              "username": "CowBoy719302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089369599988891836",
+        "in_reply_to_user_id": "2072365480308838401",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089359100442493148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CowBoy719302 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072365480308838401",
+        "conversation_id": "2089296482008547351",
+        "created_at": "2026-08-17T14:30:02.000Z",
+        "display_text_range": [
+          15,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089359100442493148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089359100442493148",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089296482008547351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我不太理解现在这些家长压力孩子到底压力岀来了什么（虽然我也被压力过，但是后面我爸妈看压力不出啥就没再那么压了，好赖最后上个专科岀来还能当电工）。我明白他们那批人或许时代不好，机遇不好，各种好机会都错过了，但是问题就在于这因为他们是普通人啊。而普通人的孩子也只是普通人而已……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2089369599988891836",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8925,
+          "following_count": 409,
+          "like_count": 20564,
+          "listed_count": 21,
+          "media_count": 2884,
+          "tweet_count": 6608
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T17:03:28.000Z",
+        "description": "前格！前格！！前格！！！",
+        "id": "2072365480308838401",
+        "is_identity_verified": false,
+        "location": "尤尼乌斯7号",
+        "most_recent_tweet_id": "2089360097298588102",
+        "name": "又要发动战争吗，你们这群家伙！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072365480308838401/1783766086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072365798329368577/XQ3q-_5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 151,
+          "like_count": 9119,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "CowBoy719302",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

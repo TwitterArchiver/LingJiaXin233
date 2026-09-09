@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088030799794769921"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2088030808917295115",
+    "created_at": "2026-08-13T22:31:53.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088030808917295115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNLG9euJxM",
+          "end": 163,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2088030808917295115/photo/1",
+          "media_key": "3_2088030799794769921",
+          "start": 140,
+          "url": "https://t.co/kNLG9euJxM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088030808917295115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088030799794769921"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "让我想起了那个段子。\n\n小朋友从小不吃香菜。但是他妈妈认为他挑食，于是经常逼着他吃香菜。\n\n他妈妈的口头禅就是到了社会上没人会惯看你。\n\n后来小朋友长大了，步入了社会。他发现社会上真的没有人逼着你吃香菜。\n\n无论去什么地方吃饭，只要是付钱。说一声，不加香菜，别人是不会给他加的。\n\n他还不吃辣。有一次去吃面，说了不要了，结果老板硬是给他加了，还说加了好吃。\n\n他站起身转身就走。老板立马认怂，说给他重做一碗。\n\n到了社会上的确会没人惯看你。但是你们这么做并不是惯看，而是欺负。成年人在家里欺负自己的小孩，真的很丢脸。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让我想起了那个段子。\n\n小朋友从小不吃香菜。但是他妈妈认为他挑食，于是经常逼着他吃香菜。\n\n他妈妈的口头禅就是到了社会上没人会惯看你。\n\n后来小朋友长大了，步入了社会。他发现社会上真的没有人逼着你吃香菜。\n\n无论去什么地方吃饭，只要是付钱。说一声，不加香菜，别人是不会给他加的。 https://t.co/kNLG9euJxM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2088030799794769921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPos8xXXkAEpz3x.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088030799794769921"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2088030808917295115",
+        "created_at": "2026-08-13T22:31:53.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088030808917295115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNLG9euJxM",
+              "end": 163,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2088030808917295115/photo/1",
+              "media_key": "3_2088030799794769921",
+              "start": 140,
+              "url": "https://t.co/kNLG9euJxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088030808917295115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088030799794769921"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "让我想起了那个段子。\n\n小朋友从小不吃香菜。但是他妈妈认为他挑食，于是经常逼着他吃香菜。\n\n他妈妈的口头禅就是到了社会上没人会惯看你。\n\n后来小朋友长大了，步入了社会。他发现社会上真的没有人逼着你吃香菜。\n\n无论去什么地方吃饭，只要是付钱。说一声，不加香菜，别人是不会给他加的。\n\n他还不吃辣。有一次去吃面，说了不要了，结果老板硬是给他加了，还说加了好吃。\n\n他站起身转身就走。老板立马认怂，说给他重做一碗。\n\n到了社会上的确会没人惯看你。但是你们这么做并不是惯看，而是欺负。成年人在家里欺负自己的小孩，真的很丢脸。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我想起了那个段子。\n\n小朋友从小不吃香菜。但是他妈妈认为他挑食，于是经常逼着他吃香菜。\n\n他妈妈的口头禅就是到了社会上没人会惯看你。\n\n后来小朋友长大了，步入了社会。他发现社会上真的没有人逼着你吃香菜。\n\n无论去什么地方吃饭，只要是付钱。说一声，不加香菜，别人是不会给他加的。 https://t.co/kNLG9euJxM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088030808917295115",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8855,
+          "following_count": 409,
+          "like_count": 20563,
+          "listed_count": 21,
+          "media_count": 2867,
+          "tweet_count": 6571
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
