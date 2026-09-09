@@ -1,20 +1,12 @@
 {
   "name": "凌嘉欣",
   "username": "@LingJiaXin233",
-  "bio": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+  "bio": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
   "location": "everywhere",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 91,
-        "start": 77,
-        "username": "LingJiaXin520"
-      }
-    ]
-  },
+  "bio_entities": {},
   "_avatar_source": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg"
 }
