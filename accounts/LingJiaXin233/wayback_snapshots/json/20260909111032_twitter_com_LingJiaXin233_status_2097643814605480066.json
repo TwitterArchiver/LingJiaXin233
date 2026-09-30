@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2097335891052429460",
+    "created_at": "2026-09-09T11:10:32.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097643814605480066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506543999007752196",
+          "start": 0,
+          "username": "dstinationfrdm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097643814605480066",
+    "in_reply_to_user_id": "1506543999007752196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097643219958038801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dstinationfrdm 你更猎奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2097335891052429460",
+        "created_at": "2026-09-09T11:10:32.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097643814605480066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506543999007752196",
+              "start": 0,
+              "username": "dstinationfrdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097643814605480066",
+        "in_reply_to_user_id": "1506543999007752196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097643219958038801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dstinationfrdm 你更猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506543999007752196",
+        "conversation_id": "2097335891052429460",
+        "created_at": "2026-09-09T11:08:10.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097643219958038801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097643219958038801",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097335891052429460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 吓死 还以为是马y...."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2097643814605480066",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10511,
+          "following_count": 1229,
+          "like_count": 20817,
+          "listed_count": 21,
+          "media_count": 2960,
+          "tweet_count": 6720
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-23T08:11:17.000Z",
+        "description": "我花了几十年开始讨厌中国 但日本只花了几个月就让我讨厌它 不必太在乎纳粹日本做了什么 但现在的部分日本人 真的充分证明什么叫不无辜",
+        "id": "1506543999007752196",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097643219958038801",
+        "name": "开个🐱箱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591236459562160131/E75qhjqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 153,
+          "like_count": 17298,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 3791
+        },
+        "url": "",
+        "username": "dstinationfrdm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

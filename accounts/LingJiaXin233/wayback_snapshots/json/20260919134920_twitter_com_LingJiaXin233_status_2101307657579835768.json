@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2101265135277097277",
+    "created_at": "2026-09-19T13:49:20.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101307657579835768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354027594967097345",
+          "start": 0,
+          "username": "Yuxuan_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101307657579835768",
+    "in_reply_to_user_id": "1354027594967097345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101293596414812431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuxuan_CN ！？强强？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2101265135277097277",
+        "created_at": "2026-09-19T13:49:20.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101307657579835768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354027594967097345",
+              "start": 0,
+              "username": "Yuxuan_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101307657579835768",
+        "in_reply_to_user_id": "1354027594967097345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101293596414812431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuxuan_CN ！？强强？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354027594967097345",
+        "conversation_id": "2101265135277097277",
+        "created_at": "2026-09-19T12:53:28.000Z",
+        "display_text_range": [
+          15,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101293596414812431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101293596414812431",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101265135277097277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我高考语文作文大概拿了满分或者扣两分，作文就是找一篇范文，我连每个句子多长都记住了，标点符号在哪都知道，最后语文137，全省前三千"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2101307657579835768",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11731,
+          "following_count": 1275,
+          "like_count": 21009,
+          "listed_count": 23,
+          "media_count": 3177,
+          "tweet_count": 6985
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-26T11:25:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/178500913",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/178500913",
+                "start": 0,
+                "url": "https://t.co/A6PmiDjq7K"
+              }
+            ]
+          }
+        },
+        "id": "1354027594967097345",
+        "is_identity_verified": false,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2101293596414812431",
+        "name": "雨小轩、",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354027594967097345/1617862850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492770845475090432/UwPG9p-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 5193,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/A6PmiDjq7K",
+        "username": "Yuxuan_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

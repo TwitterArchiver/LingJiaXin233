@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2099664502711292286",
+    "created_at": "2026-09-16T02:29:51.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100049495882940789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100049495882940789",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099734752429318464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 😇😇😇😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2099664502711292286",
+        "created_at": "2026-09-16T02:29:51.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100049495882940789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100049495882940789",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099734752429318464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 😇😇😇😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2099664502711292286",
+        "created_at": "2026-09-15T05:39:10.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099734752429318464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099734752429318464",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14806,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099664502711292286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 你的日本怎么还有中文呢？😁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2100049495882940789",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11741,
+          "following_count": 1425,
+          "like_count": 21010,
+          "listed_count": 23,
+          "media_count": 3133,
+          "tweet_count": 6940
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100047519023587416",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20244,
+          "following_count": 894,
+          "like_count": 36112,
+          "listed_count": 32,
+          "media_count": 3126,
+          "tweet_count": 13795
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

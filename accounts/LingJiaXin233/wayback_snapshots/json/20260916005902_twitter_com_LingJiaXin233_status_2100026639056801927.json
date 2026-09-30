@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099999325938200576"
+      ],
+      "media_source_tweet_id": [
+        "2099999340509241631"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2100026639056801927",
+    "created_at": "2026-09-16T00:59:02.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T01:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100026639056801927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2085707237155053568",
+          "start": 3,
+          "username": "LingJiaXin520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EFfohNBKid",
+          "end": 114,
+          "expanded_url": "https://x.com/LingJiaXin520/status/2099999340509241631/photo/1",
+          "media_key": "3_2099999325938200576",
+          "start": 91,
+          "url": "https://t.co/EFfohNBKid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100026639056801927",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099999325938200576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099999340509241631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin520: 还真以为私立也是快乐教育啊 这样国外早就没有精英了 实际无论国内国外好的私立照样卷 只是国内国外都心知肚明不能大举宣传 对于穷人来说太打击了😁 https://t.co/EFfohNBKid"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2099999325938200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSyQrsbMAAJDYV.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099999325938200576"
+          ],
+          "media_source_tweet_id": [
+            "2099999340509241631"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2100026639056801927",
+        "created_at": "2026-09-16T00:59:02.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100026639056801927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2085707237155053568",
+              "start": 3,
+              "username": "LingJiaXin520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFfohNBKid",
+              "end": 114,
+              "expanded_url": "https://x.com/LingJiaXin520/status/2099999340509241631/photo/1",
+              "media_key": "3_2099999325938200576",
+              "start": 91,
+              "url": "https://t.co/EFfohNBKid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100026639056801927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099999325938200576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099999340509241631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin520: 还真以为私立也是快乐教育啊 这样国外早就没有精英了 实际无论国内国外好的私立照样卷 只是国内国外都心知肚明不能大举宣传 对于穷人来说太打击了😁 https://t.co/EFfohNBKid"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099999325938200576"
+          ]
+        },
+        "author_id": "2085707237155053568",
+        "conversation_id": "2099999340509241631",
+        "created_at": "2026-09-15T23:10:33.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099999340509241631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFfohNBKid",
+              "end": 95,
+              "expanded_url": "https://x.com/LingJiaXin520/status/2099999340509241631/photo/1",
+              "media_key": "3_2099999325938200576",
+              "start": 72,
+              "url": "https://t.co/EFfohNBKid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099999340509241631",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099999325938200576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还真以为私立也是快乐教育啊 这样国外早就没有精英了 实际无论国内国外好的私立照样卷 只是国内国外都心知肚明不能大举宣传 对于穷人来说太打击了😁 https://t.co/EFfohNBKid"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2100026639056801927",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11741,
+          "following_count": 1424,
+          "like_count": 21009,
+          "listed_count": 23,
+          "media_count": 3132,
+          "tweet_count": 6938
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T12:39:30.000Z",
+        "description": "2026.9.15 我重生了，大号@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "2085707237155053568",
+        "is_identity_verified": true,
+        "location": "未来的未来",
+        "most_recent_tweet_id": "2100024276225032499",
+        "name": "Sonora",
+        "pinned_tweet_id": "2085714787879559219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085707237155053568/1786108371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099797492975935488/fAUCoVJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 29,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "LingJiaXin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

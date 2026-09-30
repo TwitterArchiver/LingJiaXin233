@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098930453289865220",
+        "3_2098930453294014476",
+        "3_2098930454048944131",
+        "3_2098930454221209600"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098930473913164276",
+    "created_at": "2026-09-13T00:23:15.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T01:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098930473913164276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvaQ964prr",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+          "media_key": "3_2098930453289865220",
+          "start": 14,
+          "url": "https://t.co/HvaQ964prr"
+        },
+        {
+          "display_url": "pic.x.com/HvaQ964prr",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+          "media_key": "3_2098930453294014476",
+          "start": 14,
+          "url": "https://t.co/HvaQ964prr"
+        },
+        {
+          "display_url": "pic.x.com/HvaQ964prr",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+          "media_key": "3_2098930454048944131",
+          "start": 14,
+          "url": "https://t.co/HvaQ964prr"
+        },
+        {
+          "display_url": "pic.x.com/HvaQ964prr",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+          "media_key": "3_2098930454221209600",
+          "start": 14,
+          "url": "https://t.co/HvaQ964prr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098930473913164276",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098930453289865220"
+      },
+      {
+        "media_key": "3_2098930453294014476"
+      },
+      {
+        "media_key": "3_2098930454048944131"
+      },
+      {
+        "media_key": "3_2098930454221209600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有别的意思，自行脑补🤗😇 https://t.co/HvaQ964prr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_2098930453289865220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDmIGyXkAQDs9a.jpg",
+        "width": 1260
+      },
+      {
+        "height": 788,
+        "media_key": "3_2098930453294014476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDmIGzW4AwL912.jpg",
+        "width": 1260
+      },
+      {
+        "height": 577,
+        "media_key": "3_2098930454048944131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDmIJnWMAMhbZf.jpg",
+        "width": 1260
+      },
+      {
+        "height": 675,
+        "media_key": "3_2098930454221209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSDmIKQawAAeIPb.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098930453289865220",
+            "3_2098930453294014476",
+            "3_2098930454048944131",
+            "3_2098930454221209600"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098930473913164276",
+        "created_at": "2026-09-13T00:23:15.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T01:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098930473913164276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvaQ964prr",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+              "media_key": "3_2098930453289865220",
+              "start": 14,
+              "url": "https://t.co/HvaQ964prr"
+            },
+            {
+              "display_url": "pic.x.com/HvaQ964prr",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+              "media_key": "3_2098930453294014476",
+              "start": 14,
+              "url": "https://t.co/HvaQ964prr"
+            },
+            {
+              "display_url": "pic.x.com/HvaQ964prr",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+              "media_key": "3_2098930454048944131",
+              "start": 14,
+              "url": "https://t.co/HvaQ964prr"
+            },
+            {
+              "display_url": "pic.x.com/HvaQ964prr",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098930473913164276/photo/1",
+              "media_key": "3_2098930454221209600",
+              "start": 14,
+              "url": "https://t.co/HvaQ964prr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098930473913164276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098930453289865220"
+          },
+          {
+            "media_key": "3_2098930453294014476"
+          },
+          {
+            "media_key": "3_2098930454048944131"
+          },
+          {
+            "media_key": "3_2098930454221209600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有别的意思，自行脑补🤗😇 https://t.co/HvaQ964prr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098930473913164276",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11586,
+          "following_count": 1778,
+          "like_count": 20936,
+          "listed_count": 22,
+          "media_count": 3056,
+          "tweet_count": 6852
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2098176825314947513",
+    "created_at": "2026-09-11T06:39:12.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098300306350059586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098300306350059586",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098176825314947513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor 扔子呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2098176825314947513",
+        "created_at": "2026-09-11T06:39:12.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098300306350059586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098300306350059586",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098176825314947513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor 扔子呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075187156268773376",
+        "conversation_id": "2098176825314947513",
+        "created_at": "2026-09-10T22:28:32.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T23:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098176825314947513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098176825314947513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 771,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一年hrt中断不超过10天  实际感受几乎没效果  唯一明显就是出汗没有气味  长期不洗澡看不出来（头发例外）剩下的全是副作用 情绪波动大  做决定更冲动  耐力大幅度下降  转氨酶升高  \n\n我想知道  到底是什么样的结局\n才对得起这一路上的颠沛流离"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098300306350059586",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10900,
+          "following_count": 1382,
+          "like_count": 20855,
+          "listed_count": 21,
+          "media_count": 3010,
+          "tweet_count": 6785
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像男生 不是女生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2098295390303060341",
+        "name": "ill",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 236,
+          "like_count": 406,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

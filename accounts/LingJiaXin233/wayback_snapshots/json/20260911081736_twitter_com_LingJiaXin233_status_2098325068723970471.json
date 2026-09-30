@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2098239487465656539",
+    "created_at": "2026-09-11T08:17:36.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098325068723970471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098325068723970471",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098239487465656539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 😂💯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2098239487465656539",
+        "created_at": "2026-09-11T08:17:36.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098325068723970471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098325068723970471",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098239487465656539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 😂💯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2098239487465656539",
+        "created_at": "2026-09-11T02:37:31.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098239487465656539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098184751874298328",
+              "start": 35,
+              "url": "https://t.co/loFUrOvBj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098239487465656539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5812,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098184751874298328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么励志，那他毕业以后一定不会因为需要坐轮椅而寸步难行遭遇就业歧视吧 https://t.co/loFUrOvBj3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098325068723970471",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10934,
+          "following_count": 1391,
+          "like_count": 20865,
+          "listed_count": 21,
+          "media_count": 3010,
+          "tweet_count": 6787
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "most_recent_tweet_id": "2098296696320975071",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10654,
+          "following_count": 1271,
+          "like_count": 9472,
+          "listed_count": 14,
+          "media_count": 454,
+          "tweet_count": 5587
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

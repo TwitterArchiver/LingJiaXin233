@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2099688457824075898",
+    "created_at": "2026-09-15T02:35:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T03:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099688457824075898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2091207876203208704",
+          "start": 3,
+          "username": "Sonora233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099688457824075898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099687716338172025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sonora233: 是真的，五星级酒店这些场所给阿姨的工资也相当低的，阿姨打扫卫生很随意的，抹布擦完马桶再洗杯子都是常事。\n\n这是之前有po主揭露过的，并不是凭空捏造的，多家酒店这么做，是有证据的。\n\n胖东来工资福利给的高，阿姨卫生打扫的极其细致，扫地阿姨一个月到手也…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2099687706263511040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOW2B8XYAAEaRh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2099688457824075898",
+        "created_at": "2026-09-15T02:35:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099688457824075898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2091207876203208704",
+              "start": 3,
+              "username": "Sonora233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099688457824075898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099687716338172025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sonora233: 是真的，五星级酒店这些场所给阿姨的工资也相当低的，阿姨打扫卫生很随意的，抹布擦完马桶再洗杯子都是常事。\n\n这是之前有po主揭露过的，并不是凭空捏造的，多家酒店这么做，是有证据的。\n\n胖东来工资福利给的高，阿姨卫生打扫的极其细致，扫地阿姨一个月到手也…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099687706263511040"
+          ]
+        },
+        "author_id": "2091207876203208704",
+        "conversation_id": "2099687716338172025",
+        "created_at": "2026-09-15T02:32:16.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099687716338172025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8s1hCJeDlu",
+              "end": 150,
+              "expanded_url": "https://x.com/Sonora233/status/2099687716338172025/photo/1",
+              "media_key": "3_2099687706263511040",
+              "start": 127,
+              "url": "https://t.co/8s1hCJeDlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099687716338172025",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099687706263511040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "是真的，五星级酒店这些场所给阿姨的工资也相当低的，阿姨打扫卫生很随意的，抹布擦完马桶再洗杯子都是常事。\n\n这是之前有po主揭露过的，并不是凭空捏造的，多家酒店这么做，是有证据的。\n\n胖东来工资福利给的高，阿姨卫生打扫的极其细致，扫地阿姨一个月到手也有八 九千，再配合公司规章制度，胖东来的卫生就不可能出现五星级酒店这种情况。😅"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是真的，五星级酒店这些场所给阿姨的工资也相当低的，阿姨打扫卫生很随意的，抹布擦完马桶再洗杯子都是常事。\n\n这是之前有po主揭露过的，并不是凭空捏造的，多家酒店这么做，是有证据的。\n\n胖东来工资福利给的高，阿姨卫生打扫的极其细致，扫地阿姨一个月到手也有八 https://t.co/8s1hCJeDlu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2099688457824075898",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099637750114795687",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11713,
+          "following_count": 1457,
+          "like_count": 20998,
+          "listed_count": 23,
+          "media_count": 3113,
+          "tweet_count": 6919
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-22T16:57:49.000Z",
+        "description": "restart：2026.9.25//name：Sonora//share my original thoughts//Create interesting memes//“Stay hungry，Stay thirsty.”- Steve Jobs//she/her/they/them🏳️‍⚧️🍥",
+        "id": "2091207876203208704",
+        "is_identity_verified": true,
+        "location": "Everywhere",
+        "most_recent_tweet_id": "2099687716338172025",
+        "name": "Sonora",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091207876203208704/1787419236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091817069645885440/-ZsKZ3Oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 592,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Sonora233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

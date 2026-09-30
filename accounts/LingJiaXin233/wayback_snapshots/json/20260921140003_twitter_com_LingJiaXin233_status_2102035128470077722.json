@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101700595749109760"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102035128470077722",
+    "created_at": "2026-09-21T14:00:03.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102035128470077722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YCWvHzrYHc",
+          "end": 38,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2102035128470077722/photo/1",
+          "media_key": "3_2101700595749109760",
+          "start": 15,
+          "url": "https://t.co/YCWvHzrYHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102035128470077722",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101700595749109760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "多好，生了孩子可以三方会战了 https://t.co/YCWvHzrYHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2101700595749109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSq9jnnaQAAYmUD.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101700595749109760"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102035128470077722",
+        "created_at": "2026-09-21T14:00:03.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102035128470077722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YCWvHzrYHc",
+              "end": 38,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2102035128470077722/photo/1",
+              "media_key": "3_2101700595749109760",
+              "start": 15,
+              "url": "https://t.co/YCWvHzrYHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102035128470077722",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101700595749109760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多好，生了孩子可以三方会战了 https://t.co/YCWvHzrYHc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2102035128470077722",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11777,
+          "following_count": 1261,
+          "like_count": 21029,
+          "listed_count": 23,
+          "media_count": 3202,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

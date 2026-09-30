@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098589343145209873"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2098589364049604718",
+    "created_at": "2026-09-12T01:47:48.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T02:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098589364049604718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iXs2w7Btpc",
+          "end": 50,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098589364049604718/photo/1",
+          "media_key": "3_2098589343145209873",
+          "start": 27,
+          "url": "https://t.co/iXs2w7Btpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098589364049604718",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098589343145209873"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "违规翻墙踩红线，法律后果必承担\n\n同学，别再翻墙啦😇 https://t.co/iXs2w7Btpc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2098589343145209873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-v44eXMBEzTeD.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098589343145209873"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2098589364049604718",
+        "created_at": "2026-09-12T01:47:48.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098589364049604718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXs2w7Btpc",
+              "end": 50,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098589364049604718/photo/1",
+              "media_key": "3_2098589343145209873",
+              "start": 27,
+              "url": "https://t.co/iXs2w7Btpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098589364049604718",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098589343145209873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "违规翻墙踩红线，法律后果必承担\n\n同学，别再翻墙啦😇 https://t.co/iXs2w7Btpc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098589364049604718",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11183,
+          "following_count": 1500,
+          "like_count": 20893,
+          "listed_count": 21,
+          "media_count": 3029,
+          "tweet_count": 6814
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2097278785661837625",
+    "created_at": "2026-09-09T09:08:57.000Z",
+    "display_text_range": [
+      12,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097613219619873216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097613219619873216",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097278785661837625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 小蜜柑我真的真的真的真的要和你学习写文案了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2095476616952762368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSg4XybUAAG4kq.jpg",
+        "width": 2036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2097278785661837625",
+        "created_at": "2026-09-09T09:08:57.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097613219619873216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097613219619873216",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097278785661837625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 小蜜柑我真的真的真的真的要和你学习写文案了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095476616952762368"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2097278785661837625",
+        "created_at": "2026-09-08T11:00:02.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097278785661837625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldisKlAchr",
+              "end": 128,
+              "expanded_url": "https://x.com/JanboMikan/status/2097278785661837625/photo/1",
+              "media_key": "3_2095476616952762368",
+              "start": 105,
+              "url": "https://t.co/ldisKlAchr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097278785661837625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095476616952762368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 39094,
+          "like_count": 949,
+          "quote_count": 5,
+          "reply_count": 143,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我：爸，我吃药好几年了，下个月要去泰国了。\n爸：你小时候我就看出来了。\n我：怎么看出来的？\n爸：你一岁抓周的时候，地上放了印章、书、毛笔、算盘。一般小孩都是拿在手里把玩，你抓着毛笔顺着开裆裤就往自己屁股里捅。 https://t.co/ldisKlAchr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2097613219619873216",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10484,
+          "following_count": 1205,
+          "like_count": 20815,
+          "listed_count": 21,
+          "media_count": 2958,
+          "tweet_count": 6717
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "珠海(全广随机出现)",
+        "most_recent_tweet_id": "2097551382735888562",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21070,
+          "following_count": 652,
+          "like_count": 23265,
+          "listed_count": 61,
+          "media_count": 427,
+          "tweet_count": 12490
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

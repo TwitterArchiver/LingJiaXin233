@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2099308072690704475",
+    "created_at": "2026-09-14T03:40:19.000Z",
+    "display_text_range": [
+      37,
+      194
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099342453933252622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "636513296",
+          "start": 0,
+          "username": "nikitabier"
+        },
+        {
+          "end": 20,
+          "id": "41427221",
+          "start": 12,
+          "username": "JayTC53"
+        },
+        {
+          "end": 36,
+          "id": "964545706198528000",
+          "start": 21,
+          "username": "allegrajacchia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099342453933252622",
+    "in_reply_to_user_id": "636513296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099341384985497797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikitabier @JayTC53 @allegrajacchia hi，nikita，could you tell me why my account was removed from monetization due to the adult content？i believe its a mistake，i produce memes not sexual content！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2099308072690704475",
+        "created_at": "2026-09-14T03:40:19.000Z",
+        "display_text_range": [
+          37,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099342453933252622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "636513296",
+              "start": 0,
+              "username": "nikitabier"
+            },
+            {
+              "end": 20,
+              "id": "41427221",
+              "start": 12,
+              "username": "JayTC53"
+            },
+            {
+              "end": 36,
+              "id": "964545706198528000",
+              "start": 21,
+              "username": "allegrajacchia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099342453933252622",
+        "in_reply_to_user_id": "636513296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099341384985497797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikitabier @JayTC53 @allegrajacchia hi，nikita，could you tell me why my account was removed from monetization due to the adult content？i believe its a mistake，i produce memes not sexual content！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "636513296",
+        "conversation_id": "2099308072690704475",
+        "created_at": "2026-09-14T03:36:04.000Z",
+        "display_text_range": [
+          25,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099341384985497797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "41427221",
+              "start": 0,
+              "username": "JayTC53"
+            },
+            {
+              "end": 24,
+              "id": "964545706198528000",
+              "start": 9,
+              "username": "allegrajacchia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099341384985497797",
+        "in_reply_to_user_id": "41427221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 713,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099322172011344026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayTC53 @allegrajacchia To be fair, we cannot appraise an account on behavior that has yet to manifest. \n\nDoing it only for 2 weeks appears like circumvention on our end."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2099342453933252622",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11678,
+          "following_count": 1477,
+          "like_count": 20972,
+          "listed_count": 23,
+          "media_count": 3088,
+          "tweet_count": 6888
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "Palo Alto",
+        "most_recent_tweet_id": "2099341384985497797",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2065447144954192138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334834,
+          "following_count": 2064,
+          "like_count": 40382,
+          "listed_count": 6097,
+          "media_count": 1658,
+          "tweet_count": 11943
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-20T19:19:20.000Z",
+        "description": "Patriot 🇺🇸 | 3x Trump Voter | Common sense Commentary and Memes 🤪| Go Lions! | Turn on🔔 Breaking News | USA|",
+        "id": "41427221",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099340338045362264",
+        "name": "J",
+        "pinned_tweet_id": "2073270447198675149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41427221/1758077576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897775079099891712/Izo2ymj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55181,
+          "following_count": 2415,
+          "like_count": 173000,
+          "listed_count": 66,
+          "media_count": 16024,
+          "tweet_count": 85387
+        },
+        "url": "",
+        "username": "JayTC53",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2018-02-16T17:03:11.000Z",
+        "description": "Creators Product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 17,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "964545706198528000",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2099321325143871653",
+        "name": "Allegra Jacchia",
+        "pinned_tweet_id": "2085835677917221171",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/964545706198528000/1786481156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094508354421096448/hKFDY5X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38775,
+          "following_count": 693,
+          "like_count": 5465,
+          "listed_count": 147,
+          "media_count": 217,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "allegrajacchia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097952374174466048"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2097952384639221793",
+    "created_at": "2026-09-10T07:36:41.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T08:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097952384639221793"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "iPhoneDuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkyXdC01QR",
+          "end": 34,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2097952384639221793/photo/1",
+          "media_key": "3_2097952374174466048",
+          "start": 11,
+          "url": "https://t.co/xkyXdC01QR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097952384639221793",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097952374174466048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#iPhoneDuo https://t.co/xkyXdC01QR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_2097952374174466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1skaJbQAAHwMk.jpg",
+        "width": 651
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097952374174466048"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2097952384639221793",
+        "created_at": "2026-09-10T07:36:41.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097952384639221793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "iPhoneDuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkyXdC01QR",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2097952384639221793/photo/1",
+              "media_key": "3_2097952374174466048",
+              "start": 11,
+              "url": "https://t.co/xkyXdC01QR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097952384639221793",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097952374174466048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#iPhoneDuo https://t.co/xkyXdC01QR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2097952384639221793",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10633,
+          "following_count": 1280,
+          "like_count": 20838,
+          "listed_count": 22,
+          "media_count": 2985,
+          "tweet_count": 6752
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103150020816211968",
+        "3_2103150020845568000"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103273274289618971",
+    "created_at": "2026-09-25T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103273274289618971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7OMkTGCHam",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2103273274289618971/photo/1",
+          "media_key": "3_2103150020816211968",
+          "start": 8,
+          "url": "https://t.co/7OMkTGCHam"
+        },
+        {
+          "display_url": "pic.x.com/7OMkTGCHam",
+          "end": 31,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2103273274289618971/photo/1",
+          "media_key": "3_2103150020845568000",
+          "start": 8,
+          "url": "https://t.co/7OMkTGCHam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103273274289618971",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103150020816211968"
+      },
+      {
+        "media_key": "3_2103150020845568000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类没有退路了 https://t.co/7OMkTGCHam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2103150020816211968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_jzQwbEAA-toL.jpg",
+        "width": 809
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2103150020845568000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_jzQ3bAAAv7T2.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103150020816211968",
+            "3_2103150020845568000"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103273274289618971",
+        "created_at": "2026-09-25T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103273274289618971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7OMkTGCHam",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2103273274289618971/photo/1",
+              "media_key": "3_2103150020816211968",
+              "start": 8,
+              "url": "https://t.co/7OMkTGCHam"
+            },
+            {
+              "display_url": "pic.x.com/7OMkTGCHam",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2103273274289618971/photo/1",
+              "media_key": "3_2103150020845568000",
+              "start": 8,
+              "url": "https://t.co/7OMkTGCHam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103273274289618971",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103150020816211968"
+          },
+          {
+            "media_key": "3_2103150020845568000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类没有退路了 https://t.co/7OMkTGCHam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2103273274289618971",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11833,
+          "following_count": 1214,
+          "like_count": 21040,
+          "listed_count": 23,
+          "media_count": 3244,
+          "tweet_count": 7061
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

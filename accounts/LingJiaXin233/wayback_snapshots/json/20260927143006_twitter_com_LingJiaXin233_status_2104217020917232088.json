@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2103756461654618365",
+    "created_at": "2026-09-27T14:30:06.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104217020917232088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1661898118416470016",
+          "start": 0,
+          "username": "Ayiyayio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104217020917232088",
+    "in_reply_to_user_id": "1661898118416470016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103838031895835119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayiyayio 呃这不是假的，我妈还真发现过😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2103756461654618365",
+        "created_at": "2026-09-27T14:30:06.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104217020917232088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1661898118416470016",
+              "start": 0,
+              "username": "Ayiyayio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104217020917232088",
+        "in_reply_to_user_id": "1661898118416470016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103838031895835119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayiyayio 呃这不是假的，我妈还真发现过😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661898118416470016",
+        "conversation_id": "2103756461654618365",
+        "created_at": "2026-09-26T13:24:08.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103838031895835119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103838031895835119",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 75576,
+          "like_count": 414,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103756461654618365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 那儿子床上有八级甲怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2104217020917232088",
+        "name": "凌嘉欣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11905,
+          "following_count": 1146,
+          "like_count": 21050,
+          "listed_count": 23,
+          "media_count": 3277,
+          "tweet_count": 7096
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-26T00:52:55.000Z",
+        "description": "",
+        "id": "1661898118416470016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103841964072616068",
+        "name": "Aha",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661898405336186881/B8UuRL_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 144,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "Ayiyayio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

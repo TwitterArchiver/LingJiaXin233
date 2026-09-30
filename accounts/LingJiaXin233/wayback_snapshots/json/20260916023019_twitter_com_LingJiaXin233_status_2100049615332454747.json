@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2100049615332454747",
+    "created_at": "2026-09-16T02:30:19.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100049615332454747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingjiaxin520/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lingjiaxin520/status/2099836787908616194",
+          "start": 10,
+          "url": "https://t.co/VkX9cZweeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100049615332454747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099836787908616194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你跑不过我你信吗😇 https://t.co/VkX9cZweeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76785,
+        "height": 720,
+        "media_key": "13_2099836584145133568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099836584145133568/img/xJE-MALsEb8YXKiQ.jpg",
+        "public_metrics": {
+          "view_count": 1461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099836584145133568/vid/avc1/602x270/7bsG8Tfa-Yt2TkGW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099836584145133568/vid/avc1/804x360/Uw_917YNAQDpsZWO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099836584145133568/vid/avc1/1608x720/bay3bUlhb2sZtBmm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099836584145133568/pl/kyXaL9L_rjUM54j8.m3u8"
+          }
+        ],
+        "width": 1608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2100049615332454747",
+        "created_at": "2026-09-16T02:30:19.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100049615332454747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingjiaxin520/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lingjiaxin520/status/2099836787908616194",
+              "start": 10,
+              "url": "https://t.co/VkX9cZweeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100049615332454747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099836787908616194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你跑不过我你信吗😇 https://t.co/VkX9cZweeZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099836584145133568"
+          ]
+        },
+        "author_id": "2085707237155053568",
+        "conversation_id": "2099836787908616194",
+        "created_at": "2026-09-15T12:24:37.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099836787908616194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hN8kRO8x5",
+              "end": 59,
+              "expanded_url": "https://x.com/LingJiaXin520/status/2099836787908616194/video/1",
+              "media_key": "13_2099836584145133568",
+              "start": 36,
+              "url": "https://t.co/8hN8kRO8x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099836787908616194",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099836584145133568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2211,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Q：张老师最近在哪发财啊\n\nA：在天上当雪峰星了，保佑各大中高考学子😁 https://t.co/8hN8kRO8x5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2100049615332454747",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11741,
+          "following_count": 1425,
+          "like_count": 21010,
+          "listed_count": 23,
+          "media_count": 3133,
+          "tweet_count": 6941
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T12:39:30.000Z",
+        "description": "2026.9.15 我重生了，大号@LingJiaXin233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "LingJiaXin233"
+              }
+            ]
+          }
+        },
+        "id": "2085707237155053568",
+        "is_identity_verified": true,
+        "location": "未来的未来",
+        "most_recent_tweet_id": "2100024276225032499",
+        "name": "Sonora",
+        "pinned_tweet_id": "2085714787879559219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085707237155053568/1786108371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099797492975935488/fAUCoVJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 29,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "LingJiaXin520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

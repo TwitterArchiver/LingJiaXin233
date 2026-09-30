@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2098066782477279434",
+    "created_at": "2026-09-10T21:59:28.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T22:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098169514303389960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1461414016757108739",
+          "start": 0,
+          "username": "Langreny26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098169514303389960",
+    "in_reply_to_user_id": "1461414016757108739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098099142757319002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Langreny26 我不希望你以己度人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2098066782477279434",
+        "created_at": "2026-09-10T21:59:28.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098169514303389960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1461414016757108739",
+              "start": 0,
+              "username": "Langreny26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098169514303389960",
+        "in_reply_to_user_id": "1461414016757108739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098099142757319002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Langreny26 我不希望你以己度人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461414016757108739",
+        "conversation_id": "2098066782477279434",
+        "created_at": "2026-09-10T17:19:51.000Z",
+        "display_text_range": [
+          15,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098099142757319002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098099142757319002",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17886,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098066782477279434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 虽然我很讨厌弹广告，但是打120为啥要点进淘宝？误点进去了上滑不就能退出到桌面了吗？不能因为自己不会用就到处讹人吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098169514303389960",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10774,
+          "following_count": 1320,
+          "like_count": 20850,
+          "listed_count": 21,
+          "media_count": 3001,
+          "tweet_count": 6771
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-18T19:20:56.000Z",
+        "description": "",
+        "id": "1461414016757108739",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098099606840291693",
+        "name": "shakeawolf",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461414137032949760/H1Hcxdjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 6517,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "Langreny26",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

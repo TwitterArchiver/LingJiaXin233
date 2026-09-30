@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098184897919877120"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2098456536788222106",
+    "created_at": "2026-09-11T17:00:00.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098456536788222106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCxzyAo8s0",
+          "end": 75,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098456536788222106/photo/1",
+          "media_key": "3_2098184897919877120",
+          "start": 52,
+          "url": "https://t.co/pCxzyAo8s0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098456536788222106",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098184897919877120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这位更是老串子了，代表作是带着女儿补交当onlyfans博主漏缴的税，只能说他故事里的儿子女儿都老惨了 https://t.co/pCxzyAo8s0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2098184897919877120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5ADEmagAAcUOc.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098184897919877120"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2098456536788222106",
+        "created_at": "2026-09-11T17:00:00.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098456536788222106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCxzyAo8s0",
+              "end": 75,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098456536788222106/photo/1",
+              "media_key": "3_2098184897919877120",
+              "start": 52,
+              "url": "https://t.co/pCxzyAo8s0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098456536788222106",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098184897919877120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这位更是老串子了，代表作是带着女儿补交当onlyfans博主漏缴的税，只能说他故事里的儿子女儿都老惨了 https://t.co/pCxzyAo8s0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098456536788222106",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11085,
+          "following_count": 1456,
+          "like_count": 20888,
+          "listed_count": 21,
+          "media_count": 3020,
+          "tweet_count": 6803
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099130829507272704",
+        "3_2099130829343440904"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099130841687371958",
+    "created_at": "2026-09-13T13:39:27.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099130841687371958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uMCNFx8VED",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2099130841687371958/photo/1",
+          "media_key": "3_2099130829507272704",
+          "start": 14,
+          "url": "https://t.co/uMCNFx8VED"
+        },
+        {
+          "display_url": "pic.x.com/uMCNFx8VED",
+          "end": 37,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2099130841687371958/photo/1",
+          "media_key": "3_2099130829343440904",
+          "start": 14,
+          "url": "https://t.co/uMCNFx8VED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099130841687371958",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099130829507272704"
+      },
+      {
+        "media_key": "3_2099130829343440904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类在离人的道路上越来越远 https://t.co/uMCNFx8VED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2099130829507272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGcXiXaIAAWL41.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099130829343440904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGcXhwWQAgm2Jn.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099130829507272704",
+            "3_2099130829343440904"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099130841687371958",
+        "created_at": "2026-09-13T13:39:27.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099130841687371958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMCNFx8VED",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2099130841687371958/photo/1",
+              "media_key": "3_2099130829507272704",
+              "start": 14,
+              "url": "https://t.co/uMCNFx8VED"
+            },
+            {
+              "display_url": "pic.x.com/uMCNFx8VED",
+              "end": 37,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2099130841687371958/photo/1",
+              "media_key": "3_2099130829343440904",
+              "start": 14,
+              "url": "https://t.co/uMCNFx8VED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099130841687371958",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099130829507272704"
+          },
+          {
+            "media_key": "3_2099130829343440904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类在离人的道路上越来越远 https://t.co/uMCNFx8VED"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2099130841687371958",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11660,
+          "following_count": 1499,
+          "like_count": 20965,
+          "listed_count": 23,
+          "media_count": 3072,
+          "tweet_count": 6869
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

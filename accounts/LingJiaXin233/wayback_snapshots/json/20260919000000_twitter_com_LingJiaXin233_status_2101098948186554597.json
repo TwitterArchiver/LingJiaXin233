@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100963365929791488"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "conversation_id": "2101098948186554597",
+    "created_at": "2026-09-19T00:00:00.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T01:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101098948186554597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cAJn6ttB9u",
+          "end": 54,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2101098948186554597/photo/1",
+          "media_key": "3_2100963365929791488",
+          "start": 31,
+          "url": "https://t.co/cAJn6ttB9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101098948186554597",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100963365929791488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不好意思，我们的马克思主义已经与时俱进了，现在有中国特色了😁 https://t.co/cAJn6ttB9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2100963365929791488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgfDMhasAAxTg0.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100963365929791488"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2101098948186554597",
+        "created_at": "2026-09-19T00:00:00.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101098948186554597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAJn6ttB9u",
+              "end": 54,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2101098948186554597/photo/1",
+              "media_key": "3_2100963365929791488",
+              "start": 31,
+              "url": "https://t.co/cAJn6ttB9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101098948186554597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100963365929791488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思，我们的马克思主义已经与时俱进了，现在有中国特色了😁 https://t.co/cAJn6ttB9u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2101098948186554597",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11704,
+          "following_count": 1293,
+          "like_count": 21004,
+          "listed_count": 23,
+          "media_count": 3169,
+          "tweet_count": 6976
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

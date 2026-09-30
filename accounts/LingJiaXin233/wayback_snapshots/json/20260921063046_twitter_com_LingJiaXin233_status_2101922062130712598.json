@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2101823725285126630",
+    "created_at": "2026-09-21T06:30:46.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101922062130712598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1795897776401797120",
+          "start": 0,
+          "username": "ExNieba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101922062130712598",
+    "in_reply_to_user_id": "1795897776401797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101911611464450085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExNieba 给出你的解释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2101823725285126630",
+        "created_at": "2026-09-21T06:30:46.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101922062130712598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1795897776401797120",
+              "start": 0,
+              "username": "ExNieba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101922062130712598",
+        "in_reply_to_user_id": "1795897776401797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101911611464450085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExNieba 给出你的解释"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795897776401797120",
+        "conversation_id": "2101823725285126630",
+        "created_at": "2026-09-21T05:49:14.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101911611464450085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101911611464450085",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101896964388671942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 不一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2101922062130712598",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11767,
+          "following_count": 1270,
+          "like_count": 21024,
+          "listed_count": 23,
+          "media_count": 3198,
+          "tweet_count": 7012
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-29T19:20:00.000Z",
+        "description": "真正的中国人，性别女，高级工程师，汽车专家，软件专家， 飞行专家， 真女权主义者，中国国内政治问题专家，国际问题专家，以色列和巴勒斯坦问题专家。 不接受反驳，反驳就是我对。",
+        "id": "1795897776401797120",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2101912286214725922",
+        "name": "阿米娜•阔伊姆@十八代目",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808618332506959872/rXzREfI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 196,
+          "like_count": 3091,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5104
+        },
+        "url": "",
+        "username": "ExNieba",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

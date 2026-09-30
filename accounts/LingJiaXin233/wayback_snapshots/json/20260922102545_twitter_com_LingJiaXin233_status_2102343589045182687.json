@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1857802986837172224",
+    "conversation_id": "2102216310818250770",
+    "created_at": "2026-09-22T10:25:45.000Z",
+    "display_text_range": [
+      16,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T11:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102343589045182687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1275148234768310272",
+          "start": 0,
+          "username": "MarcoPeachMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102343589045182687",
+    "in_reply_to_user_id": "1275148234768310272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102254636862509442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarcoPeachMeow 错误的，我朋友家的泰迪会草他们家窗帘\n那更何况是人呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2102216310818250770",
+        "created_at": "2026-09-22T10:25:45.000Z",
+        "display_text_range": [
+          16,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102343589045182687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1275148234768310272",
+              "start": 0,
+              "username": "MarcoPeachMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102343589045182687",
+        "in_reply_to_user_id": "1275148234768310272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102254636862509442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarcoPeachMeow 错误的，我朋友家的泰迪会草他们家窗帘\n那更何况是人呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275148234768310272",
+        "conversation_id": "2102216310818250770",
+        "created_at": "2026-09-22T04:32:18.000Z",
+        "display_text_range": [
+          15,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102254636862509442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102254636862509442",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20284,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102216310818250770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 一眼编，不经训练的狗根本不会对人勃起发情，别说其他物种了，夜场当鸭子的见到那些虎背熊腰的富婆也得做心理建设"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2102343589045182687",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11790,
+          "following_count": 1251,
+          "like_count": 21037,
+          "listed_count": 23,
+          "media_count": 3211,
+          "tweet_count": 7026
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-22T19:26:55.000Z",
+        "description": "伏世间魔易，觉心中魔难。\n小号： @M1M1Hana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "M1M1Hana"
+              }
+            ]
+          }
+        },
+        "id": "1275148234768310272",
+        "is_identity_verified": false,
+        "location": "开心糖果乐园",
+        "most_recent_tweet_id": "2102321781826875804",
+        "name": "我是条条人（马渴）",
+        "pinned_tweet_id": "1812839714879353291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275148234768310272/1688307635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675509622445322240/cfiw_z1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 565,
+          "like_count": 89032,
+          "listed_count": 7,
+          "media_count": 755,
+          "tweet_count": 19232
+        },
+        "url": "",
+        "username": "MarcoPeachMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097827356476149762",
+        "3_2097827356480315392",
+        "3_2097827356476149761",
+        "3_2097827356471939072"
+      ]
+    },
+    "author_id": "1857802986837172224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098083830296961377",
+    "created_at": "2026-09-10T16:19:00.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T17:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098083830296961377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dw9QNUKFTb",
+          "end": 152,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+          "media_key": "3_2097827356476149762",
+          "start": 129,
+          "url": "https://t.co/dw9QNUKFTb"
+        },
+        {
+          "display_url": "pic.x.com/dw9QNUKFTb",
+          "end": 152,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+          "media_key": "3_2097827356480315392",
+          "start": 129,
+          "url": "https://t.co/dw9QNUKFTb"
+        },
+        {
+          "display_url": "pic.x.com/dw9QNUKFTb",
+          "end": 152,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+          "media_key": "3_2097827356476149761",
+          "start": 129,
+          "url": "https://t.co/dw9QNUKFTb"
+        },
+        {
+          "display_url": "pic.x.com/dw9QNUKFTb",
+          "end": 152,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+          "media_key": "3_2097827356471939072",
+          "start": 129,
+          "url": "https://t.co/dw9QNUKFTb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098083830296961377",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097827356476149762"
+      },
+      {
+        "media_key": "3_2097827356480315392"
+      },
+      {
+        "media_key": "3_2097827356476149761"
+      },
+      {
+        "media_key": "3_2097827356471939072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "这也逆大天了。这个小仙女说被4岁的儿童摸了屁股，结果调查监控显示，是孩子身体不稳，不小心碰了她屁股一下。\n这女人把所有男童家庭的情况全部发到了网上，并且报警三次，还报了120急救，说自己呼吸碱性中毒。她一口咬定是自己被猥亵了，并且说：“我就是做自媒体的。”\n万万没想到，这一次官方重拳出击，把她所有账号全都封杀了，禁止她把事情闹大，尤其是抖音。\n你觉得呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这也逆大天了。这个小仙女说被4岁的儿童摸了屁股，结果调查监控显示，是孩子身体不稳，不小心碰了她屁股一下。\n这女人把所有男童家庭的情况全部发到了网上，并且报警三次，还报了120急救，说自己呼吸碱性中毒。她一口咬定是自己被猥亵了，并且说：“我就是做自媒体的。” https://t.co/dw9QNUKFTb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2097827356476149762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRz63a7bkAIyiwq.jpg",
+        "width": 603
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2097827356480315392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRz63a8bIAAJupb.jpg",
+        "width": 603
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2097827356476149761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRz63a7bkAEZlbF.jpg",
+        "width": 603
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2097827356471939072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRz63a6bUAA0BDn.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097827356476149762",
+            "3_2097827356480315392",
+            "3_2097827356476149761",
+            "3_2097827356471939072"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098083830296961377",
+        "created_at": "2026-09-10T16:19:00.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098083830296961377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw9QNUKFTb",
+              "end": 152,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+              "media_key": "3_2097827356476149762",
+              "start": 129,
+              "url": "https://t.co/dw9QNUKFTb"
+            },
+            {
+              "display_url": "pic.x.com/dw9QNUKFTb",
+              "end": 152,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+              "media_key": "3_2097827356480315392",
+              "start": 129,
+              "url": "https://t.co/dw9QNUKFTb"
+            },
+            {
+              "display_url": "pic.x.com/dw9QNUKFTb",
+              "end": 152,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+              "media_key": "3_2097827356476149761",
+              "start": 129,
+              "url": "https://t.co/dw9QNUKFTb"
+            },
+            {
+              "display_url": "pic.x.com/dw9QNUKFTb",
+              "end": 152,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2098083830296961377/photo/1",
+              "media_key": "3_2097827356471939072",
+              "start": 129,
+              "url": "https://t.co/dw9QNUKFTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098083830296961377",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097827356476149762"
+          },
+          {
+            "media_key": "3_2097827356480315392"
+          },
+          {
+            "media_key": "3_2097827356476149761"
+          },
+          {
+            "media_key": "3_2097827356471939072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这也逆大天了。这个小仙女说被4岁的儿童摸了屁股，结果调查监控显示，是孩子身体不稳，不小心碰了她屁股一下。\n这女人把所有男童家庭的情况全部发到了网上，并且报警三次，还报了120急救，说自己呼吸碱性中毒。她一口咬定是自己被猥亵了，并且说：“我就是做自媒体的。”\n万万没想到，这一次官方重拳出击，把她所有账号全都封杀了，禁止她把事情闹大，尤其是抖音。\n你觉得呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这也逆大天了。这个小仙女说被4岁的儿童摸了屁股，结果调查监控显示，是孩子身体不稳，不小心碰了她屁股一下。\n这女人把所有男童家庭的情况全部发到了网上，并且报警三次，还报了120急救，说自己呼吸碱性中毒。她一口咬定是自己被猥亵了，并且说：“我就是做自媒体的。” https://t.co/dw9QNUKFTb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098083830296961377",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10713,
+          "following_count": 1319,
+          "like_count": 20850,
+          "listed_count": 21,
+          "media_count": 2996,
+          "tweet_count": 6765
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
